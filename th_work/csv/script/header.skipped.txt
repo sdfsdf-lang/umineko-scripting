@@ -1,0 +1,5 @@
+Strings inside text sections of script/wh/header.txt that were NOT put in the CSV
+line:k  [reason]  literal  (section)
+
+0005:1  [no English word]  ")"  (Game window caption)
+0006:1  [no English word]  ")"  (Game window caption)

@@ -10,6 +10,9 @@ Safety rules per line:
   * opening/closing double quotes and the trailing space of the English line are
     restored automatically (AI often drops them; the game needs them)
   * backticks in the translation are replaced with ' so the script cannot break
+  * a speaker tag after "@" in the ID (added by add_context.py) is ignored
+  * split tags ({p:1}text{/p}, see tagsplit.py) are joined back to {p:1:text}; the
+    translation must keep the same tag tokens, properly nested (order may move)
 
 Usage (from the repo root):
     python th_tools/csv2story.py ep1                 # whole episode
@@ -17,6 +20,8 @@ Usage (from the repo root):
     python th_tools/csv2story.py ep1 --check         # report only, write nothing
 """
 import argparse, csv, glob, json, os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import tagsplit
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CSV_DIR = os.path.join(ROOT, "th_work", "csv")
@@ -32,7 +37,8 @@ def read_csv(path, col):
     if not os.path.exists(path):
         return {}
     with open(path, encoding="utf-8-sig", newline="") as f:
-        return {r.get("ID", ""): (r.get(col) or "") for r in csv.DictReader(f)}
+        # IDs may carry a speaker tag from add_context.py ("ep1/umi1_op:00007@Nanjo_male")
+        return {r.get("ID", "").split("@", 1)[0]: (r.get(col) or "") for r in csv.DictReader(f)}
 
 
 def fix_line(src, tr):
@@ -67,11 +73,11 @@ def process(meta_path, write):
         t = tr.get(l["id"], "")
         stats["total"] += 1
         if not t.strip():
-            text = s; stats["english"] += 1
-        elif tag_shape(s) != tag_shape(t):
-            text = s; stats["tag"] += 1; bad.append(l["id"])
+            text = tagsplit.join(s); stats["english"] += 1
+        elif not tagsplit.tags_ok(s, t):
+            text = tagsplit.join(s); stats["tag"] += 1; bad.append(l["id"])
         else:
-            text = fix_line(s, t); stats["thai"] += 1
+            text = tagsplit.join(fix_line(s, t)); stats["thai"] += 1
         out.append(l["pre"] + text + l["post"])
     data = meta["newline"].join(out) + (meta["newline"] if meta["final_newline"] else "")
     if write:

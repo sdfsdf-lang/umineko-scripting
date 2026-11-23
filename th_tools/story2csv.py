@@ -10,10 +10,15 @@ Usage (from the repo root):
     python th_tools/story2csv.py ep1 ep2      # only these episodes
     python th_tools/story2csv.py --force ep1  # overwrite existing CSVs
 
+Content tags are written in split form ({p:1:text} -> {p:1}text{/p}, see tagsplit.py).
+Run add_context.py afterwards to add the speaker to the IDs.
+
 Output: th_work/csv/<ep>/<name>.csv  (UTF-8 with BOM, columns ID,Source,Translation,AI_Reference)
 Existing CSVs are skipped unless --force, so translations are never overwritten by accident.
 """
 import argparse, csv, json, os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import tagsplit
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STORY = os.path.join(ROOT, "story")
@@ -37,12 +42,12 @@ def convert(ep, path, force):
     if final_newline:
         lines = lines[:-1]
 
-    rows, meta_lines = [], []
+    rows, meta_lines, ctx = [], [], []
     for i, line in enumerate(lines, 1):
         m = LINE_RE.match(line)
         if m and m.group(2).strip():
             rid = f"{ep}/{name}:{i:05d}"
-            rows.append([rid, m.group(2), "", ""])
+            rows.append([rid, tagsplit.split(m.group(2), ctx), "", ""])   # see tagsplit.py
             meta_lines.append({"id": rid, "pre": m.group(1), "post": m.group(3)})
         else:
             meta_lines.append({"raw": line})

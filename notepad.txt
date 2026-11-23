@@ -1,0 +1,387 @@
+﻿==============================================================
+  แผนงาน MOD ภาษาไทย Umineko (แปลจาก Witch-Hunt / wh)
+  อัปเดตล่าสุด: 23 พ.ย. 2026 (ระบบใหม่: ชื่อผู้พูด + แยกแท็ก + QA)
+==============================================================
+
+ที่อยู่สำคัญ
+--------------------------------------------------------------
+- Repo (fork)      : C:\Users\iamna\umineko-scripting
+                     GitHub: sdfsdf-lang/umineko-scripting
+- ตัวเกม           : D:\Uminiko   (ในเกมเลือกภาษา Witch-Hunt)
+- ฟอนต์ไทย         : D:\Uminiko\fonts (เปลี่ยนแล้ว ใช้ได้)
+- THub / TStudio   : C:\Users\iamna\THub-Launcher\dist\THub\THub.exe
+- Workspace TStudio: C:\Users\iamna\THub_Workspace\Umineko
+- CSV ที่ต้องแปล   : th_work\csv\ep1 ... ep8, omake  (บทพูด)
+                     th_work\csv\script            (เมนู/ระบบ)
+- Glossary         : th_work\glossary.csv  (English,Thai,Note)
+- พรอมต์เสริม AI   : th_work\tstudio_prompt_addon.txt
+- รายงาน QA        : th_work\qa\
+
+เครื่องมือ (th_tools\) — รันจากโฟลเดอร์ repo เสมอ
+--------------------------------------------------------------
+    cd C:\Users\iamna\umineko-scripting
+- story2csv.py   story -> CSV (ทำไว้แล้ว, --force = สร้างใหม่)
+- add_context.py ใส่ชื่อผู้พูดท้าย ID (ทำไว้แล้ว, --strip = เอาออก)
+- split_tags.py  แยกแท็กให้แปลข้อความข้างในได้ (ทำไว้แล้ว,
+                 --check / --strip)
+- qa_check.py    ตรวจคุณภาพคำแปล
+- csv2story.py   CSV ที่แปลแล้ว -> ไฟล์ story จริง
+- menu2csv.py / csv2menu.py   เหมือนกันแต่สำหรับเมนู/ระบบ
+- tagsplit.py    ไลบรารีที่ตัวอื่นใช้ ไม่ต้องรันเอง
+
+หน้าตา CSV ตอนนี้
+--------------------------------------------------------------
+- ID มีชื่อผู้พูดต่อท้าย เช่น
+    ep1/umi1_op:00007@Nanjo_male
+    ep1/umi1_op:00003@narration       (บรรยาย)
+    ep1/umi1_op:00586@unnamed_female  (ตัวประกอบไม่มีชื่อ)
+- แท็กที่มีข้อความข้างในถูกแยกเป็น "ป้ายเปิด ... ป้ายปิด" เช่น
+    เดิม: {p:1:when I speak the truth, I will use red}
+    ใหม่: {p:1}when I speak the truth, I will use red{/p}
+  ความหมายป้าย: {p:1}=red truth  {p:2}=blue truth  {i}=ตัวเอียง
+  {f:5}=ชื่อแม่มด(ฟอนต์พิเศษ)  {c:สี}=สี  {en}=<...>
+  {ruby}คำอ่าน{rb}คำหลัก{/ruby}
+  ข้อความระหว่างป้ายแปลได้ แต่ป้ายต้องอยู่ครบ
+  csv2story จะประกอบกลับเป็นแท็กเดิมให้เอง
+
+ชื่อผู้พูดมาจากไหน (add_context.py ดึงจากไฟล์เกม ไม่ได้เดา)
+--------------------------------------------------------------
+ใช้ 2 ไฟล์ต่อ 1 ตอน (เช่น umi1_1):
+  A) game\main\umi1_1.txt  = สคริปต์จริงของเกม (ญี่ปุ่น + คำสั่ง)
+     (ตอนพิเศษอยู่ที่ game\omake\)
+  B) story\ep1\jp\umi1_1.txt = บทญี่ปุ่นล้วน บรรทัดละ 1 ประโยค
+บรรทัดที่ N ใน B = บรรทัดที่ N ของบทอังกฤษ story\ep1\wh\umi1_1.txt
+= แถว ep1/umi1_1:000NN ใน CSV
+
+ขั้นตอนต่อ 1 บรรทัด:
+  1. เอาประโยคญี่ปุ่นบรรทัด N จาก B ไปหาใน A
+     (หาตามลำดับ ใช้ตัวที่เจอครั้งแรกที่ยังไม่ถูกใช้ — แบบเดียวกับ
+      ที่ update-manager.php ใช้ใส่คำแปลกลับ)
+  2. ย้อนขึ้นไปหาคำสั่ง msgwnd_xxx ตัวล่าสุดก่อนประโยคนั้น
+     = กล่องชื่อที่ผู้เล่นเห็นบนจอ เช่น msgwnd_but = Battler,
+       msgwnd_bea = Beatrice, msgwnd_non = ไม่มีกล่องชื่อ
+  3. ดูคำสั่งเสียงพากย์ [lv 0*"NN"*"..."] ที่อยู่ติดหน้าประโยค
+     NN = รหัสเสียงของนักพากย์
+  4. ตัดสิน:
+     - มีกล่องชื่อ (ไม่ใช่ non)  -> ชื่อตัวละคร   เช่น @Battler_male
+     - ไม่มีกล่องชื่อ แต่มีเสียง -> @unnamed_male / @unnamed_female
+       (เพศดูจากว่าเสียง NN นี้ปกติเป็นของตัวละครเพศไหน
+        ถ้าเป็นเสียงตัวประกอบรวม 00 / 99 หรือเพศไม่ชัด -> @unnamed)
+     - ไม่มีกล่องชื่อ ไม่มีเสียง -> @narration (บรรยาย)
+     - หาประโยคใน A ไม่เจอ -> เดาจากเครื่องหมายคำพูดภาษาอังกฤษ
+       (@dialogue / @narration) — ทั้งเกมเจอแค่ 1 บรรทัด
+  5. รหัส msgwnd -> ชื่อ + เพศ มาจากตาราง CHARS ใน add_context.py
+     (ชื่อ = ของในเกม, เพศ = ใส่เองตามข้อมูลตัวละคร
+      ตัวที่เพศไม่ตายตัว เช่น Lion, Zepar, Furfur ไม่มี _male/_female)
+     ถ้าเห็นเพศผิด ให้แก้ในตาราง CHARS แล้วรันใหม่
+
+ผลรวมทั้งเกม: มีชื่อผู้พูด 85,923 / บรรยาย 42,358 /
+              ไม่เปิดชื่อ 2,873 / เดาจากเครื่องหมายคำพูด 1
+
+ดูเองได้: เปิด game\main\umi1_1.txt ใน Notepad/VS Code
+          กด Ctrl+F หา msgwnd_ หรือ [lv 0
+คำสั่งที่เกี่ยวข้อง (รันจากโฟลเดอร์ repo):
+    python th_tools\add_context.py --check     ดูว่าจะเปลี่ยนอะไร ไม่เขียนไฟล์
+    python th_tools\add_context.py ep1         ใส่ชื่อผู้พูดเฉพาะ ep1
+    python th_tools\add_context.py --strip     เอาชื่อผู้พูดออกจาก ID
+    python th_tools\add_context.py --no-gender ไม่ใส่ _male/_female
+  ไฟล์ที่มี _translated.csv แล้วจะถูกข้าม (กัน TStudio ลืมแถวที่แปลแล้ว)
+  รันซ้ำกี่รอบก็ได้ผลเหมือนเดิม
+
+กฎเหล็ก
+--------------------------------------------------------------
+- ห้ามกด "Deploy All" ใน TStudio (มันไว้สำหรับเกม Unity/Unreal)
+- ห้ามลบ/แก้ ป้ายแท็ก {..} และห้ามแก้ส่วน @ชื่อผู้พูด ใน ID
+  ถ้าแท็กไม่ครบ สคริปต์จะคงภาษาอังกฤษไว้และรายงานว่า TAG
+- ห้ามแก้ไฟล์ .umimeta.json และ .skipped.txt
+- แปลบรรทัดไหนไม่ทัน ปล่อยว่างได้ -> เกมจะแสดงอังกฤษเหมือนเดิม
+- ช่อง AI_Reference ใน CSV = ช่อง "ร่างคำแปล" ของ TStudio
+  ไม่ใช่ช่องโน้ต อย่าใส่คำอธิบายลงไป
+- ก่อนเริ่มแปลแต่ละ ep ให้ commit ไว้ก่อน จะได้ย้อนกลับได้
+
+ตั้งค่า TStudio (ทำครั้งเดียว)
+--------------------------------------------------------------
+  [ ] Settings: Provider = Google Gemini
+      กด "✏️ พิมพ์เอง" พิมพ์โมเดล gemini-3.8-flash
+  [ ] Max Tokens = 32768   (ค่าเดิม 4096 จะตัดคำตอบกลางทาง)
+  [ ] Timeout    = 300 วินาที
+  [ ] "🤖 ตั้งค่าคำสั่ง AI" > แท็บ "⚙️ สตูดิโอ AI Prompt"
+      ช่อง 3 (Batch Translation Prompt):
+      - เปลี่ยนคำว่า "Anime JRPG & High-School Fantasy"
+        เป็น mystery / psychological horror / family drama
+      - วางข้อความจาก th_work\tstudio_prompt_addon.txt ต่อท้าย
+        (ถ้าเคยวางฉบับเก่า ให้ลบแล้ววางฉบับใหม่แทน)
+  [ ] Batch AI Runner:
+      Batch 100, Delay 200, Retries 5, Threads 4
+      ปิด: Tag masking (สำคัญ! ให้ AI เห็นว่าป้ายไหนคือ red truth)
+      เปิด: Glossary, Dedup, Engine Junk Filter
+      ปิด: Token Burner, TPUA, CJK filter, English Leak, Peak-Hour
+  [ ] แท็บ "บริบทและทิศทางการสกัด" (Lore):
+      - ประเภทเกม/โทน -> ปริศนาฆาตกรรม สยองขวัญจิตวิทยา ดราม่าครอบครัว
+      - ติ๊กออก "มั่นใจเพศ 100%" (เพศอยู่ใน ID แล้ว)
+      - ทำแท็บนี้ก่อนวางพรอมต์เสริม และหลังวางแล้ว ห้ามกด
+        "คอมไพล์เข้า AI Prompts" (จะเขียนทับพรอมต์ที่วางไว้)
+  [ ] QA Checker Settings: Max Byte Limit = 9999
+      (ค่าเดิม 63 ไบต์ = ไทยแค่ ~21 ตัว)
+  [ ] กด "บันทึก Prompt เข้าโปรไฟล์" และ "บันทึกทั้งหมดเข้าโปรไฟล์"
+
+==============================================================
+ส่วนที่ 1: บทพูด (story) — งานหลัก
+==============================================================
+ความคืบหน้า:
+  [ ] ep1 (รวม umi1_op — รอบแรกเป็นแค่ทดสอบ คืนเป็นอังกฤษแล้ว)
+  [ ] ep2   [ ] ep3   [ ] ep4   [ ] ep5
+  [ ] ep6   [ ] ep7   [ ] ep8   [ ] omake
+  (รวมทั้งหมด 172 ไฟล์ ประมาณ 131,155 บรรทัด)
+
+ก่อนเริ่ม ep แรก:
+  [ ] เติม th_work\glossary.csv: ชื่อตัวละคร, ศัพท์เฉพาะ
+      (red truth, Golden Land, Endless Witch ฯลฯ) และสรรพนาม
+      หลายตัวสะกดคั่นด้วย |
+
+ขั้นตอนต่อ 1 episode (เช่น ep2):
+  1. TStudio > Batch AI Runner (F2) > "คิวไฟล์ภายนอก"
+     > "+ เพิ่มโฟลเดอร์..." เลือก th_work\csv\ep2 > เริ่มรัน
+  2. รอจนได้ไฟล์ *_translated.csv ครบ
+     (ถ้าหยุดกลางคัน รันใหม่ได้ มันจะทำต่อจากเดิม)
+  3. ตรวจคุณภาพ:
+       python th_tools\qa_check.py ep2
+     เปิด th_work\qa\ep2_qa.csv ดูบรรทัด ERROR / WARN แล้วแก้
+     ใน *_translated.csv (หรือใน TStudio) แล้วรันตรวจซ้ำ
+  4. เช็คก่อนเขียนจริง:
+       python th_tools\csv2story.py ep2 --check
+     (ทำทีละไฟล์: --only umi2_1)
+  5. เขียนคำแปลลงไฟล์ story จริง:
+       python th_tools\csv2story.py ep2
+  6. Commit + push (ดูส่วนที่ 3)
+
+จุดที่ต้องแปลด้วยมือ/ตรวจเป็นพิเศษ:
+  - ep1/umi1_2 บรรทัด 00309 มีญี่ปุ่นอยู่นอกแท็ก TStudio จะตีกลับ
+  - "Rule #11" (~20 บรรทัด) และ "yo~u" (~7 บรรทัด)
+    TStudio มองเป็นแท็ก ตรวจหลังแปล
+  - ปริศนาตัวอักษร {o:0:...} ถูกแยกเป็นชิ้นเล็กๆ แปลยาก
+  - คำ "san/sama/chan" ที่ AI อาจปล่อยเป็นอังกฤษ (qa_check จับให้)
+
+==============================================================
+ส่วนที่ 2: เมนู / ระบบ (script\wh\menu.txt, header.txt)
+==============================================================
+  [ ] แปล th_work\csv\script (menu.csv 1,347 บรรทัด, header.csv 21)
+      ใน TStudio Batch เหมือนส่วนที่ 1
+  [ ] ประวัติ Chiester (~22 บรรทัด มี シエスタ４１０ ใน {p:4:..})
+      ไม่ผ่านตอนปิด masking -> แปลกลุ่มนี้ตอน "เปิด" masking
+      หรือแปลด้วยมือ
+  [ ] ตรวจ:      python th_tools\qa_check.py script
+  [ ] เช็ค:      python th_tools\csv2menu.py --check
+  [ ] เขียนจริง: python th_tools\csv2menu.py
+  [ ] Commit + push
+
+ในนี้มี: ชื่อบท/เมนูเลือกบท, ข้อความเซฟ/โหลด, หน้าตั้งค่า,
+ตัวเลือก ep8 (ตอนเลือกเค้ก), Tips, Grimoire, ข้อมูลตัวละคร,
+ชื่อตัวละครในกล่องชื่อ, Bern quiz/คำใบ้, ถ้วยรางวัล, ข้อความ error
+
+ข้อควรระวังตอนแปลเมนู:
+  - ชื่อตัวละคร, ปุ่มเปิด/ปิด, คำใบ้ Bern ไม่ย่อขนาดเอง -> แปลให้สั้น
+    (qa_check รายงานเป็น TOO_LONG)
+  - หัวข้อ Tips/Grimoire ย่อขนาดเองได้
+  - {f:5} (ชื่อแม่มด เช่น Beatrice) ใช้ฟอนต์อีกตัว
+    ถ้าในเกมขึ้นเป็นกล่องสี่เหลี่ยม -> คงชื่ออังกฤษไว้ (ห้ามลบป้าย)
+  - {p:4:...} ที่มีภาษาญี่ปุ่นข้างใน ห้ามแตะ
+  - บรรทัด 837 (save_1_07) ต้นฉบับขาด "}" ปิดท้าย ปล่อยไว้แบบนั้น
+  - ชื่อที่ครอบอยู่นอก Source เช่น {p:3:{f:5:Beatrice} ในเมนู
+    ยังแปลผ่าน CSV ไม่ได้
+  - ถ้าคำแปลมีเครื่องหมาย " สคริปต์จะเปลี่ยนเป็น “ ” ให้เอง
+
+==============================================================
+ส่วนที่ 3: Build และเอาไปใส่เกม
+==============================================================
+  1. ใน repo:
+       git add -A
+       git commit -m "TH: ep2"
+       git push
+  2. รอ GitHub Actions ("CI (Thai WH)") ทำงานเสร็จ
+     ไปที่ GitHub > Releases > ดาวน์โหลด
+     umineko-th-scripts_rXXXX.zip ตัวล่าสุด (tag th-rXXXX)
+  3. แตก zip เอา wh.file ไปทับที่ D:\Uminiko
+     (สำรอง wh.file เก่าไว้ก่อนทุกครั้ง)
+  4. เข้าเกม ภาษา Witch-Hunt แล้วเช็คว่าข้อความขึ้นถูก
+  หมายเหตุ: wh.file ในเกมตอนนี้ยังมีฉากเปิดไทยจากรอบทดสอบ
+            จะหายเมื่อทับด้วย Release ใหม่
+
+==============================================================
+ส่วนที่ 4: เก็บตก (ทำทีหลัง ไม่บังคับ)
+==============================================================
+  [ ] รูปภาพเมนูที่มีตัวหนังสืออังกฤษ (ปุ่มเมนู, ชื่อบท, คลิกขวา)
+      อยู่ใน graphics\menu_en -> ต้องวาดรูปใหม่เป็นไทย
+  [ ] ซับไตเติลวิดีโอตอนจบ ep8: video\sub\end_all00_eng.ass
+      (ในโฟลเดอร์เกม) แปลด้วยโปรแกรมแก้ซับ เช่น Aegisub
+  [ ] (ถ้าตัวอักษรไทยแสดงช้าครั้งแรก) เพิ่มอักษรไทยใน
+      ;cache -> cache_chars1 / cache_chars2 ใน menu.txt
+      ใส่หลัง {p:8: / {p:11: และก่อน } ตัวสุดท้าย
+  [ ] credits.txt (เครดิต) และชื่อเพลงใน code.txt -> ไม่จำเป็น
+  [ ] (ถ้าอยากประหยัด 50%) สคริปต์ส่งงานผ่าน Gemini Batch API จริง
+      (TStudio ตอนนี้เรียกแบบปกติ ไม่ได้ลดราคา)
+
+==============================================================
+ส่วนที่ 5: ตรวจรอบสุดท้ายก่อนปล่อย
+==============================================================
+  [ ] qa_check ทุก ep ไม่มี ERROR เหลือ
+  [ ] เล่นเช็คทุก ep อย่างน้อยฉากเปิด/ฉากจบ และฉาก red truth สำคัญ
+  [ ] เช็คหน้าเซฟ/โหลด, หน้าตั้งค่า, Tips, Grimoire, ถ้วยรางวัล
+  [ ] เช็คตัวเลือกใน ep8 กดได้และไปถูกเส้นทาง
+  [ ] เช็คข้อความล้นกรอบ / กล่องสี่เหลี่ยม (ฟอนต์ไม่มีอักษร)
+  [ ] ปล่อย Release สุดท้าย + เขียนวิธีติดตั้ง
+      (ใส่ฟอนต์ไทย + ทับ wh.file)
+
+==============================================================
+ส่วนที่ 6: สำหรับ AI AGENT (Technical handoff — read this first)
+==============================================================
+Goal: Thai fan translation of Umineko (07th-Mod umineko-scripting),
+translating the "Witch-Hunt" (wh) English text into Thai. Only the
+wh language slot is overwritten in place; the game is played with
+language = Witch-Hunt.
+
+Environment
+- Windows, user iamna, PowerShell (use ";" not "&&"), Python 3.13
+  as `python`, git. Run every th_tools command from the repo root.
+- Git pushes as GitHub account sdfsdf-lang (Git Credential Manager).
+  If push fails with an old account (kiichi737) or "string binding is
+  invalid": use a NON-admin shell, `cmdkey /delete:git:https://github.com`
+  then `git credential-manager github login`.
+- Game: D:\Uminiko (contains wh.file; Thai font already installed in
+  D:\Uminiko\fonts under the original font filenames). Thai line
+  wrapping in-game was tested by the user and is fine.
+
+Repo layout that matters
+- story\<ep>\wh\*.txt     English dialogue (ep1..ep8, omake), 172 files.
+- story\<ep>\jp\*.txt     Japanese; line N == wh line N.
+- game\main\*.txt         game script: msgwnd_xxx (name box) and
+                          [lv 0*"NN"*..] voice before each jp line.
+- script\wh\menu.txt, header.txt, code.txt, credits.txt  UI/system.
+- th_tools\               our converters (see Thai section above).
+- th_work\csv\<ep>\<name>.csv + <name>.umimeta.json   story CSVs.
+- th_work\csv\script\menu.csv, header.csv (+ .umimeta.json,
+  .skipped.txt)  UI CSVs.
+- th_work\glossary.csv, th_work\tstudio_prompt_addon.txt, th_work\qa\
+- .github\workflows\main.yml  "CI (Thai WH)".
+
+Story file format
+- Every text line is wrapped in backticks with a trailing space,
+  e.g.  `"Hello."` . Dialogue starts/ends with a straight " (the
+  game renders it as 「」). Inline tags: {n} newline, {f:5:..} font,
+  {p:N:..} style (p:1 red truth, p:2 blue truth, p:41/42 gold/purple),
+  {c:RRGGBB:text} colour, {i:..} italic, {ruby:reading:base},
+  {y:..}{n:..}, <...>, {qt}, {w:..:}, {o:..} ...
+- A backtick inside text would break the line -> replaced with '.
+
+CSV contract (TStudio)
+- Columns: ID, Source, Translation, AI_Reference. Encoding utf-8-sig.
+- Story IDs: "ep1/umi1_1:00001@Speaker" (speaker suffix from
+  add_context.py: a character name, narration, unnamed,
+  unnamed_male/female). UI IDs: "script/menu:LINE:k".
+  csv2story/qa_check ignore everything after "@".
+  How the speaker is found: for story/<ep>/jp line N, find that Japanese
+  line in game/main|omake/<name>.txt (first unused match, same rule as
+  update-manager.php); the last msgwnd_<code> before it is the name box
+  (CHARS table in add_context.py maps code -> name + gender; "non" = no
+  box); a [lv 0*"NN"*..] voice right before it gives the voice. Name box
+  -> name; no box + voice -> unnamed[_gender of that voice]; neither ->
+  narration; not found -> dialogue/narration from English quotes.
+- Source holds only translatable text in SPLIT-TAG form (tagsplit.py):
+  content tags become opener/closer tokens, e.g. {p:1:x} -> {p:1}x{/p},
+  {c:86EF9C:san} -> {c:86EF9C}san{/c}, <Messenger> -> {en}Messenger{/en},
+  {ruby:a:b} -> {ruby}a{rb}b{/ruby}. Content-free tags ({n}, {qt},
+  {w:700:}, {p:4:<Japanese>}, {Comment:..}) stay single tokens.
+  Tags may span lines (opener on one row, closer on a later row).
+  Back-converters rejoin token by token; round trip is byte-exact.
+- Wrappers (backticks, quotes, style prefixes, outer tags) live in
+  .umimeta.json. Never edit or delete .umimeta.json.
+- Meta files are deliberately NOT named *_meta.json because TStudio's
+  "Deploy All" looks for that name. Never press Deploy All.
+- AI_Reference is TStudio's "AI draft" column, NOT notes — TStudio
+  never sends it to the model, and its "use draft" button copies it
+  into Translation. Keep it empty.
+
+Converters
+- story2csv.py / menu2csv.py   source -> CSV (split form). --force.
+- add_context.py               speaker suffix in IDs. --strip. Skips
+                               files that already have _translated.csv.
+- split_tags.py                convert old CSVs to split form.
+                               --check / --strip / --only.
+- csv2story.py ep1 [ep2 ...] [--only umi1_op] [--check]
+- csv2menu.py [menu|header] [--check]
+- qa_check.py ep1 [...] [script] [--only NAME] [--hide-info]
+  -> th_work\qa\<target>_qa.csv. Checks: EMPTY, TAG_MISMATCH(ERROR),
+  SAME_AS_SOURCE, NO_THAI, ENGLISH_LEFT, HONORIFIC, TAG_TEXT_LEFT,
+  LENGTH_RATIO, UNBALANCED, BACKTICK, QUOTE_LOST, REPEATED,
+  SAME_AS_PREVIOUS, GLOSSARY (th_work\glossary.csv), TOO_LONG.
+- Back-converters read <name>_translated.csv if present, else the
+  Translation column of <name>.csv. They rebuild from the English in
+  the meta, so re-running is safe (idempotent).
+- Rules: empty translation -> keep English. Tag check
+  (tagsplit.tags_ok): same tokens, same counts, valid nesting, same
+  cross-line carry; pairs may move within a sentence, {en} order kept.
+  Failure -> keep English, report TAG. Restore source leading/trailing
+  whitespace and dialogue quotes (the AI often drops them). Smart
+  quotes normalised; in menu a straight " becomes “ ” ; real line
+  breaks become {n}.
+
+Translation tool
+- TStudio (inside THub) Batch AI Runner (F2) -> external file queue ->
+  add folder. Worker = TRunWorker in
+  THub-Launcher\tools\flagship\TRun\trun_app.py.
+  Each row is sent as "ID<TAB>Source" plus the batch prompt, built-in
+  format rules and up to 15 matched glossary terms. No neighbouring
+  batches/summary: each batch of 100 is the only context.
+  Writes <name>_translated.csv, resumes from existing output, matches
+  replies by ID, retries missing/rejected rows. It rejects any change
+  in tag order.
+- Model gemini-3.8-flash (Gemini provider), Max Tokens 32768,
+  Timeout 300 s, batch 100, Tag masking OFF. Normal API calls (NOT the
+  Gemini Batch API, so no 50% discount). The user enters the API key
+  in TStudio themselves — never ask for it.
+- Custom prompt: TStudio "🤖 ตั้งค่าคำสั่ง AI" > "⚙️ สตูดิโอ AI Prompt"
+  box 3 (Batch Translation Prompt); saved in
+  THub_Workspace\Umineko\.thub\profile\prompts.json.
+  th_work\tstudio_prompt_addon.txt is appended there (explains @speaker
+  IDs, pronoun consistency, tag markers).
+- A glossary.json next to the CSVs is auto-loaded by TRun.
+
+Build / release
+- main.yml runs on push to master / PR / manual. It compiles only wh:
+  php update-manager/update-manager.php dscript ... wh  (then script),
+  zips wh.file into umineko-th-scripts_r<BUILD>.zip (+ _dev.zip with
+  wh.txt) and publishes GitHub Release tag th-r<BUILD> (not on PRs).
+- Install: copy wh.file from the release zip over D:\Uminiko\wh.file.
+
+Known issues / gotchas
+- 22 menu rows (Chiester bios, full-width digits in {p:4:..}) fail
+  TStudio's check with masking OFF (its number conversion); translate
+  with masking ON or by hand.
+- umi1_2:00309 has Japanese outside braces; TStudio's CJK filter
+  rejects it -> manual.
+- "#11" (Rule #11, ~20 rows) and "~" (yo~u, ~7 rows) are treated as
+  tags by TStudio.
+- {o:0:..} letter puzzle is split into many fragments.
+- Menu names wrapped outside Source (e.g. {p:3:{f:5:Beatrice}) are not
+  translatable via CSV.
+- menu.txt line 837 (save_1_07) is missing its closing "}" in the
+  original; this is preserved.
+- ~4,000 {f:5}Name{/f} rows use a different font; if it lacks Thai
+  glyphs, keep those names in English (keep the tokens).
+- Honorifics like "san" inside colour tags may be left English by the
+  AI; qa_check flags HONORIFIC / TAG_TEXT_LEFT.
+- Names, on/off buttons ({p:8:}), Bern hints ({p:32:}) do not
+  auto-fit — keep short. Keep {p:4:<Japanese>} untouched.
+- ;cache strings in menu.txt are font preload lists: do not translate;
+  optionally append Thai letters to cache_chars1/2.
+- Image text (graphics\menu_en\*.png) and ep8 ending subtitles
+  (video\sub\end_all00_eng.ass in the game folder) are not covered by
+  the CSV tools.
+- Backups from tool changes: %TEMP%\th_csv_backup_before_add_context.zip,
+  %TEMP%\th_backup_before_split_tags.zip.
+
+Workflow rules for the agent
+- Ask the user before git push, overwriting game files, or anything
+  destructive. Back up D:\Uminiko\wh.file before replacing it.
+- After any change to th_tools, re-run --check round trips
+  (csv2story ep1..ep8 omake --check, csv2menu --check).

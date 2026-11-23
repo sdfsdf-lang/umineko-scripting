@@ -1,0 +1,3 @@
+﻿Severity,Check,ID,Source,Translation,Detail
+WARN,EMPTY_FILE,script/header,,,"21 rows, nothing translated yet"
+WARN,EMPTY_FILE,script/menu,,,"1347 rows, nothing translated yet"
