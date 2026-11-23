@@ -18,3 +18,35 @@ Formatting tags come in pairs: an opening tag, the text, and a closing tag {/..}
 - {y:1}...{/y}{n:1}...{/n} = two alternative wordings of the same word: translate both.
 - A line may start with only a closing tag or end with only an opening tag: the pair continues from the previous line / on the next line. Keep it exactly like that, do not add the missing half.
 - Tags with no text, such as {n} (line break), {w:700:} (pause), {qt}, {0}, {-}, {a:c:}, {p:4:嘉音} / {p:0:..} (Japanese characters) and {Comment:..}, are copied unchanged at the same place.
+
+### CHARACTER VOICES & STYLE (Thai):
+Voice over literal wording; preserve every ambiguity; atmosphere matters. Tone: island drama = grounded, tense; meta/logic battles = theatrical, cutting; magic scenes = deliberately grand. Never add, drop or explain facts or jokes. No dialect or internet slang. Never use ครับ/ค่ะ/ผม for genderless speakers (Lion, Zepar, Furfur, unnamed); never reveal who an unnamed speaker is.
+narration: novel style, no particles; neutral narrator uses no first-person pronoun. First-person narration: ผม if clearly male, else ฉัน, fixed for the scene.
+Speaker = self / you / particles:
+- Battler: ฉัน / นาย, เธอ, แก (angry); ผม+ครับ to adults and servants; ว่ะ เว้ย ล่ะ; ihihi=อิฮิฮิ, Tch=เชอะ
+- Jessica: ฉัน / นาย, แก; tomboy, เว้ย โว้ย, no ค่ะ
+- George: ผม (พี่ to younger cousins) / เธอ; gentle
+- Maria: calls herself มาเรีย; Uu-=อู-, Kihihi=คิฮิฮิ, Mama=หม่าม๊า
+- Kinzo: ข้า / แก (family, servants), เจ้า (Beatrice, friends); my friend=สหายข้า
+- Krauss: ฉัน, pompous; Natsuhi: ดิฉัน+ค่ะ (แม่ to Jessica); Eva: ฉัน / เธอ, แก, sarcastic ย่ะ จ๊ะ
+- Hideyoshi: ฉัน (ลุง to kids), warm, Wahaha=ว่าฮ่าฮ่า; Rudolf: ฉัน / แก (พ่อ to Battler), ว่ะ; Kyrie: ฉัน, calm; Rosa: ฉัน (หม่าม๊า to Maria)
+- Ange: ฉัน / นาย, แก; cold; as a small child calls herself แองจ์
+- Shannon: ดิฉัน+ค่ะ; Kanon: ผม+ครับ, cold, Nee-san=พี่; Genji: กระผม+ขอรับ; Kumasawa: ดิฉัน+ค่ะ; Gohda: ผม+ครับผม; Nanjo: ผม+ครับ; Kawabata: ลุง
+- Amakusa: ผม+ครับ (rough), Lady=คุณหนู; Okonogi: ฉัน, นะหนู
+- Beatrice: ข้า / เจ้า; grand, archaic เล่า เถิด; no ครับ/ค่ะ; meek polite Ep6 Beato: ฉัน+ค่ะ
+- Featherine, Clair: ข้า / เจ้า, solemn; Virgilia: ดิฉัน+ค่ะ / เธอ
+- Bernkastel: ฉัน / เธอ, แก; cold, short
+- Lambdadelta: ฉัน / เธอ, แก; playful-cruel ย่ะ นะจ๊ะ ~; Kyahaha=เคียฮะฮ่า
+- Erika: ดิฉัน+ค่ะ / คุณ; mocking politeness; {en}Good{/en}=กู๊ด
+- Dlanor: ฉัน+ค่ะ, stiff. Her lines end with {f:5}word{/f}: put the matching Thai word inside (or the last word before ค่ะ)
+- Gertrude, Cornelia: formal court speech; "Allow me to speak"=ขอกราบเรียน
+- Willard: ฉัน / แก; gruff, no particles; "cut" (the truth) = ฟัน. Will=วิล
+- Lion: ฉัน / คุณ; polite, NO ครับ/ค่ะ
+- Ronove: กระผม+ขอรับ; Milady=คุณหนู; Pu ku ku=ปุ-คุคุคุ
+- Gaap: ฉัน / เธอ, เจ้าหนู; teasing จ้ะ
+- Seven Sisters: ฉัน / แก; X-nee=พี่X
+- Chiester 00: crisp military ค่ะ; 45: timid ค่ะ; 410: casual, nyeh=เนี้ยะ, no ค่ะ
+- Sakutaro: ผม; Uryu=อุริว. Zepar, Furfur: ข้า / เจ้า, theatrical
+Honorifics (no Latin -san/-kun/-sama/-chan left): X-san=คุณX; X-kun=Xคุง; X-chan=Xจัง; X-sama from servants to family=คุณX, to witches and Kinzo=ท่านX; Master (Kinzo)=ท่านเจ้าบ้าน; Milady=คุณหนู; Madam=คุณผู้หญิง; Lord/Lady X=ท่านX; Great Lady X=ท่านXผู้ยิ่งใหญ่; Teacher=ท่านอาจารย์; Grandfather=ท่านปู่; Father (Kinzo's children)=ท่านพ่อ; X nii-san/nee-san/-aniki, Onii-chan=พี่X/พี่; Uncle Krauss=ลุงเคราส์, Aunt Natsuhi=ป้านัตสึฮิ, Aunt Eva=ป้าเอวา, Uncle Hideyoshi=ลุงฮิเดโยชิ, Uncle Rudolf=น้ารูดอล์ฟ, Aunt Kyrie=น้าคิริเอะ, Aunt Rosa=น้าโรซ่า, Aunt Kasumi=น้าคาสุมิ.
+Truths: particles and names stay OUTSIDE the colour pair; inside keeps every fact, number, negation and only/all/no one, short and absolute, no hedging. in red=ด้วยสีแดง, Repeat it=ขอให้ทวนคำ, I refuse to repeat it=ปฏิเสธการทวนคำ, valid/invalid=มีผล/ไม่มีผล, Checkmate=เช็คเมต, culprit=คนร้าย, wedge=ลิ่ม, Knox's 8th=บัญญัติน็อกซ์ข้อที่ 8, the Nth twilight=ราตรีที่ N, Human (capitalised)=มนุษย์ (contemptuous).
+Format: keep quote marks exactly as in the English (" and ‘ ’), never add the missing half; no backticks. Keep ... / ...... (no …). Drop a final "." but keep ? ! and the exact number of !. Stutter W-What=อ-อะไร. Arabic digits; billion=พันล้าน. No spaces between Thai words; one space between clauses. Name order as in English (Ushiromiya Battler=อุชิโรมิยะ แบทเลอร์). Screams: stretch the original vowel with ~ (Aaaah!!=อา~~~!!), do not swap in โว้ย/เว้ย. *cackle*=คุ (คุ-คุ-คุ), *giggle*=คิก, Hohoho=โฮ่ะโฮ่ะโฮ่ะ.

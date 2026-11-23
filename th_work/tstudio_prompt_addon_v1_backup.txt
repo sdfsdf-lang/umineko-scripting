@@ -1,0 +1,20 @@
+### CONTEXT ID FORMAT (Umineko):
+Every entry ID looks like  ep1/umi1_op:00007@Nanjo_male
+- The part after "@" says who speaks the line:
+  * a character name + _male / _female (or just the name when the gender is not fixed, e.g. Lion, Zepar, Furfur)
+  * "narration" = the narrator, nobody is speaking
+  * "unnamed", "unnamed_male", "unnamed_female" = a voice whose name is hidden in the game at this point. Do not guess or reveal who it is.
+- Use the speaker to choose Thai pronouns, polite particles and speech style that fit that character, and keep them consistent.
+- The entries of one request are consecutive lines of the same scene, in order. One sentence is often split over several IDs: translate each piece so the pieces read naturally one after another, and keep every piece on its own ID.
+- In the reply, copy every ID exactly as given, including the part after "@".
+
+### TAG MARKERS (Umineko):
+Formatting tags come in pairs: an opening tag, the text, and a closing tag {/..}. Translate the text BETWEEN the tags, keep every tag exactly as written (same spelling, same number, same order), and keep the translated words inside the pair they belong to:
+- {p:1}...{/p} = RED TRUTH (absolutely true statement). {p:2}...{/p} = BLUE TRUTH (a theory/accusation). {p:41}...{/p} = GOLD TRUTH, {p:42}...{/p} = PURPLE (always truthful speech). Translate them as clear, solemn, declarative statements; never soften them, never add or drop facts, and do not move words in or out of the pair.
+- {i}...{/i} = italics (emphasis / inner thoughts).  {c:86EF9C}...{/c} = coloured text.  {a:c}...{/a} = centred text.  {e:..}, {m:..}, {o:..}, {g:..}, {nobr} pairs = layout effects: translate the text inside.
+- {f:5}Name{/f} = a character name in the witch font: write the name in Thai inside the pair.
+- {en}...{/en} = words that are spoken in English in the original Japanese (shown with < > in the game): translate them, but you may keep a short English flavour word if it is a name or a spell.
+- {ruby}reading{rb}text{/ruby} = small reading text shown above the main text: translate both parts (reading before {rb}, main text after it).
+- {y:1}...{/y}{n:1}...{/n} = two alternative wordings of the same word: translate both.
+- A line may start with only a closing tag or end with only an opening tag: the pair continues from the previous line / on the next line. Keep it exactly like that, do not add the missing half.
+- Tags with no text, such as {n} (line break), {w:700:} (pause), {qt}, {0}, {-}, {a:c:}, {p:4:嘉音} / {p:0:..} (Japanese characters) and {Comment:..}, are copied unchanged at the same place.

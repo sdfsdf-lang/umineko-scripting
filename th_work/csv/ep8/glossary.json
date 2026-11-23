@@ -1,0 +1,842 @@
+{
+  "Alliance of the Golden Witch": [
+    "พันธมิตรของแม่มดทองคำ",
+    "Other"
+  ],
+  "Twilight of the Golden Witch": [
+    "สนธยาของแม่มดทองคำ",
+    "Other"
+  ],
+  "Banquet of the Golden Witch": [
+    "งานเลี้ยงของแม่มดทองคำ",
+    "Other"
+  ],
+  "Requiem of the Golden Witch": [
+    "บทเพลงไว้อาลัยของแม่มดทองคำ",
+    "Other"
+  ],
+  "Featherine Augustus Aurora": [
+    "เฟเธอรีน เอากุสตุส เอาโรร่า",
+    "Person"
+  ],
+  "Seven Sisters of Purgatory": [
+    "เจ็ดพี่น้องแห่งแดนชำระ",
+    "Faction"
+  ],
+  "Legend of the Golden Witch": [
+    "ตำนานแห่งแม่มดทองคำ",
+    "Other"
+  ],
+  "Seven Stakes of Purgatory": [
+    "หมุดทั้งเจ็ดแห่งแดนชำระ",
+    "Faction"
+  ],
+  "Turn of the Golden Witch": [
+    "การพลิกผันของแม่มดทองคำ",
+    "Other"
+  ],
+  "Dawn of the Golden Witch": [
+    "รุ่งอรุณของแม่มดทองคำ",
+    "Other"
+  ],
+  "thousand-year-old witch": [
+    "แม่มดพันปี",
+    "Other"
+  ],
+  "Umineko no Naku Koro ni": [
+    "แว่วเสียงนกนางนวล",
+    "Other"
+  ],
+  "End of the Golden Witch": [
+    "จุดจบของแม่มดทองคำ",
+    "Other"
+  ],
+  "detective proclamation": [
+    "คำประกาศนักสืบ",
+    "Other"
+  ],
+  "Illusion of the Witch": [
+    "มายาแห่งแม่มด",
+    "Other"
+  ],
+  "Publius Virgilia Maro": [
+    "ปูบลิอุส เวอร์กิลเลีย มาโร",
+    "Person"
+  ],
+  "When the seagulls cry": [
+    "แว่วเสียงนกนางนวล",
+    "Other"
+  ],
+  "Witch of Resurrection": [
+    "แม่มดคืนวิญญาณ",
+    "Other"
+  ],
+  "Witch of the Portrait": [
+    "แม่มดในภาพเหมือน",
+    "Other"
+  ],
+  "witch of the portrait": [
+    "แม่มดในภาพเหมือน",
+    "Other"
+  ],
+  "Witch of Theatergoing": [
+    "แม่มดแห่งละครและผู้ชม",
+    "Other"
+  ],
+  "Great Court of Heaven": [
+    "ศาลสวรรค์อันยิ่งใหญ่",
+    "Location"
+  ],
+  "Inquisitor of Heresy": [
+    "ผู้ไต่สวนนอกรีต",
+    "Person"
+  ],
+  "chessboard thinking": [
+    "การคิดพลิกกระดานหมากรุก",
+    "Other"
+  ],
+  "Witch of the Forest": [
+    "แม่มดแห่งพงไพร",
+    "Other"
+  ],
+  "witch of the forest": [
+    "แม่มดแห่งพงไพร",
+    "Other"
+  ],
+  "Witch of the Future": [
+    "แม่มดแห่งอนาคต",
+    "Other"
+  ],
+  "golden butterflies": [
+    "ผีเสื้อทองคำ",
+    "Item"
+  ],
+  "Witch of Certainty": [
+    "แม่มดแห่งความแน่นอน",
+    "Other"
+  ],
+  "family conference": [
+    "การประชุมเครือญาติ",
+    "Other"
+  ],
+  "Professor Ootsuki": [
+    "ศาสตราจารย์โอตสึกิ",
+    "Person"
+  ],
+  "purple statements": [
+    "ถ้อยคำสีม่วง",
+    "Other"
+  ],
+  "Ushiromiya family": [
+    "ตระกูลอุชิโรมิยะ",
+    "Faction"
+  ],
+  "Willard H. Wright": [
+    "วิลลาร์ด เอช ไรท์",
+    "Person"
+  ],
+  "Witch of Miracles": [
+    "แม่มดแห่งปาฏิหาริย์",
+    "Other"
+  ],
+  "President Okonogi": [
+    "ประธานโอโคโนกิ",
+    "Person"
+  ],
+  "Eiserne Jungfrau": [
+    "ไอเซอร์เนอ ยุงเฟรา",
+    "Person"
+  ],
+  "gold butterflies": [
+    "ผีเสื้อทองคำ",
+    "Item"
+  ],
+  "golden butterfly": [
+    "ผีเสื้อทองคำ",
+    "Item"
+  ],
+  "Mariage Sorciere": [
+    "มาริอาจ ซอร์ซิแอร์",
+    "Other"
+  ],
+  "Mariage Sorcière": [
+    "มาริอาจ ซอร์ซิแอร์",
+    "Other"
+  ],
+  "purple statement": [
+    "ถ้อยคำสีม่วง",
+    "Other"
+  ],
+  "Ushiromiya Kinzo": [
+    "อุชิโรมิยะ คินโซ",
+    "Person"
+  ],
+  "Witch of Origins": [
+    "แม่มดแห่งต้นกำเนิด",
+    "Other"
+  ],
+  "Chiester Sisters": [
+    "กองพี่น้องซีเอสต้า",
+    "Faction"
+  ],
+  "Chief Inquisitor": [
+    "หัวหน้าผู้ไต่สวน",
+    "Person"
+  ],
+  "One-Winged Eagle": [
+    "นกอินทรีปีกเดียว",
+    "Other"
+  ],
+  "Golden Longsword": [
+    "ดาบยาวสีทอง",
+    "Item"
+  ],
+  "Knox's Decalogue": [
+    "บัญญัติสิบประการของน็อกซ์",
+    "Other"
+  ],
+  "Augustus Aurora": [
+    "เอากุสตุส เอาโรร่า",
+    "Person"
+  ],
+  "Kotobuki Yukari": [
+    "โคโตบุกิ ยูคาริ",
+    "Person"
+  ],
+  "Sumadera Kasumi": [
+    "สุมาเดระ คาสุมิ",
+    "Person"
+  ],
+  "the Head's ring": [
+    "แหวนประมุขตระกูล",
+    "Item"
+  ],
+  "goat attendants": [
+    "บริวารหัวแพะ",
+    "Faction"
+  ],
+  "Dlanor A. Knox": [
+    "ดลานอร์ เอ น็อกซ์",
+    "Person"
+  ],
+  "gold butterfly": [
+    "ผีเสื้อทองคำ",
+    "Item"
+  ],
+  "Hempel's Raven": [
+    "อีกาของเฮมเพล",
+    "Other"
+  ],
+  "message bottle": [
+    "จดหมายในขวด",
+    "Item"
+  ],
+  "Witch of Truth": [
+    "แม่มดแห่งความจริง",
+    "Other"
+  ],
+  "Territory Lord": [
+    "เจ้าแห่งดินแดน",
+    "Other"
+  ],
+  "Knox Decalogue": [
+    "บัญญัติสิบประการของน็อกซ์",
+    "Other"
+  ],
+  "Amakusa Juuza": [
+    "อามาคุสะ จูสะ",
+    "Person"
+  ],
+  "Ange Beatrice": [
+    "แองจ์ เบียทริเช่",
+    "Person"
+  ],
+  "Devil's Proof": [
+    "การพิสูจน์ของปีศาจ",
+    "Other"
+  ],
+  "Endless Witch": [
+    "แม่มดแห่งนิรันดร์",
+    "Other"
+  ],
+  "Hachijo Tohya": [
+    "ฮาจิโจ โทยะ",
+    "Person"
+  ],
+  "Witch Hunters": [
+    "นักล่าแม่มด",
+    "Faction"
+  ],
+  "Seven Sisters": [
+    "เจ็ดพี่น้อง",
+    "Faction"
+  ],
+  "Endless Magic": [
+    "เวทมนตร์นิรันดร์",
+    "Other"
+  ],
+  "Voyager Witch": [
+    "แม่มดนักเดินทาง",
+    "Other"
+  ],
+  "Chiester 410": [
+    "ซีเอสต้า 410",
+    "Faction"
+  ],
+  "Chiester 556": [
+    "ซีเอสต้า 556",
+    "Faction"
+  ],
+  "Eva Beatrice": [
+    "เอวา เบียทริเช่",
+    "Person"
+  ],
+  "Furudo Erika": [
+    "ฟุรุโดะ เอริกะ",
+    "Person"
+  ],
+  "Golden Witch": [
+    "แม่มดทองคำ",
+    "Other"
+  ],
+  "magic circle": [
+    "วงเวทมนตร์",
+    "Item"
+  ],
+  "Witch Hunter": [
+    "นักล่าแม่มด",
+    "Faction"
+  ],
+  "Doctor Nanjo": [
+    "หมอนันโจ",
+    "Person"
+  ],
+  "Fukuin House": [
+    "บ้านฟุคุอิน",
+    "Location"
+  ],
+  "Endless Nine": [
+    "เอนด์เลสไนน์",
+    "Other"
+  ],
+  "Chiester 00": [
+    "ซีเอสต้า 00",
+    "Faction"
+  ],
+  "Chiester 45": [
+    "ซีเอสต้า 45",
+    "Faction"
+  ],
+  "Chiester 55": [
+    "ซีเอสต้า 55",
+    "Faction"
+  ],
+  "closed room": [
+    "ห้องปิดตาย",
+    "Other"
+  ],
+  "Family Head": [
+    "ประมุขตระกูล",
+    "Other"
+  ],
+  "Game Master": [
+    "เกมมาสเตอร์",
+    "Other"
+  ],
+  "goat-headed": [
+    "หัวแพะ",
+    "Other"
+  ],
+  "Golden Land": [
+    "ดินแดนทองคำ",
+    "Location"
+  ],
+  "Great Witch": [
+    "มหาแม่มด",
+    "Other"
+  ],
+  "hidden gold": [
+    "ทองคำลับ",
+    "Item"
+  ],
+  "Itouikukuro": [
+    "อิโต อิคุคุโร่",
+    "Person"
+  ],
+  "Lambdadelta": [
+    "แลมด้าเดลต้า",
+    "Person"
+  ],
+  "locked room": [
+    "ห้องปิดตาย",
+    "Other"
+  ],
+  "logic error": [
+    "ลอจิกเออร์เรอร์",
+    "Other"
+  ],
+  "rose garden": [
+    "สวนกุหลาบ",
+    "Location"
+  ],
+  "19th person": [
+    "บุคคลที่ 19",
+    "Other"
+  ],
+  "Bernkastel": [
+    "เบิร์นคัสเทล",
+    "Person"
+  ],
+  "blue truth": [
+    "ความจริงสีน้ำเงิน",
+    "Other"
+  ],
+  "Featherine": [
+    "เฟเธอรีน",
+    "Person"
+  ],
+  "game board": [
+    "กระดานเกม",
+    "Other"
+  ],
+  "goat heads": [
+    "หัวแพะ",
+    "Other"
+  ],
+  "gold ingot": [
+    "ทองคำแท่ง",
+    "Item"
+  ],
+  "gold truth": [
+    "ความจริงสีทอง",
+    "Other"
+  ],
+  "guesthouse": [
+    "เกสต์เฮาส์",
+    "Location"
+  ],
+  "Kuwadorian": [
+    "คุวาโดเรียน",
+    "Location"
+  ],
+  "master key": [
+    "กุญแจมาสเตอร์",
+    "Item"
+  ],
+  "Rokkenjima": [
+    "เกาะร็อกเค็นจิมะ",
+    "Location"
+  ],
+  "the Master": [
+    "ท่านเจ้าบ้าน",
+    "Other"
+  ],
+  "Ushiromiya": [
+    "อุชิโรมิยะ",
+    "Faction"
+  ],
+  "Van Dine's": [
+    "แวน ไดน์",
+    "Other"
+  ],
+  "Inquisitor": [
+    "ผู้ไต่สวน",
+    "Person"
+  ],
+  "Golden Key": [
+    "กุญแจสีทอง",
+    "Item"
+  ],
+  "Beelzebub": [
+    "เบลเซบับ",
+    "Person"
+  ],
+  "Belphegor": [
+    "เบลเฟกอร์",
+    "Person"
+  ],
+  "Fragments": [
+    "เศษเสี้ยว",
+    "Other"
+  ],
+  "furniture": [
+    "เครื่องเรือน",
+    "Other"
+  ],
+  "goat head": [
+    "หัวแพะ",
+    "Other"
+  ],
+  "Goldsmith": [
+    "โกลด์สมิธ",
+    "Person"
+  ],
+  "Hideyoshi": [
+    "ฮิเดโยชิ",
+    "Person"
+  ],
+  "Leviathan": [
+    "เลวีอาธาน",
+    "Person"
+  ],
+  "red truth": [
+    "ความจริงสีแดง",
+    "Other"
+  ],
+  "Repeat it": [
+    "ขอให้ทวนคำ",
+    "Other"
+  ],
+  "Sakutarou": [
+    "ซาคุทาโร่",
+    "Person"
+  ],
+  "the study": [
+    "ห้องหนังสือ",
+    "Location"
+  ],
+  "Successor": [
+    "ผู้สืบทอด",
+    "Other"
+  ],
+  "Forgeries": [
+    "บันทึกปลอม",
+    "Item"
+  ],
+  "Asmodeus": [
+    "แอสโมเดียส",
+    "Person"
+  ],
+  "Beatrice": [
+    "เบียทริเช่",
+    "Person"
+  ],
+  "Chiester": [
+    "ซีเอสต้า",
+    "Faction"
+  ],
+  "Cornelia": [
+    "คอร์เนเลีย",
+    "Person"
+  ],
+  "Fragment": [
+    "เศษเสี้ยว",
+    "Other"
+  ],
+  "Gertrude": [
+    "เกอร์ทรูด",
+    "Person"
+  ],
+  "grimoire": [
+    "ตำราเวท",
+    "Item"
+  ],
+  "Kawabata": [
+    "คาวาบาตะ",
+    "Person"
+  ],
+  "Kotobuki": [
+    "โคโตบุกิ",
+    "Person"
+  ],
+  "Kumasawa": [
+    "คุมาซาวะ",
+    "Person"
+  ],
+  "Sakutaro": [
+    "ซาคุทาโร่",
+    "Person"
+  ],
+  "servants": [
+    "คนรับใช้",
+    "Other"
+  ],
+  "Sumadera": [
+    "สุมาเดระ",
+    "Faction"
+  ],
+  "the Head": [
+    "ประมุขตระกูล",
+    "Other"
+  ],
+  "Van Dine": [
+    "แวน ไดน์",
+    "Other"
+  ],
+  "VIP room": [
+    "ห้องรับรองพิเศษ",
+    "Location"
+  ],
+  "Virgilia": [
+    "เวอร์กิลเลีย",
+    "Person"
+  ],
+  "Headship": [
+    "ตำแหน่งประมุขตระกูล",
+    "Other"
+  ],
+  "Blue Key": [
+    "กุญแจสีน้ำเงิน",
+    "Item"
+  ],
+  "Amakusa": [
+    "อามาคุสะ",
+    "Person"
+  ],
+  "barrier": [
+    "ปราการเวท",
+    "Other"
+  ],
+  "Battler": [
+    "แบทเลอร์",
+    "Person"
+  ],
+  "epitaph": [
+    "จารึก",
+    "Other"
+  ],
+  "Hachijo": [
+    "ฮาจิโจ",
+    "Person"
+  ],
+  "Jessica": [
+    "เจสสิก้า",
+    "Person"
+  ],
+  "Lucifer": [
+    "ลูซิเฟอร์",
+    "Person"
+  ],
+  "Natsuhi": [
+    "นัตสึฮิ",
+    "Person"
+  ],
+  "Niijima": [
+    "เกาะนีจิมะ",
+    "Location"
+  ],
+  "Odawara": [
+    "โอดาวาระ",
+    "Person"
+  ],
+  "Okonogi": [
+    "โอโคโนกิ",
+    "Person"
+  ],
+  "Ootsuki": [
+    "โอตสึกิ",
+    "Person"
+  ],
+  "servant": [
+    "คนรับใช้",
+    "Other"
+  ],
+  "Shannon": [
+    "ชาน่อน",
+    "Person"
+  ],
+  "Willard": [
+    "วิลลาร์ด",
+    "Person"
+  ],
+  "Yoshiya": [
+    "โยชิยะ",
+    "Person"
+  ],
+  "Red Key": [
+    "กุญแจสีแดง",
+    "Item"
+  ],
+  "Forgers": [
+    "ผู้ปลอมแปลง",
+    "Person"
+  ],
+  "chapel": [
+    "โบสถ์น้อย",
+    "Location"
+  ],
+  "Dlanor": [
+    "ดลานอร์",
+    "Person"
+  ],
+  "Furfur": [
+    "ฟูร์ฟูร์",
+    "Person"
+  ],
+  "Furudo": [
+    "ฟุรุโดะ",
+    "Person"
+  ],
+  "George": [
+    "จอร์จ",
+    "Person"
+  ],
+  "Gretel": [
+    "เกรเทล",
+    "Person"
+  ],
+  "Hansel": [
+    "เฮนเซล",
+    "Person"
+  ],
+  "Krauss": [
+    "เคราส์",
+    "Person"
+  ],
+  "Lambda": [
+    "แลมด้า",
+    "Person"
+  ],
+  "Mammon": [
+    "แมมมอน",
+    "Person"
+  ],
+  "Miyoko": [
+    "มิโยโกะ",
+    "Person"
+  ],
+  "Riiche": [
+    "ลีเช่",
+    "Person"
+  ],
+  "Ronoue": [
+    "โรโนอูเอะ",
+    "Person"
+  ],
+  "Ronove": [
+    "โรโนเว่",
+    "Person"
+  ],
+  "Rudolf": [
+    "รูดอล์ฟ",
+    "Person"
+  ],
+  "Satoko": [
+    "ซาโตโกะ",
+    "Person"
+  ],
+  "Yukari": [
+    "ยูคาริ",
+    "Person"
+  ],
+  "Forger": [
+    "ผู้ปลอมแปลง",
+    "Person"
+  ],
+  "Asumu": [
+    "อาสุมุ",
+    "Person"
+  ],
+  "Beato": [
+    "เบียโตะ",
+    "Person"
+  ],
+  "Clair": [
+    "แคลร์",
+    "Person"
+  ],
+  "Erika": [
+    "เอริกะ",
+    "Person"
+  ],
+  "Genji": [
+    "เก็นจิ",
+    "Person"
+  ],
+  "Gohda": [
+    "โกดะ",
+    "Person"
+  ],
+  "Ikuko": [
+    "อิคุโกะ",
+    "Person"
+  ],
+  "ingot": [
+    "ทองคำแท่ง",
+    "Item"
+  ],
+  "Kanon": [
+    "คาน่อน",
+    "Person"
+  ],
+  "Kinzo": [
+    "คินโซ",
+    "Person"
+  ],
+  "Kyrie": [
+    "คิริเอะ",
+    "Person"
+  ],
+  "magic": [
+    "เวทมนตร์",
+    "Other"
+  ],
+  "Maria": [
+    "มาเรีย",
+    "Person"
+  ],
+  "Nanjo": [
+    "นันโจ",
+    "Person"
+  ],
+  "Satan": [
+    "ซาตาน",
+    "Person"
+  ],
+  "Tohya": [
+    "โทยะ",
+    "Person"
+  ],
+  "Witch": [
+    "แม่มด",
+    "Other"
+  ],
+  "Zepar": [
+    "ซีพาร์",
+    "Person"
+  ],
+  "Ange": [
+    "แองจ์",
+    "Person"
+  ],
+  "Bern": [
+    "เบิร์น",
+    "Person"
+  ],
+  "Gaap": [
+    "แกพ",
+    "Person"
+  ],
+  "Knox": [
+    "น็อกซ์",
+    "Other"
+  ],
+  "Lion": [
+    "ไลออน",
+    "Person"
+  ],
+  "Rika": [
+    "ริกะ",
+    "Person"
+  ],
+  "Rosa": [
+    "โรซ่า",
+    "Person"
+  ],
+  "Sayo": [
+    "ซาโย",
+    "Person"
+  ],
+  "Yasu": [
+    "ยาสึ",
+    "Person"
+  ],
+  "SSVD": [
+    "SSVD",
+    "Faction"
+  ],
+  "Eva": [
+    "เอวา",
+    "Person"
+  ]
+}

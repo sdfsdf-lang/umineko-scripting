@@ -13,8 +13,15 @@
 - Workspace TStudio: C:\Users\iamna\THub_Workspace\Umineko
 - CSV ที่ต้องแปล   : th_work\csv\ep1 ... ep8, omake  (บทพูด)
                      th_work\csv\script            (เมนู/ระบบ)
-- Glossary         : th_work\glossary.csv  (English,Thai,Note)
-- พรอมต์เสริม AI   : th_work\tstudio_prompt_addon.txt
+- Glossary         : th_work\glossary.csv  (English,Thai,Note) ใช้กับ qa_check
+                     th_work\glossary.json + สำเนาใน csv\ep1..ep8, omake,
+                     script\glossary.json  <- TStudio โหลดเองตอนเปิด CSV
+                     (แก้คำศัพท์ = ต้องแก้ทั้ง csv และ json ทุกโฟลเดอร์)
+- Style guide      : th_work\style_guide_th.md (สรรพนาม/น้ำเสียงตัวละคร,
+                     คำลงท้ายชื่อ, เสียงหัวเราะ, บทจารึก ฯลฯ — ตัดสินใจครบแล้ว)
+- พรอมต์เสริม AI   : th_work\tstudio_prompt_addon.txt (ฉบับ 2: บริบท + แท็ก
+                     + น้ำเสียงตัวละครจาก style guide; ฉบับเก่าสำรองที่
+                     tstudio_prompt_addon_v1_backup.txt)
 - รายงาน QA        : th_work\qa\
 
 เครื่องมือ (th_tools\) — รันจากโฟลเดอร์ repo เสมอ
@@ -135,9 +142,11 @@
   (รวมทั้งหมด 172 ไฟล์ ประมาณ 131,155 บรรทัด)
 
 ก่อนเริ่ม ep แรก:
-  [ ] เติม th_work\glossary.csv: ชื่อตัวละคร, ศัพท์เฉพาะ
-      (red truth, Golden Land, Endless Witch ฯลฯ) และสรรพนาม
-      หลายตัวสะกดคั่นด้วย |
+  [x] Glossary 210 คำ (csv + json ทุกโฟลเดอร์) — 23 พ.ย. 2026
+  [x] Style guide (th_work\style_guide_th.md) — ใช้ตัวเลือกที่แนะนำทุกข้อ
+  [ ] วาง tstudio_prompt_addon.txt ฉบับ 2 ลงกล่อง 3 แทนฉบับเก่า
+  [ ] บทจารึกแม่มด (Witch's Epitaph): หลังแปลเสร็จ ให้แทนด้วยฉบับแปล
+      ตายตัวใน style_guide_th.md (ยาวเกินจะส่งไปกับทุก batch)
 
 ขั้นตอนต่อ 1 episode (เช่น ep2):
   1. TStudio > Batch AI Runner (F2) > "คิวไฟล์ภายนอก"
@@ -261,7 +270,7 @@ Repo layout that matters
 - th_work\csv\<ep>\<name>.csv + <name>.umimeta.json   story CSVs.
 - th_work\csv\script\menu.csv, header.csv (+ .umimeta.json,
   .skipped.txt)  UI CSVs.
-- th_work\glossary.csv, th_work\tstudio_prompt_addon.txt, th_work\qa\
+- th_work\glossary.csv (+ glossary.json in th_work and every csv\<ep> folder for TStudio), th_work\style_guide_th.md (approved Thai style guide: pronouns, honorifics, voices), th_work\tstudio_prompt_addon.txt (v2 incl. condensed style section), th_work\qa\
 - .github\workflows\main.yml  "CI (Thai WH)".
 
 Story file format
