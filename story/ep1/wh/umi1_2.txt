@@ -1,891 +1,891 @@
-`The boat gave a big shudder. `
-`Seems we've docked at the harbor. `
-`The boat driver came out and jumped to the pier with the mooring rope. `
-`A large man in a tuxedo was waiting there for us with a warm smile. `
-`......I didn't recognize his face, but judging by his clothes, I guessed he was a servant of the Ushiromiya Head Household. `
-`"Welcome home, Milady. `
-`You were so late in returning that I began to worry." `
-`"Ah, thanks for caring! `
-`This moron got so scared, `
-`we had to slow down. `
-`It was seriously annoying!" `
-`"Sh-Shut up... Someday, when the shoe's on the other foot, you'll remember this...ugghh." `
-`At this rate, word'll spread to the whole family, and I'll be the big conversation piece during dinner. `
-`Even without this, everyone'd be talking about me because of that six year gap, ...but now I've given them an even juicier topic...! `
-`Dammit, why does the Ushiromiya Head Family have to live on this isolated island?! `
-`In the meantime, the boat had finished its mooring. `
-`A small plank was lowered so that we could get down. `
-`One by one, our parents came up from inside the boat. `
-`"You must all be quite tired from your long trip. `
-`Madam, please allow me to assist you." `
-`"Thank you. `
-`It's been a while, Gohda-san. How are you?" `
-`"I thank you for your concern. `
-`It is always my pleasure to serve." `
-`"Battler-kun, isn't this your first time meeting Gohda-san? `
-`If I'm not mistaken, you weren't working here six years ago, right?" `
-`"Indeed. `
-`So please, allow me to greet him for the first time. `
-`It is an honor to meet you, Battler-sama." `
-`"......I'm pretty confident about my height, but you're huge. `
-`...This is definitely our first meeting. `
-`I'd never forget meeting a big guy like you...! `
-`It's a pleasure. `
-`I'm Battler." `
-`"I was looking forward to meeting you. `
-`I am Gohda ({p:0:郷田}), your servant, and I have been working for the Ushiromiya Head Family since the year before l `st. `
-`It is a pleasure to make your acquaintance. `
-`If there is anything you need, please feel free to rely on me at any time." `
-`"Gohda-san, it's been some time." `
-`"It has been too long, George-sama. `
-`Please, allow me to assist you." `
-`"As usual, you're a pro at welcoming guests... `
-`If you ever need a job, just let me know, okay? `
-`I'd hire you anytime!" `
-`"You do me too much honor. `
-`Please allow me to assist you, Hideyoshi-sama." `
-`Gohda-san then lent a hand to everyone as they disembarked, greeting them as they passed. `
-`His speech and mannerisms had the refined polish of a professional. `
-`He was very graceful, in contrast with his initially tough-looking appearance. `
-`His large size made him seem a bit scary at first, but he was much more polite than my first impression had led me to believe. `
-`He claimed to have served on the island for two years, but he had doubtless worked at a similar job somewhere before. `
-`After everybody disembarked, the mooring rope was untied and the boat started to steer away from the harbor. `
-`It was probably returning to its home port on Niijima. `
-`The captain waved his hand in farewell. `
-`Maria conscientiously waved her hand back. `
-`"............Hmmm, now that I think about it, that must be why I've felt something out of place for a while now. `
-`I can't hear the cries of the seagulls." `
-`"Seagulls? `
-`The birds?" `
-`If I remember correctly, whenever we came to this island in the past, the seagulls always greeted us with their lively "nyaa nyaa" cries. `
-`Because of that, whenever I hear the cries of seagulls anywhere else, I get the feeling that I'm coming to a family conference. `
-`Except for the small part of the island where those of the Ushiromiya Head Family live,  Rokkenjima has been left uncultivated, which apparently makes it a paradise for wild birds. `
-`Supposedly, there was a cliff somewhere that housed a huge seagull colony, so this island was always full of seagulls. `
-`Not having those seagulls here to greet us made me feel a bit lonely. `
-`"What's wrong, Battler-kun?" `
-`"Oh, Aunt Rosa. `
-`...Nah, it's nothing really, I was just thinking it's a bit lonely without the cries of the seagulls." `
-`"My, that's true, now that you mention it. `
-`Even though they're always so noisy, today there isn't one to be seen." `
-`"......Uu-? `
-`Why no seagulls?" `
-`"Hmmm, maybe it's because the seagulls are having a get-together somewhere too? `
-`Maria, did you want to see the seagulls?" `
-`"Uu-, wanted to see them." `
-`"Still, it's a bit strange there isn't even a single one around. `
-`Maybe Jessica grilled 'em all and ate 'em!" `
-`"......Uu-?!" `
-`"The hell, don't say disturbing stuff like that! `
-`You'll get Maria believing it!!" `
-`"Uu-uu-uu-! `
-`Jessica onee-chan grilled 'em, Jessica onee-chan grilled 'em! `
-`Uu-!!" `
-`"I did not, I did not! `
-`Why the hell would I do something like that?!" `
-`"That's right, that's riiight, Jessica grilled 'em! `
-`Skin 'n meatballs, liver 'n oniooon!" `
-`"Swim in meat dolls! `
-`Liver 'n oniooon!! `
-`Uu-uu-uu-! `
-`Ahaha, ahaha! `
-`Hahahaha!" `
-`As I made fun of Jessica, Maria tagged along, looking like she was having fun. `
-`Ooh, I never guessed she was such a good sport! `
-`Alrighty then, from today on I'll make you my number one follower! `
-`As I smiled at her, she beamed, looking overjoyed, possibly because she was happy about this little connection we'd made with each other. `
-`"That's not it, Maria-chan. `
-`I've heard wild birds are attuned to changes in the weather and atmospheric pressure. `
-`The weather will probably get worse tonight. `
-`The seagulls might've returned to their nests early." `
-`".........Uu-. `
-`Not grilled? `
-`Jessica onee-chan didn't grill 'em?" `
-`"No, no!! `
-`I-I wouldn't do something like that! `
-`Battler, you admit right now that you lied!" `
-`"Battler-kun, `
-`Maria-chan is a naive girl, so she takes even jokes seriously. `
-`You should choose your jokes more carefully." `
-`...George-aniki gently scolded me. `
-`...Even though I outstripped Aniki in height, Aniki was Aniki, of course. `
-`There was no choice but to obediently apologize. `
-`"S-Sure, `
-`my bad, my bad... `
-`Maria, that was a joke. `
-`The seagulls are all taking it easy in their nests today, that's all." `
-`"......Battler lied? `
-`George onii-chan told the truth?" `
-`Had she actually been tricked, despite all that fun she was having...? `
-`Her pure eyes made me feel guilty. `
-`......Maybe I went a little overboard with her after all. `
-`"Yeeaah, that's right, that's right. `
-`What George-aniki said is true. `
-`The weather's bad, so they probably went home for the day. `
-`It doesn't mean they're gone. `
-`Right, Aunt Rosa?!" `
-`"That's right. `
-`Tomorrow, when the weather gets better, I'm sure they'll come back so we can hear them cry "myaa myaa" like they always do." `
-`"Uu-. `
-`I'll wait until the weather gets better and they come back. `
-`Gonna wait until tomorrow. `
-`Gonna wait until the weather's better. `
-`Uu-uu-!" `
-`Maria was in a lighter mood and was looking forward to tomorrow, when the seagulls would come back and fill the skies. `
-`Still, George-aniki really was amazing at taking care of kids. `
-`...I think I remember Aniki taking good care of me as well when I was a brat six years ago. `
-`......Aniki, that's probably your gift. `
-`"George-kun is amazing at taking care of young kids. `
-`If you wanted to, I'll bet you'd do great with a job in childcare, don't you think?" `
-`"Yeah, it's almost like George nii-san was born to do something like that. `
-`Personally, I think that'd suit you better than doing business in some company president's office." `
-`"Oh, no. `
-`Childcare is a fine career path, `
-`but it's not a job where merely liking children is enough." `
-`"You really are modest, George-kun. `
-`But Battler-kun is quite good with children too! `
-`Just a second ago, even though it didn't last long, Maria seemed to be having a lot of fun. `
-`Please, keep on playing with her like you did just now. `
-`Just choose your jokes more carefully, okay? `
-`*giggle*." `
-`Aunt Rosa winked at me, giggling a little. `
-`She's a real mother, I thought to myself, who's happy to see Maria having fun. `
-`"Come ON, Rosa. `
-`And you brats too, what the hell're you doing? Let's get going." `
-`"Okay, okay, we're coming." `
-`The old bastard was waving for us to hurry up. `
-`Yeah, we needed to get moving. `
-`We might as well have this conversation after setting our luggage down in our rooms. `
-`"Now then, everyone, allow me to lead you to the guesthouse, where you will be spending the night. `
-`Please, this way." `
-`Gohda-san called to everyone and led the way. `
-`Kumasawa-san brought up the rear. `
-`A serpentine, twisting path led through a dim forest. `
-`It ran a bit uphill. `
-`I'd guess the path was made all twisty so the slope wouldn't seem too steep, `
-`but personally, I'd have been happier if they'd had the guts to make some stairs in a straight line. `
-`......No doubt they made the path twist on purpose, to put on airs of distance and importance... `
-`Before long, we saw garden-style stone steps. `
-`...Aaah, from here on, I do have some memories. `
-`Go up these, and... `
-`At the top of the stone steps, we saw a beautiful guesthouse. `
-`Its facade was lovely, of course, but more importantly, `
-`......we couldn't enter its doors without having our hearts stolen away by the splendor of the beautiful rose garden spreading before it. `
-`"Aaah! `
-`It's as beautiful as ever this year... `
-`A real delight for the eyes..." `
-`After climbing the stone steps, the people greeted by this rose garden gave voice to their impressions one by one. `
-`"Is it just me, or are the flowers a little less lively this year? `
-`It's probably because it wasn't that hot this summer." `
-`"I also believe that was a factor. `
-`Sadly, this year's blooming is a tad inferior when compared to last year's." `
-`Even so, it was a delightful rose garden. `
-`I remembered that even six years ago, huge numbers of roses had greeted us every year. `
-`...This rose garden was the first thing that greeted the people who came to Rokkenjima. `
-`Even our parents, who came every year, couldn't help but give voice to their admiration. `
-`In fact, it seemed to have undergone a power-up from the garden in my memories of six years ago. `
-`"This place is always so amazing. `
-`It would be wonderful to have a rose garden like this at home." `
-`"Give it up. `
-`Who do you think would take care of it? Roses are a real pain, with bugs and diseases to worry about." `
-`"Well, from what I've heard, `
-`Kyrie nee-san takes care of her rose every day and makes sure no bugs get anywhere near it, right?" `
-`"Huh? `
-`What are you talking about?" `
-`"That's right. `
-`Though in this person's case, the rose goes after the insects like some nasty carnivorous plant." `
-`"...Oh, so that's what you mean. `
-`C'mon, Rosa, can't you give that a rest just for today? `
-`I've put that sort of thing completely behind me." `
-`"I wonder. `
-`After all, you're a womanizer on an almost genetic level...!" `
-`"No need to worry, Rosa-san. `
-`When a rose gives you too much trouble, it's always best to snip it at the root." `
-`"Hohohohoh, such frightening talk this is." `
-`"Guys who're popular with the ladies are always forced to live dangerously. `
-`I sure hope I turn out a bit prettier in my next life!" `
-`"Hideyoshi nii-san, like I keep saying, it isn't like that at all. `
-`...And Kyrie...stop it, you're freaking me out. `
-`You've made my rose wilt." `
-`"Hey, Maria-chan, look over here. `
-`These roses are especially magnificent." `
-`"...Magnificent roses. `
-`...Uu-!" `
-`"Hmmm, smells pretty sweet. `
-`Look, this suits my elegance perfectly." `
-`"Hey, cut it out! `
-`Maria's gonna imitate you and get hurt by the thorns!" `
-`She yelled at me as I leaned in to smell the rose's scent with an exaggerated gesture. `
-`...I thought she was overreacting, but when I turned around, I saw Maria imitating my every gesture and George-aniki smiling broadly at us. `
-`"Hey now, Maria-chan, be careful. `
-`Rose thorns can hurt." `
-`"......Uu-? `
-`......George onii-chan, `
-`only this rose is strange. `
-`Uu-." `
-`"Strange? `
-`What's wrong?" `
-`Maria pointed at a single rose. `
-`I immediately understood why she found it odd. `
-`In the midst of all these magnificent roses, one single rose was just starting to wilt. `
-`There wasn't any particular reason. `
-`Some roses flourish, and others wilt. `
-`That's all there was to it, but Maria seemed very concerned about the only unhealthy one in the group. `
-`...It must have made her feel lonely. `
-`"So, you feel sad for this rose because it's the only one that isn't healthy...?" `
-`"......Uu-. `
-`The others are all healthy, but this one's sad." `
-`"Well, they all bloom and wither at their own paces. `
-`I'll bet this one's just starting to wilt early 'cause it got to bloom before any of the others." `
-`"Yeah, that's right. `
-`It probably just bloomed like crazy, fulfilled its duty and went to sleep. `
-`You shouldn't get so worked up about it." `
-`".........Uu-." `
-`It seemed that Maria's pure, sensitive nature was making her feel some emotional pain for the rose that wilted alone. `
-`Even though she understood the logic of it, it still felt lonely to her. `
-`"Then, Maria-chan, `
-`why don't you look after this rose until we leave?" `
-`"Uu-?" `
-`George-aniki straightened up and felt around in his pocket. `
-`He then took out the wrapper from the candy he had been sucking on the plane. `
-`He twisted it into a thin string, then gently tied it to the rose as a sort of marker. `
-`"Heeey, that's pretty cute!" `
-`"Let's mark it with this. `
-`Later on, you can come and give it some water. `
-`I'm sure Mr. Rose will be happy." `
-`"......Uu-! `
-`Come to give it water!" `
-`"I think you should give Mr. Rose here a name. `
-`I'm sure that'll make it happy, and you'll get to know it a little better." `
-`"A name...? `
-`A name... `
-`......Uu-uu-..." `
-`Though she still wore her usual sullen face, Maria crossed her arms and began to consider this intently. `
-`At the very least, she appeared to have been completely pulled out of her slump. `
-`Nice going, Aniki. `
-`"George nii-san has always been really understanding. `
-`Can't help but respect him." `
-`"Yeah. `
-`I guess he was just born that way. `
-`We've gotta start picking up tips!" `
-`"Was this garden just as magnificent when you all were kids?" `
-`"It was only after I stopped living here that it grew so big. `
-`Before that, the garden was simpler, though I'm still attached to that one. `
-`Nii-san fiddled with it too much, with that vaguely bad taste of his. `
-`I liked it much better before." `
-`"Eva, you've gotta think positive! `
-`Settin' aside how it used to look, its beauty now is somethin' to be admired. `
-`You'll be able to relax a lot better if you look at it that way." `
-`"I didn't mean it like that... `
-`I was just saying that I wanted you to see this garden the way it was before too." `
-`"Everyone, if you please, `
-`I shall guide you to your rooms now." `
-`Gohda-san called to everyone to ask if we were ready, `
-`but our hearts had been completely stolen away by the rose garden that none of us had seen for a year, so we didn't pay much attention to him. `
-`Since we weren't a travel group, it wasn't like we had a strict schedule to follow. `
-`Besides, since our parents were visiting their old home, full of nostalgia, it wasn't like they had to let themselves be urged on by anyone or anything. `
-`Understanding the situation, Gohda-san continued to wait, smiling widely, until our parents got tired of the roses and told him to guide us to our rooms... `
-`"Oh...?! `
-`Heeey! `
-`If it isn't Kanon-kun! `
-`It's been so long! How are ya doin'?!" `
-`Uncle Hideyoshi suddenly shouted. `
-`In the direction he was waving... `
-`...was a slender boy. `
-`Meeting him right after a huge man like Gohda probably emphasized his small stature. `
-`The boy was in the middle of transporting piled-up gardening tools and the like in a wheelbarrow. `
-`When he realized he was being called to stop, he set down the wheelbarrow, took his hat off and bowed his head. `
+`เรือกระตุกอย่างแรงหนึ่งครั้ง `
+`ดูเหมือนพวกเราจะเทียบท่าแล้ว `
+`คนขับเรือเดินออกมาและกระโดดขึ้นท่าพร้อมกับเชือกผูกเรือ `
+`ชายร่างใหญ่ในชุดทักซิโดกำลังยืนรอพวกเราอยู่ตรงนั้นด้วยรอยยิ้มอบอุ่น `
+`......ผมไม่คุ้นหน้าเขาเลย แต่ดูจากเครื่องแต่งกายแล้ว คงเป็นคนรับใช้ของตระกูลหลักอุชิโรมิยะ `
+`"ยินดีต้อนรับกลับครับผม คุณหนู `
+`เห็นกลับมาช้ากว่ากำหนด กระผมเลยเริ่มเป็นห่วงอยู่พอดีครับผม" `
+`"อ๊ะ ขอบใจที่เป็นห่วงนะ! `
+`ก็ไอ้งั่งคนนี้ดันกลัวจนลนลาน `
+`พวกเราเลยต้องชะลอเรือน่ะสิ `
+`น่ารำคาญเป็นบ้าเลย!" `
+`"หุ-หุบปากไปเลย... วันไหนถึงคราวเธอโดนบ้างแล้วจะจำไว้... อึ่ก" `
+`ถ้าเป็นแบบนี้ต่อไป ข่าวคงแพร่ไปทั่วทั้งบ้าน แล้วผมคงกลายเป็นหัวข้อสนทนาจานโตบนโต๊ะอาหารค่ำแน่ `
+`ถึงไม่มีเรื่องนี้ ทุกคนก็คงคุยเรื่องของผมเพราะช่องว่างหกปีนั่นอยู่แล้ว... แต่นี่ผมดันป้อนเรื่องชวนขบขันให้อีกหนึ่งดอก...! `
+`บัดซบเอ๊ย ทำไมตระกูลหลักอุชิโรมิยะต้องมาอยู่บนเกาะโดดเดี่ยวแบบนี้ด้วยเนี่ย?! `
+`ในระหว่างนั้น เรือก็ผูกเชือกเสร็จเรียบร้อย `
+`แผ่นไม้เล็กๆ ถูกพาดลงมาเพื่อให้พวกเราเดินลงไปได้ `
+`บรรดาพ่อแม่ต่างพากันเดินทยอยออกมาจากห้องโดยสารทีละคน `
+`"ทุกท่านคงเหน็ดเหนื่อยจากการเดินทางอันยาวนานสินะครับผม `
+`คุณผู้หญิงครับ ให้กระผมช่วยนะครับผม" `
+`"ขอบใจนะ `
+`ไม่ได้เจอกันนานเลยนะ คุณโกดะ สบายดีไหมจ๊ะ?" `
+`"ขอบพระคุณที่เป็นห่วงครับผม `
+`กระผมยินดีรับใช้เสมอครับผม" `
+`"แบทเลอร์คุง นี่คงเป็นครั้งแรกที่ได้เจอคุณโกดะสินะจ๊ะ? `
+`ถ้าจำไม่ผิด เมื่อหกปีก่อนเธอยังไม่ได้ทำงานที่นี่ใช่ไหม?" `
+`"ถูกต้องแล้วครับผม `
+`ถ้าเช่นนั้น ขออนุญาตทักทายเป็นครั้งแรกนะครับผม `
+`เป็นเกียรติอย่างยิ่งที่ได้พบครับผม คุณแบทเลอร์" `
+`"......ผมค่อนข้างมั่นใจในความสูงของตัวเองแท้ๆ แต่นายตัวใหญ่ชะมัด `
+`...นี่เพิ่งเคยเจอกันครั้งแรกแน่นอนครับ `
+`ถ้าเคยเจอคนตัวใหญ่ขนาดนี้ผมไม่มีทางลืมหรอก...! `
+`ยินดีที่ได้รู้จักครับ `
+`ผมแบทเลอร์ครับ" `
+`"กระผมเฝ้ารอที่จะได้พบท่านอยู่พอดีเลยครับผม `
+`กระผมชื่อโกดะ ({p:0:郷田}) เป็นคนรับใช้ที่เข้ามาทำงานให้ตระกูลหลักอุชิโรมิยะตั้งแต่ปีก่อนนู้นครับผม `
+`ยินดีที่ได้รู้จักเป็นอย่างยิ่งครับผม `
+`หากมีสิ่งใดให้รับใช้ โปรดเรียกหากระผมได้ทุกเมื่อเลยนะครับผม" `
+`"คุณโกดะ ไม่ได้เจอกันนานเลยนะครับ" `
+`"ไม่ได้พบกันเสียนานเลยครับผม คุณจอร์จ `
+`มาครับ ให้กระผมช่วยนะครับผม" `
+`"ต้อนรับแขกได้มืออาชีพเหมือนเคยเลยนะ... `
+`ถ้าอยากเปลี่ยนงานเมื่อไหร่ก็บอกฉันได้เลยนะ รู้ไหม? `
+`ฉันพร้อมรับเธอเข้าทำงานทุกเมื่อเลย!" `
+`"ให้เกียรติกันเกินไปแล้วครับผม `
+`ให้กระผมช่วยนะครับผม คุณฮิเดโยชิ" `
+`จากนั้นคุณโกดะก็ช่วยพยุงทุกคนตอนลงจากเรือ พลางกล่าวทักทายไปทีละคน `
+`ทั้งกิริยาและคำพูดของเขาดูขัดเกลามาอย่างดีสมเป็นมืออาชีพ `
+`เขานุ่มนวลและสง่างามมาก ผิดกับรูปลักษณ์ภายนอกที่แวบแรกดูดุดัน `
+`รูปร่างใหญ่โตทำให้เขาดูน่ากลัวนิดหน่อยในตอนแรก แต่เขากลับสุภาพกว่าความประทับใจแรกที่ผมคิดไว้มาก `
+`เขาบอกว่าทำงานบนเกาะนี้มาได้สองปีแล้ว แต่คงเคยทำงานทำนองนี้จากที่อื่นมาก่อนเป็นแน่ `
+`หลังจากทุกคนลงจากเรือเรียบร้อย เชือกผูกเรือก็ถูกปลดออก แล้วเรือก็เริ่มแล่นห่างจากท่าไป `
+`คงจะแล่นกลับไปยังท่าเรือต้นทางที่เกาะนีจิมะ `
+`กัปตันโบกมือลา `
+`มาเรียโบกมือตอบกลับอย่างตั้งอกตั้งใจ `
+`"............หืม พอนึกดูแล้ว มิน่าล่ะถึงรู้สึกแปลกๆ มาตั้งแต่เมื่อกี้แล้ว `
+`ไม่ได้ยินเสียงนกนางนวลร้องเลยว่ะ" `
+`"นกนางนวลเหรอ? `
+`นกน่ะนะ?" `
+`ถ้าจำไม่ผิด เวลามาที่เกาะนี้เมื่อก่อน ฝูงนกนางนวลจะคอยส่งเสียงร้องเนี้ยวๆ ต้อนรับพวกเราอย่างคึกคักเสมอ `
+`ด้วยเหตุนั้น พอไปได้ยินเสียงนกนางนวลร้องที่อื่น ผมก็มักจะรู้สึกเหมือนกำลังจะไปร่วมการประชุมเครือญาติทุกที `
+`นอกจากพื้นที่ส่วนเล็กๆ บนเกาะที่คนของตระกูลหลักอุชิโรมิยะอาศัยอยู่แล้ว เกาะร็อกเค็นจิมะก็ถูกปล่อยทิ้งไว้ตามธรรมชาติ ดูเหมือนว่าที่นี่จะเป็นสวรรค์ของนกป่าเลยทีเดียว `
+`เห็นว่ามีหน้าผาแห่งหนึ่งที่เป็นแหล่งทำรังขนาดใหญ่ของนกนางนวล เกาะนี้ก็เลยเต็มไปด้วยนกนางนวลมาตลอด `
+`พอไม่มีนกนางนวลเหล่านั้นมารอต้อนรับ ก็ทำให้รู้สึกเหงาขึ้นมานิดๆ `
+`"มีอะไรเหรอจ๊ะ แบทเลอร์คุง?" `
+`"อ๊ะ น้าโรซ่า `
+`...เปล่าหรอกครับ ไม่มีอะไร แค่คิดว่าพอไม่มีเสียงนกนางนวลร้องแล้วมันดูเหงาๆ พิลึกน่ะครับ" `
+`"แหม พอทักขึ้นมาก็จริงด้วยนะ `
+`ปกติจะส่งเสียงดังกันแท้ๆ แต่วันนี้กลับไม่เห็นสักตัวเลย" `
+`"......อู-? `
+`ทำไมไม่มีนกนางนวลล่ะ?" `
+`"หืม นกนางนวลอาจจะกำลังไปรวมตัวกันอยู่ที่ไหนสักแห่งเหมือนพวกเราก็ได้นะจ๊ะ? `
+`มาเรีย อยากเจอนกนางนวลเหรอจ๊ะ?" `
+`"อู- อยากเจอนะ" `
+`"ถึงอย่างนั้น ไม่มีอยู่สักตัวเดียวแบบนี้มันก็แปลกอยู่นา `
+`สงสัยเจสสิก้าคงจับย่างกินหมดแล้วมั้งเนี่ย!" `
+`"......อู-?!" `
+`"อะไรของนายวะ อย่ามาพูดเรื่องสยองพรรค์นั้นนะโว้ย! `
+`เดี๋ยวมาเรียก็เชื่อขึ้นมาหรอก!!" `
+`"อู-อู-อู-! `
+`พี่เจสสิก้าย่างกิน พี่เจสสิก้าย่างกิน! `
+`อู-!!" `
+`"ไม่ได้ทำเว้ย ไม่ได้ทำสักหน่อย! `
+`ฉันจะไปทำเรื่องบ้าๆ แบบนั้นทำไมเล่า?!" `
+`"จริงด้วย จริงด้ววย เจสสิก้าย่างกินไปแล้ว! `
+`หนังไก่กะลูกชิ้น ตับไก่กะต้นหอมมม!" `
+`"หนั่งไก่กะหลุกชิ้น! `
+`ตับไก่กะต้นหอมมม!! `
+`อู-อู-อู-! `
+`อะฮ่าฮ่า อะฮ่าฮ่า! `
+`ฮ่าฮ่าฮ่าฮ่า!" `
+`พอผมล้อเลียนเจสสิก้า มาเรียก็ผสมโรงตามอย่างสนุกสนาน `
+`โอ้โห ไม่นึกเลยว่าจะรับมุกเก่งขนาดนี้! `
+`เอาล่ะ ตั้งแต่วันนี้ไปฉันจะแต่งตั้งเธอให้เป็นสมุนหมายเลขหนึ่งเลย! `
+`พอผมยิ้มให้ เธอส่งยิ้มกว้างกลับมาด้วยสีหน้าเปี่ยมสุข อาจเป็นเพราะดีใจที่พวกเราสนิทสนมกันได้เร็วขนาดนี้ `
+`"ไม่ใช่อย่างนั้นหรอกนะ มาเรียจัง `
+`พี่เคยได้ยินมาว่า พวกนกป่าจะไวต่อสภาพอากาศและความกดอากาศมากน่ะ `
+`คืนนี้สภาพอากาศคงจะแย่ลง `
+`พวกนกนางนวลก็เลยอาจจะรีบกลับเข้ารังกันไปก่อนแล้วก็ได้นะ" `
+`".........อู- `
+`ไม่ได้ย่างเหรอ? `
+`พี่เจสสิก้าไม่ได้จับไปย่างเหรอ?" `
+`"ไม่ใช่นะเฟ้ย!! `
+`ฉ-ฉันไม่ทำเรื่องพรรค์นั้นหรอกน่า! `
+`แบทเลอร์ สารภาพมาเดี๋ยวนี้เลยนะว่าแกโกหกน่ะ!" `
+`"แบทเลอร์คุง `
+`มาเรียจังเป็นเด็กไร้เดียงสานะ ถึงเป็นมุกตลกก็ยังปักใจเชื่อจริงจัง `
+`คราวหลังจะเล่นมุกอะไรก็เลือกให้ดีกว่านี้หน่อยสิ" `
+`...พี่จอร์จดุผมเบาๆ `
+`...ถึงผมจะตัวสูงแซงพี่เขาไปแล้ว แต่พี่ยังไงก็คือพี่วันยังค่ำ `
+`ก็เลยไม่มีทางเลือกอื่นนอกจากต้องยอมขอโทษแต่โดยดี `
+`"ค-ครับๆ `
+`ฉันผิดไปแล้ว โทษทีๆ... `
+`มาเรีย ล้อเล่นน่ะ `
+`วันนี้พวกนกนางนวลแค่นอนพักผ่อนสบายๆ อยู่ในรังกันเฉยๆ เท่านั้นแหละ" `
+`"......แบทเลอร์โกหกเหรอ? `
+`พี่จอร์จพูดความจริงเหรอ?" `
+`ทั้งที่สนุกขนาดนั้น แท้จริงแล้วโดนหลอกสนิทเลยงั้นเหรอ...? `
+`แววตาอันไร้เดียงสาของเธอทำให้ผมรู้สึกผิดขึ้นมา `
+`......ดูท่าฉันจะแกล้งเธอแรงไปหน่อยจริงๆ สินะ `
+`"ช่ายแล้ว ถูกต้องเลย ถูกต้องเลย `
+`ที่พี่จอร์จพูดน่ะเรื่องจริง `
+`เพราะอากาศแย่ วันนี้ก็เลยพากันกลับบ้านน่ะ `
+`ไม่ได้หมายความว่าพวกมันหายไปไหนหรอก `
+`ใช่มั้ยครับ น้าโรซ่า?!" `
+`"ใช่จ้ะ `
+`พรุ่งนี้พออากาศดีขึ้น พวกมันต้องกลับมาร้อง "เหมียวๆ" ให้เราได้ยินเหมือนเคยแน่นอน" `
+`"อู- `
+`จะรอจนกว่าอากาศจะดีขึ้นแล้วพวกมันกลับมา `
+`จะรอจนถึงพรุ่งนี้ `
+`จะรอจนกว่าอากาศจะดีขึ้น `
+`อู-อู-!" `
+`มาเรียอารมณ์ดีขึ้นและเฝ้ารอคอยวันพรุ่งนี้ วันที่ฝูงนกนางนวลจะบินกลับมาเต็มท้องฟ้า `
+`จะว่าไปแล้ว พี่จอร์จดูแลเด็กเก่งชะมัด `
+`...ผมจำได้ลางๆ ว่าตอนที่ยังเป็นเด็กเมื่อหกปีก่อน พี่เขาก็คอยดูแลผมอย่างดีเหมือนกัน `
+`......พี่เนี่ย คงเป็นพรสวรรค์เฉพาะตัวละมั้ง `
+`"จอร์จคุงดูแลเด็กเก่งจังเลยนะจ๊ะ `
+`น้าว่าถ้าเธอคิดอยากทำ คงทำงานด้านการดูแลเด็กได้รุ่งแน่ๆ ว่ามั้ย?" `
+`"นั่นสิ เหมือนพี่จอร์จเกิดมาเพื่อทำเรื่องแบบนั้นเลย `
+`ฉันว่างานแบบนั้นเหมาะกับพี่มากกว่าไปนั่งทำธุรกิจในห้องประธานบริษัทตั้งเยอะ" `
+`"ไม่หรอกครับ `
+`งานดูแลเด็กเป็นสายอาชีพที่ยอดเยี่ยมก็จริง `
+`แต่ไม่ใช่แค่งานที่อาศัยเพียงความชอบเด็กอย่างเดียวจะทำได้หรอกครับ" `
+`"ถ่อมตัวจริงนะจ๊ะ จอร์จคุง `
+`แต่แบทเลอร์คุงเองก็เข้ากับเด็กเก่งเหมือนกันนี่! `
+`เมื่อกี้นี้ถึงจะเป็นแค่ช่วงสั้นๆ แต่มาเรียก็ดูสนุกมากเลย `
+`คราวหลังก็ช่วยเล่นกับเธอเหมือนเมื่อกี้อีกนะจ๊ะ `
+`แค่เลือกมุกตลกให้รอบคอบกว่านี้หน่อยละกันนะ? `
+`คิกๆ" `
+`น้าโรซ่าขยิบตาให้ผมพลางหัวเราะคิกๆ `
+`เธอเป็นแม่ที่ดีจริงๆ เลยนะ ที่มีความสุขเวลาเห็นมาเรียสนุกสนาน—ผมคิดในใจ `
+`"เอ้า เร็วเข้าสิ โรซ่า `
+`แล้วพวกแกด้วย มัวทำบ้าอะไรกันอยู่? ไปกันได้แล้ว" `
+`"จ้าๆ กำลังไปแล้วจ้ะ" `
+`ตาแก่โบกมือเร่งพวกเรา `
+`ใช่แล้ว ต้องรีบไปกันได้แล้ว `
+`ค่อยไปคุยต่อหลังจากเอาสัมภาระไปวางไว้ในห้องแล้วก็ยังไม่สาย `
+`"ถ้าเช่นนั้น ขอเชิญทุกท่านตามกระผมไปยังเกสต์เฮาส์ซึ่งเป็นที่พักค้างคืนในครั้งนี้เลยครับผม `
+`เชิญทางนี้เลยครับผม" `
+`คุณโกดะเอ่ยปากเรียกทุกคนแล้วเดินนำทางไป `
+`คุณคุมาซาวะเดินรั้งท้าย `
+`ทางเดินคดเคี้ยวเลี้ยวลดทอดยาวผ่านป่าอันสลัว `
+`เส้นทางลาดขึ้นเนินเล็กน้อย `
+`คงทำทางให้คดเคี้ยวเพื่อไม่ให้รู้สึกว่าชันเกินไปละมั้ง `
+`แต่สำหรับผม ถ้ากล้าสร้างบันไดตรงดิ่งไปเลยคงจะดีใจกว่านี้แท้ๆ `
+`......คงจงใจทำให้คดเคี้ยวเพื่อวางท่าให้ดูโอ่อ่ามีระยะห่างสินะเนี่ย... `
+`อีกไม่นาน บันไดหินแบบสวนก็ปรากฏแก่สายตา `
+`...อา พอถึงตรงนี้ ผมก็พอจะจำอะไรได้บ้างแล้ว `
+`ถ้าขึ้นบันไดพวกนี้ไปล่ะก็... `
+`บนยอดบันไดหิน เกสต์เฮาส์อันงดงามก็ปรากฏขึ้น `
+`ตัวอาคารภายนอกนั้นงดงามเป็นทุนเดิมอยู่แล้ว แต่ที่ยิ่งไปกว่านั้นคือ `
+`......ไม่มีใครก้าวเข้าประตูไปได้โดยไม่ถูกความตระการตาของสวนกุหลาบอันงดงามที่แผ่กว้างอยู่เบื้องหน้าช่วงชิงหัวใจไปเสียก่อน `
+`"อ้าา! `
+`ปีนี้ก็ยังสวยงามไม่เปลี่ยนเลยนะ... `
+`ช่างเจริญหูเจริญตาจริงๆ..." `
+`หลังขึ้นบันไดหินมา ผู้คนที่ได้รับการต้อนรับจากสวนกุหลาบแห่งนี้ต่างก็พากันเอ่ยความประทับใจออกมาทีละคน `
+`"ฉันคิดไปเองหรือเปล่านะ หรือว่าปีนี้ดอกไม้ดูไม่ค่อยสดชื่นเท่าไหร่? `
+`คงเพราะหน้าร้อนปีนี้ไม่ค่อยร้อนล่ะมั้ง" `
+`"กระผมเองก็คิดว่าเป็นเพราะปัจจัยนั้นเช่นกันครับผม `
+`น่าเสียดายที่ปีนี้ดอกไม้บานสู้ปีกลายไม่ได้นิดหน่อยครับผม" `
+`ถึงอย่างนั้น มันก็เป็นสวนกุหลาบที่น่ารื่นรมย์อยู่ดี `
+`ผมจำได้ว่าแม้แต่เมื่อหกปีก่อน กุหลาบจำนวนมหาศาลก็คอยต้อนรับพวกเราอยู่ทุกปีเช่นกัน `
+`...สวนกุหลาบแห่งนี้คือสิ่งแรกที่คอยต้อนรับผู้มาเยือนเกาะร็อกเค็นจิมะ `
+`แม้แต่พวกพ่อแม่ที่มากันทุกปีก็ยังอดเอ่ยปากชื่นชมไม่ได้ `
+`อันที่จริง ดูเหมือนมันจะได้รับการอัปเกรดให้ยิ่งใหญ่กว่าสวนในความทรงจำเมื่อหกปีก่อนของผมเสียอีก `
+`"ที่นี่สุดยอดอยู่เสมอเลยนะ `
+`ถ้าที่บ้านมีสวนกุหลาบแบบนี้บ้างก็คงวิเศษน่าดู" `
+`"เลิกคิดไปเถอะน่า `
+`คิดว่าใครจะเป็นคนดูแลล่ะหืม? กุหลาบน่ะเรื่องยุ่งยากจะตาย ทั้งโรคทั้งแมลงให้ต้องคอยห่วง" `
+`"แหม เท่าที่ฉันได้ยินมา `
+`พี่คิริเอะคอยดูแลกุหลาบของตัวเองทุกวัน ไม่ให้มีแมลงเฉียดเข้าไปใกล้เลยไม่ใช่เหรอจ๊ะ?" `
+`"หา? `
+`พูดเรื่องอะไรของเธอน่ะ?" `
+`"ใช่แล้วล่ะ `
+`แต่ในกรณีของคนคนนี้น่ะ กุหลาบจะไล่จับแมลงเหมือนพืชกินแมลงจอมโหดเลยต่างหาก" `
+`"...อ๋อ หมายถึงเรื่องนั้นเองเรอะ `
+`โธ่ โรซ่า เลิกแซวเรื่องนั้นสักวันไม่ได้รึไง? `
+`เรื่องพรรค์นั้นฉันทิ้งไว้ข้างหลังหมดแล้วน่า" `
+`"จริงเหรอจ๊ะ `
+`ก็แหม พี่น่ะเจ้าชู้เข้าขั้นอยู่ในระดับพันธุกรรมเลยนี่นา...!" `
+`"ไม่ต้องกังวลไปหรอกค่ะ คุณโรซ่า `
+`ถ้ากุหลาบสร้างปัญหามากนัก ทางที่ดีที่สุดก็คือตัดทิ้งตั้งแต่โคนต้นค่ะ" `
+`"โฮ่ะโฮ่ะโฮ่ะ ช่างเป็นเรื่องที่น่ากลัวจังเลยนะคะ" `
+`"พวกหนุ่มเนื้อหอมกับสาวๆ เนี่ย มักต้องใช้ชีวิตแขวนอยู่บนเส้นด้ายเสมอเลยนะ `
+`ชาติหน้าฉันขอเกิดมาหน้าตาดีขึ้นอีกสักนิดก็แล้วกัน!" `
+`"พี่ฮิเดโยชิ ก็บอกไปตั้งหลายรอบแล้วไงว่ามันไม่ได้เป็นแบบนั้นเลยสักนิด `
+`...แล้วก็คิริเอะ...หยุดเถอะ เธอทำฉันหลอนไปหมดแล้ว `
+`เล่นเอากุหลาบของฉันเหี่ยวเฉาหมดแล้วเนี่ย" `
+`"นี่ มาเรียจัง ดูตรงนี้สิ `
+`กุหลาบตรงนี้งดงามเป็นพิเศษเลยนะ" `
+`"...กุหลาบงดงาม `
+`...อู-!" `
+`"หืม กลิ่นหอมหวานใช้ได้เลย `
+`ดูสิ ช่างเข้ากับความสง่างามของฉันแบบไร้ที่ติจริงๆ" `
+`"นี่ หยุดเลยนะเว้ย! `
+`เดี๋ยวมาเรียก็เลียนแบบนายจนโดนหนามทิ่มหรอก!" `
+`เธอตะโกนใส่ผม ขณะที่ผมกำลังโน้มตัวลงไปดมกลิ่นกุหลาบด้วยท่าทางเล่นใหญ่ `
+`...ผมนึกว่าเธอจะตื่นตูมเกินไป แต่พอย้อนหันกลับไปมอง ก็เห็นมาเรียกำลังเลียนแบบท่าทางของผมทุกกระเบียดนิ้ว และพี่จอร์จก็กำลังยิ้มกว้างให้พวกเรา `
+`"เอาน่า มาเรียจัง ระวังหน่อยนะ `
+`หนามกุหลาบมันเจ็บนะ" `
+`"......อู-? `
+`......พี่จอร์จ `
+`มีแค่กุหลาบดอกนี้ที่แปลกไป `
+`อู-" `
+`"แปลกเหรอ? `
+`มีอะไรเหรอ?" `
+`มาเรียชี้ไปที่กุหลาบดอกหนึ่ง `
+`ผมเข้าใจได้ในทันทีว่าทำไมเธอถึงรู้สึกแปลกใจ `
+`ท่ามกลางกุหลาบอันงดงามเหล่านี้ มีเพียงดอกเดียวที่เพิ่งเริ่มเหี่ยวเฉา `
+`มันไม่ได้มีเหตุผลอะไรเป็นพิเศษ `
+`กุหลาบบางดอกก็เบ่งบาน และบางดอกก็โรยรา `
+`มันก็แค่นั้นเอง ทว่ามาเรียกลับดูเป็นกังวลกับดอกเดียวในกลุ่มที่ไม่สมบูรณ์แข็งแรงนี้มากเหลือเกิน `
+`...มันคงทำให้เธอรู้สึกเหงาละมั้ง `
+`"แปลว่า รู้สึกสงสารกุหลาบดอกนี้เพราะมันไม่แข็งแรงอยู่ดอกเดียวสินะ...?" `
+`"......อู- `
+`ดอกอื่นแข็งแรงกันหมดเลย แต่ดอกนี้น่าสงสาร" `
+`"ก็นะ ดอกไม้แต่ละดอกมันก็มีจังหวะเวลาบานกับเหี่ยวเฉาของมันเองนี่นา `
+`ดอกนี้คงแค่เริ่มเหี่ยวเร็วกว่าเพื่อน เพราะมันบานก่อนดอกอื่นเท่านั้นแหละ" `
+`"ใช่แล้ว ตามนั้นเลย `
+`มันคงบานเต็มที่จนหมดหน้าที่แล้วก็เลยหลับไปมั้ง `
+`ไม่ต้องไปคิดมากขนาดนั้นหรอกน่า" `
+`".........อู-" `
+`ดูเหมือนจิตใจอันบริสุทธิ์และอ่อนไหวของมาเรีย จะทำให้เธอรู้สึกเจ็บปวดแทนกุหลาบที่เหี่ยวเฉาอยู่ตามลำพัง `
+`แม้เธอจะเข้าใจเหตุผล แต่ในความรู้สึกของเธอมันก็ยังดูอ้างว้างอยู่ดี `
+`"ถ้าอย่างนั้น มาเรียจัง `
+`สนใจช่วยดูแลกุหลาบดอกนี้จนกว่าพวกเราจะกลับไหมล่ะ?" `
+`"อู-?" `
+`พี่จอร์จยืดตัวขึ้นแล้วล้วงหาอะไรบางอย่างในกระเป๋า `
+`จากนั้นเขาก็ดึงเปลือกลูกอมที่ตัวเองอมตอนอยู่บนเครื่องบินออกมา `
+`เขาบิดมันให้เป็นเส้นเชือกบางๆ แล้วผูกเข้ากับดอกกุหลาบอย่างเบามือเพื่อเป็นเครื่องหมาย `
+`"เฮ้ น่ารักดีนี่หว่า!" `
+`"ทำสัญลักษณ์ไว้ด้วยสิ่งนี้นะ `
+`เดี๋ยวค่อยมารดน้ำให้มันทีหลัง `
+`คุณกุหลาบจะต้องดีใจแน่นอนเลยล่ะ" `
+`"......อู-! `
+`จะมารดน้ำให้!" `
+`"พี่ว่าตั้งชื่อให้คุณกุหลาบดอกนี้ด้วยดีกว่านะ `
+`มันต้องดีใจแน่ๆ แถมจะทำให้เราสนิทกับมันมากขึ้นด้วย" `
+`"ชื่อเหรอ...? `
+`ชื่อ... `
+`......อู-อู-..." `
+`แม้จะยังทำหน้าบูดบึ้งตามปกติ แต่มาเรียก็กอดอกแล้วเริ่มครุ่นคิดอย่างจริงจัง `
+`อย่างน้อยที่สุด เธอก็ดูเหมือนจะหลุดพ้นจากอารมณ์ซึมกะทือได้เป็นปลิดทิ้งแล้ว `
+`เยี่ยมไปเลยครับ พี่จอร์จ `
+`"พี่จอร์จเนี่ยเข้าใจคนอื่นดีตลอดเลยนะ `
+`อดนับถือไม่ได้จริงๆ ว่ะ" `
+`"นั่นสิ `
+`คงเกิดมาเป็นคนแบบนั้นอยู่แล้วล่ะมั้ง `
+`พวกเราต้องเริ่มจำไปใช้บ้างแล้วสิ!" `
+`"ตอนพวกเธอเด็กๆ สวนนี้มันงดงามแบบนี้เหมือนกันไหมล่ะ?" `
+`"มันเพิ่งจะมาขยายใหญ่โตขนาดนี้หลังจากที่ฉันย้ายออกไปต่างหากล่ะ `
+`ก่อนหน้านั้น สวนมันดูเรียบง่ายกว่านี้ แต่ฉันก็ยังผูกพันกับแบบเดิมมากกว่านะ `
+`พี่เคราส์ไปดัดแปลงมันมากเกินไป ด้วยรสนิยมที่บอกไม่ถูกว่าแย่แค่ไหนของเขานั่นแหละ `
+`ฉันชอบแบบเมื่อก่อนมากกว่าตั้งเยอะ" `
+`"เอวา เธอต้องคิดในแง่บวกเข้าไว้สิ! `
+`ละเรื่องที่มันเคยเป็นยังไงไว้ก่อนเถอะ ความสวยงามในตอนนี้มันก็เป็นอะไรที่น่าชื่นชมไม่ใช่เรอะ `
+`ถ้ามองแบบนั้น เธอจะรู้สึกผ่อนคลายขึ้นเยอะเลยนะ" `
+`"ฉันไม่ได้หมายความแบบนั้นสักหน่อย... `
+`ฉันก็แค่อยากให้คุณได้เห็นสวนแห่งนี้ในแบบเมื่อก่อนด้วยเหมือนกันต่างหากล่ะ" `
+`"ทุกท่านครับ ถ้าหากพร้อมแล้ว `
+`ผมจะขอนำทางไปยังห้องพักเดี๋ยวนี้เลยครับผม" `
+`คุณโกดะเอ่ยถามทุกคนว่าพร้อมกันหรือยัง `
+`แต่หัวใจของพวกเราถูกช่วงชิงไปโดยสวนกุหลาบที่ไม่มีใครได้เห็นมาตลอดทั้งปีเสียแล้ว จึงไม่ได้ใส่ใจเขาสักเท่าไหร่ `
+`เนื่องจากพวกเราไม่ใช่กรุ๊ปทัวร์ ก็เลยไม่มีกำหนดการเคร่งครัดอะไรที่ต้องทำตาม `
+`ยิ่งไปกว่านั้น ในเมื่อเหล่าพ่อแม่กำลังมาเยือนบ้านเก่าอันเต็มไปด้วยความหลัง จึงไม่มีเหตุผลให้ต้องยอมให้ใครหรืออะไรมาเร่งเร้า `
+`เมื่อเข้าใจสถานการณ์ คุณโกดะจึงยังคงรอต่อไปด้วยรอยยิ้มกว้าง จนกว่าเหล่าพ่อแม่จะชมกุหลาบจนหนำใจแล้วบอกให้เขานำทางไปยังห้องพัก... `
+`"โอ๊ะ...?! `
+`เฮ้~~ย! `
+`นั่นคาน่อนคุงไม่ใช่เรอะ! `
+`ไม่ได้เจอกันตั้งนาน! สบายดีไหมเนี่ย?!" `
+`ลุงฮิเดโยชิตะโกนขึ้นมาอย่างกะทันหัน `
+`ณ ทิศทางที่เขากำลังโบกมือไป... `
+`...มีเด็กหนุ่มร่างผอมเพรียวคนหนึ่งอยู่ตรงนั้น `
+`การได้พบเขาต่อจากชายร่างใหญ่อย่างโกดะ คงยิ่งขับเน้นให้เห็นถึงรูปร่างอันบอบบางของเขาชัดเจนขึ้น `
+`เด็กหนุ่มคนนั้นกำลังเข็นรถเข็นล้อเดียวที่บรรทุกเครื่องมือทำสวนและของอื่นๆ กองพะเนิน `
+`เมื่อรู้ตัวว่าถูกเรียกให้หยุด เขาก็วางรถเข็นลง ถอดหมวกออก แล้วก้มศีรษะ `
 `"............ `
-`...Good afternoon." `
-`...I figured he was probably younger than me. `
-`And I realized by the general atmosphere surrounding him that he was another servant. `
-`He greeted us in response to Uncle Hideyoshi's call, but he seemed like he might be pretty unsociable most of the time. `
-`It was a greeting that lacked feeling. `
-`When Gohda-san noticed that our interest had shifted towards him, he went to the boy's side and introduced him to us. `
-`"Battler-sama, allow me to introduce you. `
-`This is one of the servants of the Ushiromiya Head Household. `
-`...Kanon-san, greet our guest." `
-`"............I'm pleased to meet you. `
-`I am the servant......... `
-`Kanon ({p:0:嘉音 `)." `
-`Yep, my first impression wasn't wrong. He seemed to be unsociable, or at least not so good at talking. `
-`Compared to Gohda-san, who was extraordinarily polished as a servant, `
-`you couldn't help but feel an inexperience typical of his age. `
-`When Gohda-san urged him in a whisper to give a bit more of an introduction, the boy named Kanon only cast his eyes downwards. `
-`"Kanon-san, `
-`could you perhaps give them a little more of a greeting...?" `
-`".........No. `
-`.........Because we... `
-`are furniture." `
-`He didn't seem to be refusing to greet us out of spite. `
-`Rather, he seemed to have fallen silent because he didn't know what else to say to us in greeting. `
-`"W-Well, Kanon-kun's shy and doesn't tend to talk much. `
-`He might not be that sociable, but deep down he's really a good person! `
-`Don't get him wrong...! `
-`You've been working here for three years, haven't you? `
-`Pretty sure you started a year before Gohda-san, right?" `
-`Even though he wasn't exactly giving a terrible first impression, Jessica hurriedly backed him up. `
-`...I see, apparently his unsociable nature causes him trouble a lot. `
-`"Okay then, nice to meet you. `
-`I'm Battler! `
-`I'm 18. How old are you?" `
+`...สวัสดีตอนบ่ายครับ" `
+`...ผมเดาว่าเขาน่าจะอายุน้อยกว่าผม `
+`และจากบรรยากาศโดยรอบที่แผ่ออกมาจากตัวเขา ผมก็รู้ได้ทันทีว่าเขาเป็นคนรับใช้อีกคนหนึ่ง `
+`เขากล่าวทักทายตอบรับเสียงเรียกของลุงฮิเดโยชิ ทว่าดูท่าทางแล้วปกติคงจะไม่ค่อยชอบสุงสิงกับใครสักเท่าไหร่ `
+`มันเป็นคำทักทายที่ไร้ความรู้สึกโดยสิ้นเชิง `
+`เมื่อคุณโกดะสังเกตเห็นว่าพวกเราเริ่มหันมาสนใจเด็กหนุ่มคนนั้น เขาก็เดินไปยืนข้างๆ แล้วแนะนำให้พวกเรารู้จัก `
+`"คุณแบทเลอร์ครับ ขอผมแนะนำให้รู้จักนะครับ `
+`นี่คือหนึ่งในคนรับใช้ของตระกูลสายหลักอุชิโรมิยะครับ `
+`...คุณคาน่อน ทักทายแขกหน่อยสิครับ" `
+`"............ยินดีที่ได้พบครับ `
+`ผมเป็นคนรับใช้......... `
+`คาน่อน ({p:0:嘉音)" `
+`นั่นไง ความประทับใจแรกของผมไม่ผิดเลย ดูเหมือนเขาจะไม่ค่อยเข้าสังคม หรืออย่างน้อยก็คงพูดไม่เก่ง `
+`เมื่อเทียบกับคุณโกดะที่ดูเชี่ยวชาญในฐานะคนรับใช้อย่างยิ่งแล้ว `
+`ก็อดไม่ได้ที่จะรู้สึกถึงความไร้ประสบการณ์สมวัยของเขา `
+`พอคุณโกดะกระซิบคยั้นคะยอให้เขาแนะนำตัวเพิ่มอีกนิด เด็กหนุ่มที่ชื่อคาน่อนก็ทำเพียงหลุบตาต่ำลง `
+`"คุณคาน่อนครับ `
+`ช่วยทักทายพวกเขาให้มากกว่านี้อีกสักนิดได้ไหมครับ...?" `
+`".........ไม่ครับ `
+`.........เพราะพวกเรา... `
+`คือเครื่องเรือนครับ" `
+`ดูเหมือนเขาไม่ได้ปฏิเสธที่จะทักทายเพราะความมุ่งร้ายแต่อย่างใด `
+`แต่ดูเหมือนเขาจะเงียบไปเพราะไม่รู้ว่าจะกล่าวทักทายพวกเราอย่างไรต่อมากกว่า `
+`"ก-ก็ คาน่อนคุงเขาขี้อายแล้วก็ไม่ค่อยพูดนี่นา `
+`เขาอาจจะไม่ค่อยเข้าสังคม แต่ลึกๆ แล้วเป็นคนดีมากเลยนะ! `
+`อย่าเข้าใจเขาผิดล่ะ...! `
+`นายทำงานที่นี่มาสามปีแล้วใช่ไหมล่ะ? `
+`จำได้ว่าเริ่มก่อนคุณโกดะปีนึงใช่ไหมล่ะ?" `
+`ทั้งที่ความประทับใจแรกของเขาไม่ได้แย่ขนาดนั้นแท้ๆ แต่เจสสิก้าก็รีบช่วยแก้ต่างให้ทันควัน `
+`...เข้าใจละ ดูท่าความไม่ชอบเข้าสังคมคงจะสร้างปัญหาให้เขาอยู่บ่อยๆ สินะ `
+`"เอาละ ยินดีที่ได้รู้จักนะ `
+`ฉันชื่อแบทเลอร์! `
+`อายุ 18 แล้ว นายอายุเท่าไหร่ล่ะ?" `
 `"..........................." `
-`He fell silent, as though wondering whether or not it was a question he'd have to answer. `
-`...But here again, Jessica plowed ahead. `
-`"Um, uhh...! `
-`If I remember correctly, Kanon's two years younger than us, so...sixteen, right?" `
-`".........Yes, ...that is correct." `
-`It looked like he would've preferred not to tell us his age if given the choice. `
-`That was probably because he thought we'd look down on him for it. `
-`...I remember that when I was around his age, I hated being asked how old I was by adults. `
-`...I see, sixteen huh? `
-`That's gotta be a delicate time. `
-`...Which means I probably asked something I shouldn't have. `
-`"Heh heh, I'm glad you're about our age! `
-`Just be cool and call me Battler! `
-`And I'll call you Kanon!" `
-`".........Thank you very much. `
-`But the sentiment alone is sufficient, ...Battler-sama." `
-`Jessica looked panicky for some reason. `
-`She seemed to think my impression of Kanon was getting worse because of his refusal. `
-`Well, as a girl, Jessica probably couldn't understand the fretful male heart at this age. `
-`As his elder, even by just two years, I took it upon myself to be understanding of that. `
-`"Kanon-san, could you perhaps be a little more courteous? `
-`A smiling face is also part of a servant's duty." `
-`"...............My apologies. `
-`...I shall make an effort." `
-`"Hohohoh... `
-`Gohda-san, Kanon-kun is trying his best, yes?" `
-`It looked like he was often warned about being unsociable. `
-`And apparently he hadn't improved one bit. `
-`Gohda-san kept his business smile but let a small sigh of resignation escape. `
-`"...Well then, I still have work to do. `
-`......If you'll excuse me." `
-`It looked like Kanon himself was uncomfortable with remaining silent here any longer. `
-`After another perfunctory bow, he turned around and started pushing the wheelbarrow again. `
-`Just then, the wheelbarrow suddenly wobbled and fell, scattering the load. `
-`I guess the wheelbarrow's single wheel got caught on a pebble and lost its balance. `
-`"What do you think you're doing...? Now, now, clean it up quickly...!" `
-`Gohda-san urged him to hurry in a quiet voice, as though hinting that it was shameful for a servant to appear clumsy in front of guests. `
-`Kanon-kun wordlessly reloaded the wheelbarrow with the fallen objects, as if to say that he understood quite well without being told. `
-`He seemed to be fine with the light-looking gardening tools, shovels and such, but he looked like he was having trouble getting his arms around and lifting up some sacks of fertilizer. `
-`"Are you okay? You're so careless. `
-`Here." `
-`"Milady, you will dirty your garments. `
-`Please, leave this to us." `
-`With a smooth motion, Gohda-san took the shovel that Jessica had picked up. `
-`Behind him, Kanon-kun was having trouble with the sacks of fertilizer. `
-`"......Uu-. `
-`You'll dirty your garments?" `
-`"Don't worry, the ones I'm wearing aren't that expensive. `
-`Besides, I hate guys who just sit there and make the waitress pick up the fork they dropped at a restaurant." `
-`I lifted up the other bags that had fallen. `
-`Of course, they weren't light, but for me it was a piece of cake. `
-`Kanon-kun looked at me, surprised. `
-`It was the face of someone who never would've expected to receive help from a guest. `
-`"............B-Battler-sama, `
-`don't worry about it... I will take care of everything, so..." `
-`"Don't you worry! `
-`I may not look it, but I've got it where it counts! `
-`Heheh!" `
-`Since Kanon-kun looked like he hadn't yet gone through his growth spurt, he was stuck with a sorta weak body. `
-`This kind of weight might've been too much for him. `
-`"It's quite heavy. `
-`It's natural that it would be difficult for you. `
-`Don't worry about it, Kanon-kun." `
-`"Okay, my time to shine. `
-`This makes up for the boat stuff from before, right?" `
-`"Ha! `
-`As if this could make up for freaking out like that! `
-`Ahahaha! `
-`Later, I'll tell you about it too, Kanon-kun! Battler was totally hilarious!" `
-`"Gonna faaall, faaall!! `
-`Uu-uu-uu-!!!" `
-`As they did this, I piled all the stuff back into the wheelbarrow. `
-`"............I beg your forgiveness...for letting you witness such unsightliness." `
-`"Come now, that's quite enough. `
-`Please, go." `
-`Letting the guests, who were supposed to feel welcome, see such a disgraceful thing... must have been hideously embarrassing for a servant. `
-`Pressed by Gohda to hurry up and go, Kanon-kun left. `
-`"You're too harsh on him, Gohda-san. `
-`Shouldn't you have helped him, instead of being a bully?" `
-`"...That was wrong of me. `
-`I deeply implore your forgiveness." `
-`Without even a twitch in his smile, Gohda-san apologized elegantly. `
-`"Kanon-kun has a ton a things he's good at too. `
-`It's just that bein' young works against him all the time. `
-`It's a cryin' shame." `
-`"Well, it's a prickly age. `
-`Let's just leave him be. `
-`After all, closed-mouthed servants are the best kind. `
-`Isn't that right, Kumasawa-san?" `
-`"Hohohohoh, Rudolf-sama, you truly are harsh! `
-`There is no servant as silent as me, of course!" `
-`Everyone smiled wryly at that obvious lie. `
-`Even she herself didn't believe that, not in her wildest dreams. `
-`So, she must've said it to lighten the mood. `
-`Yeah, that's the kind of character Kumasawa baa-chan used to be. `
-`The once stiff atmosphere had cleared up at once thanks to her cheerful smile. `
-`"I'd like to set down our luggage soon. `
-`Gohda-san, what rooms are we all going to take?" `
-`"It shall be the same as the previous year. `
-`Allow me to guide you. `
-`Please, this way." `
-`We headed towards a trim, elegantly simple guesthouse. `
-`This was gonna be our temporary quarters for the night. `
+`เขาเงียบไป ราวกับกำลังชั่งใจว่านั่นเป็นคำถามที่จำเป็นต้องตอบหรือไม่ `
+`...แต่ตรงนี้เจสสิก้าก็โพล่งแทรกขึ้นมาอีก `
+`"เอ่อ แบบว่า...! `
+`ถ้าจำไม่ผิด คาน่อนอายุน้อยกว่าพวกเราสองปี ก็...สิบหกใช่ไหม?" `
+`".........ครับ ...ถูกต้องแล้วครับ" `
+`ดูเหมือนว่าถ้าเลือกได้ เขาก็คงไม่อยากบอกอายุให้พวกเรารู้ `
+`นั่นคงเป็นเพราะเขากลัวว่าพวกเราจะดูถูกเรื่องอายุละมั้ง `
+`...ผมจำได้ว่าตอนที่อายุรุ่นราวคราวเดียวกับเขา ผมเกลียดการถูกผู้ใหญ่ถามอายุเป็นบ้า `
+`...งั้นเหรอ สิบหกสินะ `
+`คงเป็นช่วงวัยที่เปราะบางน่าดู `
+`...แปลว่าผมคงถามสิ่งที่ไม่ควรถามไปซะแล้ว `
+`"ฮะๆ ดีจังที่อายุรุ่นราวคราวเดียวกัน! `
+`ทำตัวตามสบายแล้วเรียกฉันว่าแบทเลอร์เถอะ! `
+`แล้วฉันก็จะเรียกนายว่าคาน่อนด้วย!" `
+`".........ขอบพระคุณมากครับ `
+`แต่แค่ความหวังดีก็เพียงพอแล้วครับ ...คุณแบทเลอร์" `
+`เจสสิก้าดูตื่นตระหนกขึ้นมาด้วยเหตุผลบางอย่าง `
+`ดูเหมือนเธอจะคิดว่าความประทับใจที่ผมมีต่อคาน่อนจะแย่ลงเพราะคำปฏิเสธนั้น `
+`ก็นะ ในฐานะเด็กผู้หญิง เจสสิก้าคงไม่เข้าใจจิตใจที่กระวนกระวายของเด็กหนุ่มวัยนี้หรอก `
+`ในฐานะคนที่แก่กว่าแม้จะแค่สองปี ผมเลยคิดเอาเองว่าควรจะเข้าใจจุดนี้ `
+`"คุณคาน่อนครับ ช่วยสุภาพให้มากกว่านี้อีกสักนิดจะได้ไหมครับ? `
+`รอยยิ้มก็เป็นหน้าที่ส่วนหนึ่งของคนรับใช้นะครับ" `
+`"...............ขออภัยด้วยครับ `
+`...ผมจะพยายามครับ" `
+`"โฮ่ะโฮ่ะโฮ่ะ... `
+`คุณโกดะ คาน่อนคุงเขาก็พยายามเต็มที่แล้วไม่ใช่เหรอคะ?" `
+`ดูเหมือนเขาจะถูกเตือนเรื่องไม่เข้าสังคมอยู่บ่อยๆ `
+`และดูท่าจะไม่ได้ปรับปรุงตัวขึ้นเลยแม้แต่น้อย `
+`คุณโกดะยังคงรักษารอยยิ้มตามหน้าที่ไว้ แต่ก็แอบถอนหายใจอย่างยอมจำนนออกมาเบาๆ `
+`"...ถ้าเช่นนั้น ผมยังมีงานต้องทำต่อ `
+`......ขอตัวก่อนครับ" `
+`ดูเหมือนตัวคาน่อนเองก็อึดอัดที่จะต้องยืนเงียบอยู่ตรงนี้นานไปกว่านี้แล้ว `
+`หลังค้อมศีรษะตามมารยาทอีกครั้ง เขาก็หันหลังกลับแล้วเริ่มเข็นรถเข็นล้อเดียวต่อไป `
+`ในตอนนั้นเอง รถเข็นก็โคลงเคลงกะทันหันก่อนจะล้มคว่ำ ข้าวของที่บรรทุกมาหล่นกระจายเกลื่อน `
+`คงเป็นเพราะล้อเดี่ยวของรถเข็นไปสะดุดก้อนกรวดเข้าจนเสียสมดุลละมั้ง `
+`"ทำอะไรของคุณน่ะครับ...? เอ้า รีบเก็บเข้าเร็ว...!" `
+`คุณโกดะเร่งเขาด้วยเสียงแผ่วเบา ราวกับจะบอกเป็นนัยว่ามันน่าอับอายแค่ไหนที่คนรับใช้มาทำซุ่มซ่ามต่อหน้าแขกแบบนี้ `
+`คาน่อนคุงขนข้าวของที่หล่นกลับขึ้นรถเข็นอย่างเงียบเชียบ ราวกับจะบอกว่าไม่ต้องให้ใครเตือนเขาก็เข้าใจดีอยู่แล้ว `
+`พวกอุปกรณ์ทำสวนที่ดูเบาอย่างพลั่วหรืออะไรเทือกนั้นดูเหมือนจะไม่มีปัญหา แต่พอยกกระสอบปุ๋ย ดูเหมือนเขาจะลำบากไม่น้อยในการโอบแขนแล้วยกมันขึ้นมา `
+`"เป็นอะไรรึเปล่า? ซุ่มซ่ามจริงเชียว `
+`เอามานี่" `
+`"คุณหนูครับ เดี๋ยวเสื้อผ้าจะเปรอะเปื้อนเอานะครับ `
+`ได้โปรดปล่อยให้เป็นหน้าที่ของพวกเราเถอะครับ" `
+`คุณโกดะรับพลั่วที่เจสสิก้าหยิบขึ้นมาด้วยท่วงท่าอันคล่องแคล่ว `
+`ข้างหลังเขา คาน่อนคุงกำลังทุลักทุเลอยู่กับกระสอบปุ๋ย `
+`"......อู- `
+`เสื้อผ้าจะเปรอะเปื้อนเหรอ?" `
+`"ไม่ต้องห่วง ชุดที่ฉันใส่อยู่นี่ไม่ได้แพงอะไรขนาดนั้นหรอก `
+`อีกอย่าง ฉันเกลียดพวกคนที่นั่งเฉยๆ แล้วปล่อยให้พนักงานเสิร์ฟก้มเก็บส้อมที่ตัวเองทำตกในร้านอาหารที่สุดเลยว่ะ" `
+`ผมช่วยยกกระสอบที่เหลือซึ่งหล่นอยู่ขึ้นมา `
+`แน่นอนว่ามันไม่ได้เบาเลย แต่สำหรับผมแล้วเรื่องแค่นี้กล้วยๆ `
+`คาน่อนคุงมองผมด้วยความประหลาดใจ `
+`นั่นเป็นสีหน้าของคนที่ไม่เคยคาดคิดมาก่อนว่าจะได้รับความช่วยเหลือจากแขก `
+`"............ค-คุณแบทเลอร์ `
+`ไม่ต้องลำบากหรอกครับ... เดี๋ยวผมจัดการเองทั้งหมด เพราะฉะนั้น..." `
+`"ไม่ต้องเกรงใจน่า! `
+`เห็นแบบนี้แต่ฉันก็มีแรงเอาเรื่องอยู่นะเว้ย! `
+`ฮะๆ!" `
+`เนื่องจากคาน่อนคุงดูเหมือนยังไม่ถึงช่วงที่ร่างกายยืดตัว รูปร่างก็เลยยังดูบอบบางอยู่หน่อยๆ `
+`น้ำหนักขนาดนี้คงจะหนักเกินไปสำหรับเขาละมั้ง `
+`"มันค่อนข้างหนักทีเดียวนะครับ `
+`ยกไม่ไหวก็เป็นเรื่องธรรมดาแล้วละ `
+`ไม่ต้องคิดมากนะ คาน่อนคุง" `
+`"เอาละ ได้เวลาฉันโชว์ฝีมือละ `
+`แค่นี้ก็ถือว่าลบล้างเรื่องบนเรือเมื่อกี้ได้แล้วใช่ไหมล่ะ?" `
+`"เหอะ! `
+`แค่นี้มันจะไปลบล้างความแตกตื่นขนาดนั้นได้ยังไงกันเล่า! `
+`อะฮ่าฮ่าฮ่า! `
+`เดี๋ยวไว้ฉันจะเล่าให้ฟังด้วยนะ คาน่อนคุง! แบทเลอร์ตอนนั้นตลกเป็นบ้าเลยล่ะ!" `
+`"จะล้มแล้~ว ล้มแล้~ว!! `
+`อู-อู-อู-!!!" `
+`ระหว่างที่พวกนั้นคุยกัน ผมก็ขนของทั้งหมดกลับขึ้นไปบนรถเข็น `
+`"............ต้องขออภัยด้วยครับ...ที่ทำให้ต้องมาเห็นภาพอันน่าอับอายเช่นนี้" `
+`"เอาละ พอได้แล้วครับ `
+`เชิญไปได้แล้วครับ" `
+`การให้แขกที่ควรจะได้รับการต้อนรับอย่างอบอุ่น มาเห็นสภาพน่าขายหน้าแบบนั้น... สำหรับคนรับใช้แล้วคงเป็นเรื่องที่น่าอับอายขายหน้าอย่างยิ่ง `
+`เมื่อโดนคุณโกดะเร่งให้รีบไป คาน่อนคุงจึงเดินจากไป `
+`"ใจร้ายกับเขาเกินไปแล้วนะ คุณโกดะ `
+`แทนที่จะรังแกกัน น่าจะช่วยเขามากกว่าไม่ใช่เหรอจ๊ะ?" `
+`"...กระผมทำไม่สมควรไปแล้ว `
+`ต้องกราบขออภัยอย่างสูงครับผม" `
+`รอยยิ้มของคุณโกดะไม่กระตุกแม้แต่น้อยขณะกล่าวขอโทษอย่างสง่างาม `
+`"คาน่อนคุงเองก็มีเรื่องเก่งๆ ตั้งเยอะแยะนา `
+`เพียงแต่ความที่ยังเด็กมันมักจะกลายเป็นผลเสียอยู่เรื่อย `
+`น่าเสียดายจริงๆ นะ" `
+`"เอาน่า วัยกำลังเลือดร้อนนี่นะ `
+`ปล่อยเขาไปเถอะน่า `
+`อีกอย่าง คนรับใช้ที่ปากหนักน่ะดีที่สุดแล้ว `
+`จริงไหมครับ คุณคุมาซาวะ?" `
+`"โฮ่ะโฮ่ะโฮ่ะ คุณรูดอล์ฟนี่ปากร้ายจริงเชียวค่ะ! `
+`ไม่มีคนรับใช้คนไหนเงียบเรียบร้อยเท่าดิฉันอีกแล้วนะคะ!" `
+`ทุกคนต่างยิ้มเจื่อนให้กับคำโกหกคำโตนั้น `
+`แม้แต่ตัวแกเองก็คงไม่เชื่ออย่างนั้นแน่ๆ อย่าว่าแต่ฝันไปเลย `
+`เพราะงั้น แกคงพูดเพื่อช่วยคลี่คลายบรรยากาศสินะ `
+`ใช่แล้ว คุณป้าคุมาซาวะก็เป็นคนแบบนี้มาแต่ไหนแต่ไร `
+`บรรยากาศที่เคยตึงเครียดพลันผ่อนคลายลงทันตาด้วยรอยยิ้มร่าเริงของแก `
+`"ฉันอยากจะรีบเอาสัมภาระไปเก็บสักหน่อยนะ `
+`คุณโกดะ พวกเราพักห้องไหนกันบ้างคะ?" `
+`"เหมือนกับปีที่แล้วขอรับ `
+`ขออนุญาตนำทางนะขอรับ `
+`เชิญทางนี้เลยครับผม" `
+`พวกเรามุ่งหน้าไปยังเกสต์เฮาส์ทรงเรียบร้อยและเรียบหรู `
+`ที่นี่จะเป็นที่พักชั่วคราวสำหรับพวกเราในค่ำคืนนี้ `
 `".........................................." `
-`Kanon watched over a hedge as the guests all entered the guesthouse. `
-`Then, he let his eyes fall on those heavy sacks of fertilizer, piled up in the wheelbarrow. `
-`In his mind, he kept going over his previous mistake. `
-`Battler, big and strong, had picked up the sacks in front of him, the sacks Kanon couldn't lift himself, as if they were feathers. `
-`It would be extremely difficult for an outside observer to guess what emotions that favor had stirred up in Kanon. `
-`But as far as you could tell by watching him hang his head, there was something that he just couldn't let go of. `
-`...Muttered words escaped his lips. `
-`But those words he murmured were so soft that they didn't reach even his own ears. `
-`...............Even I... `
+`คาน่อนเฝ้ามองเหล่าแขกเหรื่อเดินเข้าไปในเกสต์เฮาส์ผ่านพุ่มไม้ `
+`จากนั้น สายตาของเขาก็เหลือบมองกระสอบปุ๋ยหนักอึ้งที่กองซ้อนกันอยู่บนรถเข็นล้อเดียว `
+`ในหัวเขายังคงนึกวนเวียนถึงความผิดพลาดเมื่อครู่นี้ `
+`แบทเลอร์ร่างใหญ่กำยำยกกระสอบตรงหน้าที่คาน่อนเองยังยกไม่ขึ้นได้ราวกับว่ามันเบาราวขนนก `
+`คงยากยิ่งสำหรับคนนอกที่จะคาดเดาได้ว่า ความหวังดีนั้นได้ปลุกเร้าอารมณ์ความรู้สึกใดขึ้นมาในใจของคาน่อน `
+`แต่เท่าที่ดูจากการที่เขาก้มหน้านิ่ง ก็พอรู้ได้ว่ามีบางสิ่งที่ไม่ยอมหลุดพ้นไปจากใจเขา `
+`...ถ้อยคำพึมพำหลุดลอดออกมาจากริมฝีปากของเขา `
+`ทว่าคำที่เขาพึมพำนั้นแผ่วเบาเสียจนแม้แต่หูของตนเองก็ยังไม่ได้ยิน `
+`...............แม้แต่ผม... `
 `.................." `
-`Kanon hung his head, slightly biting his lower lip... `
-`"I remember the rose garden, `
-`...but I don't remember this guesthouse at all. `
-`Was it built recently?" `
-`"Toraian" (Visitor's Retreat) was written on a gatepost-like thing, but since everyone called it the guesthouse, I followed their lead. `
-`The brand-new Western-style guesthouse, which stood overlooking the roses, had a magnificent design carefully done in harmony with the garden. `
-`"Correct! `
-`It was built the year before last. `
-`Ever since then, they've had us sleep over here." `
-`"Heheh, this place is more fun than that junky old mansion you knew. `
-`I wish my room was over here!" `
-`"Uu-! `
-`I want a room here too! `
-`I want one!" `
-`...I guess you could say my own house was upper-class, but to me, it felt completely ordinary compared to the Head Family. `
-`The display of wealth was shocking, as was the fact that they'd build this kind of awesome guesthouse for guests who came over only a few times a year. `
-`"Eva-sama, Hideyoshi-sama, `
-`please, do make use of this room. `
-`Rudolf-sama, Kyrie-sama, please take this room here." `
-`"I really do love how beautiful and elegant this place is. `
-`Western-style architecture truly is wonderful." `
-`"I can handle Western design for a few days, but any longer than that and you need the good old Japanese look! `
-`Japanese people just relax best on tatami mats." `
-`"...Haha, they've been fighting over whether to make our new house Japanese-style or Western-style. `
-`Mom still holds a grudge about Dad having the construction started with a Japanese layout, and they bicker all the time about it." `
-`"I'm really jealous, George nii-san. Your parents get along well, don't they? `
-`Mine are so frosty. `
-`Then again, they're always in sync when it comes to my grades." `
-`All the rooms seemed to be for two people. `
-`I was grateful, since I wasn't gonna be forced to share the same room with the old bastard, under the pretext that we were family. `
-`And anyway, I figure those two wouldn't be able to enjoy themselves with someone like me around, ihihi. `
-`"What's with that creepy smile? `
-`You're thinking about something dirty, aren't you?" `
-`"Ihihihi! `
-`Something diiirrrty? Of cooouuurse not! `
-`Please enjoy your staaay! `
-`Ow, owowowow! `
-`That hurts, you old bastard!" `
-`Once again, Dad pulled my ears from behind. `
-`"Cut the crap. `
-`I'm getting a stomachache, and I'm not in the mood for this. `
-`You're the guest of honor this time around, `
-`so play as nice as possible with Dad and Aniki and the rest. `
-`......At the very least, be careful of what you say in front of Dad, got it? `
-`Because wisecracks don't go too well with him. `
-`......Jessica-chan, what's the Head's mood been like lately?" `
-`"...Hmm...... `
-`Same as last year, I guess. `
-`......Considering they say he's got three months left to live, he's as lively, `
-`grumpy, `
-`and irritable as ever." `
-`"Meaning, this year he's in his usual bad mood. `
-`......And as usual, the only one who's able to look after him is Genji-san?" `
-`"It seems the Master will open his heart to no one else. `
-`Lately, us small people have not even been granted an audience with him..." `
-`"He's shut himself up in his study again, probably doing nothing but that weird black magic of his. `
-`What he does for a hobby is his own damn business, but when he starts stinking up the house, it really gets on my nerves. `
-`...I wish he'd never come out of that study again. `
-`Heheheh!" `
-`"You shouldn't talk like that about the elderly. `
-`We're all indebted to him, since he rebuilt the Ushiromiya Family. We should be more grateful." `
-`"Hm, ...well... `
-`......Sorry." `
-`After being rebuked by George-aniki, Jessica had no choice but to take back her thoughtless remark. `
-`The Ushiromiya family was wealthy beyond belief, but of course, that meant all its members were a bit strange...and completely out of touch with the world at large. `
-`And at the top of the chain, the Family Head—our Grandfather—seemed especially strange and terrifying, even for our family. `
-`Dad said he was getting a stomachache earlier, ...and I imagine that reflected the honest feelings of all the adults here today. `
-`No doubt they were jealous of us grandchildren, who could just play around and laugh without a care. `
-`From the stories Dad told me, the Family Head was a violent man who ruled with his fists, beating his children, even his daughters, mercilessly with a wooden sword. `
-`If he was so strict and uptight about that, why couldn't he have been a little more conservative with his kids' names? `
-`Because of that, even us grandkids have had to suffer. `
-`...Anyway, I can't say I have any trouble believing those terrifying stories about him. `
-`I don't remember meeting him very often, but I think I recall him looking extremely grumpy all the time, always making people cower with that sharp gaze of his. `
-`I remember that the room's atmosphere got so tense whenever he was around, you couldn't even breathe. `
-`What my dad said about me being the guest of honor now carries a little more oomph for me. `
-`".........Six years ago I was in elementary school, but I'm a high-schooler now. `
-`If I act up, things could get serious. `
-`...Oooh, scary." `
-`"He does look frightening, but he's not so terrifying that you need to tense up like that. `
-`Nothing of what he says is truly unreasonable. `
-`He may be clumsy at talking, but he's a very logical person." `
-`"But George nii-san, you've been the family darling since like forever because of your awesome grades, right? `
-`Grandfather treats us completely different! `
-`I've even gotten slapped with a wooden sword. `
-`On my ass, my ass! `
-`On my maidenly, innocent ass!" `
-`"Well, you're the heiress of the Head Family, Jessica-chan. `
-`Grandfather is giving you special attention. `
-`You've got to realize that his strictness reflects his high hopes for you." `
-`"Oh, come on. `
-`...Seriously, I could just turn the succession over to you, George nii-san. `
-`It's a bit of a heavy burden for me to carry." `
-`I think I already said it before, but Jessica's the girl heir to the Head Family. `
-`We're only cousins in branch families, so she probably feels a totally different sort of pressure than we do. `
-`".........Uu-? `
-`Jessica onee-chan, is that heavy? `
-`If I help hold it, will it get lighter?" `
-`"Hmm? `
-`Ahahahaha, thanks. `
-`It's okay, I'm not gonna push it on you, Maria. `
-`......I'm gonna bear this cross until my grave. `
-`...Don't worry." `
-`She was grateful for Maria's innocent concern, but Jessica's face still seemed to contain some of the uneasiness she felt towards the future. `
-`...Maybe we were in the same boat. `
-`Any high-schooler with exams approaching would have trouble hiding their anxiety for the future. `
-`"Maria, come here. `
-`You and I will be in this room." `
-`"Battler-kun, I heard you're gonna be with me in this room here." `
-`"Oh? `
-`Now there's a surprise! `
-`It's bigger than our parents' rooms, dang!" `
-`"Well, I figured we cousins would all want to hang out together, `
-`so I told them to get a bigger room ready." `
-`"Uu-! `
-`I like it here more too! `
-`I'd rather be here than with Mama! `
-`Uu-uu-!" `
-`"Oh, you like it better here too, Maria?! `
-`Okay, this room is George's and mine, but we'll give you special permission to come in! `
-`Better keep it a secret from your mom, okay?" `
-`"Uu-! `
-`It's a secret!" `
-`Aunt Rosa was right behind us, but Maria still answered, striking the air with her fists clenched tight. `
-`After setting down their luggage in their rooms, our parents had gathered again in the corridor. `
-`"Hey, what are you brats planning to do? `
-`Are you cousins just gonna stay here and chat?" `
-`It seemed they were heading to the mansion to announce their arrival. `
-`...Normally, they would make us follow them and greet everyone together, `
-`but if that had been the case, Dad would've just told us to come, and that'd be the end of it. `
-`He's saying it's okay if we don't come, so what'll we do? `
-`"Well, it's gonna be lunchtime before long anyway. `
-`Better let the kids unwind here. `
-`Besides, if worst comes to worst, this might be their last chance to play outdoors." `
-`"Uu-! `
-`I'll go too!" `
-`"Maria, you house-sit for Mama, okay? `
-`Behave yourself and wait here." `
-`"......Uu-." `
-`Since Maria was being told to house-sit here, we certainly couldn't leave her on her own. `
-`George-aniki noticed this immediately and gave a clear reply for all of us cousins. `
-`"Well then, we'll accept your offer and house-sit. `
-`We've got lots of stories to tell each other, after being away for a year." `
-`"That sounds wonderful. `
-`And Battler-kun has six years' worth of stories to tell, doesn't he?" `
-`"Yeah, yeah. `
-`I'll take care of the house like a good boy." `
-`"Kumasawa-san, I'm gonna stay here too! `
-`We'll break rank and leave the rest to the adults, heheheh!" `
-`"Perhaps that would be best, hohohoh. `
-`I'll report it to Madam..." `
-`"Then allow me to guide you all to the mansion. `
-`This way, please." `
-`"...The other children are one thing, but George is getting to be an adult. Wouldn't it be better if he came with us?" `
-`"If we make him come, then poor George will be the only one out of place. `
-`Interactin' with his cousins is also important. `
-`Okay, see ya'll later!" `
-`The adults left one after the other. `
-`They left in the same formation as our trip from the harbor, with Gohda-san leading and Kumasawa-san taking up the rear. `
-`As we gathered in the room assigned to us cousins, George-aniki asked us to excuse him for a second. `
-`He rushed over to Kumasawa-san, who was following behind the disappearing adults, and seemed to ask her something. `
-`He soon finished his business and came back. `
-`"What's up, Aniki?" `
-`"Ah, nothing. `
-`I just wanted to ask her something." `
-`"Uu-! `
-`Tell me too! `
-`Tell me too!" `
-`"...Hmm? `
-`Heheheheh. `
-`What could George nii-san be asking Kumasawa-san and not me, I wonder? `
-`Ah, I don't have a clue!" `
-`"No, it's a misunderstanding...! `
-`...Not that I know what you're misunderstanding...!" `
-`Aniki was getting pretty tongue-tied. `
-`It was almost as though he felt guilty about something, and Jessica knew exactly what he was worried about. `
-`At any rate, it's no fun if Jessica gets to know about it and not me! `
-`"Hey, Maria, it looks like we're the only two out of the loop, right? `
-`Don't you wanna know what they're talking about?!" `
-`"Uu-! `
-`We wanna know too! `
-`We wanna know too!" `
-`""Uu-uu-uu-uu-!!!"" `
-`I fooled around while "uu"-ing together with Maria. `
-`"No, I'm telling you... It's no big deal, ahahaha..." `
-`"Liar! `
-`I'm surprised you'd tell such a terrible lie, Aniki. Confess! `
-`Maria, you tickle his right side, I'll tickle his left!" `
-`"Uu-! `
-`I've got his right side, Battler's got his left! `
-`Uu-!" `
-`"Wait a second!! `
-`Wait, you two...!! `
-`Ahahaha, stop, `
-`ahahahahahaha!!" `
-`Maria and I played around, chasing George-aniki as he tried to escape, rolling on the bed. `
-`I realize high-schoolers aren't supposed to bounce around like kittens, but I still missed this kind of fun. `
-`A warm, cozy kind of fun. `
-`"Haahahahaha, George nii-san, what were you asking Kumasawa-san? `
-`Hmm? `
-`Well, I've got a good guess. `
-`It's been a year since the last time he visited the Head Family. `
-`Who knows what servants might've come and gone during that time? Either way, it looks like he'd like to go and say hi." `
-`"......Uu-? `
-`Say hi, I wanna to say hi too!" `
-`"What the hell, that's nothing to feel guilty about, Aniki. `
-`......Hmmmm? `
-`I'm not buying it. `
-`Maria, don't be fooled, Aniki's still hiding something! `
-`More torture!! `
-`Uworyaaa!!" `
-`"S-Stop it, seriously! `
-`Aahahahahaha! `
-`Maria-chan, you too, stop already!!" `
-`"Aahahahahaha, aahahahahaha! `
-`Hahahaha!!" `
-`"She's probably busy cleaning or getting lunch ready. `
-`Don't worry, she'll drop by to say hi sooner or later. `
-`Heh, I'll bet you'd rather've been welcomed in by Shannon instead of that nosy Gohda. `
-`Heheheh!" `
-`"Shannon? `
-`......Shannon. `
-`...Aaaaahh... `
-`Yeah, I remember a girl with that name! `
-`Is she still a servant? `
-`How's she doing?!" `
-`"By the way, Natsuhi nee-san, `
-`how's your headache been lately? `
-`It seemed pretty serious before." `
-`"...I have been much better lately. `
-`Thank you for your concern." `
-`"Oh, right. Here. `
-`A present for you, Natsuhi nee-san." `
-`"......Thank you very much. `
-`I'm always receiving gifts from you. `
-`...Is this black tea?" `
-`"It's herb tea with peppermint and lemon balm. `
-`It's a blend from a well-known store, and it's supposed to be good for headaches. `
-`I thought it might help you too." `
-`Rosa was always a conscientious woman. `
-`...Probably because she was the youngest of four and much younger than the other three, `
-`she managed to grow up without gaining the venomous nature of her siblings. `
-`Her kind words got Natsuhi to soften her expression for just a moment, `
-`but it wasn't enough to melt her stony gaze, hardened as it was by long years of mental stress. `
-`"Come to think of it, you're always complaining about those headaches. `
-`Pull yourself together. `
-`Jessica-chan has her exams this year, right? `
-`That's going to be a turning point in her life. `
-`Will she really be able to rely on you as a mother if you're like that? `
-`Besides, Natsuhi nee-san, you're three years younger than me. `
-`You should get your act together." `
+`คาน่อนก้มหน้าลงพลางกัดริมฝีปากล่างเบาๆ... `
+`"ฉันจำสวนกุหลาบได้อยู่นะ `
+`...แต่จำไอ้เกสต์เฮาส์นี่ไม่ได้เลยสักนิด `
+`เพิ่งสร้างขึ้นใหม่ไม่นานนี้เหรอครับ?" `
+`บนสิ่งที่ดูคล้ายเสาประตูมีเขียนไว้ว่า "โทไรอัน" (เรือนพักผู้มาเยือน) แต่ในเมื่อทุกคนเรียกมันว่าเกสต์เฮาส์ ผมก็เลยเรียกตาม `
+`เกสต์เฮาส์สไตล์ตะวันตกที่เพิ่งสร้างเสร็จใหม่เอี่ยม ตั้งตระหง่านมองลงไปยังทิวแถวกุหลาบ ได้รับการออกแบบอย่างวิจิตรบรรจงให้กลมกลืนกับตัวสวนอย่างลงตัว `
+`"ถูกต้องแล้วล่ะ! `
+`เพิ่งสร้างเสร็จเมื่อปีก่อนนู้นน่ะ `
+`ตั้งแต่นั้นมา เขาก็ให้พวกเรามานอนพักที่นี่ตลอด" `
+`"ฮะๆ ที่นี่สนุกกว่าคฤหาสน์เก่าคร่ำครึที่นายเคยรู้จักเยอะเลยเว้ย `
+`ฉันอยากให้ห้องฉันอยู่ฝั่งนี้จะตาย!" `
+`"อู-! `
+`มาเรียก็อยากได้ห้องที่นี่ด้วย! `
+`อยากได้ๆ!" `
+`...จะว่าไปบ้านผมเองก็ถือว่ามีฐานะอยู่หรอก แต่พอเทียบกับตระกูลหลักแล้ว ผมกลับรู้สึกว่าบ้านตัวเองช่างธรรมดาสามัญเหลือเกิน `
+`ความมั่งคั่งที่โอ้อวดออกมานั้นชวนให้อึ้งพอกันกับความจริงที่ว่า พวกเขาสร้างเกสต์เฮาส์สุดอลังการแบบนี้ขึ้นมา เพื่อรองรับแขกที่แวะมาเพียงปีละไม่กี่ครั้งเท่านั้น `
+`"คุณเอวา คุณฮิเดโยชิ `
+`เชิญใช้บริการห้องนี้ได้เลยครับผม `
+`คุณรูดอล์ฟ คุณคิริเอะ เชิญห้องทางนี้ครับผม" `
+`"ฉันชอบความสวยงามหรูหราของที่นี่จริงๆ เลยนะ `
+`สถาปัตยกรรมแบบตะวันตกเนี่ยมันยอดเยี่ยมจริงๆ" `
+`"ถ้าอยู่แค่ไม่กี่วันฉันก็พอไหวกับสไตล์ตะวันตกอยู่นา แต่ถ้าอยู่นานกว่านั้น มันต้องแบบญี่ปุ่นดั้งเดิมถึงจะดีที่สุด! `
+`คนญี่ปุ่นน่ะ ต้องนอนเสื่อทาทามิถึงจะผ่อนคลายที่สุดแล้วล่ะ" `
+`"...ฮะๆ พ่อกับแม่กำลังเถียงกันเรื่องบ้านใหม่น่ะครับ ว่าจะทำเป็นสไตล์ญี่ปุ่นหรือสไตล์ตะวันตกดี `
+`แม่ยังเคืองที่พ่อสั่งเริ่มก่อสร้างโดยใช้แปลนแบบญี่ปุ่นอยู่เลย ก็เลยทะเลาะกันเรื่องนี้ตลอดเวลา" `
+`"อิจฉาจังเลยนะ พี่จอร์จ พ่อแม่ของพี่นี่รักกันดีจังเลยเนอะ? `
+`พ่อแม่ฉันนี่เย็นชาใส่กันชะมัด `
+`แต่ก็นะ ดันเข้าขากันดีเป็นปี่เป็นขลุ่ยเวลาคุยเรื่องผลการเรียนของฉันซะงั้น" `
+`ห้องพักทุกห้องดูเหมือนจะเป็นห้องสำหรับสองคน `
+`ผมรู้สึกโล่งอก เพราะไม่ต้องถูกบังคับให้นอนห้องเดียวกับตาแก่นั่น โดยอ้างความเป็นครอบครัวเดียวกัน `
+`และอีกอย่าง ผมว่าสองคนนั้นก็คงจะสวีตกันไม่ลงถ้ามีก้างขวางคออย่างผมอยู่ด้วยแหง อิฮิฮิ `
+`"ยิ้มน่าขนลุกอะไรแบบนั้นน่ะ? `
+`กำลังคิดเรื่องลามกอยู่ใช่ไหมล่ะ?" `
+`"อิฮิฮิฮิ! `
+`เรื่องลาาามกกกงั้นเหรอ? ไม่มี๊เล้ยยย! `
+`ขอให้มีความสุขกับการพักผ่อออนนะคร้าบบบ! `
+`โอ๊ย โอ๊ยๆๆๆ! `
+`เจ็บนะเว้ย ตาแก่!" `
+`พ่อดึงหูผมจากด้านหลังอีกจนได้ `
+`"เลิกพูดจาไร้สาระได้แล้ว `
+`ฉันกำลังปวดท้องอยู่ ไม่มีอารมณ์มาเล่นด้วยหรอกนะ `
+`คราวนี้แกเป็นแขกคนสำคัญเชียวนะเว้ย `
+`เพราะงั้น ทำตัวดีๆ กับพ่อ กับพี่เคราส์ แล้วก็คนอื่นๆ ให้มากที่สุดด้วยล่ะ `
+`......อย่างน้อยที่สุด ก็ระวังปากเวลาอยู่ต่อหน้าพ่อด้วย เข้าใจไหม? `
+`เพราะพ่อไม่ค่อยชอบมุกตลกกวนประสาทของแกเท่าไร `
+`......เจสสิก้าจัง ช่วงนี้ประมุขตระกูลอารมณ์เป็นยังไงบ้างล่ะ?" `
+`"...อืม...... `
+`ก็เหมือนปีที่แล้วละมั้ง `
+`......ทั้งที่บอกว่าจะมีชีวิตอยู่ได้อีกแค่สามเดือนแท้ๆ แต่ก็ยังกระฉับกระเฉง `
+`ขี้หงุดหงิด `
+`แล้วก็อารมณ์บูดเหมือนเดิมเลย" `
+`"แปลว่า ปีนี้ท่านก็อารมณ์ไม่ดีเหมือนเคยสินะ `
+`......แล้วคนที่คอยดูแลท่านได้ ก็มีแค่คุณเก็นจิเหมือนเดิมใช่ไหมจ๊ะ?" `
+`"ดูเหมือนว่าท่านเจ้าบ้านจะไม่ยอมเปิดใจให้ใครอื่นเลยล่ะค่ะ `
+`พักนี้ คนต้อยต่ำอย่างพวกดิฉันก็ไม่ได้รับอนุญาตให้เข้าพบท่านเลยด้วยซ้ำ..." `
+`"ปู่ขังตัวเองอยู่ในห้องหนังสืออีกแล้ว วันๆ คงไม่ทำอะไรนอกจากไอ้ศาสตร์เวทมนตร์ดำประหลาดๆ นั่นแหละ `
+`จะทำอะไรเป็นงานอดิเรกมันก็เรื่องของปู่หรอกนะ แต่พอเริ่มส่งกลิ่นเหม็นหึ่งไปทั่วบ้าน มันน่ารำคาญใจจริงๆ เว้ย `
+`...อยากให้ขลุกอยู่ในห้องหนังสือนั่นไม่ต้องออกมาอีกเลยชะมัด `
+`ฮะฮะฮ่า!" `
+`"อย่าพูดถึงคนแก่แบบนั้นสิ `
+`พวกเราต่างก็เป็นหนี้บุญคุณท่าน ที่ท่านช่วยฟื้นฟูตระกูลอุชิโรมิยะขึ้นมาใหม่นะ เราควรจะกตัญญูให้มากกว่านี้สิ" `
+`"อืม ...ก็นะ... `
+`......ขอโทษที" `
+`พอโดนพี่จอร์จดุเข้า เจสสิก้าก็จำต้องถอนคำพูดพล่อยๆ นั่น `
+`ตระกูลอุชิโรมิยะนั้นร่ำรวยจนแทบไม่น่าเชื่อ แต่ก็นั่นแหละ แปลว่าสมาชิกทุกคนต่างก็เพี้ยนนิดๆ ...แถมยังตัดขาดจากโลกภายนอกโดยสิ้นเชิง `
+`และบนจุดสูงสุดของห่วงโซ่นั้น ประมุขตระกูล—ท่านปู่ของเรา—ก็ดูจะแปลกประหลาดและน่าสะพรึงกลัวเป็นพิเศษ แม้จะเทียบกับคนในตระกูลเราแล้วก็ตาม `
+`ที่พ่อบอกเมื่อกี้ว่าเริ่มปวดท้องขึ้นมา ...ผมคิดว่านั่นคงสะท้อนความรู้สึกจริงๆ ของพวกผู้ใหญ่ทุกคนในวันนี้ `
+`คงไม่ต้องสงสัยเลยว่าพวกผู้ใหญ่คงอิจฉาพวกเราที่เป็นหลานๆ ซึ่งเล่นหัวและหัวเราะกันได้โดยไม่ต้องกังวลอะไร `
+`จากเรื่องที่พ่อเล่าให้ฟัง ประมุขตระกูลเป็นคนรุนแรงที่ปกครองด้วยกำปั้น และฟาดลูกๆ ไม่เว้นแม้แต่ลูกสาวด้วยดาบไม้อย่างไร้ความปรานี `
+`ถ้าเคร่งครัดเจ้าระเบียบกับเรื่องแบบนั้น ทำไมถึงไม่ตั้งชื่อลูกให้มันเรียบง่ายอนุรักษนิยมกว่านี้หน่อยนะ? `
+`เพราะแบบนั้น แม้แต่พวกเราที่เป็นหลานเลยต้องพลอยรับกรรมไปด้วย `
+`...จะอย่างไรก็ตาม ผมคงพูดไม่ได้หรอกว่าไม่เชื่อเรื่องเล่าชวนสยองขวัญพวกนั้นของท่าน `
+`ผมจำไม่ได้ว่าเคยเจอท่านบ่อยไหม แต่คิดว่าพอจะจำได้ว่าท่านทำหน้าหงุดหงิดอารมณ์เสียตลอดเวลา และคอยข่มขวัญให้คนอื่นตัวลีบด้วยสายตาคมกริบคู่นั้นเสมอ `
+`ผมจำได้ว่าบรรยากาศในห้องจะตึงเครียดจนแทบหายใจไม่ออกเวลาที่ท่านอยู่ด้วย `
+`คำพูดของพ่อที่ว่าผมเป็นแขกคนสำคัญ เริ่มจะดูมีน้ำหนักขึ้นมาในใจผมแล้วสิ `
+`".........6 ปีก่อนฉันยังอยู่ประถม แต่ตอนนี้เป็นเด็กม.ปลายแล้วนะ `
+`ถ้าฉันทำตัวมีปัญหา เรื่องอาจจะบานปลายก็ได้ `
+`...โอ๊ย น่ากลัวว่ะ" `
+`"ท่านอาจจะดูน่ากลัว แต่ไม่ได้น่าสะพรึงกลัวขนาดที่ต้องเกร็งกันถึงเพียงนั้นหรอก `
+`สิ่งที่ท่านพูดไม่มีอะไรที่ไร้เหตุผลจริงๆ หรอกนะ `
+`ท่านอาจจะพูดไม่เก่ง แต่ก็เป็นคนที่มีเหตุผลมากคนหนึ่งเลยล่ะ" `
+`"แต่พี่จอร์จน่ะ เป็นเด็กดีคนโปรดของตระกูลมาตลอดเพราะผลการเรียนสุดยอดไม่ใช่เหรอ? `
+`ปู่ปฏิบัติต่อพวกเราคนละเรื่องเลยนะ! `
+`ฉันยังเคยโดนหวดด้วยดาบไม้เลย `
+`ที่ก้น ที่ก้นเนี่ยนะ! `
+`ก้นอันบริสุทธิ์ผุดผ่องของสาวน้อยเนี่ยนะ!" `
+`"ก็น้องเป็นทายาทของตระกูลหลักนี่นา เจสสิก้าจัง `
+`ท่านปู่ก็เลยให้ความสนใจเป็นพิเศษไงล่ะ `
+`ต้องเข้าใจนะว่าความเข้มงวดของท่านน่ะ สะท้อนถึงความคาดหวังที่มีต่อน้อง" `
+`"โธ่เอ๊ย `
+`...พูดจริงๆ นะ ฉันยกตำแหน่งผู้สืบทอดให้พี่จอร์จไปเลยยังดีซะกว่า `
+`แบกรับไว้คนเดียวมันหนักเกินไปสำหรับฉันว่ะ" `
+`คิดว่าผมคงเคยบอกไปแล้ว แต่เจสสิก้าเป็นเด็กผู้หญิงที่เป็นทายาทของตระกูลหลัก `
+`พวกเราเป็นแค่ลูกพี่ลูกน้องจากตระกูลสายรอง เธอจึงน่าจะรู้สึกถึงความกดดันที่ต่างจากพวกเราโดยสิ้นเชิง `
+`".........อู-? `
+`พี่เจสสิก้า อันนั้นหนักเหรอ? `
+`ถ้ามาเรียช่วยถือ มันจะเบาลงไหม?" `
+`"หืม? `
+`อะฮ่าฮ่าฮ่า ขอบใจนะ `
+`ไม่เป็นไรหรอก ฉันไม่โยนให้มาเรียหรอกน่า `
+`......ฉันจะแบกกางเขนนี้ไปจนลงหลุมเอง `
+`...ไม่ต้องห่วงนะ" `
+`แม้จะซาบซึ้งกับความเป็นห่วงอันไร้เดียงสาของมาเรีย แต่ใบหน้าของเจสสิก้าก็ยังแฝงความกังวลใจที่มีต่ออนาคตอยู่บ้าง `
+`...บางทีพวกเราอาจจะหัวอกเดียวกัน `
+`เด็กม.ปลายคนไหนที่การสอบใกล้เข้ามา ก็คงยากที่จะซ่อนความกังวลต่ออนาคตไว้ได้ทั้งนั้น `
+`"มาเรีย มานี่จ้ะ `
+`หม่าม๊ากับหนูจะอยู่ห้องนี้นะ" `
+`"แบทเลอร์คุง ได้ยินว่านายจะได้อยู่กับพี่ในห้องนี้น่ะ" `
+`"โอ้? `
+`เซอร์ไพรส์เลยนะเนี่ย! `
+`ห้องกว้างกว่าห้องพ่อแม่ซะอีก โห!" `
+`"ก็นะ ฉันคิดว่าพวกเราลูกพี่ลูกน้องคงอยากรวมตัวกัน `
+`ก็เลยบอกให้เตรียมห้องใหญ่ไว้ให้น่ะ" `
+`"อู-! `
+`มาเรียก็ชอบที่นี่มากกว่าเหมือนกัน! `
+`อยากอยู่ที่นี่มากกว่าอยู่กับหม่าม๊า! `
+`อู-อู-!" `
+`"โอ้ มาเรียก็ชอบที่นี่มากกว่าเหมือนกันเหรอ?! `
+`เอาล่ะ ห้องนี้เป็นของพี่จอร์จกับฉัน แต่จะอนุญาตเป็นกรณีพิเศษให้เข้ามาได้แล้วกัน! `
+`ต้องเก็บเป็นความลับจากแม่เธอด้วยนะ เข้าใจไหม?" `
+`"อู-! `
+`ความลับนะ!" `
+`น้าโรซ่ายืนอยู่ข้างหลังพวกเราแท้ๆ แต่มาเรียก็ยังตอบพร้อมกับชูกำปั้นแน่นชกอากาศ `
+`หลังจากเอาสัมภาระไปเก็บไว้ในห้องแล้ว พ่อแม่ของพวกเราก็กลับมารวมตัวกันอีกครั้งที่ทางเดิน `
+`"เฮ้ย พวกแกจะเอายังไงกันต่อ? `
+`พวกแกที่เป็นลูกพี่ลูกน้องจะอยู่คุยกันตรงนี้เรอะ?" `
+`ดูเหมือนพวกเขาจะมุ่งหน้าไปยังคฤหาสน์เพื่อทักทายเรื่องที่มาถึง `
+`...ตามปกติ พวกเขาคงให้พวกเราตามไปทักทายทุกคนพร้อมกัน `
+`แต่ถ้าเป็นแบบนั้น พ่อก็คงสั่งให้พวกเราตามไปตั้งแต่แรกแล้วจบเรื่อง `
+`การที่เขาบอกว่าไม่ไปก็ได้นี่ แล้วพวกเราจะเอายังไงดีล่ะ? `
+`"เอาน่า อีกเดี๋ยวก็มื้อเที่ยงแล้ว `
+`ปล่อยให้เด็กๆ พักผ่อนกันที่นี่เถอะ `
+`อีกอย่าง ถ้าเกิดเรื่องเลวร้ายสุดๆ ขึ้นมา นี่อาจเป็นโอกาสสุดท้ายที่ได้เล่นข้างนอกก็ได้นะ" `
+`"อู-! `
+`มาเรียจะไปด้วย!" `
+`"มาเรีย หนูเฝ้าห้องให้หม่าม๊านะจ๊ะ `
+`เป็นเด็กดีแล้วรออยู่ที่นี่นะ" `
+`"......อู-" `
+`ในเมื่อมาเรียถูกสั่งให้เฝ้าห้องอยู่ที่นี่ พวกเราก็คงทิ้งเธอไว้ตามลำพังไม่ได้แน่นอน `
+`พี่จอร์จสังเกตเห็นเรื่องนี้ทันที จึงตอบกลับอย่างชัดถ้อยชัดคำแทนพวกเราที่เป็นลูกพี่ลูกน้องทุกคน `
+`"ถ้าอย่างนั้น พวกเราขอรับน้ำใจแล้วอยู่เฝ้าห้องนะครับ `
+`ไม่ได้เจอกันตั้ง 1 ปี พวกเรามีเรื่องคุยกันเยอะแยะเลยครับ" `
+`"วิเศษไปเลยนะจ๊ะ `
+`แล้วแบทเลอร์คุงก็คงมีเรื่องเล่าสะสมไว้ตั้ง 6 ปีเลยใช่ไหมล่ะ?" `
+`"ครับๆ `
+`ผมจะอยู่เฝ้าบ้านเป็นเด็กดีครับ" `
+`"คุณคุมาซาวะ ฉันก็จะอยู่ตรงนี้ด้วยนะ! `
+`ขอแตกแถวแล้วปล่อยที่เหลือให้พวกผู้ใหญ่จัดการแล้วกัน ฮิฮิฮิ!" `
+`"แบบนั้นคงจะดีที่สุดแล้วล่ะค่ะ โฮ่ะโฮ่ะโฮ่ะ `
+`เดี๋ยวป้าจะไปเรียนคุณผู้หญิงให้นะคะ..." `
+`"ถ้าเช่นนั้น กระผมขอนำทางทุกท่านไปยังคฤหาสน์ครับผม `
+`เชิญทางนี้ได้เลยครับ" `
+`"...เด็กคนอื่นก็เรื่องหนึ่งหรอกนะ แต่จอร์จก็เริ่มโตเป็นผู้ใหญ่แล้ว ให้ตามพวกเราไปด้วยจะไม่ดีกว่าเหรอ?" `
+`"ถ้าบังคับให้ตามมา จอร์จผู้น่าสงสารคงกลายเป็นคนนอกอยู่คนเดียวพอดี `
+`การได้คลุกคลีกับพวกน้องๆ ก็สำคัญเหมือนกันนะ `
+`เอาล่ะ ไว้เจอกันใหม่นะ!" `
+`พวกผู้ใหญ่ทยอยเดินจากไปทีละคน `
+`พวกเขาเดินเรียงแถวเหมือนตอนที่เดินทางมาจากท่าเรือ โดยมีคุณโกดะนำหน้า และมีคุณคุมาซาวะปิดท้าย `
+`ขณะที่พวกเรามารวมตัวกันในห้องที่จัดไว้ให้ลูกพี่ลูกน้อง พี่จอร์จก็ขอตัวสักครู่ `
+`เขารีบวิ่งไปหาคุณคุมาซาวะที่กำลังเดินตามหลังพวกผู้ใหญ่ที่ลับตาไป และดูเหมือนจะถามอะไรบางอย่างกับเธอ `
+`เสร็จธุระแล้วเขาก็กลับมาอย่างรวดเร็ว `
+`"มีอะไรเหรอ พี่จอร์จ?" `
+`"อ๋อ เปล่าหรอก `
+`พี่แค่อยากถามอะไรเธอนิดหน่อยน่ะ" `
+`"อู-! `
+`บอกมาเรียด้วยสิ! `
+`บอกด้วยสิ!" `
+`"...หืม? `
+`ฮิฮิฮิฮิ `
+`มีเรื่องอะไรที่พี่จอร์จต้องถามคุณคุมาซาวะโดยไม่ยอมถามฉันกันน้า? `
+`อ๊ะ ไม่รู้เลยแฮะ!" `
+`"ไม่ใช่นะ เข้าใจผิดแล้ว...! `
+`...ถึงจะไม่รู้ว่าเข้าใจผิดเรื่องอะไรก็เถอะ...!" `
+`พี่จอร์จเริ่มจะพูดจาติดขัดซะแล้ว `
+`เหมือนกับว่าเขากำลังร้อนตัวเรื่องอะไรบางอย่างอยู่ และเจสสิก้าก็รู้แจ่มแจ้งว่าเขากังวลเรื่องอะไร `
+`แต่ก็นะ มีแต่เจสสิก้าที่รู้แล้วผมไม่รู้เนี่ย มันไม่หนุกเลยนี่หว่า! `
+`"นี่ มาเรีย ดูเหมือนพวกเราสองคนจะไม่รู้เรื่องอยู่ฝ่ายเดียวสินะเนี่ย? `
+`ไม่อยากรู้เหรอว่าคุยเรื่องอะไรกันอยู่?!" `
+`"อู-! `
+`พวกเราก็อยากรู้ด้วย! `
+`พวกเราก็อยากรู้ด้วย!" `
+`""อู-อู-อู-อู-!!!"" `
+`ผมแกล้งเล่นสนุกพลางส่งเสียง "อู-" ประสานไปกับมาเรีย `
+`"ไม่หรอกน่า... ไม่ใช่เรื่องใหญ่โตอะไรหรอก อะฮ่าฮ่าฮ่า..." `
+`"โกหก! `
+`ไม่นึกเลยนะว่าจะกล้าโกหกหน้าตายขนาดนี้ พี่จอร์จ สารภาพมาซะดีๆ! `
+`มาเรีย เธอจั๊กจี้ข้างขวา เดี๋ยวฉันจั๊กจี้ข้างซ้ายเอง!" `
+`"อู-! `
+`มาเรียจัดการข้างขวา แบทเลอร์จัดการข้างซ้าย! `
+`อู-!" `
+`"เดี๋ยวก่อนสิ!! `
+`เดี๋ยวก่อน ทั้งสองคน...!! `
+`อะฮ่าฮ่าฮ่า หยุดนะ `
+`อะฮ่าฮ่าฮ่าฮ่าฮ่า!!" `
+`ผมกับมาเรียเล่นกันสนุกสนาน ไล่กวดพี่จอร์จที่พยายามหนีจนกลิ้งไปมาอยู่บนเตียง `
+`ก็รู้อยู่หรอกว่าเด็ก ม.ปลาย ไม่ควรกระโดดโลดเต้นเหมือนลูกแมวแบบนี้ แต่ผมก็คิดถึงความสนุกแบบนี้จริงๆ `
+`ความสนุกอันแสนอบอุ่นและสบายใจ `
+`"ฮ่าๆๆๆๆ พี่จอร์จ ถามอะไรคุณคุมาซาวะเหรอ? `
+`หืม? `
+`น้า ฉันเดาออกหมดแล้วล่ะ `
+`นี่ก็ตั้งปีนึงแล้วนับตั้งแต่ครั้งสุดท้ายที่เขามาเยือนตระกูลหลัก `
+`ในช่วงเวลานั้นจะมีคนรับใช้เข้าๆ ออกๆ ไปบ้างก็ไม่แปลกนี่นะ? จะยังไงก็เถอะ ดูท่าคงอยากจะไปทักทายสินะ" `
+`"......อู-? `
+`ทักทาย มาเรียก็อยากทักทายด้วย!" `
+`"อะไรกัน เรื่องแค่นี้ไม่เห็นต้องร้อนตัวเลยนี่หว่า พี่จอร์จ `
+`......หืมมมม? `
+`ชักไม่น่าเชื่อแล้วสิ `
+`มาเรีย อย่าไปหลงกลเชียว พี่จอร์จยังซ่อนอะไรไว้อีกแน่ๆ! `
+`ทรมานต่อเลย!! `
+`อูวรย๊าาา!!" `
+`"ห-หยุดทีเถอะ จริงๆ นะ! `
+`อะฮ่าฮ่าฮ่าฮ่า! `
+`มาเรียจัง เธอก็ด้วย พอได้แล้ว!!" `
+`"อะฮ่าฮ่าฮ่าฮ่า อะฮ่าฮ่าฮ่าฮ่า! `
+`ฮ่าฮ่าฮ่าฮ่า!!" `
+`"ตอนนี้คงกำลังยุ่งกับการทำความสะอาดหรือไม่ก็เตรียมมื้อเที่ยงอยู่ล่ะมั้ง `
+`ไม่ต้องห่วงหรอก เดี๋ยวก็แวะมาทักทายเองแหละ `
+`เฮอะ คงอยากให้ชาน่อนเป็นคนออกมาต้อนรับมากกว่าโกดะจอมจุ้นนั่นล่ะสิ `
+`ฮะฮะฮ่า!" `
+`"ชาน่อน? `
+`......ชาน่อน `
+`...อ๊าาา... `
+`ใช่แล้ว จำได้ว่ามีผู้หญิงชื่อนั้นอยู่นี่! `
+`เธอยังเป็นคนรับใช้อยู่เหรอ? `
+`ตอนนี้เธอเป็นไงบ้างล่ะ?!" `
+`"ว่าแต่ พี่นัตสึฮิ `
+`ช่วงนี้อาการปวดหัวเป็นยังไงบ้างล่ะ? `
+`คราวก่อนดูท่าทางจะหนักเอาการอยู่นี่นะ" `
+`"...ช่วงนี้อาการดีขึ้นมากแล้วค่ะ `
+`ขอบพระคุณที่เป็นห่วงนะคะ" `
+`"อ๊ะ จริงสิ นี่ค่ะ `
+`ของฝากสำหรับพี่นัตสึฮิค่ะ" `
+`"......ขอบพระคุณมากนะคะ `
+`ได้รับของฝากจากเธออยู่เรื่อยเลย `
+`...นี่คือชาดำเหรอคะ?" `
+`"เป็นชาสมุนไพรผสมเปปเปอร์มินต์กับเลมอนบาล์มค่ะ `
+`เป็นชาเบลนด์ของร้านดัง ได้ยินว่าช่วยบรรเทาอาการปวดหัวได้ดี `
+`ก็เลยคิดว่าอาจจะช่วยพี่ได้บ้างน่ะค่ะ" `
+`โรซ่าเป็นผู้หญิงที่ใส่ใจคนอื่นอยู่เสมอ `
+`...อาจเป็นเพราะเธอเป็นลูกคนสุดท้องในบรรดาพี่น้องสี่คน และอายุน้อยกว่าอีกสามคนมาก `
+`เธอจึงเติบโตขึ้นมาได้โดยไม่ติดนิสัยร้ายกาจของพี่ๆ `
+`คำพูดอันอ่อนโยนของเธอทำให้นัตสึฮิมีสีหน้าอ่อนลงเพียงชั่วครู่ `
+`แต่มันยังไม่เพียงพอที่จะละลายแววตาอันแข็งกร้าว ซึ่งสั่งสมมาจากความตึงเครียดทางจิตใจอันยาวนานหลายปี `
+`"จะว่าไป เธอก็บ่นเรื่องปวดหัวอยู่ตลอดเลยนะ `
+`ทำตัวให้เข้มแข็งหน่อยสิ `
+`ปีนี้เจสสิก้าจังต้องสอบเข้าแล้วไม่ใช่เหรอจ๊ะ? `
+`นั่นน่ะเป็นจุดเปลี่ยนในชีวิตของแกเลยนะ `
+`ถ้าคนเป็นแม่อย่างเธอเป็นซะแบบนี้ แกจะพึ่งพาได้จริงๆ เหรอ? `
+`อีกอย่างนะ พี่นัตสึฮิ เธอยังอายุน้อยกว่าฉันตั้งสามปี `
+`ทำตัวให้มันกระฉับกระเฉงกว่านี้หน่อยสิ" `
 `"............ `
-`.........I apologize. `
-`I've had a tendency for headaches all my life." `
-`Even under normal circumstances, Eva sometimes failed to choose her words carefully, but her comments aimed at Natsuhi contained shards of obvious malice, though she hid it with a smile. `
-`Of course, that fact didn't escape Natsuhi. `
-`She frantically contained her urge to grimace and pretended to ignore Eva. `
-`"Our Battler-kun will have his exams this year too. `
-`Rudolf-san, shouldn't you be a little concerned as well? `
-`For the sake of your own son, you'd better get serious to the point of having headaches like Natsuhi nee-san." `
-`"If I say anything, he automatically rebels. `
-`So what should I say? Should I say the opposite, that it's okay for him to mess around? `
-`That's probably the only way I could get him to listen to me. `
-`Hideyoshi nii-san, George did really well on his exams, right? `
-`Please, you've gotta teach me the trick to handling children." `
-`"Hmm, well... `
-`It's probably because I got him to understand why he should study! `
-`Study isn't worth anything on its own. `
-`That's right, the real point of studyin' is to practice researchin' stuff on your own whenever you bump into something ya don't know! `
-`If ya can't do that, ya can't be useful to society! `
-`I'm not talkin' about math or writin'. `
-`Ya gotta learn how to learn!" `
-`"...That's splendid. `
-`I wish our Jessica could understand that as well. `
-`If she is to be the heiress of the Ushiromiya family, then at this rate-" `
-`"Do you really have to force her into becoming the successor? `
-`After all, a woman has to find a woman's happiness. `
-`Parents shouldn't force such things on their children, don't you think?" `
-`"Hold your horses, Eva. `
-`Each family has its own way of raising their kids. `
-`You shouldn't be pushy." `
-`"I'm sorry. `
-`Natsuhi nee-san, don't take it the wrong way." `
+`.........ต้องขออภัยด้วยค่ะ `
+`ดิฉันมีอาการปวดหัวเรื้อรังมาตั้งแต่ไหนแต่ไรแล้วค่ะ" `
+`ในสถานการณ์ปกติ เอวาอาจไม่ใช่คนที่ระวังคำพูดนักอยู่แล้ว แต่ถ้อยคำที่เธอพุ่งเป้าใส่นัตสึฮินั้นแฝงไว้ด้วยเศษเสี้ยวแห่งความมุ่งร้ายอย่างชัดเจน แม้จะซ่อนไว้ใต้รอยยิ้มก็ตาม `
+`แน่นอนว่าเรื่องนั้นไม่อาจรอดพ้นสายตาของนัตสึฮิไปได้ `
+`เธอพยายามสะกดกลั้นความอยากจะชักสีหน้าอย่างสุดความสามารถ และทำเป็นไม่สนใจเอวา `
+`"แบทเลอร์คุงบ้านเราปีนี้ก็มีสอบเหมือนกันนะ `
+`คุณรูดอล์ฟ ก็น่าจะแสดงความเป็นห่วงบ้างสักหน่อยไม่ใช่เหรอ? `
+`เพื่อลูกชายแท้ๆ ของตัวเอง หัดจริงจังจนถึงขั้นปวดหัวเหมือนอย่างพี่นัตสึฮิดีกว่านะ" `
+`"ขืนฉันพูดอะไรไป หมอนั่นก็ต่อต้านขึ้นมาทันควันน่ะสิวะ `
+`แล้วจะให้ฉันพูดยังไงล่ะ? ให้พูดกลับกันว่าเที่ยวเล่นตามสบายเลยงั้นเรอะ? `
+`คงมีแต่วิธีนั้นแหละที่พอจะทำให้หมอนั่นยอมฟังกันได้บ้าง `
+`พี่ฮิเดโยชิ จอร์จทำผลการสอบได้ยอดเยี่ยมเลยใช่ไหมล่ะ? `
+`ได้โปรดเถอะ ช่วยสอนเคล็ดลับการรับมือกับลูกให้ฉันหน่อยสิ" `
+`"หืม เอาน่า... `
+`คงเป็นเพราะฉันทำให้เจ้านั่นเข้าใจว่าทำไมถึงต้องเรียนล่ะมั้ง! `
+`แค่การเรียนอย่างเดียวมันไม่มีค่าอะไรหรอกนะ `
+`ใช่แล้ว จุดประสงค์ที่แท้จริงของการเรียน ก็คือการฝึกค้นคว้าสิ่งต่างๆ ด้วยตัวเองยามที่เจอเรื่องที่ไม่รู้นั่นแหละ! `
+`ถ้าทำแบบนั้นไม่ได้ ก็ไม่มีทางเป็นประโยชน์ต่อสังคมได้หรอก! `
+`ฉันไม่ได้หมายถึงวิชาคณิตศาสตร์หรือการเขียนหรอกนะ `
+`คนเราต้องเรียนรู้วิธีการเรียนรู้ต่างหากล่ะ!" `
+`"...ยอดเยี่ยมจริงค่ะ `
+`ดิฉันอยากให้เจสสิก้าของเราเข้าใจแบบนั้นบ้างจัง `
+`ถ้าหากลูกจะต้องเป็นทายาทของตระกูลอุชิโรมิยะ ขืนเป็นแบบนี้ต่อไปล่ะก็—" `
+`"จำเป็นต้องบีบบังคับให้เธอเป็นผู้สืบทอดขนาดนั้นเลยเหรอจ๊ะ? `
+`ถึงอย่างไรผู้หญิงเราก็ต้องค้นหาความสุขในแบบของผู้หญิงนะ `
+`คนเป็นพ่อแม่ไม่ควรเอาเรื่องพรรค์นั้นไปยัดเยียดให้ลูกเลยจริงไหม?" `
+`"ใจเย็นก่อนน่า เอวา `
+`แต่ละบ้านเขาก็มีวิธีเลี้ยงลูกของตัวเองนะ `
+`อย่าไปก้าวก่ายเขาเลยน่า" `
+`"ขอโทษด้วยนะจ๊ะ `
+`พี่นัตสึฮิ อย่าเข้าใจผิดไปล่ะ" `
 `"..........................." `
-`Though the light shining in through the window was quite warm despite the cloudy weather, there was a dark mood about the room, `
-`...which was probably causing headaches for more than just Natsuhi. `
-`As if to sweep away that mood, Kyrie brightly made a suggestion to all present. `
-`"Still, this black tea has a really lovely aroma. `
-`Let's drink it right away. `
-`In Japan, surely you couldn't find something like Leopold's black tea anywhere but Ginza, right?" `
-`"I see you know a lot about it, Kyrie nee-san. `
-`I guess it was worth going to the trouble of buying it." `
-`Kyrie and Rosa stood up from their seats and made as if to prepare the black tea, `
-`but Natsuhi forestalled them. `
-`"......I thank you both, `
-`but we can try that later. `
-`One of our people will soon be coming to bring some tea, so please relax." `
-`"Leave it for later, you two. `
-`Let's enjoy our "welcome drink"." `
-`Rudolf gave a subtle signal with his eyes for them to sit down again. `
-`...Kyrie and Rosa understood instantly and obediently returned to their seats. `
-`The initial greeting of the guests was complete, so it was time for them to be served some tea. `
-`...It was embarrassing for the host that the tea was late, especially now that the guests were talking about making tea themselves. `
-`Natsuhi bit her lower lip, frustrated by the ineptitude of the servants who were late bringing in the tea. `
-`...Seeing her face, Eva immediately started to giggle. `
-`......Of course, Shannon had no way of knowing what was taking place in the parlor. `
-`She came pushing a serving cart piled with tea cups. `
-`For no apparent reason, Natsuhi gave her a pained look, and Shannon couldn't help but flinch without knowing what she had done wrong. `
-`"......E-Excuse me. `
-`Your tea is ready." `
-`"Oh, Shannon-chan, it's been a while! `
-`You keep getting prettier every time I see you!" `
-`".........Oh, `
-`...um, `
-`.........thanks..." `
-`"Save the chatting for after you've set the table. `
-`The tea will get cold." `
-`"......I-I apologize, Madam." `
-`She apologized like a small frightened animal, bumped against the serving cart, and made a jarring racket as she dropped several teaspoons. `
-`Her clumsiness made Natsuhi's expression turn even darker, which made Shannon quail even more. `
-`"Come on, Natsuhi nee-san. `
-`There's nothing wrong with her exchanging a few words in greeting. `
-`The tea must be plenty cold already, considering how long we've been kept waiting. `
-`Heheheh." `
-`"Th-There's no need to worry... `
-`It's not cold yet..." `
-`".........Shannon, finish setting the table, quickly." `
-`"I-I'm sorry, Madam......" `
-`Natsuhi's irritation was obvious by now. `
-`...The ineptitude that delayed the tea, the clumsiness of the servant... Everything pointed to the incompetence of Natsuhi's everyday leadership, making her lose face. `
-`As the person in charge of the Ushiromiya Head Family's kitchen, allowing that clumsiness to be exposed—today of all days—was surely nothing less than total humiliation. `
-`"Lay off, Natsuhi nee-san. `
-`Don't you think it's a little harsh to bully Shannon-chan when she's trying her best?" `
-`"I'm not bullying anyone...!" `
-`"What a nice aroma. `
-`May I ask what brand this is?" `
-`"............Umm, `
-`I'm terribly sorry... `
-`I'll find out for you later..." `
-`Kyrie was trying to be nice, hoping to cut through the tense mood. `
-`...However, Shannon had embarrassed herself instead, darkening Natsuhi's face and the room's mood. `
-`By this point, Eva was audibly giggling. `
-`"Whaat's this? `
-`Shannon-chan, don't you even know what you're pouring us? `
-`Come now, you mustn't serve something so suspicious to guests. `
-`We'll need a silver spoon at the very least before we can drink this." `
-`"...I-I'm sorry... `
-`I'll go get one immediately..." `
-`"Shannon-chan, `
-`do you know what silver spoons are used for? `
-`They have to be silver. `
-`Do you know why?" `
-`"......No, `
-`...umm..." `
-`A teasing smile rose to Eva's face as she stared at Shannon setting the table. `
-`By itself, Eva's expression was sweet in an impish sort of way. `
-`However, the words being spun from her lips held the keenness of a razor within them. `
-`Shannon tried with all her might to avoid Eva's continuing gaze. `
-`Realizing that Shannon was hard-pressed for an answer, Rosa gave some timely help. `
-`"They say that if silver is touched by poison, it darkens. `
-`...*giggle* Guess you've learned something today, Shannon-chan." `
-`They were acting as though this tea needed to be tested for poison before it could be drunk. `
-`In Natsuhi's eyes, this was an insult both to the tea...and to herself for serving it. `
-`Rudolf laughed flippantly and patted Eva's shoulder. `
-`"Haha, silver cutlery wouldn't do any good for you, Aneki. `
-`Just one lick of your poisonous tongue, and even a silver plate would turn pitch black." `
-`"Wahahahaha! `
-`Since I get to hear that poison tongue every day, I must be poison-proof myself by now! `
-`Eva, I don't mind when you use it on me, but you'd better hold back when talking to people who haven't built up a resistance! `
-`Wahahahaha!" `
-`"My, how cruel. `
-`All I did was teach Shannon-chan a bit about tea, didn't I? `
-`*giggle*" `
-`Everyone followed the lead set by Hideyoshi's horselaugh and chuckled, though not easily. `
-`Only Natsuhi didn't join in, but for the time being, the conversation inside the parlor could now be mistaken for a lively and friendly chat. `
-`As Shannon finally finished setting the tea table and tried to leave, Kyrie apologized to her in a low voice for not being able to help. `
-`...Shannon gave a light bow and made a hasty retreat...... `
-`Shannon cast her eyes downwards as she pushed the cart down the corridor... `
-`Anyone seeing the pitiful way she looked might easily conclude that she'd been bullied in some way. `
-`"...Don't be sad. `
-`You didn't do anything wrong, Nee-san." `
-`"......You were watching." `
-`"That is my role." `
+`แม้แสงที่ส่องผ่านหน้าต่างเข้ามาจะค่อนข้างอบอุ่นแม้อากาศจะครึ้มฟ้าครึ้มฝน ทว่าบรรยากาศภายในห้องกลับมืดมน `
+`...ซึ่งคงไม่ได้ทำให้แค่นัตสึฮิคนเดียวที่รู้สึกปวดหัว `
+`ราวกับต้องการจะปัดเป่าบรรยากาศนั้นทิ้งไป คิริเอะจึงเอ่ยข้อเสนอขึ้นมาด้วยน้ำเสียงสดใสแก่ทุกคน `
+`"แต่ว่านะ ชาดำกล่องนี้กลิ่นหอมน่าดูเลยล่ะ `
+`รีบชงดื่มกันเถอะนะ `
+`ในญี่ปุ่นเนี่ย ชาดำของเลโอโพลด์คงหาซื้อที่ไหนไม่ได้นอกจากกินซ่าแล้วใช่ไหมล่ะ?" `
+`"พี่คิริเอะรู้เรื่องพวกนี้ละเอียดจังเลยนะคะ `
+`อุตส่าห์ตั้งใจแวะไปซื้อมา คุ้มค่าจริง ๆ ค่ะ" `
+`คิริเอะกับโรซ่าลุกขึ้นจากที่นั่งและทำท่าว่าจะช่วยเตรียมชาดำ `
+`แต่นัตสึฮิรีบห้ามไว้เสียก่อน `
+`"......ขอบพระคุณทั้งสองท่านนะคะ `
+`แต่ไว้ค่อยลองชิมกันทีหลังเถอะค่ะ `
+`เดี๋ยวคนของเราก็จะยกชามาเสิร์ฟแล้ว ขอเชิญพักผ่อนตามสบายเถอะค่ะ" `
+`"ไว้ทีหลังเถอะพวกเธอ `
+`มาดื่ม 'เครื่องดื่มต้อนรับ' กันก่อนดีกว่าน่า" `
+`รูดอล์ฟส่งสัญญาณสายตาอย่างแนบเนียนให้พวกเธอกลับไปนั่ง `
+`...คิริเอะกับโรซ่าเข้าใจได้ในทันที และกลับไปนั่งที่เดิมแต่โดยดี `
+`การทักทายแขกเบื้องต้นเสร็จสิ้นแล้ว จึงถึงเวลาที่ควรจะได้ดื่มชาเสียที `
+`...การที่ชามาช้าจนแขกถึงกับเอ่ยปากว่าจะชงเอง นับเป็นเรื่องน่าอับอายสำหรับเจ้าบ้านอย่างยิ่ง `
+`นัตสึฮิกัดริมฝีปากล่างด้วยความหงุดหงิดในความไม่ได้เรื่องของเหล่าคนรับใช้ที่ยกชามาชักช้า `
+`...เมื่อเห็นสีหน้าของเธอ เอวาก็เริ่มหัวเราะคิกขึ้นมาทันที `
+`......แน่นอนว่าชาน่อนย่อมไม่มีทางรู้เลยว่าเกิดอะไรขึ้นในห้องรับแขกบ้าง `
+`เธอเข็นรถเข็นเสิร์ฟที่วางถ้วยชาซ้อนกันเข้ามา `
+`นัตสึฮิส่งสายตาไม่พอใจมาให้อย่างไม่มีปี่มีขลุ่ย จนชาน่อนถึงกับสะดุ้งกลัวโดยไม่รู้ตัวว่าทำอะไรผิด `
+`"......ข-ขอประทานโทษค่ะ `
+`เตรียมน้ำชามาให้เรียบร้อยแล้วค่ะ" `
+`"โอ้ ชาน่อนจัง ไม่ได้เจอกันตั้งนานเลยนะ! `
+`เจอกันทีไรก็สวยขึ้นทุกทีเลยนะเนี่ย!" `
+`".........เอ่อ `
+`...คือ `
+`.........ขอบพระคุณค่ะ..." `
+`"จัดโต๊ะให้เสร็จก่อนค่อยคุยกันเถอะ `
+`เดี๋ยวชาจะเย็นหมด" `
+`"......ข-ขออภัยค่ะ คุณผู้หญิง" `
+`เธอขอโทษเหมือนสัตว์ตัวเล็ก ๆ ที่หวาดกลัว พลางชนเข้ากับรถเข็นเสิร์ฟจนช้อนชาหลายคันหล่นลงพื้นเสียงดังบาดหู `
+`ความซุ่มซ่ามนั้นยิ่งทำให้นัตสึฮิหน้าบึ้งตึงเข้าไปใหญ่ ซึ่งก็ยิ่งทำให้ชาน่อนตัวหดลีบลงไปอีก `
+`"แหม พี่นัตสึฮิ `
+`แค่ทักทายกันสักสองสามคำก็ไม่เห็นจะเป็นอะไรเลยนี่นา `
+`ชาน่ะ ปล่อยให้รอนานขนาดนั้นคงเย็นชืดไปหมดแล้วมั้งจ๊ะ `
+`ฮิฮิฮิ" `
+`"ม-ไม่ต้องกังวลนะคะ... `
+`ยังไม่เย็นหรอกค่ะ..." `
+`".........ชาน่อน รีบจัดโต๊ะให้เสร็จเร็ว ๆ เข้า" `
+`"ข-ขออภัยค่ะ คุณผู้หญิง......" `
+`ถึงตอนนี้ใคร ๆ ก็ดูออกว่านัตสึฮิหงุดหงิดเพียงใด `
+`...ความไม่ได้เรื่องที่นำชามาชักช้า ความซุ่มซ่ามงุ่มง่ามของคนรับใช้... ทุกสิ่งล้วนชี้ไปที่ความไร้ความสามารถในการอบรมสั่งสอนของนัตสึฮิ ทำให้เธอต้องเสียหน้า `
+`ในฐานะผู้ดูแลครัวเรือนของตระกูลหลักอุชิโรมิยะ การปล่อยให้ความซุ่มซ่ามเช่นนี้ถูกเปิดโปง—โดยเฉพาะในวันเช่นนี้—ย่อมไม่ต่างอะไรกับการขายหน้าอย่างสิ้นเชิง `
+`"พอเถอะน่า พี่นัตสึฮิ `
+`แกล้งชาน่อนจังที่กำลังพยายามสุดฝีมือแบบนั้น มันไม่ใจร้ายไปหน่อยเหรอครับ?" `
+`"ดิฉันไม่ได้แกล้งใครทั้งนั้นนะคะ...!" `
+`"กลิ่นหอมจังเลยนะ `
+`พอจะบอกได้ไหมจ๊ะว่านี่เป็นยี่ห้ออะไร?" `
+`"............เอ่อคือ `
+`ต้องกราบขออภัยจริง ๆ ค่ะ... `
+`เดี๋ยวจะไปถามมาให้นะคะ..." `
+`คิริเอะพยายามพูดดีด้วย เพื่อช่วยคลายบรรยากาศอันตึงเครียด `
+`...ทว่า ชาน่อนกลับทำเรื่องน่าอายออกมาแทน ยิ่งทำให้สีหน้าของนัตสึฮิและบรรยากาศในห้องดำดิ่งลงไปอีก `
+`ถึงตอนนี้ เอวาก็หัวเราะคิกคักออกมาจนได้ยินเสียง `
+`"อะไรรรกันน่ะ? `
+`ชาน่อนจัง แม้แต่ตัวเองรินอะไรให้พวกเราดื่มก็ยังไม่รู้เลยงั้นเหรอ? `
+`แหม ๆ เอาของน่าสงสัยพรรค์นั้นมารับรองแขกไม่ได้หรอกนะ `
+`ก่อนจะดื่มเนี่ย อย่างน้อยคงต้องขอช้อนเงินมาตรวจดูก่อนแล้วล่ะ" `
+`"...ข-ขออภัยค่ะ... `
+`ดิฉันจะรีบไปนำมาให้เดี๋ยวนี้ค่ะ..." `
+`"ชาน่อนจัง `
+`รู้หรือเปล่าว่าช้อนเงินน่ะเขาเอาไว้ทำอะไรกัน? `
+`ต้องเป็นเครื่องเงินเท่านั้นด้วยนะ `
+`รู้ไหมล่ะว่าทำไม?" `
+`"......มะ ไม่ `
+`...เอ่อคือ..." `
+`รอยยิ้มหยอกเย้าผุดขึ้นบนใบหน้าของเอวาขณะจ้องมองชาน่อนที่กำลังจัดโต๊ะ `
+`หากมองเพียงอย่างเดียว สีหน้าของเอวาก็ดูน่ารักน่าเอ็นดูแกมซุกซน `
+`ทว่าถ้อยคำที่ร้อยเรียงออกมาจากริมฝีปากนั้นกลับแฝงความคมกริบดั่งใบมีดโกน `
+`ชาน่อนพยายามสุดกำลังที่จะหลบสายตาที่เอวาจ้องมองมาไม่หยุดหย่อน `
+`เมื่อเห็นว่าชาน่อนจนปัญญาจะตอบ โรซ่าจึงช่วยเอ่ยแก้สถานการณ์ให้ได้ทันเวลา `
+`"เขาว่ากันว่าถ้าเงินสัมผัสโดนยาพิษ มันจะเปลี่ยนเป็นสีดำน่ะจ้ะ `
+`...*คิก* ถือว่าวันนี้ได้ความรู้ใหม่นะ ชาน่อนจัง" `
+`พวกเธอทำราวกับว่าชานี้ต้องได้รับการตรวจพิษก่อนถึงจะดื่มได้ `
+`ในสายตาของนัตสึฮิ นี่เป็นการดูถูกทั้งตัวชา...และตัวเธอเองที่เป็นคนสั่งให้ยกมาเสิร์ฟ `
+`รูดอล์ฟหัวเราะอย่างไม่ใส่ใจพลางตบไหล่เอวา `
+`"ฮะฮะ เครื่องใช้บนโต๊ะอาหารที่เป็นเงินคงช่วยอะไรพี่ไม่ได้หรอกนะ พี่ `
+`แค่โดนลิ้นพิษของพี่เลียเข้าไปทีเดียว แม้แต่จานเงินก็คงกลายเป็นสีดำมะเมื่อมพอดี" `
+`"ว่าฮ่าฮ่าฮ่าฮ่า! `
+`เพราะลุงต้องฟังลิ้นพิษนั่นทุกวัน ป่านนี้คงสร้างภูมิคุ้มกันพิษได้หมดแล้วล่ะมั้งเนี่ย! `
+`เอวา จะใช้กับฉันก็ไม่ว่าอะไรหรอกนะ แต่เพลา ๆ มือหน่อยตอนคุยกับคนที่เขายังไม่มีภูมิต้านทานน่ะ! `
+`ว่าฮ่าฮ่าฮ่าฮ่า!" `
+`"แหม ใจร้ายจังเลย `
+`ฉันก็แค่สอนความรู้เรื่องชาให้ชาน่อนจังนิด ๆ หน่อย ๆ เองไม่ใช่เหรอจ๊ะ? `
+`คิก" `
+`ทุกคนต่างหัวเราะตามเสียงหัวเราะลั่นของฮิเดโยชิ แม้จะไม่ได้หัวเราะออกมาได้อย่างสบายใจนักก็ตาม `
+`มีเพียงนัตสึฮิคนเดียวที่ไม่ร่วมวงด้วย ทว่าในยามนี้ บทสนทนาในห้องรับแขกก็ดูครึกครื้นและเป็นกันเองจนอาจทำให้เข้าใจผิดไปได้ `
+`เมื่อชาน่อนจัดโต๊ะน้ำชาเสร็จสิ้นในที่สุดและกำลังจะล่าถอยออกไป คิริเอะก็กล่าวขอโทษเธอด้วยเสียงเบาที่ไม่อาจช่วยอะไรได้ `
+`...ชาน่อนค้อมศีรษะลงเล็กน้อยแล้วรีบล่าถอยออกไปอย่างรวดเร็ว...... `
+`ชาน่อนหลุบตาต่ำลงขณะเข็นรถเข็นไปตามระเบียงทางเดิน... `
+`ผู้ใดที่ได้เห็นท่าทางอันน่าเวทนานั้น คงสรุปได้อย่างง่ายดายว่าเธอถูกกลั่นแกล้งมาเป็นแน่ `
+`"...อย่าเศร้าไปเลยครับ `
+`พี่ไม่ได้ทำอะไรผิดสักหน่อย" `
+`"......เห็นอยู่ด้วยเหรอ" `
+`"นั่นเป็นหน้าที่ของผมครับ" `
 `".................." `
-`"Madam and Eva-sama can go to hell. `
-`......But the worst coward is that guy." `
-`Kanon glared hatefully in the opposite direction of the parlor. `
-`The preparations for the tea had been delayed by some trifling problems in the kitchen. `
-`These problems were not Shannon's fault. `
-`In fact, it had been Gohda's mistake. `
-`After all, there was no way a showoff like Gohda would give up a flashy job like bringing in tea when the guests arrived. `
-`He had ended up wasting time preparing the tea once again. `
-`So, when he realized he wouldn't be able to score any points for this job, he pushed the task of setting the table on Shannon, who happened to be passing by. `
-`...You might call it a clever move on his part, but there could be no doubt that it was a cowardly one. `
-`"......It's okay, Kanon-kun. Thanks. `
-`I'm not bothered by it at all..." `
+`"คุณผู้หญิงกับคุณเอวาจะไปลงนรกที่ไหนก็ช่างเถอะครับ `
+`......แต่คนที่ขี้ขลาดที่สุดคือหมอนั่นต่างหาก" `
+`คาน่อนจ้องมองไปยังทิศตรงข้ามกับห้องรับแขกด้วยสายตาเคียดแค้น `
+`การเตรียมน้ำชาล่าช้าไปเพราะปัญหาเล็กๆ น้อยๆ ในห้องครัว `
+`ปัญหาเหล่านั้นไม่ใช่ความผิดของชาน่อนเลย `
+`แท้จริงแล้ว มันเป็นความผิดพลาดของโกดะต่างหาก `
+`ก็แหม คนชอบอวดอย่างโกดะไม่มีทางยอมปล่อยงานที่ได้หน้าได้อย่างการยกน้ำชามาเสิร์ฟตอนแขกมาถึงให้หลุดมือไปหรอก `
+`แต่เขากลับทำเวลาเสียเปล่าไปกับการชงชาใหม่อีกรอบ `
+`ดังนั้น พอรู้ตัวว่าจะไม่ได้คะแนนความชอบจากงานนี้แล้ว เขาจึงโยนหน้าที่จัดโต๊ะให้ชาน่อนที่บังเอิญเดินผ่านมาพอดี `
+`...อาจจะมองว่าเป็นการเอาตัวรอดที่ฉลาดแกมโกง แต่มันคือการกระทำที่ขี้ขลาดอย่างไม่ต้องสงสัย `
+`"......ไม่เป็นไรหรอกจ้ะ คาน่อนคุง ขอบใจนะ `
+`พี่ไม่ได้คิดมากอะไรเลยสักนิด..." `
 `"................................." `
-`Kanon's silence vividly expressed the distance between Shannon's words and how she actually felt. `
-`"......Thank you. `
-`Even if you're the only one who understands, I feel a bit better." `
-`"......You keep your feelings too bottled up, Nee-san. `
-`......You should be less hard on yourself for once." `
-`"Yeah. `
-`......Thanks." `
-`Suddenly, they both felt someone's presence and whirled around. `
-`A middle-aged man stood there. `
-`It was Genji, the head servant. `
-`".........What are you doing there? `
-`...Shannon, hurry back to the kitchen." `
-`"Y-Yes. `
-`......If you'll excuse me......" `
+`ความเงียบของคาน่อนบ่งบอกถึงช่องว่างระหว่างคำพูดของชาน่อนกับความรู้สึกจริงๆ ในใจของเธอได้อย่างชัดเจน `
+`"......ขอบใจนะ `
+`แค่มีคาน่อนเข้าใจคนเดียว พี่ก็รู้สึกดีขึ้นบ้างแล้วล่ะ" `
+`"......พี่เก็บความรู้สึกไว้คนเดียวมากเกินไปแล้วครับ `
+`......หัดปล่อยวางกับตัวเองบ้างเถอะครับ" `
+`"จ้ะ `
+`......ขอบใจนะ" `
+`ทันใดนั้น ทั้งคู่ก็สัมผัสได้ถึงใครบางคนและรีบหันขวับไปมอง `
+`ชายวัยกลางคนคนหนึ่งยืนอยู่ตรงนั้น `
+`เขาคือเก็นจิ หัวหน้าคนรับใช้ `
+`".........พวกเธอทำอะไรกันอยู่ตรงนั้น? `
+`...ชาน่อน รีบกลับไปที่ครัวได้แล้ว" `
+`"ค-ค่ะ `
+`......ขอตัวก่อนนะคะ......" `
 `"................................." `
-`Shannon humbly obeyed and promptly made to push the cart and leave. `
-`However, Kanon appealed to Genji in silence, bearing something in his eyes that he could not express in words. `
-`"......What is it? `
-`Did something happen...?" `
-`"...Sh- `
-`Shannon didn't do anything wrong. `
-`But even so, they..." `
-`"Stop it, Kanon-kun... `
-`...Please excuse me. `
-`I'll return to work immediately. `
-`Kanon-kun, you should go back to your post too. `
-`......Please." `
-`"......If you say so, Nee-san." `
+`ชาน่อนน้อมรับคำสั่งอย่างว่าง่ายและรีบเข็นรถเข็นออกไปทันที `
+`ทว่า คาน่อนกลับสบตาเก็นจิอย่างเงียบงัน แววตาของเขาแฝงสิ่งที่ไม่ยินยอมจะเอ่ยออกมาเป็นคำพูด `
+`"......มีอะไร? `
+`เกิดอะไรขึ้นงั้นหรือ...?" `
+`"...พ- `
+`พี่ชาน่อนไม่ได้ทำอะไรผิดสักหน่อย `
+`ทั้งที่เป็นอย่างนั้น แต่พวกเขากลับ..." `
+`"พอเถอะ คาน่อนคุง... `
+`...ขอตัวก่อนนะคะ `
+`ดิฉันจะรีบกลับไปทำงานเดี๋ยวนี้ค่ะ `
+`คาน่อนคุงเองก็กลับไปประจำตำแหน่งเถอะนะ `
+`......ขอร้องล่ะ" `
+`"......ถ้าพี่ว่าอย่างนั้นล่ะก็นะครับ" `
 `"............ `
-`...If that is all, then go." `
-`"...Yes. `
-`...If you'll excuse me." `
-`From the shadows in the hallway, an old woman wearing an apron watched over them.  It was Kumasawa... `
-`......Poor Shannon-san, Kanon-san... `
-`There's no reason for those two to be picked on. `
-`...Still, Gohda-san's dislike for them is an undeniable fact... `
-`Until Gohda-san was taken in by the Ushiromiya Head Family, I hear he worked for a fabulous hotel somewhere. `
-`The manner of work he learned there was quite impressive, I believe. `
-`It's just that...Gohda-san is the newest servant here. `
-`...He must have a lot of pride accumulated from his previous positions. `
-`Because Shannon-san and Kanon-kun are his seniors here at the mansion, and yet are inexperienced and have gone through much less in life than he has, he picks on them at every chance he gets... `
-`And also, ...sad as it may be, they are disliked by Madam Natsuhi too... `
-`Of course, if we're talking about experience, the Madam has been in this family much longer. `
-`And yet...this is one point where I cannot help but sympathize with the Madam as well. `
-`...Truly, the Master is a man with many sins on his conscience... `
-`Why didn't he realize that such a trifling whim of his would give the Madam such an inferiority complex...? `
-`...Of course, on the inside, even the Madam is fully aware that those two don't deserve to be treated so harshly... `
-`...However, the heart has reasons that reason knows not... `
-`Aah, I feel so sorry for them... `
-`I can't do anything but watch over them from the shadows...... `
+`...ถ้ามีแค่นี้ ก็ไปได้แล้ว" `
+`"...ครับ `
+`...ขอตัวก่อนครับ" `
+`จากเงามืดตรงระเบียงทางเดิน หญิงชราสวมผ้ากันเปื้อนคนหนึ่งกำลังเฝ้ามองดูพวกเขาอยู่  นั่นคือคุมาซาวะ... `
+`......น่าสงสารคุณชาน่อนกับคุณคาน่อนเหลือเกิน... `
+`ไม่มีเหตุผลที่สองคนนั้นจะต้องมาโดนรังแกแบบนี้เลยแท้ๆ `
+`...ถึงกระนั้น การที่คุณโกดะไม่ชอบหน้าพวกเขาก็เป็นความจริงที่ปฏิเสธไม่ได้อยู่ดี... `
+`ได้ยินว่าก่อนที่คุณโกดะจะเข้ามาทำงานในตระกูลหลักอุชิโรมิยะ เขาเคยทำงานในโรงแรมหรูหราที่ไหนสักแห่งมาก่อน `
+`วิถีการทำงานที่เขาได้เรียนรู้มาจากที่นั่นคงจะน่าประทับใจไม่เบาทีเดียว `
+`เพียงแต่ว่า...คุณโกดะเป็นคนรับใช้ที่เข้ามาใหม่ที่สุดของที่นี่ `
+`...เขาคงมีความภาคภูมิใจที่สั่งสมมาจากตำแหน่งการงานเดิมอยู่ไม่น้อย `
+`พอเห็นว่าคุณชาน่อนกับคาน่อนคุงเป็นรุ่นพี่ในคฤหาสน์หลังนี้ ทั้งที่ยังอ่อนประสบการณ์และผ่านโลกมาน้อยกว่าเขามาก เขาจึงคอยหาเรื่องกลั่นแกล้งทุกครั้งที่มีโอกาส... `
+`แล้วก็นะคะ...ถึงจะน่าเศร้า แต่พวกเขาก็ไม่เป็นที่โปรดปรานของคุณผู้หญิงนัตสึฮิด้วยเหมือนกัน... `
+`แน่นอนว่าหากพูดถึงเรื่องประสบการณ์แล้ว คุณผู้หญิงอยู่กับตระกูลนี้มานานกว่ามากนัก `
+`ถึงอย่างนั้น...นี่ก็เป็นจุดหนึ่งที่ดิฉันอดเห็นใจคุณผู้หญิงไม่ได้เหมือนกัน `
+`...ท่านเจ้าบ้านช่างเป็นคนที่สร้างบาปไว้หนาเสียจริง... `
+`ทำไมถึงไม่ตระหนักเลยนะ ว่าอารมณ์ชั่ววูบอันไร้สาระของตน จะทำให้คุณผู้หญิงเกิดปมด้อยถึงขนาดนี้...? `
+`...แน่นอนว่าลึกๆ ในใจแล้ว แม้แต่คุณผู้หญิงเองก็รู้ดีว่าสองคนนั้นไม่ได้สมควรที่จะถูกปฏิบัติต่ออย่างรุนแรงเช่นนี้เลย... `
+`...ทว่า หัวใจคนเรานั้นย่อมมีเหตุผลที่เหตุผลเองก็ไม่อาจเข้าใจได้... `
+`อา ช่างน่าเวทนาเหลือเกิน... `
+`ดิฉันทำได้เพียงเฝ้ามองพวกเขาจากในเงามืดเท่านั้นเอง...... `

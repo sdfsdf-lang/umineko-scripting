@@ -1,116 +1,116 @@
-`"...What sort of tea should I prepare next? `
-`You have free choice of any brand that ever was throughout the ages." `
-`"...Dried plum black tea. `
-`...The kind that goes for 200 yen a pack." `
-`"*cackle*cackle*...! `
-`...For a thousand years, I have been fond of black tea, but I did not know of such a thing. `
-`...I will never tire of living in this world." `
-`"......Beato, `
-`you don't have to display such hostility. `
-`...I am just a wandering witch. `
-`I didn't come with the intention of violating the rules of your territory." `
-`"...*cackle*cackle* Hostility? I bear nothing of the sort. `
-`...I am just terribly concerned with seeing to it that the legendary witch, Lady {f:5:Bernkastel}, is well attended to." `
-`"...You misunderstand. `
-`I am powerless. `
-`Before a witch such as you, who possesses the dreadful power to kill an individual a hundred times, I am completely powerless." `
-`"That a powerless Lady Witch like you possesses a power that none can approach is what is truly terrifying. `
-`After all, that Great Witch, Lady {f:5:Lambdadelta}, was dethroned by you alone." `
-`"...I only won an endurance contest. `
-`She simply got tired." `
-`"That is not what Lady {f:5:Lambdadelta} said though. `
-`...*cackle*cackle*cackle* Too much humility can be unseemly, Lady {f:5:Bernkastel}." `
-`"...That girl has a dreadful power. `
-`...The power to kill an individual "without fail". `
-`However, "without fail" doesn't exist in this world. `
-`No matter how many times you divide one, you can never reach zero. `
-`That girl has the power to bring the odds of failure down to "almost exactly zero", ...the power to give rise to "almost perfect certainty". `
-`...I hope I never have to fight such a terrifying witch again." `
-`"However, you have the power to cause success without fail, "as long as the odds are not zero". `
-`...Though you say "without fail" doesn't exist in this world, you possess an infallible power yourself. `
-`...How very terrifying, *cackle*cackle*...!" `
-`"...The power to kill an individual "endlessly"... `
-`...I think you're the more terrifying one." `
-`"You jest. `
-`...From your point of view, mine is but a trifling power. `
-`This is most certainly what one would call empty praise." `
-`"...Call it flattery to make up for the cost of staying here. `
-`...I am a fleeing traveler who crosses the Fragments, continually running from boredom. `
-`...I simply came around because I heard you'd started something interesting. `
-`Have no doubts that I will choose to leave as soon as you are no longer interesting." `
-`"*cackle*cackle*...! `
-`I, {f:5:Beatrice}, am deeply and humbly delighted to have the great Lady {f:5:Bernkastel} as an observer. `
-`*cackle*cackle*! `
-`And so, your impressions?" `
-`"...{f:5:Lambdadelta} is terrifying because of her cruelty, but she's a girl I can understand. `
-`...You do seem to be capable of affection, but I can't understand you at all. `
-`That makes you much more terrifying than her." `
-`"*cackle*cackle*cackle*...! `
-`I am fickle by nature. `
-`Do forgive me. `
-`...Besides, I believe you also enjoy entrusting your fate to the roll of fickle dice, right, Lady {f:5:Bernkastel}?" `
-`"...When I roll the dice, I have a roll I clearly want to get. `
-`Unlike you. `
-`You, on the other hand, never let the dice fall from your hand. `
-`So, whatever the roll might have been, you're never disappointed. `
-`Whatever roll the dice show you, you are satisfied "without fail". `
-`...In that sense, you far surpass me." `
-`"...You're one I really don't want to fight with. `
-`Inside of you, there's nothing but zero. `
-`That's why I can't win against you with my power. `
-`...It's the worst compatibility. `
-`...Perhaps {f:5:Lambdadelta}, on the other hand, has a good compatibility against you. `
-`Since she would be able to kill your "endless" nature." `
-`"*cackle*cackle*, *cackle*cackle*cackle*! `
-`...Oh yes, witches truly are the best people to enjoy black tea with. `
-`One doesn't get bored. `
-`*cackle*cackle*!" `
-`"...Then, I'm relieved. `
-`Boredom is the only poison that can kill me. `
-`...So, don't kill me, okay? `
-`Lady {f:5:Beatrice}, Endless Witch." `
-`"If such is your wish, I, {f:5:Beatrice}, shall show you an even better time. `
-`...In that case, wouldn't it be best if I brought the next chessboard in right away? `
-`It seems the next tale would do more for you than another cup of black tea." `
+`"...ต่อไปจะให้ข้าเตรียมชาแบบไหนดีเล่า `
+`ไม่ว่าจะเป็นยี่ห้อไหนที่มีมาตั้งแต่โบราณกาล เจ้าก็เลือกได้ตามใจชอบเลยนะ" `
+`"...ชาดำบ๊วยดอง `
+`...แบบที่ขายห่อละ 200 เยนนั่นน่ะ" `
+`"คุ-คุ...! `
+`...ข้าโปรดปรานชาดำมาเป็นพันปี แต่กลับไม่เคยรู้เลยว่ามีของพรรค์นั้นอยู่ด้วย `
+`...มีชีวิตอยู่ในโลกนี้ไม่มีวันเบื่อจริงๆ" `
+`"......เบียโตะ `
+`เธอไม่ต้องแสดงท่าทีเป็นศัตรูขนาดนั้นก็ได้ `
+`...ฉันเป็นแค่แม่มดพเนจร `
+`ไม่ได้มาด้วยเจตนาจะละเมิดกฎในอาณาเขตของเธอหรอกนะ" `
+`"...คุ-คุ เป็นศัตรูงั้นหรือ? ข้าไม่ได้มีเจตนาเช่นนั้นเลยสักนิด `
+`...ข้าแค่กังวลใจยิ่งนัก ว่าจะต้อนรับขับสู้แม่มดในตำนานอย่างท่าน{f:5:เบิร์นคัสเทล}ได้ไม่ดีพอต่างหากเล่า" `
+`"...เธอเข้าใจผิดแล้วล่ะ `
+`ฉันน่ะไร้พลัง `
+`ต่อหน้าแม่มดอย่างเธอ ผู้มีพลังอันน่าสะพรึงกลัวที่จะฆ่าคนคนหนึ่งได้เป็นร้อยครั้ง ฉันก็เป็นแค่คนไร้พลังโดยสิ้นเชิง" `
+`"การที่ท่านแม่มดผู้ไร้พลังเช่นท่าน ครอบครองพลังที่ไร้ผู้ใดทัดเทียมได้ต่างหากเล่าที่น่าหวาดหวั่นอย่างแท้จริง `
+`เพราะขนาดมหาแม่มดอย่างท่าน{f:5:แลมด้าเดลต้า} ก็ยังถูกท่านโค่นลงจากบัลลังก์ได้ด้วยตัวคนเดียวมิใช่หรือ" `
+`"...ฉันแค่ชนะการแข่งความอดทนเท่านั้นแหละ `
+`ยัยนั่นแค่เหนื่อยไปเอง" `
+`"แต่นั่นไม่ใช่สิ่งที่ท่าน{f:5:แลมด้าเดลต้า}พูดเลยนี่นะ `
+`...คุ-คุ-คุ ถ่อมตนเกินไปมันจะดูไม่งามเอานะ ท่าน{f:5:เบิร์นคัสเทล}" `
+`"...ยัยนั่นมีพลังที่น่ากลัว `
+`...พลังในการฆ่าคนคนหนึ่งได้ 'อย่างแน่นอน' `
+`แต่ว่านะ คำว่า 'อย่างแน่นอน' มันไม่มีจริงในโลกนี้หรอก `
+`ต่อให้หารหนึ่งไปกี่ครั้ง ก็ไม่มีวันไปถึงศูนย์ได้ `
+`ยัยนั่นมีพลังที่จะลดโอกาสล้มเหลวลงจน 'เกือบจะเป็นศูนย์พอดี' ...พลังที่จะสร้าง 'ความแน่นอนอันเกือบจะสมบูรณ์แบบ' ขึ้นมา `
+`...ฉันหวังว่าจะไม่ต้องสู้กับแม่มดที่น่ากลัวขนาดนั้นอีกเป็นครั้งที่สอง" `
+`"ทว่า ตัวท่านกลับมีพลังที่จะบันดาลให้สำเร็จได้โดยไม่พลาด 'ตราบใดที่โอกาสนั้นไม่เป็นศูนย์' `
+`...แม้ท่านจะบอกว่า 'อย่างแน่นอน' ไม่มีอยู่ในโลกนี้ แต่ตัวท่านเองกลับครอบครองพลังที่ไม่เคยผิดพลาดเสียเอง `
+`...ช่างน่าสะพรึงกลัวเสียจริง คุ-คุ...!" `
+`"...พลังในการฆ่าคนคนหนึ่งได้ 'อย่างไม่มีที่สิ้นสุด' ต่างหาก... `
+`...ฉันว่าเธอน่ะน่ากลัวกว่าอีก" `
+`"ท่านก็ล้อเล่นไปเรื่อย `
+`...ในสายตาของท่านแล้ว พลังของข้ามันก็แค่ของขี้ผงเท่านั้น `
+`นี่แหละหนาที่เขาเรียกว่าคำเยินยออันไร้สาระอย่างแท้จริง" `
+`"...จะคิดว่าเป็นคำป้อยอชดเชยค่าที่พักก็ได้นะ `
+`...ฉันเป็นแค่นักเดินทางผู้หลบหนีที่ข้ามผ่านเศษเสี้ยว วิ่งหนีความน่าเบื่อหน่ายอยู่ตลอดเวลา `
+`...ที่แวะมานี่ก็แค่เพราะได้ยินว่าเธอเริ่มทำอะไรน่าสนุกเข้า `
+`มั่นใจได้เลยว่า ทันทีที่เธอหมดความน่าสนใจเมื่อไหร่ ฉันก็จะไปเมื่อนั้น" `
+`"คุ-คุ...! `
+`ตัวข้า {f:5:เบียทริเช่} ผู้นี้ รู้สึกยินดียิ่งจากก้นบึ้งของหัวใจ ที่ได้ท่าน{f:5:เบิร์นคัสเทล}ผู้ยิ่งใหญ่มาเป็นผู้สังเกตการณ์ `
+`คุ-คุ! `
+`แล้วเป็นอย่างไรบ้างเล่า ความประทับใจของท่าน?" `
+`"...{f:5:แลมด้าเดลต้า}น่ะน่ากลัวเพราะความโหดเหี้ยม แต่ยัยนั่นเป็นเด็กที่ฉันเข้าใจได้ `
+`...ส่วนเธอ ดูเหมือนจะมีความรักความผูกพันอยู่บ้าง แต่ฉันกลับไม่เข้าใจเธอเลยสักนิด `
+`นั่นทำให้เธอน่ากลัวกว่ายัยนั่นมากเลยล่ะ" `
+`"คุ-คุ-คุ...! `
+`ข้าเป็นคนเอาแน่เอานอนไม่ได้โดยธรรมชาติอยู่แล้ว `
+`โปรดยกโทษให้ด้วยเถิด `
+`...อีกอย่าง ข้าเชื่อว่าท่านเองก็เพลิดเพลินกับการฝากชะตากรรมไว้กับการทอยลูกเต๋าที่เอาแน่เอานอนไม่ได้เช่นกันมิใช่หรือ ท่าน{f:5:เบิร์นคัสเทล}?" `
+`"...เวลาฉันทอยลูกเต๋า ฉันมีแต้มที่อยากได้ชัดเจนอยู่ในใจ `
+`ไม่เหมือนเธอ `
+`ในทางกลับกัน เธอไม่เคยยอมปล่อยลูกเต๋าหลุดจากมือด้วยซ้ำ `
+`เพราะงั้น ไม่ว่าแต้มจะออกมาเป็นอะไร เธอจึงไม่เคยผิดหวัง `
+`ไม่ว่าลูกเต๋าจะแสดงแต้มไหนให้เห็น เธอก็พึงพอใจ 'อย่างแน่นอน' `
+`...ในแง่นั้น เธอเหนือกว่าฉันไปไกลโขเลยล่ะ" `
+`"...เธอคือคนที่ฉันไม่อยากสู้ด้วยจริงๆ `
+`ข้างในตัวเธอมันไม่มีอะไรเลยนอกจากศูนย์ `
+`พลังของฉันถึงได้เอาชนะเธอไม่ได้ `
+`...มันเป็นการจับคู่ที่แย่ที่สุด `
+`...ในทางกลับกัน บางทีคนที่แพ้ทางเธออาจเป็น {f:5:แลมด้าเดลต้า} ก็ได้นะ `
+`เพราะยัยนั่นคงสามารถสังหารความ 'นิรันดร์' ของเธอลงได้" `
+`"คุ-คุ, คุ-คุ-คุ! `
+`...อา ใช่แล้วล่ะ แม่มดนี่แหละคือเพื่อนดื่มชาดำที่ดีที่สุดจริงๆ `
+`ไม่มีทางเบื่อได้เลย `
+`คุ-คุ!" `
+`"...ถ้าอย่างนั้น ฉันก็โล่งอก `
+`ความน่าเบื่อน่ะ เป็นยาพิษเพียงอย่างเดียวที่ฆ่าฉันได้ `
+`...เพราะงั้น อย่าฆ่าฉันล่ะ เข้าใจไหม? `
+`ท่าน{f:5:เบียทริเช่} แม่มดแห่งนิรันดร์" `
+`"หากนั่นคือความประสงค์ของท่าน ข้า {f:5:เบียทริเช่} ก็จะมอบช่วงเวลาที่วิเศษยิ่งกว่านี้ให้เอง `
+`...ถ้าเช่นนั้น ข้านำกระดานหมากรุกชิ้นต่อไปเข้ามาเลยจะดีกว่าหรือไม่เล่า? `
+`ดูท่าเรื่องเล่าบทต่อไปคงมีประโยชน์กับท่านมากกว่าชาดำอีกสักถ้วยเสียอีก" `
 `"..............." `
-`"Just wait for a moment. `
-`...*cackle*cackle*!" `
-`...Something troublesome seems to have taken a liking to you. `
-`I'd really like to lend you my power, but as you just heard, that girl's power and mine have a very bad compatibility. `
-`Unfortunate as that may be. `
-`But you really are pitiful, so I'll help you out just a bit. `
-`First of all, about that girl. `
-`She does have the name {f:5:Beatrice}, but that doesn't necessarily mean she is "one individual woman". `
-`Get what I mean? `
-`In other words, she's not some Human. `
-`Her existence is a personification of the rules of this world. `
-`To beat her, you have to expose the rules of this world and unravel them. `
-`Perhaps this can be likened to learning the rules of chess by watching a game. `
-`First, take a good look at the chessboard. `
-`Then, learn the movements and roles of the pieces. `
-`Then, look for the conditions required to win at her game. `
-`When you've managed to reveal all these things, her heart will be exposed. `
-`After that, you can rip it apart or crush it as you please. `
-`...I am being quite generous. `
-`In the past, when I had a human body, it took me a hundred years to notice even this much. `
-`This is my meager farewell gift to you, the pitiful one captured by Beato. It's just like a spoon. `
-`A spoon can be used for more than just drinking soup. `
-`You can use it to dig through the prison you're locked in, or as a weapon to gouge the witch's eyes out. `
-`...Of course, you can also use the spoon to continually sip the watery soup inside your eternal cell. `
-`...Don't get the wrong idea. I have no intention of becoming your ally. `
-`I do feel empathy for you, but I won't help you. `
-`...It's like I'm sitting in front of the television yelling at you on the other side, even though my voice won't reach you. `
+`"รอประเดี๋ยวเถิด `
+`...คุ-คุ!" `
+`...ดูเหมือนว่านายจะถูกตัวปัญหาถูกใจเข้าให้แล้วสิ `
+`ฉันอยากจะให้ยืมพลังอยู่หรอกนะ แต่ก็อย่างที่เพิ่งได้ยินไปนั่นแหละ พลังของยัยนั่นกับฉันน่ะมันแพ้ทางกันอย่างสิ้นเชิง `
+`ถึงจะน่าเสียดายก็เถอะ `
+`แต่นายน่าสมเพชจริงๆ เพราะงั้นฉันจะช่วยสักนิดหน่อยแล้วกัน `
+`อย่างแรกเลย เกี่ยวกับยัยนั่น `
+`ยัยนั่นมีชื่อว่า {f:5:เบียทริเช่} ก็จริง แต่นั่นไม่ได้หมายความว่ายัยนั่นจะเป็น 'ผู้หญิงคนหนึ่ง' เสมอไปหรอกนะ `
+`เข้าใจที่ฉันพูดไหม? `
+`พูดอีกอย่างก็คือ ยัยนั่นไม่ใช่มนุษย์พรรค์นั้นหรอก `
+`ตัวตนของยัยนั่นคือการแปลงกฎของโลกนี้ให้กลายเป็นบุคคล `
+`การจะเอาชนะยัยนั่นได้ นายจะต้องเปิดโปงกฎของโลกนี้แล้วคลี่คลายมันออกมาให้ได้ `
+`อาจจะเปรียบได้กับการเรียนรู้กฎของหมากรุกจากการเฝ้าดูกระดานนั่นแหละ `
+`ขั้นแรก มองดูกระดานหมากรุกให้ดี `
+`จากนั้น ก็เรียนรู้การเดินและหน้าที่ของตัวหมากแต่ละตัว `
+`แล้วค่อยมองหาเงื่อนไขที่จำเป็นในการเอาชนะเกมของยัยนั่น `
+`เมื่อนายเปิดโปงสิ่งเหล่านี้ได้ทั้งหมด หัวใจของยัยนั่นก็จะถูกเผยออกมา `
+`หลังจากนั้น นายจะฉีกมันเป็นชิ้นๆ หรือจะขยี้ทิ้งก็ตามใจชอบเลย `
+`...นี่ฉันใจดีมากแล้วนะ `
+`ในอดีตตอนที่ฉันยังมีร่างเป็นมนุษย์ กว่าจะสังเกตเห็นเรื่องแค่นี้ได้ ฉันต้องใช้เวลาตั้งร้อยปี `
+`นี่คือของขวัญอำลาเล็กๆ น้อยๆ จากฉัน ให้แก่นายผู้แสนน่าสมเพชที่ถูกเบียโตะจับตัวไว้ มันก็เหมือนกับช้อนนั่นแหละ `
+`ช้อนน่ะไม่ได้มีไว้แค่ซดซุปหรอกนะ `
+`นายจะใช้มันขุดเจาะคุกที่ถูกขังอยู่ หรือจะใช้เป็นอาวุธควักลูกตาของแม่มดออกมาก็ได้ `
+`...แน่นอนว่า นายจะใช้ช้อนนั่นนั่งซดซุปใสแจ๋วในห้องขังอันเป็นนิรันดร์ต่อไปเรื่อยๆ ก็ได้เหมือนกัน `
+`...อย่าเข้าใจผิดล่ะ ฉันไม่ได้คิดจะมาเป็นพวกของนายหรอกนะ `
+`ฉันเห็นใจนายก็จริง แต่จะไม่ยื่นมือเข้าช่วยหรอก `
+`...มันก็เหมือนกับฉันนั่งอยู่หน้าโทรทัศน์แล้วตะโกนใส่นายที่อยู่อีกฟาก ทั้งๆ ที่เสียงของฉันส่งไปไม่ถึงนั่นแหละ `
 `{a:c: `
-`SO, YOU UNDERSTAND THAT I AM A WITCH, RIGHT?} `
-`I intend to enjoy this endless tale that Beato is going to weave until I tire of it. `
-`But that alone won't hold my interest. `
-`...That's why I'll lend you my power. `
-`It's all so that I don't get tired of this. `
-`I am the cruelest witch in the world. `
-`Whoever the opponent may be, I'll make them surrender with certainty. `
-`...Even if it's {f:5:Beatrice}, the Endless Witch, okay...? `
-`You are my game piece. `
-`Give it your best shot. `
-`I'll give you advice sometimes, out of her sight. `
-`Don't bore me, okay...? `
-`*giggle*giggle*giggle*... `
+`เพราะงั้น เธอคงเข้าใจแล้วใช่ไหมว่าฉันคือแม่มด?} `
+`ฉันตั้งใจว่าจะเพลิดเพลินกับเรื่องเล่าอันไร้ที่สิ้นสุดที่เบียโตะจะถักทอขึ้นมานี้จนกว่าจะเบื่อ `
+`แต่แค่เพียงอย่างนั้นคงตรึงความสนใจของฉันไว้ไม่ได้หรอก `
+`...เพราะเหตุนี้ ฉันถึงจะให้เธอยืมพลัง `
+`ทั้งหมดก็เพื่อไม่ให้ฉันต้องเบื่อไปเสียก่อน `
+`ฉันคือแม่มดที่โหดเหี้ยมที่สุดในโลก `
+`ไม่ว่าคู่ต่อสู้จะเป็นใคร ฉันจะทำให้พวกนั้นยอมแพ้อย่างแน่นอน `
+`...ต่อให้เป็น{f:5:เบียทริเช่} แม่มดแห่งนิรันดร์ก็ตาม เข้าใจไหม...? `
+`เธอคือหมากของฉัน `
+`พยายามเข้าให้เต็มที่ล่ะ `
+`ฉันจะคอยให้คำแนะนำแก่เธอบ้างเป็นครั้งคราว ลับสายตายัยนั่น `
+`อย่าทำให้ฉันเบื่อเสียล่ะ เข้าใจไหม...? `
+`คิกคิกคิก... `

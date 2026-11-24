@@ -1,659 +1,659 @@
-`"Hey, everyone, good job finishing "Umineko no Naku Koro ni"! `
-`Man, I still didn't have a clue what was going on when the story ended!" `
-`"So just what happened? `
-`Was that basically the "bad ending", where time runs out before the culprit gets exposed?" `
-`"Uu-. `
-`Definitely a bad ending. `
-`Uu-." `
-`"That's right. `
-`{f:5:Beatrice}'s letter, which Maria-chan read on the first day, did tell us in advance to solve the riddle of the epitaph. `
-`We were all so busy trying to protect ourselves and look for the culprit that we didn't even take a shot at it." `
-`"...That's right. `
-`If we had actually tried to solve the riddle, maybe things would have ended differently." `
-`"I wonder about that. `
-`Shannon-chan, you did a good job too! `
-`You don't have to be our waitress and serve tea. `
-`After all, this is a wrap party. `
-`As a group of people who met a horrible fate, let's all get along and lick each other's wounds! `
-`Licklicklick!!" `
-`"Speaking of a horrible fate, Shannon beats the rest of us hands down, doesn't she? `
-`She was such a beautiful character, so I thought she'd definitely survive until the very end, `
-`but she was killed right in the beginning, and on top of that...what was it? `
-`Half of her face was smashed, right? `
-`That's the worst!" `
-`"...That was my role, so, umm, ...there was no way around it..." `
-`"...Nee-san, it's nothing for you to worry about. `
-`Judging by the last epilogue, even Milady and the rest of them met an extremely tragic end." `
-`"Ahahaha, ...it seems so. `
-`I think I remember seeing this horrible picture, kind of like my entire body had been eaten apart and dismembered." `
-`"Speaking of which, don't you think Kanon's last moments were the coolest? `
-`Even though he had the tables turned on him, it was a showdown with the culprit, right? `
-`It's a whole bunch better than our confusing last moments, right?" `
-`"...Though, in the end, I was unable to get a solid hit in." `
-`"Still, ...I think Kanon-kun's death was a big hint. `
-`After all, because of that, the existence of the 19th person was made clear." `
-`"That's right. `
-`At that time, everyone's location was obvious. `
-`So it was impossible for anyone other than some unknown 19th person to kill Kanon." `
-`"Uu-! `
-`I said it was {f:5:Beatrice} from the beginning, over and over. `
-`Uu-!" `
-`"...I don't wanna believe it, but that does prove the culprit was a witch calling herself {f:5:Beatrice}." `
-`"That's right... `
-`There were many strange things that happened...that a human couldn't do..." `
-`"Uu-. Only a witch could do things like murdering Aunt Eva in that closed room. `
-`A human couldn't do it! `
-`Uu-!" `
-`"...Not only is the existence of a 19th person clear, but it's also obvious that this person holds a power that humans can't even imagine." `
-`"In that case, I don't think there's anything wrong with calling this person {f:5:Beatrice}." `
-`"...We probably met at the very end. `
-`...Met with the Golden Witch." `
-`"Like I kept saying, {f:5:Beatrice} exists. `
-`It all went bad because no one ever believed. `
-`Uu-! `
-`Even one of her witch friends says that miracles won't occur if you don't believe. `
-`Uu-!" `
-`"That's right. `
-`{f:5:Beatrice}-sama is generous to those who respect her." `
-`"...It seems to me that Maria-sama was never a target of {f:5:Beatrice}-sama's wrath up to the very end, despite the horrible crimes that occurred one after another." `
-`"Well, Maria believed in {f:5:Beatrice} from the very beginning. `
-`...But if that's the case, how do you explain why you and the rest were all killed? You guys believed in {f:5:Beatrice} just as much, right?" `
-`"...{f:5:Beatrice}-sama probably had her reasons." `
-`"If the song of the epitaph represented {f:5:Beatrice}-sama's resurrection ceremony, many sacrifices were needed. `
-`...He must simply have been designated to be one of those." `
-`"...Shannon-chan, you met a horrible end... `
-`At the very least, I wish your death could've been more peaceful and pretty." `
-`"...Umm, well, ...it's not like it hurt... `
-`Anyway, `
-`right now, I'm perfectly fine, so don't worry." `
-`After seeing him stroke Shannon's cheek, which had been crushed during the story, everyone laughed out loud, smiling. `
-`"Well, it feels a bit weird saying this, ...but I was sure this story would fit into the standard mystery genre. `
-`I'm a bit surprised to find out that it's a fantasy. `
-`After all, a Western mansion shut away from the outside world on an isolated island, with an inheritance problem on everyone's minds... It sounds just like a typical mystery novel to me." `
-`"...Uu-. `
-`It's not fantasy! `
-`{f:5:Beatrice} "exists"! `
-`Uu-." `
-`"...Yes, we understand. `
-`{f:5:Beatrice}-sama does "exist"." `
-`"That's right. `
-`...{f:5:Beatrice}-sama does "exist"." `
-`"...I hate to admit it, but I've got no choice. `
-`Because it's obvious that a 19th person, a witch, was involved...!" `
-`"Many things happened that'd be impossible for humans. `
-`During the story, we tried to deny that in all sorts of ways. `
-`...But now, I can say it for sure. `
-`Each crime, every single one, would've been impossible for a human. `
-`...They'd be impossible to carry out unless it was the witch {f:5:Beatrice} using all of the power magic could provide." `
-`"The culprit was a witch. `
-`That point's perfectly clear. `
-`Heh, long live {f:5:Beatrice}. `
-`Hahahahahaha." `
-`"Uu-. `
-`Everyone believed. `
-`I'm so glad. `
-`Uu-!" `
-`"...Gods and witches might seem terrifying to people who are frightened of them, `
-`but I think they must be affectionate to those who believe in and respect them." `
-`"...I think you're right." `
-`"So, this murder case game is finally over. `
-`Now's the time to pull ourselves together and try hard to solve the riddle of the epitaph, just like {f:5:Beatrice} said, right?" `
-`"Uu-! `
-`I agree! `
-`{f:5:Beatrice} will definitely be happy." `
-`"Hahahahaha... `
-`Everyone ignored that letter during the story." `
-`"...Even though it was thrust right in front of us, we almost completely ignored it. `
-`I kind of feel sorry for {f:5:Beatrice}-sama." `
-`"I've got the epitaph written down right here! `
-`Let's all solve it, let's all solve it...!" `
-`"This story probably went wrong ever since that time." `
-`"...That may be so. `
-`Maybe we should've tried solving the epitaph's riddle from the beginning, like {f:5:Beatrice} said." `
-`"Well, it's a little late now. `
-`Even so, let's try solving it now and see if the witch forgives us. `
-`Let's go, let's try to solve the riddle of the epitaph. `
-`...It was something like, "Behold the sweetfish river running through my beloved hometown."..." `
-`Maria put her notebook on the table and opened to the page where the epitaph was written. `
-`Everyone stared at it, getting really into it as they started guessing this and that about the riddle. `
-`Surrounded by the smell of black tea and freshly baked vanilla cookies, they spent the time comfortably and happily... `
-`"......Hold on a second, you guys." `
-`But Battler spoke in a way that cut through the conversation. `
-`His expression looked a little unhappy. `
-`What could he not like about all of this fun? `
-`"...I've been listening to you guys for a while, but... why did you all stop thinking? `
-`Why are you so sure that the witch was behind all this? `
-`...Don't you realize something like that can't exist?" `
-`With just those words, ...the happy atmosphere surrounding the tea party evaporated in an instant. `
-`George and Jessica. `
-`And Shannon and Kanon. `
-`And Maria. `
-`...All of them stared blankly, wondering what in the world Battler was talking about. `
-`Even the foolish, arrogant Battler realized that he hadn't chosen his words well. `
-`"...B-Because, `
-`isn't it clear that these crimes were impossible for a human?" `
-`"Th-That's right, that's right. `
-`...None of the cases would've been possible for a human." `
-`"That's true... `
-`After all, wasn't it full of things that humans couldn't explain...?" `
-`"...I don't understand what you're saying, Battler-sama." `
-`"I-I'm the one who doesn't have a clue what you guys are talking about! `
-`Isn't it obvious that humans committed these crimes? `
-`There's no way something like a witch exists, right...?" `
-`"Th-Then, `
-`...what about when I was killed in the storehouse, and something horrible was done to half of my face? `
-`...If the culprit was human, how could they have accomplished it...?" `
-`"...That's... `
-`...well, `
-`it's hard to imagine how they did something that awful. `
-`But that was the rose garden storehouse, right? `
-`I'm sure there were plenty of weird tools in there. `
-`Let's say they used some electrical tools like a grinder or an electric saw." `
-`"......Th- `
-`That's... `
-`umm..." `
-`"Then, Battler, `
-`...how do you explain Grandfather's disappearance from the study when it was a closed room...? `
-`Even though the door was sealed, Grandfather just suddenly disappeared, right...?" `
-`"We talked about that during the story, too. `
-`It's not impossible that Grandfather used some trick to fool the receipt. `
-`It's also possible that he went out the window, fell down, and Aunt Natsuhi locked the window from the inside. `
-`I could think of a bunch of tricks you could use without relying on magic..." `
-`"...Th- `
-`That makes sense, but..." `
-`"In that case, Battler-kun, `
-`how do you explain the way my parents were killed in the guest room? `
-`The door was sealed by the lock and the chain. `
-`Naturally, the window was sealed too. `
-`How do you think a human could've killed my parents?" `
-`"...Well, `
-`...we did have to leave that trick alone during the story. `
-`Anyway, there's at least a good chance the culprit had a key. `
-`And it was possible to look in through the crack of the door that the chain allowed. `
-`...I know this is a stretch, but it's possible some device was used through that crack. `
-`...Like maybe they stuck something through it...?" `
-`"...Hmmmm, well, even though a door chain is incredibly simple, it's a big factor in setting up a closed room... `
-`...Still, there's probably some closed room trick they could've used. `
-`If you bought some closed room mystery novels from the bookstore, you could probably find some trick that'd fit perfectly. `
-`...Anyway, I can't think of one now, ...but I claim that there's nothing humans can't do if they try hard enough." `
-`"Isn't that argument horribly irrational...? `
-`It's just ridiculous to claim that it's possible for a human to do something, even though you can't explain how..." `
-`"...Why is that ridiculous? `
-`Why did all of you stop thinking? `
-`Even something that looks impossible has to be doable. `
-`Doesn't it always work like that?" `
-`"Battler, you're the one being ridiculous. `
-`...If you think a human could've done it, try explaining how. `
-`You can't, can you?" `
-`"And you're okay with saying the culprit is a witch just because I can't explain it? `
-`With that argument, all the unsolved crimes in the world could be resolved by saying a witch is the culprit!" `
-`"...Battler, you're sidestepping the issue, and you aren't explaining anything. `
-`...We're saying 'A human couldn't have done it. `
-`Therefore the culprit is something that isn't human. `
-`And that something is a witch.' `
-`And yet you keep arbitrarily deciding that witches are impossible, even though you can't explain anything." `
-`"...Kihihihihihihihihihihihi, it's almost like humanity was during the dark ages. `
-`Like those fools who claimed the heavens spun around the earth... `
-`those who said that the earth couldn't be spinning, even though they couldn't explain why." `
-`"......Th-That kind of argument kinda pisses me off. `
-`So this is basically what you're trying to say. `
-`...If I can't explain how a human could do it, `
-`then I must accept that the culprit is a witch?" `
-`"...It's not like we're forcing you to go that far. `
-`We were just wondering on what basis you can say such nonsense." `
-`"N-Nonsense `
+`"เฮ้ ทุกคน ขอบคุณที่เหนื่อยกันจนจบ "แว่วเสียงนกนางนวล" นะ! `
+`ให้ตายสิ จนเรื่องจบฉันก็ยังไม่รู้เรื่องรู้ราวอะไรเลยสักนิด!" `
+`"แล้วสรุปมันเกิดอะไรขึ้นกันแน่วะ? `
+`หรือว่านั่นคือ "แบดเอนด์" ที่เวลาหมดลงก่อนจะกระชากหน้ากากคนร้ายออกมาได้กันแน่?" `
+`"อู- `
+`แบดเอนด์แน่นอน `
+`อู-" `
+`"นั่นสินะ `
+`ในจดหมายของ{f:5:เบียทริเช่}ที่มาเรียจังอ่านในวันแรก ก็บอกไว้ล่วงหน้าแล้วให้ไขปริศนาของจารึก `
+`แต่พวกเรามัวแต่วุ่นวายกับการปกป้องตัวเองแล้วก็หาตัวคนร้าย จนไม่ได้ลองแตะมันเลยสักนิด" `
+`"...จริงด้วยค่ะ `
+`ถ้าพวกเราลองพยายามไขปริศนาดูจริงๆ บางทีจุดจบอาจจะเปลี่ยนไปก็ได้นะคะ" `
+`"จะจริงเร้อ `
+`ชาน่อนจัง เธอก็เหนื่อยแย่เลยนะ! `
+`ไม่ต้องมาคอยเป็นพนักงานเสิร์ฟชาให้พวกเราหรอกน่า `
+`ยังไงนี่ก็เป็นงานเลี้ยงปิดกล้องนี่นา `
+`ในฐานะกลุ่มคนที่เจอชะตากรรมบัดซบเหมือนๆ กัน พวกเรามารักใคร่กลมเกลียวเลียแผลใจให้กันดีกว่า! `
+`แผล่บๆๆ!!" `
+`"ถ้าพูดถึงชะตากรรมบัดซบ ชาน่อนกินขาดพวกเราทุกคนเลยไม่ใช่เรอะ? `
+`อุตส่าห์เป็นตัวละครสาวสวยแท้ๆ นึกว่าจะรอดไปจนถึงตอนจบซะอีก `
+`ดันโดนฆ่าตั้งแต่เริ่มเรื่อง แถมอะไรนะ? `
+`หน้าแหว่งไปครึ่งซีกใช่ปะ? `
+`โคตรจะอนาถเลย!" `
+`"...นั่นเป็นบทของดิฉันนี่คะ เอิ่ม...ก็เลยช่วยไม่ได้น่ะค่ะ..." `
+`"...พี่ ไม่ต้องไปใส่ใจหรอกครับ `
+`ดูจากบทส่งท้ายตอนจบแล้ว แม้แต่พวกคุณหนูก็ยังเจอจุดจบที่น่าเวทนาเหลือเกินเหมือนกัน" `
+`"อะฮ่าฮ่าฮ่า ...ดูเหมือนจะเป็นอย่างนั้นนะ `
+`ผมจำได้เลาๆ ว่าเห็นภาพสยดสยองอย่างกับว่าทั่วทั้งร่างโดนแทะกินแล้วฉีกเป็นชิ้นๆ เลยล่ะ" `
+`"ว่าแต่นะ วาระสุดท้ายของคาน่อนนี่เท่สุดแล้วไม่ใช่เหรอ? `
+`ถึงจะโดนเล่นงานกลับ แต่ก็ได้เปิดศึกดวลกับคนร้ายเลยนะเว้ย? `
+`ดีกว่าวาระสุดท้ายแบบงงๆ ของพวกเราตั้งเยอะ จริงไหมล่ะ?" `
+`"...แต่สุดท้าย ผมก็โจมตีโดนจังๆ ไม่ได้สักทีครับ" `
+`"ถึงอย่างนั้น ...ดิฉันคิดว่าการตายของคาน่อนคุงเป็นคำใบ้ที่สำคัญมากเลยนะคะ `
+`ก็เพราะเหตุนั้น ทำให้การมีอยู่ของบุคคลที่ 19 ชัดเจนขึ้นมายังไงล่ะคะ" `
+`"นั่นสินะ `
+`ตอนนั้น ตำแหน่งของทุกคนชัดเจนอยู่แล้ว `
+`ดังนั้นคนอื่นนอกจากบุคคลที่ 19 นิรนาม จึงไม่มีทางฆ่าคาน่อนได้เลย" `
+`"อู-! `
+`มาเรียบอกตั้งหลายรอบตั้งแต่แรกแล้วว่าเป็น{f:5:เบียทริเช่} `
+`อู-!" `
+`"...ถึงไม่อยากจะเชื่อ แต่นั่นก็เป็นหลักฐานว่าคนร้ายคือแม่มดที่เรียกตัวเองว่า{f:5:เบียทริเช่}จริงล่ะนะ" `
+`"จริงด้วยค่ะ... `
+`มีเรื่องประหลาดมากมายเกิดขึ้น...ที่มนุษย์ไม่มีทางทำได้เลย..." `
+`"อู- มีแต่แม่มดเท่านั้นแหละที่ทำเรื่องอย่างฆ่าน้าเอวาในห้องปิดตายแบบนั้นได้ `
+`มนุษย์ทำไม่ได้หรอก! `
+`อู-!" `
+`"...นอกจากเรื่องการมีอยู่ของบุคคลที่ 19 จะชัดเจนแล้ว ยังเห็นได้ชัดอีกด้วยครับว่าบุคคลผู้นั้นมีพลังที่มนุษย์ไม่อาจจินตนาการได้" `
+`"ถ้าแบบนั้น จะเรียกคนคนนั้นว่า{f:5:เบียทริเช่}ก็คงไม่ผิดหรอกมั้ง" `
+`"...พวกเราคงจะได้พบกันในตอนท้ายสุดสินะ `
+`...ได้พบกับแม่มดทองคำ" `
+`"ก็บอกแล้วไงว่า{f:5:เบียทริเช่}มีอยู่จริง `
+`ที่ทุกอย่างพังก็เพราะไม่มีใครยอมเชื่อเลยต่างหาก `
+`อู-! `
+`ขนาดเพื่อนแม่มดของเธอยังบอกเลยว่าถ้าไม่เชื่อ ปาฏิหาริย์ก็จะไม่เกิดขึ้น `
+`อู-!" `
+`"จริงด้วยค่ะ `
+`ท่าน{f:5:เบียทริเช่}ทรงเมตตาต่อผู้ที่ให้ความเคารพท่านเสมอนะคะ" `
+`"...ผมคิดว่าคุณมาเรียไม่เคยตกเป็นเป้าความพิโรธของท่าน{f:5:เบียทริเช่}เลยจนถึงวินาทีสุดท้าย ทั้งที่เกิดคดีโหดเหี้ยมขึ้นมาอย่างต่อเนื่องครับ" `
+`"ก็นะ มาเรียเชื่อเรื่อง{f:5:เบียทริเช่}มาตั้งแต่แรกแล้วนี่ `
+`...แต่ถ้าเป็นงั้นจริง จะอธิบายยังไงว่าทำไมพวกนายถึงโดนฆ่าล่ะ? พวกนายเองก็เชื่อเรื่อง{f:5:เบียทริเช่}พอกันไม่ใช่เหรอ?" `
+`"...ท่าน{f:5:เบียทริเช่}คงมีเหตุผลของท่านครับ" `
+`"หากบทเพลงในจารึกคือพิธีคืนชีพของท่าน{f:5:เบียทริเช่} ก็จำเป็นต้องมีเครื่องสังเวยจำนวนมากค่ะ `
+`...เขาก็แค่ถูกกำหนดให้เป็นหนึ่งในนั้นเท่านั้นเอง..." `
+`"...ชาน่อนจัง เธอต้องเจอจุดจบที่น่ากลัวมากเลยนะ... `
+`อย่างน้อยๆ ผมก็อยากให้เธอได้จากไปอย่างสงบและงดงามกว่านี้แท้ๆ" `
+`"...เอ่อ คือว่า...มันไม่ได้เจ็บขนาดนั้นหรอกค่ะ... `
+`อีกอย่าง `
+`ตอนนี้ดิฉันก็สบายดี ไม่ต้องเป็นห่วงหรอกนะคะ" `
+`เมื่อเห็นเขาลูบแก้มของชาน่อนที่แหลกเละไปในเนื้อเรื่อง ทุกคนต่างก็หัวเราะร่าและยิ้มออกมา `
+`"จะว่าไป พูดแบบนี้อาจจะรู้สึกแปลกๆ ...แต่ผมปักใจเชื่อเลยนะว่าเรื่องนี้จะเป็นแนวมิสเตอรี่มาตรฐาน `
+`พอรู้ว่าเป็นแฟนตาซีก็เลยตกใจอยู่นิดหน่อยเหมือนกัน `
+`ก็แหม คฤหาสน์สไตล์ตะวันตกที่ถูกตัดขาดจากโลกภายนอกบนเกาะโดดเดี่ยว แถมทุกคนยังมีปัญหาเรื่องมรดกคาใจ... ฟังยังไงก็เหมือนนิยายมิสเตอรี่ทั่วไปชัดๆ" `
+`"...อู- `
+`ไม่ใช่แฟนตาซีนะ! `
+`{f:5:เบียทริเช่} "มีอยู่จริง"! `
+`อู-" `
+`"...ครับ พวกเราเข้าใจแล้ว `
+`ท่าน{f:5:เบียทริเช่} "มีอยู่จริง" ครับ" `
+`"จริงด้วยค่ะ `
+`...ท่าน{f:5:เบียทริเช่} "มีอยู่จริง" ค่ะ" `
+`"...ถึงจะไม่อยากยอมรับ แต่ก็ช่วยไม่ได้ล่ะนะ `
+`ก็มันชัดเจนแล้วนี่ว่ามีบุคคลที่ 19 มีแม่มดเข้ามาพัวพันด้วย...!" `
+`"มีหลายเรื่องเกิดขึ้นที่มนุษย์ไม่มีทางทำได้ `
+`ในเนื้อเรื่อง พวกเราพยายามปฏิเสธเรื่องนั้นสารพัดวิธี `
+`...แต่ว่าตอนนี้ ผมพูดได้อย่างมั่นใจเลย `
+`คดีแต่ละคดี ทุกๆ คดี ล้วนเป็นไปไม่ได้เลยที่มนุษย์จะทำ `
+`...ไม่มีทางทำสำเร็จได้เลย ถ้าไม่ใช่เพราะแม่มด{f:5:เบียทริเช่}ใช้พลังทั้งหมดที่เวทมนตร์จะบันดาลได้" `
+`"คนร้ายคือแม่มด `
+`เรื่องนั้นน่ะชัดเจนแจ่มแจ้งแล้ว `
+`หึ {f:5:เบียทริเช่}จงเจริญ `
+`ฮ่าฮ่าฮ่าฮ่าฮ่า" `
+`"อู- `
+`ทุกคนเชื่อแล้ว `
+`มาเรียดีใจจัง `
+`อู-!" `
+`"...สำหรับคนที่หวาดกลัว พระเจ้าและแม่มดอาจดูน่ากลัว `
+`แต่ดิฉันคิดว่าพวกท่านคงเปี่ยมด้วยความเมตตาต่อผู้ที่เชื่อและเคารพท่านแน่ๆ ค่ะ" `
+`"...ผมก็คิดว่าจริงครับ" `
+`"งั้นเกมคดีฆาตกรรมนี่ก็จบลงสักที `
+`คราวนี้แหละคือเวลาที่พวกเราต้องตั้งสติ แล้วพยายามไขปริศนาของจารึกให้ได้ เหมือนอย่างที่{f:5:เบียทริเช่}บอกไว้ ใช่ไหมล่ะ?" `
+`"อู-! `
+`เห็นด้วย! `
+`{f:5:เบียทริเช่}ต้องดีใจแน่ๆ" `
+`"ฮะฮะฮะฮะฮ่า... `
+`ในเนื้อเรื่อง ทุกคนพากันเมินจดหมายฉบับนั้นหมดเลยนี่นะ" `
+`"...ทั้งที่ยื่นมาอยู่ตรงหน้าแท้ๆ แต่พวกเรากลับแทบจะเมินเฉยไปเลย `
+`รู้สึกสงสารท่าน{f:5:เบียทริเช่}ขึ้นมาหน่อยๆ เหมือนกันนะคะ" `
+`"มาเรียจดตัวจารึกเอาไว้ตรงนี้ด้วยนะ! `
+`มาไขปริศนากันเถอะ มาไขกันเถอะ...!" `
+`"เรื่องราวมันคงเริ่มผิดเพี้ยนไปตั้งแต่ตอนนั้นแล้วล่ะครับ" `
+`"...อาจจะเป็นอย่างนั้นก็ได้นะคะ `
+`บางทีพวกเราน่าจะลองไขปริศนาของจารึกดูตั้งแต่แรก อย่างที่ท่าน{f:5:เบียทริเช่}บอกไว้" `
+`"ก็นะ ตอนนี้มันออกจะสายไปหน่อยแล้วล่ะ `
+`ถึงอย่างนั้น ถ้าเราลองไขมันดูตอนนี้ เผื่อแม่มดจะยอมยกโทษให้ก็ได้นะ `
+`เอาเถอะ มาลองไขปริศนาของจารึกกันดู `
+`...มันประมาณว่า "สายน้ำปลาอายุไหลผ่านบ้านเกิดอันแสนคะนึง" สินะ..." `
+`มาเรียวางสมุดโน้ตลงบนโต๊ะแล้วเปิดไปยังหน้าที่จารึกถูกเขียนเอาไว้ `
+`ทุกคนต่างจ้องมองมันอย่างจดจ่อ พลางเริ่มคาดเดาปริศนาโน่นนี่กันอย่างออกรส `
+`ท่ามกลางกลิ่นหอมของชาดำและคุกกี้กลิ่นวานิลลาที่เพิ่งอบเสร็จใหม่ๆ พวกเขาใช้ช่วงเวลานั้นอย่างผ่อนคลายและมีความสุข... `
+`"......เดี๋ยวก่อนสิ พวกนาย" `
+`ทว่าแบทเลอร์กลับเอ่ยแทรกบทสนทนาขึ้นมา `
+`สีหน้าของเขาดูไม่ค่อยสบอารมณ์เท่าไรนัก `
+`มีอะไรในความสนุกสนานทั้งหมดนี้ที่ไม่เข้าตาเขากันนะ? `
+`"...ฉันฟังพวกนายพูดมาสักพักแล้วนะ แต่ว่า... ทำไมทุกคนถึงหยุดคิดกันไปหมดล่ะ? `
+`ทำไมถึงปักใจเชื่อกันขนาดนั้นว่าแม่มดอยู่เบื้องหลังเรื่องทั้งหมดนี้? `
+`...ไม่คิดบ้างเหรอว่าของพรรค์นั้นมันไม่มีทางมีอยู่จริงน่ะ?" `
+`เพียงแค่คำพูดเหล่านั้น ...บรรยากาศรื่นเริงรอบงานเลี้ยงน้ำชาก็พลันสลายไปในพริบตา `
+`ทั้งจอร์จและเจสสิก้า `
+`ทั้งชาน่อนและคาน่อน `
+`รวมถึงมาเรีย `
+`...ทุกคนต่างจ้องมองอย่างเหม่อลอย พลางสงสัยว่าแบทเลอร์กำลังพูดบ้าอะไรของเขาอยู่ `
+`แม้แต่คนโง่เขลาและหยิ่งผยองอย่างแบทเลอร์ก็ยังรู้ตัวว่าตนใช้คำพูดที่ไม่เข้าท่าเอาเสียเลย `
+`"...ก-ก็เพราะว่า `
+`มันชัดเจนอยู่แล้วไม่ใช่เหรอครับ ว่าอาชญากรรมพวกนี้น่ะ มนุษย์ไม่มีทางทำได้เลย?" `
+`"ช-ใช่น่ะสิ ใช่เลย `
+`...ไม่ว่าคดีไหน มนุษย์ก็ไม่มีทางทำได้ทั้งนั้นแหละ" `
+`"จริงด้วยค่ะ... `
+`ก็มีแต่เรื่องที่มนุษย์อธิบายไม่ได้เต็มไปหมดเลยนี่คะ...?" `
+`"...ผมไม่เข้าใจที่คุณแบทเลอร์พูดเลยครับ" `
+`"ฉ-ฉันต่างหากที่ไม่เข้าใจว่าพวกนายพูดเรื่องอะไรกันอยู่! `
+`มันก็เห็นๆ กันอยู่ไม่ใช่เรอะว่ามนุษย์เป็นคนก่อคดีพวกนี้น่ะ! `
+`ของอย่างแม่มดไม่มีทางมีจริงอยู่แล้วไม่ใช่เหรอไง...?" `
+`"ถ-ถ้าอย่างนั้น `
+`...แล้วตอนที่ดิฉันถูกฆ่าในโกดังเก็บของ แล้วใบหน้าครึ่งหนึ่งโดนทำเรื่องน่ากลัวแบบนั้นใส่ล่ะคะ? `
+`...ถ้าคนร้ายเป็นมนุษย์ จะทำแบบนั้นได้ยังไงกันคะ...?" `
+`"...เรื่องนั้นมัน... `
+`...ก็จริง `
+`มันจินตนาการยากก็เถอะว่าทำเรื่องเลวร้ายขนาดนั้นได้ยังไง `
+`แต่นั่นมันโกดังเก็บของในสวนกุหลาบไม่ใช่เหรอ? `
+`ในนั้นต้องมีเครื่องมือแปลกๆ อยู่เพียบแน่ๆ `
+`สมมติว่าใช้พวกเครื่องมือไฟฟ้าอย่างเครื่องเจียรหรือเลื่อยไฟฟ้าล่ะ" `
+`"......ร- `
+`เรื่องนั้นมัน... `
+`เอ่อ..." `
+`"ถ้าอย่างนั้น แบทเลอร์ `
+`...นายจะอธิบายเรื่องที่คุณปู่หายตัวไปจากห้องหนังสือที่เป็นห้องปิดตายังไงล่ะ...? `
+`ทั้งๆ ที่ประตูก็ถูกปิดผนึกไว้แท้ๆ แต่อยู่ดีๆ คุณปู่ก็หายตัวไปไม่ใช่เรอะ...?" `
+`"เรื่องนั้นพวกเราก็คุยกันไปในเรื่องแล้วนี่ `
+`มันไม่ใช่ว่าจะเป็นไปไม่ได้ที่คุณปู่จะใช้ทริกอะไรสักอย่างหลอกใบเสร็จนั่น `
+`เป็นไปได้เหมือนกันว่าเขาจะปีนออกทางหน้าต่าง ตกลงไป แล้วป้านัตสึฮิก็ล็อกหน้าต่างจากข้างใน `
+`มีทริกตั้งเยอะแยะที่ฉันนึกออกโดยไม่ต้องพึ่งเวทมนตร์..." `
+`"...ม- `
+`มันก็ฟังดูมีเหตุผลอยู่หรอก แต่ว่า..." `
+`"ถ้าอย่างนั้น แบทเลอร์คุง `
+`จะอธิบายเรื่องที่พ่อแม่ของผมถูกฆ่าในห้องพักแขกยังไงครับ? `
+`ประตูถูกผนึกไว้ด้วยทั้งกลอนและโซ่คล้อง `
+`แน่นอนว่าหน้าต่างก็ถูกผนึกไว้เหมือนกัน `
+`นายคิดว่ามนุษย์จะฆ่าพ่อแม่ของผมได้ยังไงกัน?" `
+`"...เอ่อ `
+`...ในเรื่องเราก็จำเป็นต้องปล่อยทริกนั้นค้างคาไว้ก็จริง `
+`อย่างน้อยก็มีความเป็นไปได้สูงที่คนร้ายจะมีกุญแจ `
+`แล้วมันก็พอมองเข้าไปผ่านช่องว่างของประตูที่ติดโซ่คล้องได้ด้วย `
+`...ฉันรู้ว่ามันฟังดูแถ แต่ก็อาจจะมีกลไกอะไรสักอย่างถูกใช้ผ่านช่องว่างนั่นก็ได้ `
+`...อย่างเช่น เอาอะไรแหย่เข้าไปข้างในงี้ไง...?" `
+`"...อืมมม เอาเถอะ ถึงโซ่คล้องประตูมันจะเรียบง่ายเหลือเกิน แต่มันก็เป็นปัจจัยสำคัญในการสร้างห้องปิดตายเลยนี่นา... `
+`...ถึงอย่างนั้น มันก็น่าจะมีทริกห้องปิดตายสักอย่างที่นำมาใช้ได้แหละ `
+`ถ้าลองไปซื้อนิยายมิสเตอรี่ห้องปิดตายจากร้านหนังสือมาสักหน่อย คงจะเจอทริกที่เข้าล็อกพอดีเป๊ะบ้างล่ะ `
+`...เอาเป็นว่า ตอนนี้ฉันยังนึกไม่ออก ...แต่ฉันขอยืนกรานว่า ถ้ามนุษย์พยายามมากพอก็ไม่มีอะไรที่ทำไม่ได้หรอกน่า" `
+`"ข้อโต้แย้งนั้นมันไร้เหตุผลสิ้นดีเลยไม่ใช่เหรอครับ...? `
+`มันน่าขันจะตายไป ที่มายืนกรานว่ามนุษย์ทำได้ ทั้งๆ ที่ตัวเองอธิบายวิธีทำไม่ได้แท้ๆ..." `
+`"...น่าขันตรงไหนกันวะ? `
+`ทำไมพวกนายทุกคนถึงหยุดคิดกันไปซะล่ะ? `
+`แม้แต่สิ่งที่ดูเหมือนเป็นไปไม่ได้ มันก็ต้องมีทางทำได้สิ `
+`ปกติแล้วมันก็เป็นแบบนั้นไม่ใช่เรอะ?" `
+`"แบทเลอร์ นายต่างหากที่กำลังทำตัวไร้สาระ `
+`...ถ้านายคิดว่ามนุษย์ทำได้จริง ก็ลองอธิบายวิธีมาดูสิ `
+`ทำไม่ได้ใช่ไหมล่ะ?" `
+`"แล้วพวกนายยอมรับว่าคนร้ายคือแม่มด เพียงเพราะฉันอธิบายไม่ได้เนี่ยนะ? `
+`ถ้าใช้ตรรกะแบบนั้น คดีที่ยังไขไม่ได้ทั้งหมดบนโลกนี้ก็คลี่คลายได้ด้วยการบอกว่าแม่มดเป็นคนร้ายหมดสิวะ!" `
+`"...แบทเลอร์กำลังเฉไฉ แล้วก็ไม่อธิบายอะไรเลยสักอย่าง `
+`...พวกเรากำลังบอกว่า 'มนุษย์ไม่มีทางทำได้ `
+`ดังนั้นคนร้ายจึงเป็นสิ่งที่ไม่ใช่มนุษย์ `
+`และสิ่งนั้นก็คือแม่มด' `
+`แต่แบทเลอร์ก็เอาแต่ทึกทักเอาเองว่าแม่มดเป็นไปไม่ได้ ทั้งที่ตัวเองก็อธิบายอะไรไม่ได้แท้ๆ" `
+`"...คิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิ แทบไม่ต่างจากมนุษยชาติในยุคมืดเลยนะ `
+`เหมือนคนโง่เง่าพวกนั้นที่อ้างว่าฟากฟ้าหมุนรอบโลก... `
+`พวกคนที่บอกว่าโลกไม่มีทางหมุน ทั้งที่ตัวเองก็อธิบายเหตุผลไม่ได้" `
+`"......ก-การเถียงแบบนั้นมันชวนให้หงุดหงิดชะมัด `
+`สรุปก็คือพวกนายกำลังจะบอกแบบนี้สินะ `
+`...ถ้าฉันอธิบายไม่ได้ว่ามนุษย์ทำได้ยังไง `
+`ฉันก็ต้องยอมรับว่าคนร้ายคือแม่มดงั้นเหรอ?" `
+`"...พวกเราไม่ได้บังคับถึงขนาดนั้นหรอกครับ `
+`เราแค่สงสัยว่าคุณเอาหลักการอะไรมาพูดเรื่องไร้สาระแบบนั้นต่างหาก" `
+`"ร-เรื่องไร้สาระเนี่ยนะ `
 `......? `
-`...H-Hey, have I really been saying something that weird just now?! `
-`Am I the one who's crazy?! `
-`You guys are really starting to freak me out!" `
-`"...Battler-sama, `
-`when I died in the boiler room, I was killed by a 19th person who shouldn't exist. `
-`...Can you explain how a human could have done that? `
-`At that time, the locations of the 18 were well known. `
-`Even so, I was killed." `
-`"We talked about that in the story as well, right...?! `
-`Kumasawa baa-chan, for example. `
-`She said she followed right after you and headed down to the boiler room, but we can't know for sure whether that was a lie or not. `
-`For all we know, she might've entered the boiler room with you and caught you by surprise! `
-`Or maybe, when you stepped into the boiler room, you activated some kind of trap, one that might've been set up to hit you with one of those icepicks." `
-`"After all, the stink of Grandfather's body was coming from the incinerator. `
-`Someone was bound to go and check, so if the culprit just set up a trap beforehand, they could easily have stayed away from that place and used the time of Kanon-kun's death to create an alibi...!" `
-`"...You talk about a trap in the boiler room, ...but what kind of trap could that be?" `
-`"That's right. `
-`Following his death, everyone immediately ran over to the boiler room. `
-`But we didn't find any kind of weird device, did we?!" `
-`"...That is correct. `
-`Battler-sama, what kind of trap could I have been killed with...?" `
-`"Well, `
-`...I don't know that. `
-`...But anyway, they must've used some kind of clever trap, or maybe someone's lying, `
-`...or what about this?! `
-`Kanon-kun, what if the whole thing was just you playacting?! `
-`Th-That's it, you were playacting!! `
-`Aunt Eva and Uncle Hideyoshi were also playacting. `
-`They made the closed room themselves, and were only pretending to be dead!" `
-`".........Battler. `
-`.........Has your... head been... `
-`umm, `
-`...feeling okay...?" `
-`"...Umm, ...should I bring some cold drinks...?" `
-`"D-Don't look at me with those pitying eyes... I'm not saying something that crazy, right? `
-`I'm just pointing out some possibilities you might find if you think of it all as a trick. `
-`Look, isn't it a pretty classic trick in mystery stories to have one of the victims just be playing dead?!" `
-`"A classic trick...?" `
-`"I-In other words, `
-`when Kanon-kun was killed, we knew for sure where all the rest of us were. `
-`And let's assume that Kumasawa baa-chan wasn't lying. `
-`But that's only counting the survivors. `
-`...What if the culprit pretended to be dead and joined a group of real victims so we'd lose track of them, and then acted on their own later? Everything would be explained!" `
-`"......Huh...? `
-`So, are you trying to say that Aunt Eva or one of the others was the culprit...? `
-`But didn't Doctor Nanjo confirm all of their deaths, as a doctor?" `
-`"...That's right. `
-`Doctor Nanjo checked all of the victims. `
-`...Battler-sama, for your theory to work, wouldn't Doctor Nanjo have to be one of the culprits too?" `
-`"Uh, yeah, that's right!! `
-`Once you consider that Doctor Nanjo might've been one of the culprits and faked the proclamation of death, the whole story changes...! `
-`See, that's also a classic trick in mystery novels, isn't it?!!" `
-`"...But Doctor Nanjo was also killed, right...?" `
-`"Umm, ...about that... `
-`...That's right, Doctor Nanjo faked his death! `
-`After all, there wasn't anyone except Doctor Nanjo who could examine corpses properly, and everyone was really confused then anyway. `
-`We didn't have any spare time to check and see if he still had a pulse! `
-`With this theory, any one of the dead people could've been walking around!" `
-`"...I think it would've been hard for the six of us who died in the beginning to do that... `
-`...After all, the shutter was closed, ...and there was a padlock that couldn't have been opened from the inside..." `
-`"That's right. `
-`Mom was holding onto that key. `
-`So was Mom one of the culprits too?" `
-`"...Aaaaaaah, wait a sec... `
-`Maybe it was impossible for the first six, but in the case of Aniki's parents, the door was only locked on the outside. `
-`So they could've opened it from the inside... `
-`...That's right, after we left the room, maybe they jumped out the window and got to the boiler room first! `
-`...I-Is that too much of a stretch...?! `
-`Or maybe Doctor Nanjo made a mistake when examining the corpses?!" `
-`"Look, he said it himself, right? `
-`He said there's a very high probability of making a mistake when examining corpses! `
-`If you disguised it well enough or prepared a substitute body, you could fake your own death!! `
-`Let's leave the method or trick they used for later...and you see, it's not that hard to deny a 19th person existed, right?! `
-`Much less a witch, right? `
-`At least that much is completely impossible!!" `
-`"...I don't know why you've been trying so stubbornly to say that one of us is the culprit. `
-`Kihihihihihihihihihi. In other words, you want to suspect one of your relatives...?" `
-`"That's not it... `
-`It's just, uh, I can't easily accept that a 19th person existed...and even if one did, I think we should construct our argument from the point of view that the culprit was a human. `
-`I'll only accept that it's a witch in desperation, at the very end, after everything else has been disproved." `
-`"There's no way witches exist, right?! `
-`Why has everyone been casually accepting that the culprit was a witch? `
-`I think it's great how your family love makes you hate the thought that someone close to you is a murderer. `
-`But is it okay to let that fool you?! `
-`Don't you want to find the detestable culprit who killed so many people?!" `
-`"Aniki, don't you want to avenge your parents?! `
-`Jessica, don't you want to avenge Kanon-kun, and Kanon-kun, don't you want to avenge Shannon-chan?! `
-`Shannon-chan, you should at least want to know who it was that killed you. `
-`Why has everyone totally surrendered and decided that the culprit was a witch?! `
-`What's wrong with all of you?!" `
-`The foolish and short-tempered Battler tried to force his ignorance on the others and yelled at them. `
-`...However, everyone just looked at him pityingly, silently watching over him. `
-`At that time, the wise Maria laughed and pointed out Battler's mistake. `
-`"...Kihihihihihihihihi. `
-`...I'm shocked. `
-`...All I see is you repeating this nonsense, thinking you've figured something out, Battler. `
-`...So? `
-`What's next? `
-`How would a human do it? `
-`In practical terms, I mean? `
-`I imagine you'll say "I just can't think of anything now" or "with some kind of device." ...Using abstract words to run away and evade the topic." `
-`"...What I really want to know, Battler, is this. `
-`Why don't you believe in {f:5:Beatrice}? `
-`She exists, so why don't you believe?" `
-`"Because she doesn't "exist"! `
-`Witches don't "exist"!! `
-`There's no way!!" `
-`...It was almost like a spoiled child who just doesn't want to accept something. `
-`The pitying gazes quietly closed in around Battler, but they didn't reach his stubborn heart. `
-`"...You realize that you're acting just like a spoiled brat throwing a tantrum, right?" `
-`"...Battler-sama, `
-`I understand your feelings, but..." `
-`"...{f:5:Beatrice} does "exist"." `
-`"Battler-kun, ...why don't you believe? `
-`Even though there's so much proof." `
-`"I don't accept the argument that the witch must've been behind everything just because I can't explain it. `
-`Does this mean that if you don't know how a light bulb shines, then magic is the cause? `
-`That's wrong, isn't it?! `
-`There's nothing that can't be explained without magic!! `
-`All of this about witches and magic is just abdication of thought! `
-`You just surrendered and gave up because you don't understand what happened! `
-`Isn't that right?!" `
-`"......Ki, hihihihihihihihihihihi. `
-`Well, `
-`...unsurprisingly, it looks like you alone won't believe no matter what, Battler. `
-`...If even a single person doesn't believe, the "miracle" won't occur. `
-`...So, if you don't rethink your ignorant theories, the miracle...the magic won't be completed." `
-`"Hehe... `
-`Now I see. `
-`...I finally figured it out. `
-`...So, in other words, you guys are trying to force me to say the witch exists, right? `
-`A lie that everyone accepts becomes "the truth". `
-`...Is that what this is all about?! `
-`...I'm so sorry. `
-`I'm so sorry I keep going on about this, but what you're doing is all useless. I refuse. `
-`{i:You guys are all pressing me, and that's why it's all useless}. `
-`"......Why?" `
-`"Sorry, but why don't you let me spin the chessboard around one last time...? `
-`If you want to force me to accept that there's a witch, there's a really easy way. `
-`...And it's not the indirect way of saying "it must be a witch because humans couldn't have done it"! `
-`All you have to do is show me a witch doing it with magic." `
-`"Furthermore, what Maria said earlier is what'll really dig her grave. `
-`...You said that if even one person doesn't believe, a "miracle" won't occur." `
-`"But real miracles happen whether people believe in them or not! `
-`Even if I alone don't believe!! `
-`So any miracles or magic or witches that exist only because I believe in them are downright lies!!" `
+`...น-นี่ เมื่อกี้ฉันพูดอะไรแปลกประหลาดขนาดนั้นจริงๆ เหรอเนี่ย?! `
+`ฉันเนี่ยนะที่เป็นฝ่ายบ้าไปแล้ว?! `
+`พวกนายเริ่มทำให้ฉันขนลุกขึ้นมาจริงๆ แล้วนะเว้ย!" `
+`"...คุณแบทเลอร์ครับ `
+`ตอนที่ผมตายในห้องหม้อต้ม ผมถูกบุคคลที่ 19 ซึ่งไม่น่าจะมีตัวตนอยู่ฆ่าตาย `
+`...คุณอธิบายได้ไหมครับว่ามนุษย์ทำเรื่องแบบนั้นได้อย่างไร? `
+`ในตอนนั้น ตำแหน่งของทั้ง 18 คนก็ทราบกันหมดแล้ว `
+`ถึงอย่างนั้น ผมก็ยังถูกฆ่า" `
+`"เรื่องนั้นในบทเนื้อเรื่องเราก็คุยกันไปแล้วไม่ใช่เรอะ...?! `
+`อย่างยายคุมาซาวะเงี้ย `
+`ที่บอกว่าตามนายไปติดๆ แล้วมุ่งหน้าไปห้องหม้อต้มนั่นน่ะ ก็ไม่รู้แน่ชัดสักหน่อยว่าเป็นเรื่องโกหกหรือเปล่า `
+`ไม่แน่ว่าอาจจะเข้าไปในห้องหม้อต้มพร้อมกับนายแล้วลอบโจมตีทีเผลอก็ได้นะเฟ้ย! `
+`หรือไม่ก็ ตอนที่นายก้าวเข้าไปในห้องหม้อต้ม อาจจะไปเหยียบกับดักอะไรบางอย่างเข้า ซึ่งอาจจะติดตั้งไว้ให้ยิงที่เจาะน้ำแข็งนั่นมาเสียบตัวนายก็ได้" `
+`"ก็กลิ่นศพของท่านปู่มันโชยออกมาจากเตาเผานี่หว่า `
+`ยังไงก็ต้องมีคนไปดูแน่ๆ เพราะงั้นถ้าคนร้ายวางกับดักไว้ล่วงหน้า ก็แค่ถอยห่างออกมาจากที่นั่นแล้วใช้เวลาตายของคาน่อนคุงสร้างเป็นหลักฐานที่อยู่ได้อย่างสบายๆ เลยสิ...!" `
+`"...ที่บอกว่าเป็นกับดักในห้องหม้อต้ม...แต่ว่ามันจะเป็นกับดักแบบไหนกันได้คะ?" `
+`"นั่นสินะ `
+`หลังจากที่เขาเสียชีวิต ทุกคนก็รีบวิ่งไปที่ห้องหม้อต้มกันทันทีเลยนะ `
+`แต่พวกเราก็ไม่เจอกลไกประหลาดอะไรแบบนั้นเลยไม่ใช่เหรอ?!" `
+`"...จริงอย่างที่ว่าครับ `
+`คุณแบทเลอร์ครับ ผมถูกกับดักแบบไหนฆ่าตายกันแน่หรือครับ...?" `
+`"เอ่อ `
+`...เรื่องนั้นฉันก็ไม่รู้หรอก `
+`...แต่ยังไงซะ มันก็ต้องใช้กับดักแยบยลอะไรสักอย่าง หรือไม่ก็มีใครสักคนโกหกสิ `
+`...หรือว่าจะเป็นแบบนี้ล่ะวะ?! `
+`คาน่อนคุง ถ้านายแค่เล่นละครตบตามาตลอดล่ะว่าไง?! `
+`ช-ใช่แล้ว นายแค่เล่นละครอยู่แน่ๆ!! `
+`ป้าเอวากับลุงฮิเดโยชิเองก็แค่เล่นละครเหมือนกัน `
+`พวกเขาสร้างห้องปิดตายขึ้นมาเอง แล้วก็แค่แกล้งทำเป็นตายยังไงล่ะ!" `
+`".........แบทเลอร์ `
+`.........สมองของนาย... `
+`แบบว่า `
+`...ยังปกติดีอยู่หรือเปล่าวะ...?" `
+`"...เอ่อ...ให้ดิฉันไปเอาเครื่องดื่มเย็นๆ มาให้ดีไหมคะ...?" `
+`"อย-อย่ามองฉันด้วยสายตาเวทนาแบบนั้นสิวะ... ฉันไม่ได้พูดอะไรเพี้ยนขนาดนั้นสักหน่อยไม่ใช่เหรอ? `
+`ฉันแค่ชี้ให้เห็นความเป็นไปได้ถ้ามองว่าทั้งหมดนี่เป็นกลทริกต่างหากเล่า `
+`นี่ไง ในนิยายมิสเตอรี่ การที่หนึ่งในเหยื่อแค่แกล้งตายนี่มันทริกสุดคลาสสิกเลยไม่ใช่เรอะ?!" `
+`"ทริกคลาสสิกเหรอ...?" `
+`"ก-ก็คือว่านะ `
+`ตอนที่คาน่อนคุงถูกฆ่า พวกเราที่เหลือทุกคนอยู่ที่ไหนก็รู้กันอย่างชัดเจน `
+`แล้วก็สมมุติว่ายายคุมาซาวะไม่ได้โกหกด้วย `
+`แต่นั่นมันแค่นับเฉพาะคนที่ยังมีชีวิตรอดอยู่นี่หว่า `
+`...ถ้าหากคนร้ายแกล้งตายแล้วไปปะปนกับกลุ่มเหยื่อที่ตายจริงๆ จนพวกเราคลาดสายตา จากนั้นค่อยแอบลงมือตามลำพังล่ะ? ทุกอย่างก็จะอธิบายได้หมดเลยไงเล่า!" `
+`"......หา...? `
+`สรุปคือ นายจะบอกว่าป้าเอวาหรือใครสักคนในกลุ่มนั้นเป็นคนร้ายงั้นเหรอ...? `
+`แต่ว่าหมอนันโจก็ยืนยันการเสียชีวิตของทุกคนในฐานะหมอแล้วไม่ใช่เหรอ?" `
+`"...จริงด้วยครับ `
+`หมอนันโจได้ตรวจดูเหยื่อทุกคนแล้ว `
+`...คุณแบทเลอร์ครับ ถ้าทฤษฎีของคุณจะใช้ได้ หมอนันโจก็ต้องเป็นหนึ่งในคนร้ายด้วยไม่ใช่หรือครับ?" `
+`"เออ ใช่แล้ว ถูกเผงเลย!! `
+`ถ้าลองคิดว่าหมอนันโจอาจเป็นหนึ่งในคนร้ายที่แกล้งชันสูตรศพปลอมๆ เรื่องทั้งหมดมันก็เปลี่ยนไปคนละทิศเลยนะเว้ย...! `
+`เห็นไหมล่ะ นั่นก็เป็นทริกสุดคลาสสิกในนิยายมิสเตอรี่เหมือนกันไม่ใช่เรอะ?!!" `
+`"...แต่หมอนันโจเองก็ถูกฆ่าด้วยไม่ใช่เหรอ...?" `
+`"เอ่อ... ...เรื่องนั้นน่ะ... `
+`...ใช่แล้ว หมอนันโจแกล้งตายยังไงล่ะ! `
+`ก็แหม นอกจากหมอนันโจแล้วก็ไม่มีใครตรวจศพเป็นสักคน แถมตอนนั้นทุกคนก็กำลังสับสนกันยกใหญ่ด้วย `
+`ไม่มีใครมีเวลาว่างมาคอยจับชีพจรดูหรอกว่าเขายังหายใจอยู่ไหม! `
+`ถ้าคิดตามทฤษฎีนี้ ไม่ว่าคนตายคนไหนก็ลุกขึ้นมาเดินปร๋อได้ทั้งนั้นแหละ!" `
+`"...ดิฉันคิดว่าสำหรับพวกเราหกคนที่ตายตั้งแต่แรกคงทำแบบนั้นได้ยากอยู่นะคะ... `
+`...ก็ประตูม้วนถูกปิดเอาไว้...แถมยังมีแม่กุญแจที่เปิดจากข้างในไม่ได้อีกด้วย..." `
+`"จริงด้วย `
+`กุญแจดอกนั้นแม่อยู่ถือไว้ตลอดนี่นา `
+`แปลว่าแม่ก็เป็นหนึ่งในคนร้ายด้วยงั้นดิ?" `
+`"...อ๊า~~~~ เดี๋ยวสิวะ... `
+`หกคนแรกอาจจะเป็นไปไม่ได้ก็จริง แต่กรณีของพ่อแม่พี่จอร์จน่ะ ประตูมันถูกล็อกไว้แค่จากด้านนอกเท่านั้นนะ `
+`แปลว่าพวกเขาก็เปิดจากข้างในได้น่ะสิ... `
+`...ใช่แล้ว พอพวกเราออกจากห้องไป ไม่แน่ว่าพวกเขาอาจจะกระโดดออกทางหน้าต่างแล้วไปถึงห้องหม้อต้มก่อนก็ได้! `
+`...ม-มันแถเกินไปหน่อยเหรอวะ...?! `
+`หรือไม่ก็หมอนันโจอาจจะชันสูตรศพผิดพลาดก็ได้นะ?!" `
+`"นี่ไง ตัวเขาเองก็เป็นคนพูดไม่ใช่เรอะ? `
+`เขาบอกเองว่ามีโอกาสสูงมากที่จะเกิดความผิดพลาดในการตรวจศพน่ะ! `
+`ถ้าตบตาได้แนบเนียนพอ หรือเตรียมศพตัวแทนไว้ ก็แกล้งตายได้แล้วสิฟะ!! `
+`เรื่องวิธีหรือทริกที่ใช้น่ะเอาไว้ทีหลังก่อนเถอะ... เห็นไหมล่ะ การจะปฏิเสธว่าไม่มีบุคคลที่ 19 มันไม่ได้ยากเย็นอะไรเลยใช่ไหมล่ะ?! `
+`ยิ่งเรื่องแม่มดนี่ไม่ต้องพูดถึงเลยจริงไหม? `
+`อย่างน้อยเรื่องพรรค์นั้นมันก็เป็นไปไม่ได้โดยสิ้นเชิงเฟ้ย!!" `
+`"...มาเรียไม่เข้าใจเลยว่าทำไมแบทเลอร์ถึงได้ดึงดันจะบอกว่าหนึ่งในพวกเราเป็นคนร้ายขนาดนั้น `
+`คิฮิฮิฮิฮิฮิฮิฮิฮิ แปลว่าอยากจะสงสัยญาติของตัวเองนักงั้นเหรอ...?" `
+`"ไม่ใช่แบบนั้นสักหน่อย... `
+`ก็แค่ มันยอมรับได้ยากที่จะให้เชื่อว่ามีบุคคลที่ 19 อยู่จริง... ต่อให้มีอยู่จริง ฉันก็คิดว่าพวกเราควรจะตั้งสมมุติฐานบนมุมมองที่ว่าคนร้ายเป็นมนุษย์ก่อนสิวะ `
+`ฉันจะยอมรับว่าคนร้ายเป็นแม่มดก็ต่อเมื่อจนตรอกถึงที่สุด ในตอนท้ายสุดหลังจากที่ทุกอย่างถูกหักล้างไปหมดแล้วเท่านั้นแหละ" `
+`"แม่มดมันจะไปมีจริงได้ยังไงเล่า?! `
+`ทำไมทุกคนถึงยอมรับกันหน้าตาเฉยว่าคนร้ายเป็นแม่มดกันหมดวะ? `
+`ความรักในครอบครัวที่ทำให้ไม่อยากคิดว่าคนใกล้ชิดเป็นฆาตกรน่ะ ฉันคิดว่าเป็นเรื่องที่ดีนะ `
+`แต่จะยอมให้เรื่องแบบนั้นมาตบตาเอาเหรอวะ?! `
+`ไม่อยากตามหาตัวคนร้ายสารเลวที่ฆ่าคนไปตั้งมากมายนั่นกันหรือไง?!" `
+`"พี่จอร์จ ไม่อยากล้างแค้นให้พ่อแม่เหรอ?! `
+`เจสสิก้า ไม่อยากล้างแค้นให้คาน่อนคุงเหรอ แล้วคาน่อนคุง ไม่อยากล้างแค้นให้ชาน่อนจังหรือไง?! `
+`ชาน่อนจัง อย่างน้อยเธอก็น่าจะอยากรู้ไม่ใช่เหรอว่าใครเป็นคนฆ่าเธอน่ะ `
+`ทำไมทุกคนถึงได้ยอมแพ้ราบคาบแล้วปักใจเชื่อว่าคนร้ายเป็นแม่มดกันหมดวะ?! `
+`พวกนายเป็นบ้าอะไรกันไปหมดแล้วเนี่ย?!" `
+`แบทเลอร์ผู้โง่เขลาและใจร้อนพยายามยัดเยียดความไม่รู้ของตนให้แก่ผู้อื่นพลางตะคอกใส่พวกเขา `
+`...ทว่า ทุกคนกลับทำเพียงมองเขาด้วยสายตาเวทนา และเฝ้าดูอยู่อย่างเงียบงัน `
+`ในตอนนั้นเอง มาเรียผู้เปี่ยมปัญญาได้หัวเราะออกมา และชี้ให้เห็นความผิดพลาดของแบทเลอร์ `
+`"...คิฮิฮิฮิฮิฮิฮิฮิ `
+`...น่าตกใจจริงๆ `
+`...มาเรียเห็นแต่แบทเลอร์พูดเรื่องไร้สาระซ้ำไปซ้ำมา เพราะคิดว่าตัวเองเข้าใจอะไรขึ้นมาได้แล้วทั้งนั้นเลย `
+`...แล้วไงล่ะ? `
+`ต่อจากนี้คืออะไร? `
+`มนุษย์จะทำได้ยังไง? `
+`ในทางปฏิบัติน่ะนะ? `
+`เดี๋ยวก็คงพูดว่า "ตอนนี้ยังนึกไม่ออก" หรือไม่ก็ "ใช้กลไกอะไรสักอย่าง" ...แล้วใช้คำพูดนามธรรมเพื่อวิ่งหนีแล้วเฉไฉเปลี่ยนเรื่องสินะ" `
+`"...สิ่งที่มาเรียอยากรู้จริงๆ น่ะคือเรื่องนี้ต่างหากล่ะ แบทเลอร์ `
+`ทำไมถึงไม่เชื่อในตัว{f:5:เบียทริเช่}? `
+`ท่านมีตัวตนอยู่จริง แล้วทำไมถึงไม่เชื่อล่ะ?" `
+`"เพราะว่าหล่อนไม่มี "ตัวตน" น่ะสิ! `
+`แม่มดไม่ได้มี "ตัวตน" ซะหน่อย!! `
+`ไม่มีทางหรอก!!" `
+`...ท่าทางนั้นแทบไม่ต่างจากเด็กเอาแต่ใจที่ไม่ยอมรับความจริง `
+`สายตาเวทนาค่อยๆ ล้อมรอบแบทเลอร์อย่างเงียบงัน แต่มันไม่อาจเข้าถึงหัวใจอันดื้อรั้นของเขา `
+`"...นายรู้ตัวไหมว่าทำตัวเหมือนเด็กเปรตกำลังงอแงอยู่น่ะ?" `
+`"...คุณแบทเลอร์คะ `
+`ดิฉันเข้าใจความรู้สึกของคุณนะคะ แต่ว่า..." `
+`"...{f:5:เบียทริเช่}มี "ตัวตน" อยู่จริงครับ" `
+`"แบทเลอร์คุง ...ทำไมถึงไม่เชื่อล่ะ? `
+`ทั้งที่มีหลักฐานมากมายขนาดนี้แท้ๆ" `
+`"ฉันไม่ยอมรับข้ออ้างที่ว่าทุกอย่างเป็นฝีมือแม่มด เพียงเพราะฉันอธิบายไม่ได้หรอกนะ `
+`งั้นถ้าไม่รู้ว่าหลอดไฟสว่างขึ้นมาได้ยังไง ก็แปลว่ามันเกิดจากเวทมนตร์หรือไงกัน? `
+`มันไม่ใช่แบบนั้นใช่ไหมล่ะ?! `
+`ไม่มีเรื่องอะไรที่อธิบายไม่ได้โดยไม่พึ่งเวทมนตร์หรอก!! `
+`ไอ้เรื่องแม่มดกับเวทมนตร์พวกนี้ มันก็แค่การยอมแพ้ที่จะคิดชัดๆ! `
+`พวกนายก็แค่ยอมจำนนแล้วถอดใจเพราะไม่เข้าใจว่าเกิดอะไรขึ้นต่างหาก! `
+`ไม่ใช่หรือไงเล่า?!" `
+`"......คิ ฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิ `
+`ก็นะ `
+`...ไม่ผิดจากที่คิดเลย ดูเหมือนจะมีแค่แบทเลอร์คนเดียวที่ไม่ยอมเชื่อไม่ว่าจะยังไงก็ตามสินะ `
+`...ถ้าหากมีแม้แต่คนเดียวที่ไม่เชื่อ "ปาฏิหาริย์" ก็จะไม่เกิดขึ้น `
+`...เพราะฉะนั้น ถ้าไม่เปลี่ยนทฤษฎีเขลาๆ นั่นใหม่ ปาฏิหาริย์...เวทมนตร์ก็จะไม่สมบูรณ์หรอกนะ" `
+`"ฮะๆ... `
+`เข้าใจล่ะ `
+`...ในที่สุดฉันก็นึกออกแล้ว `
+`...สรุปก็คือ พวกนายพยายามบีบให้ฉันพูดว่าแม่มดมีตัวตนอยู่จริงใช่ไหมล่ะ? `
+`คำโกหกที่ทุกคนยอมรับกลายเป็น "ความจริง" `
+`...เรื่องทั้งหมดมันเป็นแบบนี้เองสินะ?! `
+`...เสียใจด้วยนะ `
+`เสียใจด้วยจริงๆ ที่ฉันยังพล่ามเรื่องนี้ไม่หยุด แต่สิ่งที่พวกนายทำน่ะเปล่าประโยชน์ทั้งเพ ฉันขอปฏิเสธ `
+`{i:ที่พวกนายพากันมารุมกดดันฉันนั่นแหละ ยิ่งทำให้มันเปล่าประโยชน์สิ้นดี} `
+`"......ทำไมล่ะ?" `
+`"โทษทีนะ แต่ขอฉันพลิกกระดานหมากรุกดูอีกสักรอบจะได้ไหม...? `
+`ถ้าอยากจะบีบให้ฉันยอมรับว่ามีแม่มดอยู่จริงล่ะก็ มันมีวิธีที่ง่ายแสนง่ายอยู่ `
+`...และไม่ใช่วิธีอ้อมค้อมอย่างการบอกว่า "ต้องเป็นแม่มดแน่เพราะมนุษย์ทำไม่ได้" ด้วย! `
+`พวกนายก็แค่แสดงให้ฉันเห็นแม่มดกำลังใช้เวทมนตร์ทำเรื่องพวกนั้นต่อหน้าต่อตาซะสิ" `
+`"ยิ่งไปกว่านั้น สิ่งที่มาเรียพูดเมื่อกี้นี่แหละที่จะขุดหลุมฝังตัวเอง `
+`...เธอพูดเองนี่ว่า ถ้ามีแม้แต่คนเดียวที่ไม่เชื่อ "ปาฏิหาริย์" ก็จะไม่เกิดขึ้น" `
+`"แต่ปาฏิหาริย์ที่แท้จริงน่ะ มันเกิดขึ้นไม่ว่าผู้คนจะเชื่อหรือไม่ก็ตามเว้ย! `
+`ถึงฉันคนเดียวจะไม่เชื่อก็ตามเถอะ!! `
+`เพราะฉะนั้น ปาฏิหาริย์หรือเวทมนตร์หรือแม่มดที่ดำรงอยู่ได้เพียงเพราะฉันเชื่อ มันก็แค่เรื่องโกหกทั้งเพ!!" `
 `"........." `
-`The uneasy mood following Battler's ignorant rant...... `
-`was blown away by a very soft and light laugh. `
-`Whose laugh...? `
-`Battler was surprised. He had never heard that voice before. `
-`When he looked at George and Jessica, at Shannon and Kanon and Maria, he noticed that they had suddenly gone respectfully silent. `
-`"......{f:5:Beatrice}." `
-`"...How amusing. `
-`...I haven't met such a charming human for quite some time." `
-`"Wh‐ `
-`Who... `
-`...are you...?" `
-`"......So you don't even know the host of the tea party to which you were invited. `
-`...How amusing indeed. `
-`*cackle*cackle*...!" `
-`"...This is {f:5:Beatrice}-sama, the Golden Witch who has lived for a thousand years." `
-`"It is an honor to be graced with your presence, {f:5:Beatrice}-sama..." `
-`"...Please forgive Battler-kun's ranting." `
-`"Th-This guy's just stubborn, and, umm, he still doesn't understand the situation he's in...!" `
-`"*cackle*cackle*cackle*... `
-`What a treat this is. `
-`...Most witches get tired of living after the first thousand years. `
-`How nice it is to meet a man with backbone such as yourself every once in a while." `
-`"...It is quite an honor to be present when {f:5:Beatrice} shows herself, Battler." `
-`"...Heh, `
-`...heheheheh!! `
-`How... `
-`...astonishing. `
-`...Are you really that desperate to make me believe that a witch... `
-`that a 19th person is the culprit...? `
-`This is starting to get interesting...! `
-`And it's all useless...!! `
-`You must be the illusion that Maria and the others call the witch, {f:5:Beatrice}." `
-`"...And, you'll only be allowed to exist if everyone believes it. `
-`...You have that kind of a half-existence, right? `
-`That's why you want to make me believe too. `
-`{i:You can't exist because I alone don't believe in you~}. `
-`...Isn't that right?!" `
-`"...Your powers of comprehension aren't bad for a mere commoner who knows nothing of magic. `
-`...Yes, it seems you were born with a strong magic-resisting power. `
-`...You're a natural enemy of us witches. `
-`...No matter how much we turn your world upside down, `
-`{i:you never believe in us.} `
-`{i:Therefore, the magic won't succeed}. `
-`...I accept that attitude of yours. `
-`*cackle*cackle*...!" `
-`"I've got no clue what you're saying, ihihi! `
-`It's very kind of you to go to all of the trouble of showing yourself to us, `
-`but I don't believe you exist in the slightest." `
-`"It's true that many strange things happened during those two days. `
-`Like Maria said earlier, even though I think all the tricks could be explained, I still can't lay out the practical details of each one. `
-`However, that doesn't mean I'll surrender." `
-`"I'm different from the rest of them, got it? `
-`I'll never accept that it was the work of a witch just because I can't explain it." `
-`"...This keeps getting more amusing. `
-`Making you surrender will be worth my while... `
-`...You're just the kind of man I'd like to force into praising my name...... `
-`I'd love to try making a man like you kiss my toes. `
-`...*cackle*cackle*cackle*!" `
-`"If you want to talk nonsense, talk all you want...! `
-`I deny you exist. `
-`All of the events can be explained with "human tricks"...!! `
-`There's no room for even a speck of magic or witches!!" `
-`"Wonderful! `
-`...What a perfect way to divert oneself from a thousand years of boredom. `
-`Then let me ask you. `
-`A short while ago, you said that using the crack in the door would be sufficient to kill Eva and Hideyoshi, right...? `
-`Explain how they could have been killed using some human trick." `
-`"...Heh. `
-`Suddenly jumping right into the toughest part, are you? `
-`...Does that mean this is the trick you're proudest of? `
-`Miss {i:Real Culprit? `
-`With a shake of her golden pipe, `
-`gentle, multi-colored smoke trailed out of the end. `
-`The smoke quickly obscured their surroundings, `
-`...and they were suddenly in the hallway of the mansion. `
-`The door in front of them, slightly opened but secured by the chain, was... `
-`That's right, it's the door to the room where Eva and Hideyoshi were killed. `
-`"...N-Nice trick..." `
-`"Very well. `
-`Show me what you would do through this small crack, Battler." `
-`"Erk, ... `
-`...th-they probably had some device to shoot those "icepicks". `
-`If they used that..." `
-`"How would they reach Eva over on the bed when you can't see that far through this crack? `
-`...And how would they reach Hideyoshi, in the bathroom with the door shut...?" `
-`"......Damn... `
-`...There's a crack... `
-`There should be some way..." `
-`"*cackle*cackle* `
-`If you can't think of one, allow me." `
-`"...Oh? `
-`How would a witch do it...? `
-`C'mon, let's see your little trick..." `
-`"...Battler, you're being rude to {f:5:Beatrice}..." `
-`"How nice, how nice. `
-`What a charming man. `
-`...That will make it even more fun to force him into submission." `
-`"...Heh! `
-`You really wanna make me kiss your toes that much...?! `
-`Only if I surrender! `
-`But watch... I'll definitely expose this trick, and then I'll make you kiss my ass instead!" `
-`"...*cackle* `
-`What a delightful man. `
-`I'll remember that promise. `
-`...Weak witches kiss the behinds of demons to gain power. `
-`Because there's no more humiliating oath. `
-`Just being told that makes me want to force you into surrender. `
-`...*cackle*cackle*...!" `
-`Paying no mind to Battler's worthless ranting, {f:5:Beatrice} once again shook the golden pipe. `
-`...That's right, that golden pipe was her precious magic cane. `
-`"Come, arise, children. `
-`I am the guide of Purgatory. `
-`Forgive the deadly sins and hold the Seven Stakes." `
-`Guided by those magic words, which sounded like a command, seven stakes gathered. `
-`...They were the stakes of the seven demons symbolizing the deadly sins of sinful people. `
-`"Beelzebub and Asmodeus. `
-`Come, forgive the sins. `
-`Release the spirits of the sinners...!" `
-`"Wha...?!" `
-`The picks of Beelzebub and Asmodeus responded to {f:5:Beatrice}'s call. `
-`The two stakes of the demons were sucked in through the crack of the door, like billiard balls struck by a cue stick. `
-`Then, several scattered noises refracted through the wall, making a sound like a woodpecker. `
-`And at the end, a pleasant sound could be heard. `
-`...It was a small, satisfying sound, like the one heard when someone is chopping firewood and the falling ax neatly and easily slices through the wood. `
-`It was the sound of the two picks burying themselves deep into Eva's and Hideyoshi's foreheads. `
-`"...Right down the middle. `
-`Want to see...?" `
-`They'd definitely heard two sounds like a pair of foreheads being split open. `
-`Battler wasn't permitted to see it, since he was on the other side of the door, `
-`but those two had died again, and this second time, they lay not an inch apart from where they had lain the last time, with the exact same blood-spray as before. `
-`"...Y-You moron... `
-`...Th-That's insane...! `
-`Y-You think you can just kill them like that?!!!" `
-`"I can kill them. `
-`...I can kill them just like this...! `
-`*cackle*cackle*cackle*!" `
-`Suddenly, they were no longer in the hall, but seated at the tea party they had started from. `
-`...Everyone but Battler was sitting meekly, ...but Kanon was moaning, fresh blood dangling from his mouth. `
-`What a rude thing to do at a tea party. `
-`Satan's stake was buried deep into Kanon's chest. `
-`"..................u... `
-`...gah `
+`บรรยากาศอึดอัดที่เกิดขึ้นหลังจากการพล่ามอันโง่เขลาของแบทเลอร์...... `
+`ถูกพัดเป่าให้สลายไปด้วยเสียงหัวเราะอันแผ่วเบาและนุ่มนวล `
+`เสียงหัวเราะของใครกัน...? `
+`แบทเลอร์ประหลาดใจ เขาไม่เคยได้ยินเสียงนั้นมาก่อนเลย `
+`เมื่อเขามองไปยังจอร์จและเจสสิก้า มองชาน่อน คาน่อน และมาเรีย ก็สังเกตเห็นว่าพวกเขากลับเงียบกริบลงด้วยความยำเกรงในทันใด `
+`"......{f:5:เบียทริเช่}" `
+`"...น่าขันเสียจริง `
+`...ข้าไม่ได้พบมนุษย์ที่มีเสน่ห์ถึงเพียงนี้มาเสียนานแล้ว" `
+`"อะ- `
+`ใคร... `
+`...เธอเป็นใครกัน...?" `
+`"......นี่เจ้าไม่รู้กระทั่งว่าผู้ใดเป็นเจ้าภาพงานเลี้ยงน้ำชาที่ตนได้รับเชิญมาหรอกหรือ `
+`...ช่างน่าขันสิ้นดี `
+`คุ-คุ...!" `
+`"...ท่านผู้นี้คือท่าน{f:5:เบียทริเช่} แม่มดทองคำผู้มีชีวิตอยู่มานับพันปีครับ" `
+`"เป็นเกียรติอย่างยิ่งที่ท่านมาปรากฏตัวเจ้าค่ะ ท่าน{f:5:เบียทริเช่}..." `
+`"...ได้โปรดยกโทษให้กับการเสียมารยาทของแบทเลอร์คุงด้วยเถอะครับ" `
+`"ห-หมอนี่มันแค่หัวดื้อ แล้วก็ เอิ่ม ยังไม่เข้าใจสถานการณ์ที่ตัวเองอยู่น่ะค่ะ...!" `
+`"คุ-คุ-คุ... `
+`ช่างเพลิดเพลินเสียจริง `
+`...แม่มดส่วนใหญ่ล้วนเบื่อหน่ายกับการมีชีวิตอยู่หลังจากผ่านพ้นพันปีแรกไปแล้วทั้งนั้น `
+`นานๆ ทีได้พบบุรุษผู้มีกระดูกสันหลังแข็งแกร่งเยี่ยงเจ้านี่ช่างดีแท้" `
+`"...เป็นเกียรติมากเลยนะที่ได้อยู่ต่อหน้า{f:5:เบียทริเช่}ตอนที่ปรากฏตัวน่ะ แบทเลอร์" `
+`"...เหอะ `
+`...ฮะๆๆๆๆ!! `
+`ช่าง... `
+`...น่าทึ่งชะมัด `
+`...นี่อยากจะให้ฉันเชื่อขนาดนั้นเลยเรอะ ว่าแม่มด... `
+`ว่าบุคคลที่ 19 คือคนร้ายน่ะ...? `
+`เริ่มจะน่าสนุกขึ้นมาแล้วสิ...! `
+`แล้วมันก็เปล่าประโยชน์ทั้งเพ...!! `
+`เธอคงจะเป็นภาพลวงตาที่พวกมาเรียเรียกว่าแม่มด {f:5:เบียทริเช่} สินะ" `
+`"...แล้วก็ เธอจะได้รับอนุญาตให้มีตัวตนอยู่ได้ ก็ต่อเมื่อทุกคนเชื่อเท่านั้น `
+`...การมีตัวตนของเธอเป็นแบบครึ่งๆ กลางๆ แบบนั้นใช่ไหมล่ะ? `
+`ถึงได้อยากทำให้ฉันเชื่อไปด้วยอีกคน `
+`{i:เธอมีตัวตนไม่ได้ ก็เพราะมีแค่ฉันคนเดียวที่ไม่เชื่อในตัวเธอ~} `
+`...ไม่ใช่หรือไงเล่า?!" `
+`"...ความสามารถในการทำความเข้าใจของเจ้าไม่เลวเลย สำหรับแค่สามัญชนที่ไม่ประสีประสาเรื่องเวทมนตร์ `
+`...ใช่แล้ว ดูท่าเจ้าจะเกิดมาพร้อมกับพลังต้านทานเวทมนตร์อันแก่กล้า `
+`...เจ้าคือศัตรูตามธรรมชาติของพวกเราเหล่าแม่มด `
+`...ไม่ว่าพวกเราจะพลิกผันโลกของเจ้าไปมากเพียงใด `
+`{i:เจ้าก็ไม่มีวันเชื่อในพวกเรา} `
+`{i:ดังนั้น เวทมนตร์จึงไม่อาจสัมฤทธิผล} `
+`...ข้ายอมรับในท่าทีนั้นของเจ้า `
+`คุ-คุ...!" `
+`"ไม่เห็นจะรู้เรื่องที่เธอพูดเลยสักนิด อิฮิฮิ! `
+`ก็ขอบใจนะที่อุตส่าห์ลำบากมาปรากฏตัวให้พวกเราเห็น `
+`แต่ฉันไม่เชื่อแม้แต่นิดเดียวหรอกว่าเธอมีตัวตนอยู่จริง" `
+`"มันก็จริงที่มีเรื่องประหลาดเกิดขึ้นมากมายตลอดสองวันนี้ `
+`อย่างที่มาเรียพูดเมื่อกี้ ถึงฉันจะคิดว่าทริกทั้งหมดสามารถอธิบายได้ แต่ฉันก็ยังแจกแจงรายละเอียดการลงมือจริงๆ ของแต่ละคดีไม่ได้ `
+`แต่นั่นไม่ได้หมายความว่าฉันจะยอมแพ้หรอกนะ" `
+`"ฉันไม่เหมือนกับคนพวกนั้น จำไว้ซะ `
+`ฉันไม่มีวันยอมรับหรอกว่ามันเป็นฝีมือของแม่มด เพียงเพราะตัวเองอธิบายไม่ได้น่ะ" `
+`"...ชักจะน่าขันขึ้นเรื่อยๆ แล้วสิ `
+`การทำให้เจ้ายอมจำนนคงคุ้มค่าน่าดูชม... `
+`...เจ้าเป็นบุรุษประเภทที่ข้าอยากจะบีบให้สรรเสริญนามแห่งข้าเสียจริง...... `
+`อยากลองทำให้บุรุษเยี่ยงเจ้ามาจุมพิตที่ปลายนิ้วเท้าของข้าดูนัก `
+`...คุ-คุ-คุ!" `
+`"ถ้าจะเพ้อเจ้อล่ะก็ เชิญพูดไปคนเดียวเถอะเว้ย...! `
+`ฉันขอปฏิเสธการมีตัวตนของแก `
+`เรื่องทั้งหมดที่เกิดขึ้นสามารถอธิบายได้ด้วย "กลอุบายของมนุษย์"...!! `
+`ไม่มีที่ว่างให้เวทมนตร์หรือแม่มดแม้แต่เศษเสี้ยวเดียวหรอกโว้ย!!" `
+`"ยอดเยี่ยม! `
+`...ช่างเป็นวิธีแก้เบื่อพันปีที่เหมาะเจาะอะไรเช่นนี้ `
+`เช่นนั้นข้าขอถามเจ้าหน่อย `
+`เมื่อครู่นี้ เจ้าบอกว่าแค่ใช้ช่องว่างของประตูก็เพียงพอที่จะฆ่าเอวาและฮิเดโยชิได้แล้ว ใช่หรือไม่...? `
+`จงอธิบายมาสิ ว่าจะฆ่าพวกนั้นด้วยกลอุบายของมนุษย์ได้อย่างไร" `
+`"...หึ `
+`จู่ๆ ก็เปิดด้วยจุดที่ยากที่สุดเลยงั้นเรอะ? `
+`...แปลว่านี่คือทริกที่แกภูมิใจที่สุดสินะ? `
+`คุณ{i:คนร้ายตัวจริง? `
+`เมื่อเธอสะบัดกล้องยาสูบสีทอง `
+`ควันหลากสีอันนุ่มละมุนก็ลอยละล่องออกมาจากปลายกล้อง `
+`ควันนั้นบดบังทัศนียภาพรอบตัวอย่างรวดเร็ว `
+`...แล้วพริบตาเดียว พวกเขาก็มาอยู่ในโถงทางเดินของคฤหาสน์ `
+`ประตูตรงหน้าพวกเขาที่เปิดแง้มไว้เล็กน้อยแต่คล้องโซ่อยู่ คือ... `
+`ใช่แล้ว มันคือประตูห้องที่เอวาและฮิเดโยชิถูกฆ่า `
+`"...ท-ทริกไม่เลวนี่..." `
+`"เอาเถิด `
+`แสดงให้ข้าดูสิว่าเจ้าจะทำอย่างไรผ่านช่องแคบๆ นี้ แบทเลอร์" `
+`"อึก... `
+`...พ-พวกมันคงมีอุปกรณ์บางอย่างไว้ใช้ยิง "ที่เจาะน้ำแข็ง" นั่นแหละ `
+`ถ้าใช้เจ้านั่นละก็..." `
+`"จะยิงไปถึงเอวาที่อยู่บนเตียงได้อย่างไร ในเมื่อช่องนี้มองไปไม่เห็นถึงตรงนั้น? `
+`...แล้วจะไปถึงฮิเดโยชิที่อยู่ในห้องน้ำซึ่งปิดประตูอยู่ได้อย่างไรกัน...?" `
+`"......บ้าเอ๊ย... `
+`...มีช่องว่างอยู่... `
+`มันต้องมีวิธีสิ..." `
+`"คุ-คุ `
+`หากเจ้านึกไม่ออก เช่นนั้นให้ข้าเป็นผู้แสดงเอง" `
+`"...เหรอ? `
+`แม่มดจะทำยังไงล่ะ...? `
+`เอาสิ แสดงกลตื้นๆ ของแกให้ดูหน่อย..." `
+`"...แบทเลอร์ เสียมารยาทกับ{f:5:เบียทริเช่}นะ..." `
+`"ดีเหลือเกิน ดีเหลือเกิน `
+`ช่างเป็นชายที่น่าสนใจจริงๆ `
+`...ยิ่งทำให้การสยบเขาเป็นเรื่องน่าสนุกขึ้นไปอีก" `
+`"...หึ! `
+`อยากให้ฉันจูบนิ้วเท้าแกขนาดนั้นเลยเรอะ...?! `
+`นั่นมันก็ต่อเมื่อฉันยอมแพ้เท่านั้นแหละ! `
+`แต่คอยดูเถอะ... ฉันจะเปิดโปงทริกนี้ให้ได้ แล้วจากนั้นฉันจะให้แกมาจูบก้นฉันแทน!" `
+`"...คุ `
+`ช่างเป็นชายที่น่ายินดีเสียจริง `
+`ข้าจะจำคำสัญญานั้นไว้ `
+`...แม่มดผู้อ่อนแอจะจูบก้นของปีศาจเพื่อรับพลัง `
+`เพราะไม่มีคำปฏิญาณใดที่จะน่าอัปยศไปกว่านั้นอีกแล้ว `
+`แค่ได้ยินเช่นนั้น ข้าก็ยิ่งอยากบีบให้เจ้ายอมจำนนเสียแล้ว `
+`...คุ-คุ...!" `
+`{f:5:เบียทริเช่}สะบัดกล้องยาสูบสีทองอีกครั้ง โดยไม่ใส่ใจคำพล่ามไร้สาระของแบทเลอร์ `
+`...ใช่แล้ว กล้องยาสูบสีทองนั้นคือไม้เท้าเวทมนตร์ล้ำค่าของเธอ `
+`"จงมา จงตื่นขึ้น เหล่าลูกรัก `
+`ข้าคือผู้นำทางแห่งแดนชำระ `
+`จงอภัยบาปมหันต์ และกุมหมุดทั้งเจ็ดไว้" `
+`หมุดทั้งเจ็ดมารวมตัวกัน ตามการชี้นำของถ้อยคำเวทมนตร์อันฟังดูคล้ายคำบัญชา `
+`...พวกมันคือหมุดของเจ็ดปีศาจ ซึ่งเป็นสัญลักษณ์แทนบาปมหันต์ของเหล่าคนบาป `
+`"เบลเซบับ และแอสโมเดียส `
+`จงมา จงอภัยบาป `
+`จงปลดปล่อยวิญญาณของคนบาป...!" `
+`"อะ...อะไรกัน...?!" `
+`เหล็กเจาะของเบลเซบับและแอสโมเดียสตอบรับเสียงเพรียกของ{f:5:เบียทริเช่} `
+`หมุดปีศาจทั้งสองถูกดูดเข้าไปในช่องประตู ราวกับลูกบิลเลียดที่ถูกไม้คิวแทง `
+`จากนั้น เสียงกระจัดกระจายหลายครั้งก็สะท้อนหักเหผ่านกำแพง เกิดเป็นเสียงคล้ายนกหัวขวาน `
+`และในท้ายที่สุด ก็มีเสียงอันน่ารื่นรมย์ดังขึ้น `
+`...มันเป็นเสียงแผ่วเบาที่ฟังแล้วน่าพึงใจ ราวกับเสียงขวานที่จามลงผ่าท่อนฟืนขาดสะบั้นอย่างหมดจดและง่ายดาย `
+`มันคือเสียงของเหล็กเจาะทั้งสองที่ฝังลึกเข้าสู่หน้าผากของเอวาและฮิเดโยชิ `
+`"...เข้ากลางเป้าพอดี `
+`อยากดูไหมล่ะ...?" `
+`พวกเขาได้ยินเสียงเหมือนหน้าผากทั้งสองถูกผ่าเปิดออกสองครั้งอย่างชัดเจน `
+`แบทเลอร์ไม่ได้รับอนุญาตให้มองดู เนื่องจากเขาอยู่อีกฟากหนึ่งของประตู `
+`แต่ทั้งสองคนนั้นได้ตายซ้ำอีกครั้ง และในครั้งที่สองนี้ พวกเขาก็นอนทอดร่างอยู่ตรงตำแหน่งเดิมเป๊ะไม่คลาดเคลื่อนแม้แต่นิ้วเดียว พร้อมกับรอยเลือดที่สาดกระจายเหมือนเดิมทุกประการ `
+`"...ย-ยัยบ้า... `
+`...ม-มันบ้าชัดๆ...! `
+`ค-คิดว่าจะฆ่ากันง่ายๆ แบบนี้ได้เรอะ?!!!" `
+`"ข้าฆ่าได้ `
+`...ข้าฆ่าได้ง่ายๆ เช่นนี้แล...! `
+`คุ-คุ-คุ!" `
+`พริบตานั้น พวกเขาก็ไม่ได้อยู่ในโถงทางเดินอีกต่อไป แต่กลับมานั่งอยู่ที่งานเลี้ยงน้ำชาในตอนแรก `
+`...ทุกคนนอกจากแบทเลอร์ต่างนั่งสงบเสงี่ยม ...ทว่าคาน่อนกำลังส่งเสียงคราง โดยมีเลือดสดๆ ไหลย้อยออกมาจากปาก `
+`ช่างเป็นพฤติกรรมที่เสียมารยาทในงานเลี้ยงน้ำชาเสียจริง `
+`หมุดของซาตานฝังลึกอยู่ในอกของคาน่อน `
+`"..................อึ่ก... `
+`...อั่ก `
 `..." `
-`"K-Kanon-kun, `
-`...Kanon-kun!! `
-`...D-Damn iiiiiiiiiit!!" `
-`Battler was the only one getting agitated. `
-`George, Jessica, Shannon...everyone else was meekly hanging their heads like students being yelled at by their teacher. `
-`"...Kanon was captivated by a trifling anger and tried to disturb my banquet. `
-`...Being easily captivated by anger is your deadly sin. `
-`Cleanse yourself, repent, and do it over." `
-`"......{f:5:at} `
-`...{f:5:rice}... `
-`...sa...ma..." `
-`"B-{f:5:Beatrice}-sama, `
-`...please, forgive him... `
-`I think Kanon-kun has repented enough...!" `
-`"Wonderful. `
-`I am generous to those who respect me. `
-`...*cackle*cackle*...!" `
-`"Don't screw with me!!! `
-`Do you think I'll accept your existence because of this cheap act?! `
-`Like hell you're a thousand-year-old witch! `
-`Your tricks aren't a thousand years old, they're just the sum of a century of classic tricks from the mystery genre! `
-`There's no such thing as magic!! `
-`Definitely not!! `
-`All of the crimes can be explained with "human tricks"!!" `
-`"*cackle*cackle*! `
-`You would explain my thousand years with a hundred years of humans...? `
-`Good, good, that's why I like you...!" `
-`"...Foolish Battler... `
-`Kihhihihihihihihihihihihihihihihihi...!" `
-`"...Cut it out, Battler-kun... `
-`You can't... `
-`go...against the witch..." `
-`"............nn... `
-`......u... `
-`............u..." `
-`Shannon started moaning, holding her cheek. `
-`...Maybe she had a toothache. `
-`But apparently, it wasn't a toothache after all. `
-`...A slight redness spread across the cheek Shannon was holding. `
-`It looked like that redness was causing Shannon unbearable pain... `
-`Her fingers were pressing in against her cheek, and drops of sweat appeared all over her body... `
-`"...Shannon, `
-`...Shannon...!! `
-`Hang in there...hang in there!" `
-`"What's going on?! `
-`Damn it, what the hell is that red stuff...?!" `
-`It expanded rapidly, covering half of Shannon's face... `
-`...Then, the stupid dunce Battler finally realized... `
-`"Ple‐please, Battler‐kun...! `
-`Please believe in {f:5:Beatrice}‐sama...! `
-`I beg you...!! `
-`Aaaaaaah, because you won't believe, `
-`because you won't believe, aaaaaaaaaah, `
-`...the magic is `
-`...the magic is dissolviiiiiiiing!!" `
-`For the first time in his life, ...Battler heard that sound, like a pomegranate splitting. `
-`The red spray even landed on Battler's face... `
-`Poor Shannon's face had been split in half, ...and her last horrible moments in that storehouse were repeated once again. `
-`"U-Uwaaaaaaaaaaaaaaaaaaaaaaaaahh, Shannon, Shannon!! `
-`Uwaaaaaaaaaaaaaaaaaaahh!!!" `
-`"Ngg...nnnnnggg, damn it, damn iiiiiiiiiiit! `
-`Stop it, stop it, stop it!! `
-`Don't humiliate the dead, don't humiliate the deeeeeaaaaad!!" `
-`"Uuuu, ...gah, ...eeeggh!!" `
-`This time, the redness spread across George's entire body... `
-`It was like the beautiful cloud drawn by milk when it's poured into black tea. `
-`It spread out and extended across his entire body. `
-`...As it did, it seemed to give George increasingly greater pain. `
-`Looking at this bizarre spectacle, ...Battler was petrified as he frantically thought with his pitifully clumsy imagination... `
-`about the nature of this strange death George and the rest were experiencing... `
-`Eventually, ...that redness reached the nearby Jessica as well... `
-`"Gah, `
-`...eeh, `
-`...ack, `
-`......hh!!" `
-`"S-Stop it, stop it, stop it!!! `
-`What did Aniki do, `
-`what did Jessica do, `
-`just STOP IIIIIIIIIIIIIIIIIT!!!" `
-`"Ba‐ `
-`Battler, `
-`...d- `
-`don't let the witch `
-`...break your spirit...! `
-`...Deny her, `
-`erase her... `
-`...A-As long as at least one person denies her, `
-`she's an illusion that can't exist...! `
-`Aaaaahhhh, gghhh!!" `
-`"A-Are you okay, Jessica?!! `
-`Whaa, A-Aniki?!?!" `
-`George was no longer recognizable as a human. `
-`...He looked like the pile of leftover meat after the good, delicious meat has been scraped off to be cooked. `
-`...The only thing that even resembled a human was the shape of his lower jaw and rib cage. `
-`And it was clear that Jessica, who was covered with a steadily strengthening redness, was approaching the same fate. `
-`"............Uu. `
-`...Battler. `
-`......Quick, believe in {f:5:Beatrice}... `
-`...If you don't, `
-`...everyone's magic... `
-`...will dissolve..." `
-`"M-Maria, it's all over your body, too...!!!" `
-`"I revive all the dead with my magic. `
-`...But as long as you don't believe, that magic will hold no true power. `
-`*cackle*cackle*cackle*! `
-`But I'm sure that a man like yourself won't surrender to something like this, right...?" `
-`"Ba‐ `
-`Battler...! `
-`We... `
-`...didn't want to doubt our friends... `
-`We refused to face reality... `
-`and gave in to the witch...! `
-`But... `
-`Battler, you won't... `
-`...won't... `
-`give in to the witch...! `
-`Geh, `
-`ggghh, `
-`...gggggghhkkkkkkk!!!" `
-`"Jessica, Jessicaaaaaaa, gaaaaaaaaaaaaaaaaaaaaahhhhh!!" `
-`Poor Jessica met the same end. `
-`...Just like George, she ended up like a butcher's leftovers. `
-`George and Jessica were now so destroyed, melted and mixed up, it was impossible to tell them apart. `
-`"...Battler, `
-`don't cry. `
-`...{f:5:Beatrice} will restore the dead over and over. `
-`So there's nothing to be sad about... `
-`......So, `
-`......even if we die, we're still... `
-`...just... `
-`fine..." `
-`The redness began eating into the whole of Maria's body... `
-`The foolish Battler watched and screamed. `
-`"I won't forgive you, I'll never forgive you!! `
-`A witch?! Magic?! `
-`I'll risk my body and soul to deny you...!! `
-`No matter what happens, I can't accept you!! `
-`Now that you've gone so far to piss me off, I'll never forgive you!!" `
-`"I won't forgive, I won't forgive, I definitely won't forgive you!! `
-`You'll regret making me, Ushiromiya Battler, your enemy!! `
-`I'll deny you no matter what!! `
-`No matter how baffling things get, it can all be explained by "humans"!!! `
-`I'll erase every cell of you from this world!!!" `
-`"Well said! Battler, was it...? `
-`That's just the thing to divert me from my thousand years of boredom! `
-`Come, explain. `
-`Try explaining it all with "human tricks"! `
-`And learn how lowly humans are!! `
-`Let's see if what humanity has built up in a hundred years can oppose my thousand years!! `
-`That's what will make forcing you to submit so pleasant...!!" `
-`"So tell me, you who call yourself Battler! `
-`What about Maria's letter? `
-`How the six were killed? `
-`The shutter? `
-`The receipt's seal? `
-`The closed room with the chain? `
-`Kanon in the boiler room? `
-`Genji and the others in the lounge?! `
-`Natsuhi's suicide?! `
-`The riddle of the epitaph?! `
-`The location of the hidden gold?!" `
-`"Yes, Battler, why don't you show me the power of "humans"?! `
-`Fuhahahahahahahahahahahahahahahahahaha!!!" `
-`"Aaaaaaaaaaaaaaaaaahhhhhhhhhhhhh!!!" `
+`"ค-คาน่อนคุง `
+`...คาน่อนคุง!! `
+`...บ-บัดซบเอ๊ย~~~~~!!" `
+`มีเพียงแบทเลอร์คนเดียวที่เริ่มกระวนกระวาย `
+`จอร์จ เจสสิก้า ชาน่อน...คนอื่นๆ ต่างก้มหน้าอย่างสงบเสงี่ยม ราวกับนักเรียนที่ถูกครูดุด่า `
+`"...คาน่อนถูกความโกรธเพียงน้อยนิดครอบงำและพยายามจะก่อความวุ่นวายในงานเลี้ยงของข้า `
+`...การถูกความโกรธครอบงำได้ง่ายคือบาปมหันต์ของเจ้า `
+`จงชำระตน สำนึกบาป แล้วเริ่มต้นใหม่เสีย" `
+`"......{f:5:ทริ} `
+`...{f:5:เช่}... `
+`...ท่...าน..." `
+`"ท-ท่าน{f:5:เบียทริเช่} `
+`...ได้โปรด ยกโทษให้เขาด้วยเถอะค่ะ... `
+`ดิฉันคิดว่าคาน่อนคุงสำนึกผิดมากพอแล้วค่ะ...!" `
+`"วิเศษยิ่ง `
+`ข้าย่อมเอื้อเฟื้อต่อผู้ที่เคารพข้า `
+`...คุ-คุ...!" `
+`"อย่ามาล้อเล่นนะเว้ย!!! `
+`คิดว่าแค่เล่นปาหี่ชั้นต่ำแบบนี้ ฉันจะยอมรับการมีตัวตนของแกเรอะ?! `
+`แม่มดพันปีบ้านแกสิวะ! `
+`ทริกของแกไม่ได้อยู่มาตั้งพันปีสักหน่อย มันก็แค่ผลรวมของทริกคลาสสิกร้อยปีจากนิยายแนวสืบสวนเท่านั้นแหละ! `
+`เวทมนตร์อะไรนั่นมันไม่มีจริงหรอกโว้ย!! `
+`ไม่มีทางมีเด็ดขาด!! `
+`คดีทั้งหมดมันอธิบายได้ด้วย "กลอุบายของมนุษย์" ทั้งนั้นแหละโว้ย!!" `
+`"คุ-คุ! `
+`เจ้าคิดจะอธิบายหนึ่งพันปีของข้า ด้วยหนึ่งร้อยปีของมนุษย์อย่างนั้นหรือ...? `
+`ดี ดีเหลือเกิน เพราะแบบนี้ข้าถึงได้ถูกใจเจ้านัก...!" `
+`"...แบทเลอร์โง่เง่า... `
+`คิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิ...!" `
+`"...พอเถอะ แบทเลอร์คุง... `
+`เธอ... `
+`ไปต่อต้าน...แม่มดไม่ได้หรอกนะ..." `
+`"............อึ่ก... `
+`......อึก... `
+`............อึ่ก..." `
+`ชาน่อนเริ่มครางพลางเอามือกุมแก้มไว้ `
+`...เธออาจจะแค่ปวดฟัน `
+`แต่ดูเหมือนว่า นั่นจะไม่ใช่อาการปวดฟันเสียแล้ว `
+`...รอยแดงเรื่อกระจายไปทั่วแก้มที่ชาน่อนกุมอยู่ `
+`ดูราวกับว่ารอยแดงนั้นกำลังสร้างความเจ็บปวดอันเหลือทนให้แก่ชาน่อน... `
+`นิ้วมือของเธอกดลึกลงไปบนแก้ม เม็ดเหงื่อผุดพรายขึ้นทั่วร่าง... `
+`"...ชาน่อน `
+`...ชาน่อน...!! `
+`ทำใจดีๆ ไว้นะ...ทำใจดีๆ ไว้!" `
+`"เกิดอะไรขึ้นน่ะ?! `
+`โธ่เว้ย ไอ้สีแดงๆ นั่นมันบ้าอะไรวะ...?!" `
+`มันลุกลามอย่างรวดเร็ว จนปกคลุมใบหน้าของชาน่อนไปครึ่งซีก... `
+`...และในที่สุด เจ้าคนทื่อมะลื่ออย่างแบทเลอร์ก็เพิ่งนึกขึ้นได้... `
+`"ข-ขอร้องล่ะ แบทเลอร์คุง...! `
+`ได้โปรดเชื่อในตัวท่าน{f:5:เบียทริเช่}เถอะ...! `
+`พี่ขอร้องล่ะ...!! `
+`อ๊า~~~~ เพราะเธอไม่ยอมเชื่อ `
+`เพราะเธอไม่ยอมเชื่อแท้ๆ เลย อ๊า~~~~ `
+`...เวทมนตร์มัน `
+`...เวทมนตร์มันกำลังจะคลายแล้วววววว!!" `
+`เป็นครั้งแรกในชีวิต...ที่แบทเลอร์ได้ยินเสียงราวกับผลทับทิมปริแตกแบบนั้น `
+`ละอองสีแดงกระเด็นมาเปรอะเปื้อนกระทั่งบนใบหน้าของแบทเลอร์... `
+`ใบหน้าของชาน่อนผู้น่าสงสารถูกผ่าออกเป็นสองซีก...และช่วงเวลาสุดท้ายอันน่าสยดสยองในโกดังเก็บของแห่งนั้น ก็ได้ย้อนกลับมาฉายซ้ำอีกครา `
+`"ฮ-หวา~~~~~~~~~~~~~~~~ ชาน่อน ชาน่อน!! `
+`หวา~~~~~~~~~~~~~~~~!!!" `
+`"อึ่ก...อึ๊กรกก โธ่เว้ย โธ่เว้ยยยยยยย! `
+`หยุดนะ หยุดเดี๋ยวนี้ หยุดสิวะ!! `
+`อย่ามาหยามคนตายนะเว้ย อย่ามาลบหลู่คนตาาาาาย!!" `
+`"อือออ ...อั่ก ...อ่อกกก!!" `
+`คราวนี้ รอยสีแดงได้ลุกลามไปทั่วทั้งร่างของจอร์จ... `
+`มันคล้ายกับลวดลายอันงดงามของนมที่หยดลงไปในน้ำชาฝรั่ง `
+`แผ่ขยายและลามไปทั่วร่างของเขา `
+`...ยิ่งมันลุกลาม ก็ดูเหมือนยิ่งทวีความเจ็บปวดให้จอร์จมากขึ้นเรื่อยๆ `
+`เมื่อเห็นภาพอันพิลึกพิลั่นนี้...แบทเลอร์ก็ยืนแข็งทื่อ พลางเค้นจินตนาการอันงุ่มง่ามน่าสมเพชของตนอย่างเอาเป็นเอาตาย... `
+`เพื่อคิดหาคำอธิบายเกี่ยวกับธรรมชาติของความตายประหลาดที่จอร์จและคนอื่นๆ กำลังเผชิญ... `
+`ในที่สุด...รอยสีแดงนั้นก็ลามไปถึงเจสสิก้าซึ่งอยู่ใกล้ๆ เช่นกัน... `
+`"อั่ก `
+`...อึก `
+`...แค็ก `
+`......อึ่ก!!" `
+`"ห-หยุดนะ หยุดเดี๋ยวนี้ หยุดสิวะ!!! `
+`พี่จอร์จไปทำอะไรให้ `
+`เจสสิก้าไปทำอะไรให้ `
+`หยุดเดี๋ยวนี้โว้ยยยยยยยยยยยยย!!!" `
+`"แบ- `
+`แบทเลอร์ `
+`...อ- `
+`อย่าให้ยัยแม่มดนั่น `
+`...หักใจแกได้นะ...! `
+`...ปฏิเสธมัน `
+`ลบมันทิ้งไป... `
+`...ต-ตราบใดที่ยังมีคนปฏิเสธมันอยู่อย่างน้อยหนึ่งคน `
+`ยัยนั่นก็เป็นแค่ภาพลวงตาที่ไม่มีตัวตนจริงหรอก...! `
+`กรี๊ดดดดด อั่กกก!!" `
+`"จ-เจสสิก้า เป็นอะไรไหม?!! `
+`หา พ-พี่จอร์จ?!" `
+`จอร์จดูไม่ออกอีกต่อไปแล้วว่าเคยเป็นมนุษย์ `
+`...ร่างของเขาดูเหมือนกองเศษเนื้อที่เหลือทิ้ง หลังจากถูกแล่เอาเนื้อส่วนดีๆ รสอร่อยออกไปทำอาหารจนเกลี้ยง `
+`...สิ่งเดียวที่ยังพอดูคล้ายมนุษย์อยู่บ้าง ก็มีเพียงเค้าโครงของขากรรไกรล่างและซี่โครงเท่านั้น `
+`และเห็นได้ชัดว่า เจสสิก้าซึ่งถูกรอยแดงอันเข้มข้นขึ้นเรื่อยๆ กลืนกิน ก็กำลังเดินไปสู่ชะตากรรมเดียวกัน `
+`"............อู `
+`...แบทเลอร์ `
+`......รีบเชื่อในตัว{f:5:เบียทริเช่}สิ... `
+`...ถ้าไม่เชื่อล่ะก็ `
+`...เวทมนตร์ของทุกคน... `
+`...จะคลายออกนะ..." `
+`"ม-มาเรีย แม้แต่ตัวเธอก็ลามไปทั่วแล้วเหมือนกัน...!!!" `
+`"ข้าชุบชีวิตผู้ตายทั้งหมดขึ้นมาด้วยเวทมนตร์ของข้า `
+`...ทว่า ตราบใดที่เจ้ายังไม่ยอมเชื่อ เวทมนตร์นั้นก็จะไร้ซึ่งพลังที่แท้จริง `
+`คุ-คุ-คุ! `
+`แต่ข้าแน่ใจว่าบุรุษอย่างเจ้าคงไม่ยอมจำนนกับเรื่องแค่นี้หรอก ใช่หรือไม่เล่า...?" `
+`"แบ- `
+`แบทเลอร์...! `
+`พวกเราน่ะ... `
+`...ไม่อยากระแวงพวกพ้อง... `
+`ก็เลยปฏิเสธที่จะมองความจริง... `
+`แล้วยอมจำนนต่อยัยแม่มด...! `
+`แต่ว่า... `
+`แบทเลอร์ แกจะต้องไม่... `
+`...จะต้องไม่... `
+`ยอมก้มหัวให้ยัยแม่มดเด็ดขาดนะ...! `
+`กึ่ก `
+`กั่กกก `
+`...ก๊าาาากกกกกกกก!!!" `
+`"เจสสิก้า เจสสิก้า~~~~~ ก๊า~~~~~~~~~กกก!!" `
+`เจสสิก้าผู้น่าสงสารต้องพบจุดจบแบบเดียวกัน `
+`...เธอลงเอยไม่ต่างจากเศษเนื้อเหลือทิ้งของคนขายเนื้อ เช่นเดียวกับจอร์จ `
+`ร่างของจอร์จกับเจสสิก้าในยามนี้แหลกสลาย หลอมละลายและปะปนกันจนไม่อาจแยกแยะได้อีกต่อไป `
+`"...แบทเลอร์ `
+`อย่าร้องไห้เลยนะ `
+`...{f:5:เบียทริเช่}จะชุบชีวิตคนตายขึ้นมากี่ครั้งก็ได้ `
+`เพราะงั้นไม่มีอะไรต้องเศร้าหรอก... `
+`......เพราะงั้น `
+`......ถึงพวกเราจะตาย ก็ยัง... `
+`...ไม่เป็น... `
+`ไรหรอกนะ..." `
+`สีแดงเริ่มกัดกินทั่วร่างของมาเรีย... `
+`แบทเลอร์ผู้โง่เขลาเฝ้ามองพลางกรีดร้อง `
+`"ฉันไม่ยกโทษให้แก ฉันไม่มีวันยกโทษให้แกแน่!! `
+`แม่มดงั้นเรอะ?! เวทมนตร์งั้นเรอะ?! `
+`ฉันจะเอาทั้งร่างกายและวิญญาณเข้าแลกเพื่อปฏิเสธแก...!! `
+`ไม่ว่าจะเกิดอะไรขึ้น ฉันก็ไม่มีวันยอมรับแกหรอก!! `
+`ในเมื่อกล้ามายั่วโมโหฉันถึงขนาดนี้ ฉันไม่มีวันให้อภัยแกแน่!!" `
+`"ไม่ยกโทษให้ ไม่ยกโทษให้ ไม่มีทางยกโทษให้แกเด็ดขาด!! `
+`แกจะต้องเสียใจที่ตั้งตัวเป็นศัตรูกับฉัน อุชิโรมิยะ แบทเลอร์ คนนี้!! `
+`ไม่ว่าจะยังไง ฉันก็จะปฏิเสธแกให้ได้!! `
+`ต่อให้เรื่องราวมันจะชวนพิศวงแค่ไหน ทั้งหมดก็ต้องอธิบายได้ด้วย "มนุษย์" เสมอโว้ย!!! `
+`ฉันจะลบทุกเซลล์ของแกให้หายไปจากโลกนี้ให้หมด!!!" `
+`"พูดได้ดี! แบทเลอร์ สินะ...? `
+`นั่นแหละคือสิ่งที่จะช่วยคลายความเบื่อหน่ายนับพันปีของข้าได้! `
+`มาสิ อธิบายมา `
+`ลองอธิบายทั้งหมดนั่นด้วย "กลอุบายของมนุษย์" ดูสิ! `
+`แล้วจงเรียนรู้ถึงความต่ำต้อยของมนุษย์เสีย!! `
+`มาดูกันสิว่า สิ่งที่มนุษยชาติสั่งสมมานับร้อยปี จะต่อกรกับพันปีของข้าได้หรือไม่!! `
+`นั่นแหละยิ่งทำให้การสยบเจ้ามันช่างน่าอภิรมย์ยิ่งนัก...!!" `
+`"ถ้าเช่นนั้นก็บอกมาสิ เจ้าผู้เรียกตนเองว่าแบทเลอร์! `
+`แล้วจดหมายของมาเรียเล่า? `
+`เรื่องที่คนทั้งหกถูกสังหารอย่างไรเล่า? `
+`ประตูชัตเตอร์เล่า? `
+`ตราประทับบนใบเสร็จรับเงินเล่า? `
+`ห้องปิดตายที่มีโซ่คล้องเล่า? `
+`คาน่อนในห้องหม้อไอน้ำเล่า? `
+`เก็นจิกับพวกที่อยู่ในห้องรับรองเล่า?! `
+`การฆ่าตัวตายของนัตสึฮิเล่า?! `
+`ปริศนาของจารึกเล่า?! `
+`ที่ซ่อนของทองคำลับเล่า?!" `
+`"ใช่แล้ว แบทเลอร์ ไหนลองแสดงพลังของ "มนุษย์" ให้ข้าดูหน่อยเป็นไร?! `
+`ฟุฮ่าฮ่าฮ่าฮ่าฮ่าฮ่าฮ่าฮ่าฮ่าฮ่าฮ่าฮ่าฮ่าฮ่าฮ่าฮ่าฮ่า!!!" `
+`"อา~~~~~~~~~~~~~~~~~~~~~~~~~~~~!!!" `

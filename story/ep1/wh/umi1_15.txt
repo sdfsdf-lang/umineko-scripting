@@ -1,1192 +1,1192 @@
-`......In the end, Kanon-kun did not regain consciousness. `
-`Even though Doctor Nanjo and the rest did all they could to heal him... `
-`...Of course, there was very little that could be done on an island like this without medicine or proper facilities... `
-`However, Kanon was the only human ever to confront the culprit. `
-`If only he could give us some kind of clue... `
-`However, at the time they carried Kanon away, it was already... `
-`...too late. `
-`"......My sincere apologies. `
-`Without proper facilities, there was nothing I could do about such a serious wound..." `
-`"...No, that's perfectly understandable. `
-`Thank you so much for giving it your very best." `
-`Doctor Nanjo's shirt had been sprayed by a violent spurt of blood, so it was easy to imagine the devotion with which he had tried to save Kanon's life...up until the last second. `
-`Jessica was crouched in the corridor, crying softly. `
-`...She had probably been taking care of Kanon-kun until the moment of his death. `
-`George-aniki tried to approach her with words of comfort, but when Jessica pushed him away, `
-`he stopped trying to force her to talk and left her alone. `
-`"......If only I hadn't let Kanon-san go alone, ......ooohhhh..." `
-`"...Do not let that bother you. `
-`...If you had been with him, you would probably have been attacked as well. `
-`...He foolishly rushed on ahead and paid for his mistake." `
-`"How can you say it like that?! `
-`Kanon-kun spotted the culprit and bravely stood up to them!! `
-`If only Kumasawa-san had gone with him, the culprit might've hesitated and chosen to run away!!" `
-`Emotion-filled words that I never thought I'd hear coming from Jessica's mouth tumbled out. `
-`...Kumasawa, looking truly sorry, could do nothing but hang her head... `
-`"Jessica..." `
-`"......You shouldn't talk to her now. `
-`...It's the same for me...and probably you as well, right, Battler-kun? `
-`We don't know what's going on, and it feels like our hearts are going to split open..." `
-`There were tears in George-aniki's eyes again. `
-`...Seeing Jessica break down crying probably brought back the pain of losing his parents. `
-`......I'd done my crying all at once. `
-`...So I didn't feel like crying anymore. `
-`...However, I understood how great the pain in their hearts was. `
-`"......It's okay, Jessica. `
-`......You'll be able to meet Kanon again soon." `
-`"...Stop it! `
-`I don't need you trying to console me like that...!" `
-`"{f:5:Beatrice} will resurrect the dead and even love that has been lost. `
-`...So you'll definitely be able to meet him soon. `
-`Then, everyone will be able to live in peace." `
-`"So the one who killed Kanon-kun...is this {f:5:Beatrice} who supposedly gave you that letter yesterday?! `
-`Where is she?! `
-`Where's she hiding?! `
-`I'll find her and tear her apart!!! `
-`Tell me!! You know who the culprit really is, don't you?!! `
-`What do you know and what are you hiding?!! `
-`Tell me, damn iiiiiiiiit!!!" `
-`"...M-Milady, please stop...!" `
-`"Uu-! `
-`Uu-! `
-`{f:5:Beatrice} exists! `
-`"Exists"!! `
-`Uu-uu-uu-!!" `
-`"Damn it, let go of me, Genji-san!! `
-`Maria knows who the culprit is!! `
-`And she's hiding their identity even though she knows! `
-`She must be telling them what we're doing, guiding them as they kill us!!" `
-`"Jessica, be silent!!" `
-`Jessica grabbed at Maria... `
-`Genji tried to stop her, but Jessica could not be calmed. `
-`...The next thing I heard was the sound of Aunt Natsuhi slapping Jessica's face. `
-`After that, only Jessica's sorrowful sobbing voice resounded throughout the hall... `
-`"...Maria-chan, `
-`...I know there's no way you're the culprit. `
-`...You've been with us since the beginning, and there was no time for you to communicate with any culprit. `
-`......So, I want you to tell me something. `
-`...This "{f:5:Beatrice}" who handed you the letter yesterday, ...who was she?" `
-`...Although those words seemed kind, ...they clearly showed that George still had some remaining doubts about Maria. `
-`...He didn't actually grab at her. `
-`However, he felt exactly the same way Jessica did. `
-`"...Aniki, `
-`I already asked her the same thing a second ago. `
-`...Her answer was the same as before." `
-`"I want to hear it from Maria's mouth. `
-`...Who is {f:5:Beatrice}?" `
+`......สุดท้ายแล้ว คาน่อนคุงก็ไม่ได้สติกลับมา `
+`ทั้งที่หมอนันโจและคนอื่นๆ พยายามรักษาอย่างสุดความสามารถแล้วแท้ๆ... `
+`...แน่นอนว่า บนเกาะที่ไร้ยาหรืออุปกรณ์ที่เพียบพร้อมเช่นนี้ แทบไม่มีอะไรที่พอจะทำได้เลย... `
+`แต่ทว่า คาน่อนเป็นมนุษย์เพียงคนเดียวที่เคยเผชิญหน้ากับคนร้าย `
+`ถ้าเพียงแต่เขาจะบอกเบาะแสอะไรบางอย่างแก่พวกเราได้... `
+`แต่ทว่า ในตอนที่พาตัวคาน่อนออกมา มันก็... `
+`...สายเกินไปเสียแล้ว `
+`"......ต้องขออภัยอย่างยิ่งครับ `
+`หากไร้อุปกรณ์ที่พร้อมสรรพ บาดแผลสาหัสขนาดนี้ผมก็จนปัญญาจริงๆ..." `
+`"...ไม่หรอกค่ะ เรื่องนั้นเข้าใจได้ดี `
+`ขอบพระคุณมากนะคะที่พยายามอย่างสุดความสามารถแล้ว" `
+`เสื้อเชิ้ตของหมอนันโจเปรอะเปื้อนไปด้วยเลือดที่พวยพุ่งออกมาอย่างรุนแรง จึงจินตนาการได้ไม่ยากเลยว่าเขาได้ทุ่มเทเพื่อช่วยชีวิตคาน่อน...จนถึงวินาทีสุดท้ายเพียงใด `
+`เจสสิก้านั่งกอดเข่าคุดคู้อยู่ตรงทางเดินพลางร้องไห้กระซิก `
+`...เธอคงคอยดูแลคาน่อนคุงอยู่ข้างๆ จนถึงวาระสุดท้ายของเขา `
+`พี่จอร์จพยายามเข้าไปปลอบโยน แต่เมื่อถูกเจสสิก้าผลักไส `
+`เขาก็ไม่ได้ฝืนเซ้าซี้และปล่อยให้เธออยู่คนเดียว `
+`"......ถ้าเพียงแต่ดิฉันไม่ปล่อยให้คุณคาน่อนไปคนเดียวล่ะก็ ......ฮือๆๆ..." `
+`"...อย่าได้คิดมากไปเลยขอรับ `
+`...หากคุณอยู่ด้วย ก็คงถูกทำร้ายไปด้วยเช่นกัน `
+`...เขาใจร้อนบุ่มบ่ามไปข้างหน้าอย่างโง่เขลา และชดใช้ให้กับความผิดพลาดนั้นแล้วขอรับ" `
+`"พูดจาแบบนั้นออกมาได้ยังไงกันน่ะ?! `
+`คาน่อนคุงเห็นคนร้ายแล้วก็ยืนหยัดสู้อย่างกล้าหาญแท้ๆ!! `
+`ถ้าเพียงแต่คุณคุมาซาวะไปด้วย คนร้ายก็อาจจะลังเลแล้วเลือกหนีไปก็ได้แท้ๆ!!" `
+`ถ้อยคำเปี่ยมอารมณ์ที่ผมไม่เคยคิดว่าจะได้ยินจากปากเจสสิก้าพรั่งพรูออกมา `
+`...คุมาซาวะซึ่งดูรู้สึกผิดจากใจจริง ได้แต่ก้มหน้าลง... `
+`"เจสสิก้า..." `
+`"......ตอนนี้อย่าเพิ่งพูดอะไรกับเธอเลย `
+`...พี่เองก็เหมือนกัน...และแบทเลอร์คุงก็น่าจะเหมือนกันใช่ไหมล่ะ? `
+`เราไม่รู้เลยว่าเกิดอะไรขึ้น และหัวใจก็แทบจะแตกเป็นเสี่ยงๆ อยู่แล้ว..." `
+`มีน้ำตาเอ่อล้นในดวงตาของพี่จอร์จอีกครั้ง `
+`...การได้เห็นเจสสิก้าปล่อยโฮคงทำให้ความเจ็บปวดจากการสูญเสียพ่อแม่หวนกลับมา `
+`......ส่วนผมนั้นร้องไห้ไปหมดรวดเดียวแล้ว `
+`...ก็เลยไม่รู้สึกอยากร้องไห้อีก `
+`...ทว่า ผมเข้าใจดีว่าความเจ็บปวดในใจของพวกเขานั้นยิ่งใหญ่เพียงใด `
+`"......ไม่เป็นไรหรอกนะ เจสสิก้า `
+`......เดี๋ยวก็ได้เจอคาน่อนอีกในไม่ช้าแล้วล่ะ" `
+`"...หยุดนะ! `
+`ฉันไม่ได้ต้องการคำปลอบใจพรรค์นั้นซะหน่อย...!" `
+`"{f:5:เบียทริเช่}จะปลุกชีพคนตาย และแม้กระทั่งความรักที่สูญสิ้นให้คืนมา `
+`...เพราะงั้นเดี๋ยวก็ได้เจอแน่นอนในไม่ช้า `
+`แล้วทุกคนก็จะได้อยู่กันอย่างสงบสุข" `
+`"ถ้าอย่างนั้นคนที่ฆ่าคาน่อนคุง...ก็คือ{f:5:เบียทริเช่}คนที่บอกว่าส่งจดหมายนั่นให้เธอเมื่อวานนี้งั้นเหรอ?! `
+`หล่อนอยู่ที่ไหนล่ะ?! `
+`หล่อนไปซ่อนตัวอยู่ที่ไหน?! `
+`ฉันจะไปลากคอหล่อนมาฉีกเป็นชิ้นๆ ซะเลย!!! `
+`บอกมาสิ!! เธอรู้อยู่แล้วใช่ไหมว่าตัวจริงของคนร้ายคือใครน่ะ?!! `
+`รู้อะไรแล้วซ่อนอะไรไว้กันแน่?!! `
+`บอกมาสิ บ้าเอ๊ย~~~~~!!!" `
+`"...ค-คุณหนูขอรับ ได้โปรดหยุดเถิด...!" `
+`"อู-! `
+`อู-! `
+`{f:5:เบียทริเช่}มีตัวตนอยู่จริงนะ! `
+`"มีอยู่จริง" นะ!! `
+`อู-อู-อู-!!" `
+`"บ้าเอ๊ย ปล่อยฉันนะ คุณเก็นจิ!! `
+`มาเรียรู้ว่าคนร้ายคือใคร!! `
+`ทั้งที่รู้แต่ก็ยังปิดบังตัวจริงของมันไว้! `
+`ยัยนี่ต้องคอยบอกความเคลื่อนไหวของพวกเรา แล้วชี้นำให้พวกมันมาฆ่าเราแน่ๆ!!" `
+`"เจสสิก้า เงียบเดี๋ยวนี้นะ!!" `
+`เจสสิก้าพุ่งเข้ากระชากตัวมาเรีย... `
+`เก็นจิพยายามห้าม แต่เจสสิก้าไม่อาจสงบสติอารมณ์ลงได้ `
+`...สิ่งต่อมาที่ผมได้ยิน คือเสียงป้านัตสึฮิตบหน้าเจสสิก้า `
+`หลังจากนั้น มีเพียงเสียงสะอื้นไห้อันโศกเศร้าของเจสสิก้าที่ดังก้องไปทั่วห้องโถง... `
+`"...มาเรียจัง `
+`...พี่รู้ว่าไม่มีทางที่เธอจะเป็นคนร้ายหรอกนะ `
+`...เธออยู่กับพวกเรามาตั้งแต่แรก และไม่มีเวลาให้ติดต่อกับคนร้ายคนไหนได้เลย `
+`......เพราะงั้น ช่วยบอกอะไรพี่หน่อยสิ `
+`..."{f:5:เบียทริเช่}" ที่ยื่นจดหมายให้เธอเมื่อวานนี้ ...คือใครกันแน่?" `
+`...แม้ถ้อยคำเหล่านั้นจะฟังดูอ่อนโยน ...แต่มันก็แสดงให้เห็นชัดเจนว่าพี่จอร์จยังคงมีความแคลงใจในตัวมาเรียหลงเหลืออยู่ `
+`...เขาไม่ได้ถึงขั้นพุ่งเข้าไปกระชากตัวเธอ `
+`ทว่า เขาก็รู้สึกแบบเดียวกับเจสสิก้าอย่างไม่ต้องสงสัย `
+`"...พี่ `
+`เมื่อกี้ฉันเพิ่งถามคำถามเดียวกันนี้ไปเอง `
+`...คำตอบของยัยนี่ก็เหมือนเดิมเลย" `
+`"พี่อยากฟังจากปากของมาเรียเอง `
+`...{f:5:เบียทริเช่}คือใครกันแน่?" `
 `"............... `
-`Even if I told you, you wouldn't...believe anyway." `
-`"What do you mean by that?! `
-`...Could it be the culprit's someone we know well... `
-`and you're keeping silent because you're covering for them for some reason?! `
-`Who gave you that letter?!" `
-`"......I got it from {f:5:Beatrice}. `
-`I'll say it no matter how many times you ask. `
-`I got the letter from {f:5:Beatrice}. `
-`......Kihihihihihihihihi. `
-`George onii-chan, do you refuse to believe in {f:5:Beatrice} because she's not an opponent you can hit?" `
-`"You want to turn your feelings of helplessness into violence and beat someone up. `
-`So you won't be satisfied unless your opponent is a Human you can hit. `
-`......So even if I tell you the truth, you won't accept it. `
-`So it's pointless for me to tell you. `
-`You won't believe." `
-`"......But I'll keep on saying it. `
-`Because it's true. `
-`...{f:5:Beatrice} "exists"! `
-`Kihihihihihihihihihihihihihihi...! `
-`The door to the Golden Land will soon be opened. `
-`I'll go there. `
-`{f:5:Beatrice} promised!" `
-`"In that world, Mama is nice, Papa is with us and is also nice. `
-`I wanna go there right away. `
-`...Everyone is afraid of {f:5:Beatrice}. `
-`But that's only natural. `
-`...So calm yourselves. `
-`...{f:5:Beatrice} said so herself. `
-`{i:By the time the typhoon has passed, I'll have ended everything, she said}. `
-`Kihihihi `
-`...ouch." `
-`"...Maria, I don't mind you being talkative, but let's leave it at that for now. `
-`...I'll bet this is all a pretty happy situation for you, since you're always going on about how witches exist, but keep that to yourself for now. `
-`Don't try to force that on other people." `
-`"Uu-." `
-`"I-I know I've been creeped out by this girl for a while now, `
-`...but there really is something wrong with her!! `
-`Don't you think so too, Battler, Genji-san?! `
-`Kumasawa-san?! `
-`What about you, Mom?!! `
-`Maria knows who the culprit is and she's hiding it! `
-`Okay, maybe she hasn't done anything directly! `
-`But she's definitely working with the criminal!! `
-`That's right, she's a spy! `
-`We can't let her stay with us any longer!!" `
-`".........Kihihihi." `
-`"......Maria-chan, `
-`...you must realize there are times when indiscreet discussion is best avoided. `
-`If you keep adding oil to the fire, even I will get very angry." `
+`ถึงบอกไป พี่ก็...ไม่เชื่ออยู่ดีนั่นแหละ" `
+`"หมายความว่ายังไงกันน่ะ?! `
+`...หรือว่าคนร้ายจะเป็นคนที่พวกเรารู้จักกันดี... `
+`แล้วเธอถึงได้นิ่งเงียบเพราะกำลังปกป้องคนคนนั้นอยู่ด้วยเหตุผลบางอย่างงั้นเหรอ?! `
+`ใครเป็นคนให้จดหมายนั่นมากันแน่?!" `
+`"......ได้รับมาจาก{f:5:เบียทริเช่} `
+`ไม่ว่าจะถามอีกกี่ครั้งก็จะพูดแบบนี้ `
+`จดหมายน่ะ ได้รับมาจาก{f:5:เบียทริเช่} `
+`......คิฮิฮิฮิฮิฮิฮิฮิ `
+`พี่จอร์จ ที่ไม่ยอมเชื่อเรื่อง{f:5:เบียทริเช่} ก็เพราะว่าไม่ใช่คู่ต่อสู้ที่ตัวเองจะลงไม้ลงมือทุบตีได้ใช่ไหมล่ะ?" `
+`"อยากจะเปลี่ยนความรู้สึกทำอะไรไม่ถูกให้กลายเป็นความรุนแรงแล้วไปทุบตีใครสักคน `
+`ก็เลยจะไม่พอใจถ้าคู่ต่อสู้ไม่ใช่มนุษย์ที่ตัวเองจะทุบตีได้ `
+`......เพราะงั้นถึงมาเรียจะบอกความจริงไป พี่ก็ไม่มีทางยอมรับหรอก `
+`ต่อให้บอกไปก็ไร้ประโยชน์ `
+`ยังไงก็ไม่เชื่ออยู่ดี" `
+`"......แต่มาเรียก็จะพูดยังงี้ต่อไป `
+`เพราะมันคือความจริง `
+`...{f:5:เบียทริเช่} "มีตัวตนอยู่จริง" นะ! `
+`คิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิ...! `
+`ประตูสู่ดินแดนทองคำกำลังจะเปิดออกในไม่ช้าแล้ว `
+`มาเรียจะไปที่นั่น `
+`{f:5:เบียทริเช่}สัญญาไว้แล้ว!" `
+`"ในโลกใบนั้น หม่าม๊าใจดี ปะป๊าก็อยู่ด้วยแล้วก็ใจดีเหมือนกัน `
+`มาเรียอยากรีบไปที่นั่นเดี๋ยวนี้เลย `
+`...ทุกคนกลัว{f:5:เบียทริเช่} `
+`แต่นั่นก็เป็นเรื่องธรรมดาอยู่แล้ว `
+`...เพราะงั้น ใจเย็นๆ กันเถอะนะ `
+`...{f:5:เบียทริเช่}เป็นคนพูดเองเลยนะ `
+`{i:บอกว่า พอพายุไต้ฝุ่นผ่านพ้นไป ฉันจะทำให้ทุกอย่างจบลง} `
+`คิฮิฮิฮิ `
+`...โอ๊ย" `
+`"...มาเรีย ฉันไม่ว่าหรอกนะที่เธออยากพูดน่ะ แต่ตอนนี้พอแค่นั้นก่อนเถอะ `
+`...สำหรับเธอที่เอาแต่พูดเรื่องแม่มดมีจริงคงจะดีใจกับสถานการณ์นี้อยู่หรอก แต่ช่วยเก็บไว้คนเดียวไปก่อนนะ `
+`อย่าเอาความคิดนั่นมายัดเยียดให้คนอื่นเลย" `
+`"อู-" `
+`"ฉ-ฉันรู้สึกขนลุกกับยัยเด็กนี่มาสักพักแล้วนะ `
+`...แต่ยัยนี่มันผิดปกติจริงๆ ด้วย!! `
+`นายก็คิดงั้นเหมือนกันใช่ไหม แบทเลอร์ คุณเก็นจิ?! `
+`คุณคุมาซาวะด้วย?! `
+`แล้วแม่ล่ะ?!! `
+`มาเรียรู้ว่าคนร้ายคือใครแล้วแกล้งซ่อนไว้น่ะสิ! `
+`โอเค ยัยนี่อาจจะไม่ได้ลงมือทำอะไรโดยตรง! `
+`แต่นี่ต้องร่วมมือกับคนร้ายอยู่แน่ๆ!! `
+`ใช่แล้ว ยัยนี่เป็นสายลับ! `
+`เราจะปล่อยให้อยู่กับพวกเราต่อไปไม่ได้แล้วนะ!!" `
+`".........คิฮิฮิฮิ" `
+`"......มาเรียจัง `
+`...หนูควรต้องรู้ไว้ด้วยนะคะว่ามีเวลาที่ควรหลีกเลี่ยงการพูดจาไม่ระวังปาก `
+`ถ้ายังขืนเอาน้ำมันมาราดบนกองไฟอีกล่ะก็ แม้แต่ป้าเองก็คงต้องโกรธจริงๆ แล้วนะ" `
 `"............" `
-`Aunt Natsuhi glared at Maria with frightening eyes. `
-`...Maria was used to Aunt Rosa's loud style of scolding, but she apparently hadn't built up a resistance to Aunt Natsuhi's quiet sort of scolding. `
-`...She shrugged and kept her mouth shut. `
-`A desolate feeling filled the room... `
-`It felt as though things would just get more complicated if anyone spoke. `
-`...How many people have already died? `
-`Six people in Dad's group. `
-`After that, both Aunt Eva and Uncle Hideyoshi, Kanon-kun, Grandfather... `
-`......There were a whole 18 people on this island, supposedly, `
-`...and 10 of those people have been killed. `
-`That's more than half of us. `
-`...And right now, there's absolutely no proof that the remaining eight people will be safe... `
-`"...At any rate, this is no time to quarrel. `
-`...Now that we are certain the culprit can enter and leave the mansion at will and strike out of nowhere, `
-`we must give our undivided attention to surviving until tomorrow." `
-`"...I agree strongly with Aunt Natsuhi. `
-`...We can figure out who the culprit is at our leisure tonight. `
-`For now though, we're better off finding a place to barricade ourselves in." `
-`As I said this, I pointed out the clock to everyone. `
-`It was already 8:00 at night. `
-`...We had been receiving shocks over and over again since the early morning, and our bodies and minds were both completely tired out. `
-`...There's still a long, long time until tomorrow. `
-`We needed to find some place to barricade ourselves in so we could rest our bodies and get even the smallest amount of relief... `
-`"......I agree... `
-`Everyone is already pushing their mental and physical limits, myself included. `
-`I believe it would be wise to take that into account as we move forward..." `
-`"That's right. `
-`......There's a high probability that the enemy's got the equivalent of a master key." `
-`"...Were Shannon, Kanon-kun and Gohda-san holding master keys?" `
-`"......Yes. `
-`They were supposed to have them on their person during work." `
-`"...We didn't want to disturb the scene, so we didn't investigate that closely. We can't eliminate the possibility that someone stole a key from them." `
-`"......In the first place, we know the culprit may have visited the servant room at some point to unlock the garden shed shutter. `
-`It's conceivable that they obtained a master key from there earlier on." `
-`There were many servants serving the Ushiromiya family. `
-`Because of that, there were several master keys. `
-`Furthermore, every time one employee started or finished working, the keys were passed between servants, `
-`and we had to acknowledge that this had probably gotten a bit sloppy at times in the past. `
-`"Even if they borrowed a bundle of keys from the pockets of one of the murdered servants, `
-`is there any safe place that even those keys couldn't open...?" `
-`"......Because of the nature of our job, we have been entrusted with keys to all of the rooms... `
-`All of them in the mansion and in the guesthouse..." `
-`"So in other words, ...no matter where we hole up and lock ourselves in, it'd just be pointless. `
-`...Fine, who cares about locking up?! If you're gonna come, bring it on, dammit! `
-`I'll beat you at your own game!!" `
-`"...The enemy won't approach us from the front. `
-`I don't know about the first six, but if we look at what happened to my parents and Kanon-kun, `
-`...and even Grandfather, the enemy has only gone after isolated people. `
-`They don't have the power to assault all of us openly in a secure room." `
-`"That's right. `
-`It's just like Aniki says. `
-`...And maybe Aunt Natsuhi's rifle can serve as a deterrent to stop them from attacking." `
-`"......I hope that is so, but..." `
+`ป้านัตสึฮิจ้องมองมาเรียด้วยสายตาน่ากลัว `
+`...มาเรียชินชากับการดุด่าเสียงดังของน้าโรซ่า แต่ดูเหมือนจะยังไม่มีภูมิคุ้มกันต่อการดุเงียบๆ แบบป้านัตสึฮิ `
+`...เธอจึงได้แต่หดคอและหุบปากสนิท `
+`ความรู้สึกวังเวงเข้าปกคลุมทั่วทั้งห้อง... `
+`รู้สึกราวกับว่าหากมีใครเอ่ยปากพูดขึ้นมา เรื่องราวก็คงจะยิ่งยุ่งเหยิงเข้าไปใหญ่ `
+`...มีคนตายไปกี่คนแล้วนะ? `
+`พวกกลุ่มของพ่อหกคน `
+`หลังจากนั้น ทั้งป้าเอวา ลุงฮิเดโยชิ คาน่อนคุง ท่านปู่... `
+`......บนเกาะนี้มีคนอยู่ทั้งหมด 18 คน `
+`...แล้ว 10 คนในนั้นก็ถูกฆ่าตายไปแล้ว `
+`นั่นมันเกินกว่าครึ่งของพวกเราเสียอีก `
+`...และในตอนนี้ ก็ไม่มีหลักประกันใดเลยว่าคนที่เหลืออีกแปดคนจะปลอดภัย... `
+`"...ไม่ว่าจะอย่างไร ตอนนี้ไม่ใช่เวลาจะมาทะเลาะกันค่ะ `
+`...ในเมื่อเรารู้แน่แล้วว่าคนร้ายสามารถเข้าออกคฤหาสน์ได้ตามใจชอบ และพร้อมจะจู่โจมมาจากที่ที่คาดไม่ถึง `
+`พวกเราก็ต้องทุ่มสมาธิทั้งหมดไปกับการเอาชีวิตรอดให้ถึงวันพรุ่งนี้ค่ะ" `
+`"...ผมเห็นด้วยกับป้านัตสึฮิอย่างยิ่งเลยครับ `
+`...เรื่องว่าใครเป็นคนร้าย คืนนี้ค่อยนั่งคิดชิลๆ ก็ยังทัน `
+`แต่สำหรับตอนนี้ หาที่ปิดประตูปักหลักขังตัวเองกันดีกว่าครับ" `
+`ขณะพูดแบบนั้น ผมก็ชี้ให้ทุกคนดูนาฬิกา `
+`นี่ก็สองทุ่มเข้าไปแล้ว `
+`...พวกเราเจอเรื่องชวนช็อกซ้ำแล้วซ้ำเล่ามาตั้งแต่เช้าตรู่ ทั้งร่างกายและจิตใจต่างก็เหนื่อยล้าจนแทบขาดใจ `
+`...กว่าจะถึงวันพรุ่งนี้ยังเหลือเวลาอีกยาวนานนัก `
+`พวกเราต้องหาสถานที่สำหรับปักหลักขังตัวเอง เพื่อจะได้พักผ่อนร่างกาย และคลายความกังวลลงได้บ้าง แม้จะเพียงเล็กน้อยก็ตาม... `
+`"......ผมเห็นด้วยครับ... `
+`ทั้งตัวผมเองและทุกคนต่างก็ฝืนทนจนถึงขีดจำกัดทั้งทางร่างกายและจิตใจกันแล้ว `
+`ผมคิดว่าคงเป็นการฉลาดกว่าถ้าจะคำนึงถึงเรื่องนี้ในการก้าวต่อไปน่ะครับ..." `
+`"ใช่แล้วล่ะครับ `
+`......มีความเป็นไปได้สูงว่าฝ่ายศัตรูจะมีสิ่งเทียบเท่ากับกุญแจมาสเตอร์อยู่" `
+`"...ชาน่อน คาน่อนคุง แล้วก็คุณโกดะ พกกุญแจมาสเตอร์ไว้ด้วยหรือเปล่าครับ?" `
+`"......ขอรับ `
+`ตามปกติจะต้องพกติดตัวไว้ระหว่างทำงานขอรับ" `
+`"...พวกเราไม่อยากแตะต้องที่เกิดเหตุ ก็เลยไม่ได้ตรวจดูอย่างละเอียด เป็นไปได้ว่าอาจจะมีใครขโมยกุญแจไปจากพวกเขาก็ได้ครับ" `
+`"......แต่เดิมที เราก็รู้กันอยู่แล้วว่าคนร้ายอาจเคยแวะไปที่ห้องคนรับใช้เพื่อปลดล็อกชัตเตอร์โรงเก็บของ `
+`จึงเป็นไปได้ที่จะได้กุญแจมาสเตอร์ไปจากที่นั่นตั้งแต่แรกแล้วค่ะ" `
+`มีคนรับใช้คอยรับใช้ตระกูลอุชิโรมิยะอยู่หลายคน `
+`ด้วยเหตุนั้น กุญแจมาสเตอร์จึงมีอยู่หลายดอก `
+`ยิ่งกว่านั้น ทุกครั้งที่มีพนักงานคนใดเริ่มหรือเลิกงาน กุญแจก็จะถูกส่งต่อกันระหว่างคนรับใช้ `
+`และก็ต้องยอมรับว่า ในอดีตอาจจะเคยมีการปล่อยปละละเลยเรื่องนี้ไปบ้างเป็นบางครั้ง `
+`"ต่อให้พวกนั้นหยิบพวงกุญแจไปจากกระเป๋าของคนรับใช้ที่ถูกฆ่าคนใดคนหนึ่ง `
+`แล้วมันจะมีสถานที่ปลอดภัยที่แม้แต่กุญแจพวกนั้นก็เปิดไม่ได้อยู่บ้างไหมครับ...?" `
+`"......ด้วยลักษณะงานของพวกเรา ทำให้ได้รับความไว้วางใจให้ถือกุญแจของทุกห้องเอาไว้เลยค่ะ... `
+`ทุกห้อง ทั้งในคฤหาสน์และในเกสต์เฮาส์เลยนะคะ..." `
+`"ก็หมายความว่า ...ไม่ว่าเราจะไปหลบซ่อนตัวแล้วล็อกห้องที่ไหน มันก็ไร้ประโยชน์ทั้งนั้นสินะ `
+`...ช่างหัวเรื่องล็อกห้องมันปะไรล่ะ! ถ้าจะมาก็ดาหน้าเข้ามาเลยสิวะ โธ่เว้ย! `
+`ฉันจะซัดกลับให้หมอบเลย!!" `
+`"...ศัตรูคงไม่บุกเข้ามาซึ่งๆ หน้าหรอก `
+`หกคนแรกผมก็ไม่รู้หรอกนะ แต่ถ้าดูจากสิ่งที่เกิดขึ้นกับพ่อแม่ของผมและคาน่อนคุง `
+`...หรือแม้กระทั่งท่านปู่ ศัตรูจะเล็งเล่นงานเฉพาะคนที่อยู่ตามลำพังเท่านั้น `
+`พวกนั้นไม่มีกำลังพอที่จะบุกจู่โจมพวกเราทุกคนซึ่งๆ หน้าในห้องที่ปลอดภัยหรอกครับ" `
+`"ใช่แล้วล่ะครับ `
+`ก็อย่างที่พี่ว่านั่นแหละครับ `
+`...แล้วปืนไรเฟิลของป้านัตสึฮิก็น่าจะใช้ขู่เพื่อยับยั้งไม่ให้พวกมันบุกเข้ามาได้ด้วย" `
+`"......ดิฉันก็หวังให้เป็นเช่นนั้นเหมือนกันค่ะ แต่ว่า..." `
 `"..............." `
-`"Maria, I know you want to say something, but keep it to yourself and stay quiet for a while." `
-`"...Uu-." `
-`Maria probably wanted to say something about how witches weren't afraid of things like guns. `
-`But if she were to say it out loud, the atmosphere around here would start to get pretty edgy. `
-`I had noticed and decided to put a stop to it... `
-`"......If I may, `
-`I do know of just one place that cannot be entered, even with the servant key rings." `
-`"Where is that?" `
-`"...That would be `
-`the Master's study." `
-`"I-I'm against this!! `
-`I don't even wanna think about going in Grandfather's creepy room!" `
-`"How many keys can gain access to that room?" `
-`"...There are two. `
-`I always have one on my person. `
-`The other was held by the Master himself, but just now, I found this on the corpse in the boiler room..." `
-`Genji-san took a handkerchief out of his pocket and opened it, showing us the burnt and filthy study key. `
-`Then, he showed it alongside his own key, which he had once lent to Natsuhi. `
-`"...Normally, it would have been proper to leave the Master's key for the police, `
-`...but because of the Master's orders to protect the safety of the study, I borrowed it for the time being." `
-`"......I see... `
-`Which means that Kinzo-san's study is the only place where we can be safe..." `
-`"...It would appear that way. `
-`...I don't even want to think about being shut up in that strange room all night, `
-`but it appears we must acknowledge that his room is safer than anywhere else right now." `
-`"......Even though Grandfather locked himself up in that "safe" room, the culprit brought him out and killed him. `
-`...We can't be certain that it's truly safe." `
-`"According to your theory, Grandfather cleverly found a way around that receipt trick and left the room of his own free will. `
-`...If so, the room might be a good place to barricade ourselves in after all..." `
-`"...You're too optimistic, Aniki." `
-`However, ...at the same time, I thought he brought up a pretty interesting point. `
-`After all, this gives us a chance to question the enemy, the witch herself, about how the sealed door had been opened. `
-`If we assume the culprit used some technique to kidnap Grandfather from his study... `
-`They'd have to show us the same trick again if they wanted to assault us in the study. `
-`...And, that'd give us a chance to make the culprit prove how they did it right before our eyes. `
-`If she's really a witch, we'll be forcing her to use her little magic trick to open the door right in front of us. `
-`...But that's probably impossible. `
-`If you spin the chessboard around, it's obvious the culprit is acting in a way that'll make us think they're a witch. `
-`...If she really is a witch, all she's gotta do is appear in front of us and wow us with a colorful display of magic. `
-`...Since she's avoided doing that, everything must be the work of a fake witch who wants us to think she's real. `
-`...Therefore, {i:a culprit who used a technique other than magic to defeat the closed room couldn't open the door before our eyes}. `
-`"...Is Grandfather's room big enough to stuff eight people in?" `
-`"......Yes. `
-`There is a bed, a sofa and blankets, so while it is not luxurious, it will be more than suitable for spending the night. `
-`There is also a sink, a bathroom, a refrigerator and a liquor cabinet." `
-`"Whoa. `
-`That's incredible. `
-`...But isn't that weird? `
-`You're saying he built another house inside his house? `
-`That's pretty cramped for the last house of someone like our Grandfather, who bought a whole island and realized all of his dreams." `
+`"มาเรีย ฉันรู้ว่าเธออยากพูดอะไร แต่เก็บไว้ในใจแล้วเงียบไปสักพักเถอะนะ" `
+`"...อู-" `
+`มาเรียคงอยากจะพูดเรื่องที่ว่าแม่มดไม่กลัวของพรรค์อย่างปืนหรอกอะไรทำนองนั้นแน่ๆ `
+`แต่ถ้าเธอพูดมันออกมา บรรยากาศแถวนี้คงจะเริ่มตึงเครียดขึ้นมาทันที `
+`ผมสังเกตเห็นเข้าพอดี เลยตัดสินใจตัดบทไว้ก่อน... `
+`"......หากไม่เป็นการเสียมารยาท `
+`กระผมรู้จักสถานที่เพียงแห่งเดียวที่ไม่อาจเข้าไปได้ แม้จะมีพวงกุญแจของคนรับใช้อยู่ก็ตามขอรับ" `
+`"ที่ไหนกันหรือคะ?" `
+`"...นั่นก็คือ `
+`ห้องหนังสือของท่านเจ้าบ้านขอรับ" `
+`"ฉ-ฉันไม่เอาด้วยหรอกนะ!! `
+`แค่คิดว่าจะต้องเข้าไปในห้องชวนหลอนของปู่ ฉันก็ไม่อยากจะคิดแล้ว!" `
+`"ห้องนั้นมีกุญแจที่ไขเข้าไปได้กี่ดอกกันครับ?" `
+`"...มีอยู่สองดอกขอรับ `
+`ดอกหนึ่งกระผมพกติดตัวอยู่เสมอ `
+`ส่วนอีกดอกนั้นท่านเจ้าบ้านเป็นผู้เก็บรักษาไว้ ทว่าเมื่อครู่นี้ กระผมพบสิ่งนี้บนร่างผู้ตายในห้องหม้อไอน้ำ..." `
+`คุณเก็นจิหยิบผ้าเช็ดหน้าออกมาจากกระเป๋าแล้วคลี่ออก เผยให้พวกเราเห็นกุญแจห้องหนังสือที่มีรอยไหม้และเปรอะเปื้อน `
+`จากนั้น เขาก็นำมันมาวางเทียบข้างๆ กุญแจของตนเอง ซึ่งเคยให้คุณนัตสึฮิยืมไปครั้งหนึ่ง `
+`"...ตามปกติแล้ว ควรจะทิ้งกุญแจของท่านเจ้าบ้านไว้ให้ตำรวจ `
+`...ทว่าด้วยคำสั่งของท่านเจ้าบ้านที่ให้ปกป้องความปลอดภัยของห้องหนังสือ กระผมจึงได้หยิบยืมมาเป็นการชั่วคราวขอรับ" `
+`"......อย่างนี้นี่เอง... `
+`ก็แปลว่าห้องหนังสือของคุณคินโซเป็นสถานที่เพียงแห่งเดียวที่พวกเราจะปลอดภัยสินะครับ..." `
+`"...ดูเหมือนจะเป็นเช่นนั้นค่ะ `
+`...การต้องขังตัวเองอยู่ในห้องพิลึกพิลั่นนั่นทั้งคืน แค่คิดดิฉันก็ไม่อยากจะคิดแล้วค่ะ `
+`แต่ดูเหมือนเราคงต้องยอมรับว่า ตอนนี้ห้องของท่านพ่อปลอดภัยกว่าที่ไหนๆ" `
+`"......ทั้งที่ท่านปู่ขังตัวเองอยู่ในห้องที่ว่า "ปลอดภัย" นั่นแท้ๆ แต่คนร้ายก็ยังลากตัวออกไปฆ่าได้นะ `
+`...เราจะแน่ใจได้ยังไงว่ามันปลอดภัยจริงๆ" `
+`"ตามทฤษฎีของนาย ท่านปู่หาทางเลี่ยงทริกใบเสร็จนั่นได้อย่างชาญฉลาด แล้วออกจากห้องไปด้วยความสมัครใจของตัวเองไม่ใช่เหรอ `
+`...ถ้าอย่างนั้น ห้องนั้นก็อาจจะเป็นที่ที่เหมาะแก่การขังตัวเองไว้จริงๆ ก็ได้นะ..." `
+`"...พี่มองโลกในแง่ดีเกินไปแล้วนะ พี่จอร์จ" `
+`ทว่า...ในเวลาเดียวกัน ผมก็คิดว่าข้อคิดเห็นของเขาน่าสนใจทีเดียว `
+`เพราะท้ายที่สุด นี่ก็เป็นโอกาสให้เราได้ซักไซ้ศัตรู หรือตัวแม่มดเอง ว่าเปิดประตูที่ลงผนึกไว้ได้อย่างไร `
+`หากตั้งสมมติฐานว่าคนร้ายใช้กลวิธีบางอย่างลักพาตัวท่านปู่ออกไปจากห้องหนังสือ... `
+`ถ้าคิดจะบุกเข้าทำร้ายพวกเราในห้องหนังสือ คนร้ายก็ต้องงัดทริกเดิมมาแสดงให้ดูอีกรอบ `
+`...และนั่นจะเป็นโอกาสให้เราบังคับให้คนร้ายพิสูจน์ให้เห็นต่อหน้าต่อตา ว่าทำได้อย่างไร `
+`ถ้าหล่อนเป็นแม่มดจริง เราก็จะได้บีบให้หล่อนใช้กลเวทมนตร์เปิดประตูให้ดูต่อหน้าต่อตา `
+`...แต่นั่นคงเป็นไปไม่ได้หรอก `
+`หากลองพลิกกระดานหมากรุกดู ก็เห็นได้ชัดว่าคนร้ายกำลังทำตัวเพื่อให้พวกเราคิดว่าเป็นแม่มด `
+`...ถ้าหล่อนเป็นแม่มดจริง แค่โผล่มาตรงหน้าพวกเรา แล้วแสดงเวทมนตร์ตระการตาให้ตกตะลึงก็พอแล้วแท้ๆ `
+`...การที่หล่อนเลี่ยงไม่ทำแบบนั้น ย่อมแปลว่าทั้งหมดต้องเป็นฝีมือของแม่มดกำมะลอ ที่อยากให้คนอื่นคิดว่าเป็นของจริงต่างหาก `
+`...ดังนั้น {i:คนร้ายที่ใช้กลวิธีอื่นที่ไม่ใช่เวทมนตร์ในการทำลายห้องปิดตาย ย่อมไม่อาจเปิดประตูต่อหน้าพวกเราได้} `
+`"...ห้องของท่านปู่กว้างพอจะยัดคนเข้าไปแปดคนเลยเหรอครับ" `
+`"......ขอรับ `
+`มีเตียง โซฟา และผ้าห่มอยู่ขอรับ แม้จะไม่หรูหรา แต่ก็เพียงพอสำหรับการค้างคืนแน่นอน `
+`นอกจากนี้ยังมีอ่างล้างหน้า ห้องน้ำ ตู้เย็น และตู้เก็บสุราด้วยขอรับ" `
+`"โห `
+`ยอดไปเลยแฮะ `
+`...แต่แบบนั้นมันไม่แปลกไปหน่อยเหรอ `
+`จะบอกว่าท่านปู่สร้างบ้านอีกหลังไว้ข้างในบ้านตัวเองเนี่ยนะ `
+`สำหรับคนที่กว้านซื้อได้ทั้งเกาะและทำความฝันทุกอย่างให้เป็นจริงได้อย่างท่านปู่ บ้านหลังสุดท้ายของเขามันดูคับแคบพิลึกนะ" `
 `"......... `
-`That's right. `
-`...After some point in time, Father probably couldn't feel at peace in any other place, even inside the mansion." `
-`"......We always sneered about how he shut himself up in there, and this time, we're the ones who are gonna shut ourselves up. `
-`...Ha!" `
-`Jessica spat the words out. `
-`"Jessica-chan, ...it sounds like you'd rather go search for the culprit than stay shut up somewhere." `
-`"...Of course, I don't think we'll be able to find them if we just start searching on our own. `
-`...In the end, we can't do anything but wait. `
-`Then it doesn't matter where we wait, does it?! `
-`I'm not gonna run away or hide. `
-`Why don't we just take it easy in the parlor, watching TV or something while we wait for this {f:5:Beatrice}-sama to appear?!" `
-`"...It's perfectly fine if she doesn't appear. `
-`There's no need for us to be the ones who expose the culprit." `
-`"Well said... `
-`We shouldn't take needless risks before the police arrive." `
-`"Thank you, Doctor Nanjo. `
-`......I think we should move to Father's study. `
-`...True, we have no proof that it's safe, since Father was taken out of there. `
-`...However, I can't deny the possibility that... `
-`as Battler-kun reasoned, Grandfather left the study of his own accord and was attacked outside." `
-`...A while back, I proposed that strange theory as a stopgap measure. `
-`But just as Aunt Eva said, even though that trick would be possible, `
-`I couldn't explain what motive could've made Grandfather sneak out of his own study in such a troublesome way. `
-`Plus, Grandfather couldn't even have used that trick unless he `
-`"knew that the receipt was wedged in the door". `
-`Aunt Eva hadn't pointed out that last part, `
-`...but it's clear how absurd the theory was. `
-`So, does that mean the sealed door formed a closed room, just as Aunt Eva claimed? `
-`Is it an undeniable fact that Aunt Natsuhi was the culprit...? `
-`......If Aunt Eva were here now, she'd probably make that claim openly and blow my strange theory away. `
-`...But anyway. `
-`I had to admit that a room with both a bed and a toilet, that all eight people could be shut up in, `
-`...and with only two keys, both of which were gathered here, ...had to be the safest place in the mansion right now... `
-`At the very least, I figured this would be better than just staying shut up in the parlor and hoping nothing would go wrong. `
-`But wait, ...have we been safe only because we've been shut up in the parlor? `
-`What if leaving that room and moving to an unexplored location is actually more dangerous...? `
-`...Aah, it's useless, it's useless, it's all useless... `
-`......My flimsy head is about to break out in a fever. `
-`...If I keep spinning the chessboard around, right and wrong will keep switching places over and over, and I won't be able to believe anything... `
-`When it seems like the culprit is one of the 18, I want to believe in {f:5:Beatrice}, `
-`and once I start believing in {f:5:Beatrice}, I start wanting to find the culprit amid the 18. `
-`...If that keeps spinning around forever, in the end, my thoughts won't have taken one step from where they started... `
-`...How far back in the past was it that Kyrie-san taught me about chessboard thinking...? `
-`That concept of examining the situation by spinning it around and thinking from the enemy's side... `
-`I seem to remember being so interested by it back then, I used it to guide all my thinking. `
-`...By the way, Kyrie-san was Dad's coworker back then. `
-`...I never dreamed that she'd someday be added to our family... `
-`...Didn't Kyrie-san... `
-`tell me something once? `
-`I get the feeling she once said that, while this chessboard thinking was one way to look at things, it certainly wasn't all powerful, `
-`and it wouldn't be good to rely on it too much... `
-`"Chessboard thinking... `
-`is my own interpretation of something called game theory, which I read about in a book long ago. `
-`It's a very interesting subject, so you should tackle it yourself when you get into college, Battler-kun." `
-`"I really wanna try it! `
-`If I could study and perfect my chessboard thinking, it'd be fun to be able to read into any opponent's moves, wouldn't it?" `
-`"But you can't believe in it blindly. `
-`Game theory is a very deep and complicated subject. `
-`Chessboard thinking is just my interpretation that skims the surface of game theory. `
-`...In order to thoroughly read your opponent's moves like you're imagining, you need to study your opponent. `
-`Additionally, while chessboard theory is convenient and practical, it isn't perfect. `
-`It has many weak points despite its convenience." `
-`"...Weak points?" `
-`"Yes. `
-`...Chessboard thinking is founded upon game theory. `
-`When you thoroughly investigate game theory, it boils down to math. `
-`Do you know what the weak point of math is? `
-`......It's noise." `
-`In math, when you write 1+1=2, `
-`that process will always result in 1+1=2 no matter how many billions of years pass, ...nothing more, nothing less. `
-`That's because there's absolutely no noise mixed in. `
-`But, for example, `
-`...unlike math, the Japanese language has noise mixed in. `
-`Kanji are a good example. `
-`Old kanji and new kanji are slightly different, `
-`which represents an introduction of noise created by the changes between time periods. `
-`Isn't history the same? `
-`...There are dozens of policies that seem foolish in the modern era, but were meaningful at some point in the past. `
-`Because the rules of chess are fixed, when a pair of experts are discussing one particular layout, `
-`it's possible they could reach the same conclusions whether they're from one hundred years in the past or one hundred years in the future. `
-`...However, if the rules of chess had gone through massive changes over time, `
-`it's possible that a discussion about the same layout would have changed as well. `
-`"That's right. `
-`Events in the world of humans are normally full of noise. `
-`Aren't human emotions that way? `
-`Even if the exact same thing occurs more than once, there's no guarantee that humans will always act in a predictable fashion. `
-`...The moment we try to use a math-based theory to predict someone's actions, `
-`we must be aware that our theory has built-in weaknesses and limits. `
-`...Simply put, chessboard thinking is extremely weak against noise and fickleness, as well as mistakes or incorrect knowledge." `
-`...That's right. `
-`...Kyrie-san definitely said that... `
-`Chess has always been a game where both sides play by the same rules and fight with the same conditions for victory. `
-`That's why it's possible for both sides to predict the other's moves. `
-`......It's possible to read your opponent because you can always suppose they'll make the best moves they can find. `
-`...But what if your opponent is fickle or a bit tired... `
-`and makes a move that can hardly be called "the best"? `
-`Or, ...what if this game actually has a special rule, `
-`some unknown thing that only the enemy knows about and can use? `
-`In fact, what if the opponent actually has some goal other than victory? `
-`Think from your enemy's perspective. `
-`That's the basis of chessboard thinking. `
-`...Which means, if you misread your enemy, `
-`...the answer you draw from this process will be complete rubbish, useless... `
-`So far, I've used chessboard theory to guess several vague bits of information about the culprit hiding behind this case, or so I think. `
-`However, I don't know anything about the culprit. `
-`...Am I just playing around in a labyrinth of thought? `
-`......If Kyrie-san were here at a time like this, `
-`...she'd probably be able to notice something with her much, much sharper thinking ability... `
-`...Until the very last moment, Jessica resisted moving into Grandfather's study. `
-`But in the end, Aunt Natsuhi persisted, and we decided to move there. `
-`Everyone was completely wrapped in paranoia by now. `
-`...Kumasawa-san had prepared dinner at one point, but during the time we were discovering the deaths of George-aniki's parents, both the kitchen and the parlor had been left empty. `
-`Someone suggested that the food might've been poisoned while we were gone. `
-`...Because of that, we were unable to even touch the food that Kumasawa-san had taken the trouble to make for us. `
-`......The manner in which the first six were killed was still unknown, but it certainly could've been poison. `
-`...Certainly, that would allow even a single person to carry out the murder of six large adults. ...Furthermore, this idea made it easy to imagine there being only a single culprit, one who'd be afraid of Aunt Natsuhi's rifle, `
-`and this was very good for our emotional stability. `
-`But the fatigue and hunger were even harsher than we'd imagined. `
-`...Then, Kumasawa-san made a proposal, and we all went together to the kitchen. `
-`There, we gathered some canned food and other things that'd be hard to poison to take in with us. `
-`All of Kumasawa-san's efforts to reward us with just a little dinner on this savage day regrettably came to nothing... `
-`The food piled up on the serving cart looked just a little sad. `
-`We all started climbing the stairs. `
-`Aunt Natsuhi, who was in the lead, warily stared into the darkness with both eyes and the barrel of the gun. `
-`Once we'd dragged ourselves up to the third floor, just as Aunt Natsuhi had warned us of beforehand, `
-`...there was a mixture of a chemical smell and a sickly-sweet aroma, a stench hanging in the air that felt like it was eating into our heads. `
-`"...I see, this kind of stench probably would give you a headache if you were shut in with it for a whole night. `
-`...I know it's a little late, but I'm with Jessica. I vote against going into Grandfather's study." `
-`It felt like the stench was floating out from this magnificent door. `
-`...It was the door to the forbidden study, which should defend against any who would enter... `
-`While Genji-san unlocked the door, Maria stared at the door and the doorknob with great interest. `
-`"......Uu-. `
-`...Incredible door." `
-`"It looks old and strict and like it'd stop any jokes cold. A perfect door for Grandfather's study." `
-`"...The power to ward off spiritual menaces is strong here. `
-`......{f:5:Beatrice} probably couldn't open this door." `
-`"Oh...? `
-`What does that mean?" `
-`Maria pointed at the doorknob. `
-`...A scorpion crest... `
-`no, a design like a magic circle arranged around a scorpion, was inscribed there. `
-`...That design... That's right. `
-`Isn't it just like those keychain charms Maria gave Jessica and me yesterday...? `
-`"......The fifth magic circle of Mars is a strong ward against magic. `
-`Additionally, this magic circle was very diligently constructed, and is full of power. `
-`......Such a magic circle can be quite troublesome to beings of magic like {f:5:Beatrice}." `
-`"Isn't that comforting. `
-`Are you saying we can escape even {f:5:Beatrice}'s clutches in this room? `
-`Our little witch here sure is reliable." `
-`"...Then how did {f:5:Beatrice} get Grandfather out...?" `
-`"......Just as Battler reasoned. `
-`...{f:5:Beatrice} can't go inside. `
-`However, she has both magic and familiars. `
-`Using them, she might've been able to get Grandfather to leave the study of his own accord." `
-`"Ah, I've read about that in manga. `
-`I've seen a bunch of scenes where vampires were frightened of crosses, so they couldn't get close, `
-`but their familiars were just fine, so they made their familiars attack." `
-`"Those scorpion keychain charms I gave you yesterday also had the fifth magic circle of Mars on them. `
-`The power dwelling within them was weak, but they should be enough to protect you until we leave the island. `
-`.........Although it sounds like you've lost yours, right? `
-`Kihihihihihihihihihihihi..." `
-`"......Scorpion keychain charms?" `
-`"Y-Yeah, ummm... `
-`The charm I gave you yesterday was something I got from Maria. `
-`I heard it would repel magic if you put it on your doorknob, ...and at the time, I thought maybe it'd be better if you had it..." `
-`"...Is that so? `
-`...I thought it was an odd thing for you to be carrying around." `
-`"......Aunt Natsuhi put that... `
-`on her doorknob?" `
-`"Yes. `
-`...Last night, after hearing about it from Jessica, I hung it from the doorknob on the inside of my door." `
-`"Then Aunt Natsuhi, you're really fortunate. `
-`......If you did that, {f:5:Beatrice} probably couldn't even lay a finger on you yesterday. `
-`...I think {f:5:Beatrice} must've been really annoyed. `
-`...Kihihihihihihihihihihihi..." `
-`...{f:5:Beatrice}, annoyed...? `
-`Couldn't lay one finger...? `
-`Natsuhi thought back on that eerie scribble she'd seen that morning, as though someone had been tearing at the outside of her door with blood-soaked hands, ...and gasped in surprise. `
-`Could it be... `
-`...that this witch who called herself {f:5:Beatrice}... `
-`...tried to enter through the door to Natsuhi's own room...? `
-`But the magic-repelling charm had been hanging from the inside. `
-`...So she couldn't break through the door. `
-`So she was annoyed. `
-`...So, she scratched at it...? `
-`"Quit it, don't talk about that... `
-`Witches don't exist. `
-`The culprit does. `
-`And they're a human just like us. `
-`...If you need proof, why don't we dice her up and see if her blood's red? `
-`...Damn it, ......damn it... `
-`...How could you...do that to Kanon-kun......" `
-`*click* `
-`Genji unlocked the door. `
-`Eight people entered Kinzo's study... `
-`Grandfather's study. ...I'd heard rumors about it beforehand, so I wasn't that shocked. `
-`He had done nothing more than fortify it thoroughly with his occult hobbies. `
-`...If Grandfather's hobby had been chasing after pop idols, these walls might be buried beneath idol posters. `
-`Even if I didn't understand it, I did realize that this room was a bundle of all his pastimes. `
-`Even so, I couldn't help but remain dumbfounded by the smell of his creepy medicine and the sweet stench that seemed to melt my head... `
-`When the door was closed, it automatically made a *clunk*. `
-`...I see, this is the auto-lock that's activated whenever the door is closed... `
-`And there were only two keys that could open this door from the outside, both of which were in this room. `
-`...In other words, it had become a "closed room". `
-`......The shutter, the receipt, the chain. `
-`...And now, the auto-lock. `
-`...This fourth door had the most magnificent lock yet, and this was doubtlessly a closed room. `
-`Just to make absolutely sure that the room was secure, we checked all over for ways in or out. `
-`The window was tightly locked. `
-`That should've been enough, but just in case, we tried knocking all over the walls. `
-`...After all, we had talked about there being a hidden door in this room. `
-`...But we couldn't find anything suspicious. `
-`Grandfather's study was very large. `
-`Even though we called it a study, it wasn't really a single room. `
-`It could be divided up into four basic sections: a study section, a bedroom section, a toilet/bathroom section and a section for cooking that had a sink. `
-`I see, this study really does have enough in it to live in. `
-`...Now I see how Grandfather could live his whole life in this room without ever leaving. `
-`It seemed Grandfather wasn't in the habit of watching TV, because there was no television or even a radio in this room. `
-`...We can't do anything except pass the time listening to the sound of the rain...until tomorrow morning. `
-`Doctor Nanjo looked closely at the chessboard that sat on the table in front of the sofa and muttered... `
-`It was apparently the partly finished chess match he'd been playing with Grandfather until yesterday. `
-`...The black had the white pretty well cornered, and it looked like checkmate would be reached within a few moves. The last part of the endgame. `
-`Even though checkmate had almost been reached, `
-`...the endgame had been rushed, `
-`...and in the end, was never completed. `
-`"...Kinzo-san, `
-`...it seems... `
-`...we weren't able to see this match through after all..." `
-`"......Doctor Nanjo..." `
-`"...I was Kinzo-san's friend for a long time, ...but I never knew about more than half of him. `
-`...I believe two Kinzos existed, a wise one...and one trapped by some madness... `
-`......I never understood anything about him..." `
-`"...Especially when it came to {f:5:Beatrice}-sama, it would seem like his personality changed..." `
-`In the direction of Kumasawa-san's upward gaze, a portrait of {f:5:Beatrice} could be seen. `
-`It wasn't massive like the one hanging in the entrance hall, but small, made for this room. `
-`Grandfather probably spent every day in this room, and so much of his time, `
-`...talking to the witch in that portrait. `
-`...Who was {f:5:Beatrice} to Grandfather in the first place? `
-`...Right now, you couldn't just explain it away by saying it was a story made by the parents to frighten children away from wandering into the forest... `
-`While eating the canned food we'd brought from the kitchen, we talked together about who {f:5:Beatrice} was. `
-`......Whether the culprit was {f:5:Beatrice} herself or someone pretending to be her, `
-`whether they were a witch or a human, that was besides the point. The woman in this portrait was strongly related to the roots and background of this case. `
-`......You couldn't talk about this case without talking about her. `
-`"...That's right. `
-`...Mom, you picked up the culprit's letter in Aunt Eva's room, right?" `
-`"Yes... `
-`I still haven't opened it... `
-`...Let's give it a try." `
-`...Aunt Natsuhi took out that Western envelope. `
-`Genji-san pulled a paper knife out of a drawer in the study desk and handed it to her. `
-`While watching her open it, George-aniki grimaced slightly. `
-`...After all, it was a letter left at the site where his parents had been murdered. `
-`...There was a good chance its contents would say something unbearable to Aniki... `
-`Aunt Natsuhi also seemed to realize that. `
-`...So she glanced over the contents first without reading it aloud. `
-`We were a little frightened that she might grimace after reading something shocking, but she just frowned unhappily. `
-`"...What does...it say...?" `
-`"...There is one unpleasant sentence. `
-`...It must be trying to provoke us." `
-`Natsuhi, after deciding that the contents could be shown to the children, set it openly on the table. `
-`Everyone stared at it at the same time. `
-`""Praise my name". `
-`......What the hell? `
-`...That's annoying." `
-`"......It's probably {f:5:Beatrice} declaring herself the victor. `
-`......Damn it..." `
+`นั่นสินะคะ `
+`...ตั้งแต่ช่วงเวลาใดช่วงเวลาหนึ่ง ท่านพ่อคงไม่อาจรู้สึกสงบใจในที่แห่งอื่นได้ แม้แต่ภายในคฤหาสน์หลังนี้ก็ตาม" `
+`"......พวกเราเคยแต่คอยเย้ยหยันเรื่องที่ตาแก่นั่นขังตัวเองอยู่ข้างในแท้ๆ แล้วคราวนี้ กลายเป็นพวกเราเองเนี่ยนะที่จะไปขังตัวเองน่ะ `
+`...เหอะ!" `
+`เจสสิก้าถ่มถ้อยคำเหล่านั้นออกมา `
+`"เจสสิก้าจัง... ฟังดูเหมือนเธออยากจะออกไปตามหาคนร้าย มากกว่าจะมานั่งขังตัวเองอยู่ที่ไหนสักแห่งนะ" `
+`"...แหงล่ะ ฉันไม่ได้คิดหรอกว่าถ้าสุ่มสี่สุ่มห้าออกไปหาเองแล้วจะเจอน่ะ `
+`...สุดท้ายพวกเราก็ทำได้แค่นั่งรออยู่ดี `
+`ถ้าอย่างนั้นจะรออยู่ที่ไหนมันก็มีค่าเท่ากันไม่ใช่รึไงเล่า?! `
+`ฉันไม่หนีแล้วก็ไม่หลบด้วย `
+`ทำไมเราไม่นั่งสบายๆ ในห้องรับแขก ดูทีวีหรืออะไรไปพลางๆ ระหว่างรอให้ท่าน{f:5:เบียทริเช่}ผู้นี้โผล่หัวออกมาล่ะ?!" `
+`"...ถ้าหล่อนไม่โผล่มาก็ดีแล้วนี่คะ `
+`ไม่มีความจำเป็นอะไรที่พวกเราต้องเป็นคนเปิดโปงคนร้ายเลย" `
+`"พูดได้ถูกต้องแล้วครับ... `
+`เราไม่ควรเอาตัวเข้าไปเสี่ยงโดยไม่จำเป็น ก่อนที่ตำรวจจะมาถึง" `
+`"ขอบคุณค่ะ หมอนันโจ `
+`......ดิฉันคิดว่าพวกเราควรย้ายไปที่ห้องหนังสือของท่านพ่อค่ะ `
+`...จริงอยู่ที่เราไม่มีหลักฐานยืนยันความปลอดภัย ในเมื่อท่านพ่อถูกพาตัวออกไปจากที่นั่น `
+`...ทว่า ดิฉันก็ไม่อาจปฏิเสธความเป็นไปได้ที่ว่า... `
+`ตามที่แบทเลอร์คุงให้เหตุผลไว้ ว่าท่านปู่อาจจะออกจากห้องหนังสือไปด้วยความต้องการของตัวเอง แล้วถูกลอบทำร้ายข้างนอก" `
+`...เมื่อครู่นี้ ผมเสนอทฤษฎีประหลาดนั่นขึ้นมาเพื่อแก้ผ้าเอาหน้ารอดไปก่อนแท้ๆ `
+`แต่ก็อย่างที่ป้าเอวาว่าไว้ ถึงทริกนั้นจะเป็นไปได้ในทางทฤษฎี `
+`แต่ผมก็อธิบายไม่ได้อยู่ดี ว่ามีแรงจูงใจอะไรให้ท่านปู่ต้องแอบย่องออกจากห้องหนังสือของตัวเองด้วยวิธีที่ยุ่งยากขนาดนั้น `
+`ยิ่งไปกว่านั้น ท่านปู่ไม่มีทางใช้ทริกนั้นได้เลยด้วยซ้ำ หากตัวเขาไม่ได้ `
+`"รู้ว่ามีใบเสร็จเสียบคาอยู่ที่ประตู" `
+`จริงอยู่ว่าป้าเอวาไม่ได้ชี้ให้เห็นถึงจุดนั้น `
+`...แต่มันก็เห็นได้ชัดว่าทฤษฎีนี้ไร้สาระแค่ไหน `
+`ถ้าเช่นนั้น ก็แปลว่าประตูที่ลงผนึกไว้ก่อให้เกิดห้องปิดตายขึ้นมา อย่างที่ป้าเอวาอ้างจริงๆ งั้นเหรอ? `
+`เป็นความจริงที่ปฏิเสธไม่ได้แล้วงั้นเหรอ ว่าป้านัตสึฮิคือคนร้าย...? `
+`......ถ้าป้าเอวาอยู่ที่นี่ตอนนี้ หล่อนคงยกข้ออ้างนั้นขึ้นมาอย่างโจ่งแจ้ง แล้วเป่าทฤษฎีพิลึกของผมจนกระจุยไปแล้ว `
+`...แต่ช่างเถอะ `
+`ผมคงต้องยอมรับว่า ห้องที่มีทั้งเตียงและห้องน้ำ พอให้คนทั้งแปดคนเข้าไปขังตัวเองอยู่ได้ `
+`...แถมยังมีกุญแจแค่สองดอก ซึ่งทั้งสองดอกก็มารวมอยู่ที่นี่แล้ว ...ย่อมต้องเป็นสถานที่ที่ปลอดภัยที่สุดในคฤหาสน์เวลานี้อย่างแน่นอน... `
+`อย่างน้อยที่สุด ผมคิดว่ามันก็ยังดีกว่าการนั่งขังตัวเองอยู่ในห้องรับแขก แล้วภาวนาว่าคงไม่มีอะไรผิดพลาด `
+`แต่เดี๋ยวก่อน... หรือที่พวกเรารอดปลอดภัยมาได้จนถึงตอนนี้ เป็นเพราะขังตัวเองอยู่ในห้องรับแขกกันแน่? `
+`แล้วถ้าการออกจากห้องนี้แล้วย้ายไปยังสถานที่ที่ยังไม่ได้สำรวจ จะกลายเป็นเรื่องที่อันตรายกว่าเดิมล่ะ...? `
+`...อ๊า ไม่ได้เรื่อง ไม่ได้เรื่อง ไม่ได้เรื่องอะไรสักอย่าง... `
+`......สมองกลวงๆ ของผมแทบจะระเบิดเป็นไข้ขึ้นมาอยู่แล้ว `
+`...ถ้าเอาแต่พลิกกระดานหมากรุกไปมาไม่หยุด ถูกกับผิดก็จะสลับที่กันซ้ำแล้วซ้ำเล่า จนผมไม่สามารถเชื่ออะไรได้เลย... `
+`พอคิดว่าคนร้ายเป็นหนึ่งใน 18 คน ผมก็อยากจะเชื่อเรื่องของ{f:5:เบียทริเช่} `
+`และพอเริ่มจะเชื่อเรื่อง{f:5:เบียทริเช่}ขึ้นมา ผมก็อยากจะหาตัวคนร้ายท่ามกลาง 18 คนนั้นอีก `
+`...ถ้ามันยังหมุนวนไปไม่รู้จบแบบนี้ สุดท้ายแล้วความคิดของผมก็ไม่ได้ก้าวหน้าไปจากจุดเริ่มต้นแม้แต่ก้าวเดียว... `
+`...นานแค่ไหนแล้วนะ ที่คุณคิริเอะสอนผมเรื่องการคิดพลิกกระดานหมากรุก...? `
+`แนวคิดที่ว่าด้วยการประเมินสถานการณ์โดยพลิกกลับด้าน แล้วคิดจากมุมมองของฝ่ายศัตรู... `
+`จำได้ว่าตอนนั้นผมตื่นเต้นสนใจมันมาก จนเอามาเป็นเข็มทิศนำทางความคิดทุกอย่าง `
+`...จะว่าไปแล้ว ตอนนั้นคุณคิริเอะยังเป็นเพื่อนร่วมงานของพ่ออยู่เลย `
+`...ผมไม่เคยฝันมาก่อนเลยว่า สักวันเธอจะเข้ามาเป็นส่วนหนึ่งในครอบครัวของเรา... `
+`...คุณคิริเอะเคย... `
+`บอกอะไรบางอย่างกับผมมาก่อนหรือเปล่านะ? `
+`เหมือนเธอเคยพูดว่า แม้การคิดพลิกกระดานหมากรุกนี้จะเป็นมุมมองแบบหนึ่ง แต่มันก็ไม่ได้ทรงพลังครอบจักรวาล `
+`และคงไม่ดีแน่หากจะพึ่งพามันมากจนเกินไป... `
+`"การคิดพลิกกระดานหมากรุกน่ะ... `
+`เป็นการตีความในแบบของฉันเอง จากสิ่งที่เรียกว่าทฤษฎีเกมที่เคยอ่านเจอในหนังสือเมื่อนานมาแล้ว `
+`มันเป็นหัวข้อที่น่าสนใจมากเลยล่ะ ไว้พอเข้ามหาวิทยาลัยแล้ว แบทเลอร์คุงก็ลองไปศึกษาดูสิจ๊ะ" `
+`"อยากลองศึกษาดูเลยครับ! `
+`ถ้าผมได้ศึกษาจนทำการคิดพลิกกระดานหมากรุกของผมให้สมบูรณ์แบบได้ การอ่านทางของคู่ต่อสู้ออกได้ทุกคน มันคงจะสนุกพิลึกเลยใช่ไหมล่ะครับ" `
+`"แต่จะเชื่อมันแบบหลับหูหลับตาไม่ได้หรอกนะ `
+`ทฤษฎีเกมน่ะเป็นศาสตร์ที่ลึกซึ้งและซับซ้อนมาก `
+`การคิดพลิกกระดานหมากรุกเป็นเพียงการตีความของฉัน ที่แตะแค่ผิวเผินของทฤษฎีเกมเท่านั้น `
+`...การจะอ่านทางคู่ต่อสู้ได้อย่างทะลุปรุโปร่งอย่างที่เธอวาดฝันไว้ เธอจำเป็นต้องศึกษาตัวคู่ต่อสู้ด้วย `
+`อีกทั้ง ถึงแม้ทฤษฎีพลิกกระดานหมากรุกจะสะดวกและใช้ประโยชน์ได้จริง แต่มันก็ไม่ได้สมบูรณ์แบบ `
+`มันมีจุดอ่อนอยู่หลายข้อทีเดียว ทั้งที่แสนสะดวกสบายแท้ๆ" `
+`"...จุดอ่อนเหรอครับ?" `
+`"ใช่จ้ะ `
+`...การคิดพลิกกระดานหมากรุกมีรากฐานมาจากทฤษฎีเกม `
+`และเมื่อสืบสาวทฤษฎีเกมให้ลึกซึ้ง มันก็จะสรุปลงที่คณิตศาสตร์ `
+`เธอรู้ไหมว่าจุดอ่อนของคณิตศาสตร์คืออะไร? `
+`......สัญญาณรบกวนยังไงล่ะจ๊ะ" `
+`ในทางคณิตศาสตร์ เมื่อเขียนว่า 1+1=2 `
+`กระบวนการนั้นจะให้ผลลัพธ์เป็น 1+1=2 เสมอ ไม่ว่าจะผ่านไปกี่พันล้านปี ...ไม่มากไปกว่านั้น และไม่น้อยไปกว่านั้น `
+`นั่นเป็นเพราะไม่มีสัญญาณรบกวนเจือปนอยู่เลยแม้แต่น้อย `
+`แต่ว่า ยกตัวอย่างเช่น `
+`...ภาษาญี่ปุ่นไม่เหมือนคณิตศาสตร์ เพราะมันมีสัญญาณรบกวนเจือปนอยู่ `
+`คันจิก็เป็นตัวอย่างที่ดี `
+`คันจิแบบเก่ากับคันจิแบบใหม่มีความแตกต่างกันเล็กน้อย `
+`ซึ่งแสดงถึงสิ่งรบกวนที่แทรกเข้ามาจากความเปลี่ยนแปลงข้ามยุคสมัย `
+`ประวัติศาสตร์เองก็เหมือนกันมิใช่หรือ? `
+`...มีนโยบายมากมายที่ดูโง่เขลาในยุคปัจจุบัน แต่กลับมีความหมายอย่างยิ่งในอดีต `
+`เนื่องจากกฎของหมากรุกนั้นตายตัว เวลาที่ผู้เชี่ยวชาญสองคนกำลังถกกันถึงรูปหมากกระดานหนึ่ง `
+`ไม่ว่าพวกเขาจะมาจากเมื่อหนึ่งร้อยปีก่อนหรืออีกหนึ่งร้อยปีข้างหน้า ก็เป็นไปได้ว่าจะได้ข้อสรุปแบบเดียวกัน `
+`...ทว่า หากกฎของหมากรุกเกิดความเปลี่ยนแปลงครั้งใหญ่ตามกาลเวลา `
+`ข้อถกเถียงเกี่ยวกับรูปหมากเดียวกันนั้นก็อาจจะเปลี่ยนไปด้วยเช่นกัน `
+`"ถูกเผงเลยจ้ะ `
+`เรื่องราวในโลกมนุษย์ตามปกติแล้วจะเต็มไปด้วยสิ่งรบกวน `
+`อารมณ์ของมนุษย์ก็เป็นแบบนั้นไม่ใช่เหรอ? `
+`ถึงจะเกิดเรื่องแบบเดียวกันเป๊ะขึ้นซ้ำสอง ก็ไม่มีอะไรรับประกันได้หรอกนะว่ามนุษย์จะเคลื่อนไหวตามที่คาดเดาได้เสมอไป `
+`...ทันทีที่เราพยายามจะใช้ทฤษฎีเชิงคณิตศาสตร์มาคาดเดาการกระทำของใครสักคน `
+`เราก็ต้องตระหนักไว้ด้วยว่าทฤษฎีของเราย่อมมีจุดอ่อนและขีดจำกัดแฝงอยู่ `
+`...พูดง่ายๆ ก็คือ การคิดพลิกกระดานหมากรุกจะเปราะบางอย่างยิ่งต่อสิ่งรบกวนและความโลเล รวมไปถึงความผิดพลาดหรือความรู้ที่คลาดเคลื่อนด้วยนะ" `
+`...จริงด้วยสิ `
+`...คุณคิริเอะเคยพูดไว้แบบนั้นจริงๆ ด้วย... `
+`หมากรุกเป็นเกมที่ทั้งสองฝ่ายเล่นภายใต้กฎเดียวกัน และต่อสู้กันด้วยเงื่อนไขชัยชนะแบบเดียวกันมาโดยตลอด `
+`เพราะอย่างนั้น ทั้งสองฝ่ายถึงสามารถคาดเดาการเดินหมากของอีกฝ่ายได้ `
+`......การอ่านใจคู่ต่อสู้เป็นไปได้ ก็เพราะเราสามารถสันนิษฐานได้เสมอว่าอีกฝ่ายจะเดินหมากในตาที่ดีที่สุดเท่าที่จะหาได้ `
+`...แต่ถ้าคู่ต่อสู้เกิดโลเล หรือเหนื่อยล้าขึ้นมาสักหน่อยล่ะ... `
+`แล้วเดินหมากในตาที่แทบจะเรียกไม่ได้ว่า "ดีที่สุด" ขึ้นมาล่ะ? `
+`หรือว่า... ถ้าเกมนี้มีกฎพิเศษบางอย่าง `
+`บางสิ่งที่ไม่รู้แน่ชัดซึ่งมีแต่ฝ่ายศัตรูเท่านั้นที่รู้และนำมาใช้ได้ล่ะ? `
+`ยิ่งไปกว่านั้น ถ้าฝ่ายตรงข้ามมีเป้าหมายอื่นนอกเหนือจากชัยชนะอยู่จริงๆ ล่ะ? `
+`จงมองจากมุมของศัตรู `
+`นั่นคือพื้นฐานของการคิดพลิกกระดานหมากรุก `
+`...ซึ่งหมายความว่า หากอ่านศัตรูผิดไป `
+`...คำตอบที่ได้จากกระบวนการนี้ ก็จะเป็นแค่ขยะชิ้นหนึ่ง ไร้ประโยชน์สิ้นดี... `
+`จนถึงตอนนี้ ผมใช้ทฤษฎีการคิดพลิกกระดานหมากรุกคาดเดาข้อมูลอันคลุมเครือหลายอย่างเกี่ยวกับคนร้ายที่ซ่อนอยู่เบื้องหลังคดีนี้... หรืออย่างน้อยก็คิดว่าทำไปแล้ว `
+`ทว่า ผมกลับไม่รู้อะไรเกี่ยวกับตัวคนร้ายเลยสักอย่างเดียว `
+`...นี่ผมกำลังเดินเล่นอยู่ในเขาวงกตแห่งความคิดอยู่คนเดียวหรือเปล่านะ? `
+`......ถ้าในเวลาแบบนี้มีคุณคิริเอะอยู่ด้วยล่ะก็ `
+`...ด้วยความสามารถในการคิดอันเฉียบแหลมกว่ากันมาก เธอคงจะสังเกตเห็นอะไรบางอย่างได้แน่ๆ... `
+`...จนถึงวินาทีสุดท้าย เจสสิก้าก็ยังคงต่อต้านการย้ายเข้าไปในห้องหนังสือของท่านปู่ `
+`แต่ท้ายที่สุดแล้ว ป้านัตสึฮิก็ยังยืนกราน และพวกเราก็ตัดสินใจย้ายไปที่นั่น `
+`ถึงตอนนี้ทุกคนต่างถูกความหวาดระแวงเข้าครอบงำอย่างสิ้นเชิงแล้ว `
+`...คุณคุมาซาวะเคยเตรียมอาหารค่ำเอาไว้ แต่ในช่วงเวลาที่พวกเราไปพบศพพ่อแม่ของพี่จอร์จ ทั้งห้องครัวและห้องรับแขกต่างก็ถูกทิ้งให้ว่างเปล่า `
+`มีคนทักขึ้นมาว่าอาหารอาจจะถูกวางยาพิษในระหว่างที่พวกเราไม่อยู่ `
+`...ด้วยเหตุนั้น อาหารที่คุณคุมาซาวะอุตส่าห์ลงแรงทำให้ จึงไม่มีใครกล้าแม้แต่จะแตะต้อง `
+`......รูปแบบการสังหารหกคนแรกยังคงไม่เป็นที่แน่ชัด แต่ก็มีความเป็นไปได้สูงว่าอาจเป็นยาพิษ `
+`...แน่นอนว่าวิธีนั้นจะทำให้คนเพียงคนเดียวสามารถลงมือสังหารผู้ใหญ่ตัวโตถึงหกคนได้ ...ยิ่งไปกว่านั้น ความคิดนี้ยังทำให้ง่ายที่จะจินตนาการว่าคนร้ายมีเพียงคนเดียว และคงกำลังหวาดกลัวปืนไรเฟิลของป้านัตสึฮิ `
+`ซึ่งสิ่งนี้ช่วยสร้างความมั่นคงทางจิตใจให้พวกเราได้เป็นอย่างดี `
+`แต่ความเหนื่อยล้าและความหิวโหยกลับทารุณยิ่งกว่าที่พวกเราคิดไว้ `
+`...จากนั้น คุณคุมาซาวะก็เสนอความคิดขึ้นมา แล้วพวกเราทุกคนจึงมุ่งหน้าไปยังห้องครัวด้วยกัน `
+`ที่นั่น พวกเรารวบรวมอาหารกระป๋องกับของอย่างอื่นที่ยากต่อการวางยาพิษ เพื่อพกติดตัวเข้าไปด้วย `
+`ความพยายามของคุณคุมาซาวะที่หวังจะปลอบประโลมพวกเราด้วยมื้อค่ำสักมื้อในวันอันโหดร้ายนี้ กลับต้องสูญเปล่าไปอย่างน่าเสียดาย... `
+`อาหารที่กองอยู่บนรถเข็นอาหารดูน่าเศร้าอยู่นิดๆ `
+`พวกเราเริ่มเดินขึ้นบันไดไปด้วยกัน `
+`ป้านัตสึฮิซึ่งเดินนำหน้า จับจ้องเข้าไปในความมืดอย่างระแวดระวัง ทั้งด้วยสองตาและปากกระบอกปืน `
+`เมื่อลากสังขารขึ้นมาถึงชั้นสาม ก็เป็นไปตามที่ป้านัตสึฮิเตือนไว้ล่วงหน้า `
+`...มีกลิ่นสารเคมีผสมกับกลิ่นหอมเอียนๆ กลิ่นเหม็นตลบอบอวลที่ชวนให้รู้สึกราวกับจะกัดกร่อนเข้าไปในสมอง `
+`"...เข้าใจละ กลิ่นเหม็นขนาดนี้ถ้าต้องทนอุดอู้อยู่ทั้งคืนคงปวดหัวแหง `
+`...อาจจะช้าไปหน่อย แต่ฉันเห็นด้วยกับเจสสิก้าว่ะ ขอออกเสียงค้านเรื่องเข้าไปในห้องหนังสือของท่านปู่ด้วยคน" `
+`รู้สึกเหมือนกลิ่นเหม็นนั้นจะลอยออกมาจากประตูอันโอ่อ่าบานนี้ `
+`...มันคือประตูสู่ห้องหนังสือต้องห้าม ซึ่งน่าจะคอยปกป้องมิให้ใครล่วงล้ำเข้ามา... `
+`ในระหว่างที่คุณเก็นจิกำลังไขกุญแจประตู มาเรียก็จ้องมองประตูและลูกบิดด้วยความสนใจเป็นอย่างยิ่ง `
+`"......อู- `
+`...ประตูสุดยอดไปเลย" `
+`"ดูเก่าแก่เข้มงวดจนเล่นมุกไม่ออกเลยแฮะ ประตูที่เหมาะกับห้องหนังสือของท่านปู่ชะมัด" `
+`"...พลังในการขับไล่ภัยคุกคามทางวิญญาณของที่นี่แข็งแกร่งมาก `
+`......{f:5:เบียทริเช่}คงเปิดประตูบานนี้ไม่ได้หรอก" `
+`"หือ...? `
+`หมายความว่าไงน่ะ?" `
+`มาเรียชี้ไปที่ลูกบิดประตู `
+`...ตราแมงป่อง... `
+`ไม่สิ ลวดลายที่ดูเหมือนวงเวทมนตร์ถูกสลักล้อมรอบแมงป่องอยู่ตรงนั้น `
+`...ลวดลายนั่น... จริงสิ `
+`เหมือนกับพวงกุญแจเครื่องรางที่มาเรียให้ผมกับเจสสิก้าเมื่อวานนี้เปี๊ยบเลยไม่ใช่เหรอ...? `
+`"......วงเวทมนตร์ที่ห้าแห่งดาวอังคารเป็นเกราะป้องกันเวทมนตร์ที่แข็งแกร่งมาก `
+`แถมวงเวทมนตร์นี้ยังสร้างขึ้นมาอย่างประณีตมาก และเปี่ยมไปด้วยพลัง `
+`......วงเวทมนตร์แบบนี้จะสร้างความลำบากให้ตัวตนแห่งเวทมนตร์อย่าง{f:5:เบียทริเช่}ได้มากเลยล่ะ" `
+`"ฟังดูอุ่นใจดีนี่หว่า `
+`จะบอกว่าในห้องนี้พวกเราจะรอดพ้นจากเงื้อมมือของ{f:5:เบียทริเช่}ได้งั้นเหรอ? `
+`แม่มดน้อยของเรานี่พึ่งพาได้จริงๆ เลยน้า" `
+`"...แล้ว{f:5:เบียทริเช่}พาตัวท่านปู่ออกไปได้ยังไงกันล่ะ...?" `
+`"......ก็อย่างที่แบทเลอร์คิดนั่นแหละ `
+`...{f:5:เบียทริเช่}เข้าไปข้างในไม่ได้ `
+`แต่ว่า ท่านมีทั้งเวทมนตร์และข้ารับใช้ `
+`ถ้าใช้สิ่งพวกนั้น ก็อาจจะทำให้ท่านปู่ออกจากห้องหนังสือมาเองได้" `
+`"อ๋อ เรื่องแบบนั้นฉันเคยอ่านเจอในมังงะอยู่ `
+`เห็นฉากพวกแวมไพร์กลัวไม้กางเขนจนเข้าใกล้ไม่ได้บ่อยๆ `
+`แต่พวกข้ารับใช้ไม่เป็นไร ก็เลยสั่งให้ข้ารับใช้เข้าโจมตีแทนสินะ" `
+`"พวงกุญแจเครื่องรางแมงป่องที่มาเรียให้ไปเมื่อวาน ก็มีวงเวทมนตร์ที่ห้าแห่งดาวอังคารอยู่เหมือนกันนะ `
+`พลังที่สถิตอยู่ข้างในนั้นอ่อนก็จริง แต่ก็น่าจะพอปกป้องไปจนกว่าพวกเราจะออกจากเกาะได้ `
+`.........ถึงจะได้ยินว่านายทำหายไปแล้วก็เถอะ ใช่ไหมล่ะ? `
+`คิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิ..." `
+`"......พวงกุญแจเครื่องรางแมงป่องเหรอคะ?" `
+`"ช-ใช่ เอ่อคือว่า... `
+`เครื่องรางที่ฉันให้แม่ไปเมื่อวานน่ะ ฉันได้มาจากมาเรียอีกที `
+`ได้ยินมาว่าถ้าเอาไปแขวนไว้ที่ลูกบิดประตูจะช่วยปัดเป่าเวทมนตร์ได้ ...ตอนนั้นก็เลยคิดว่าให้แม่อยู่กับตัวไว้น่าจะดีกว่า..." `
+`"...อย่างนั้นเองหรอกหรือคะ? `
+`...แม่ก็ว่าอยู่ว่าเป็นของแปลกๆ ไม่นึกว่าลูกจะพกติดตัวไว้" `
+`"......ป้านัตสึฮิเอาของนั่น... `
+`ไปไว้ที่ลูกบิดประตูเหรอ?" `
+`"ค่ะ `
+`...เมื่อคืนนี้ หลังจากได้ยินเรื่องนั้นจากเจสสิก้า ดิฉันก็เอาไปแขวนไว้ที่ลูกบิดประตูด้านในห้องค่ะ" `
+`"งั้นป้านัตสึฮิก็โชคดีมากเลยนะ `
+`......ถ้าทำแบบนั้น เมื่อวานนี้{f:5:เบียทริเช่}ก็คงแตะต้องป้านัตสึฮิไม่ได้แม้แต่ปลายนิ้วหรอก `
+`...มาเรียคิดว่า{f:5:เบียทริเช่}คงจะหงุดหงิดน่าดูเลยล่ะ `
+`...คิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิ..." `
+`...{f:5:เบียทริเช่} หงุดหงิดงั้นเหรอ...? `
+`แตะต้องไม่ได้แม้แต่นิ้วเดียว...? `
+`นัตสึฮิหวนนึกถึงรอยขูดขีดชวนขนลุกที่เห็นเมื่อเช้านี้ ซึ่งราวกับมีใครบางคนใช้มือชุ่มเลือดตะกุยอยู่ด้านนอกประตูห้องของเธอ ...พลางสูดหายใจด้วยความตกใจ `
+`หรือว่า... `
+`...แม่มดที่เรียกตัวเองว่า {f:5:เบียทริเช่} คนนั้น... `
+`...พยายามจะเข้ามาทางประตูห้องของนัตสึฮิ...? `
+`แต่เครื่องรางขับไล่เวทมนตร์แขวนอยู่ด้านใน `
+`...ก็เลยพังประตูเข้ามาไม่ได้ `
+`ก็เลยหงุดหงิด `
+`...แล้วก็เลย ขูดข่วนมันงั้นเหรอ...? `
+`"พอที อย่าพูดเรื่องนั้นนะ... `
+`แม่มดไม่มีจริงหรอก `
+`คนร้ายต่างหากที่มีจริง `
+`แถมยังเป็นมนุษย์เหมือนพวกเราด้วย `
+`...ถ้าอยากได้หลักฐาน ทำไมเราไม่สับยัยนั่นเป็นชิ้นๆ แล้วดูว่าเลือดเป็นสีแดงไหมล่ะ? `
+`...บ้าเอ๊ย ......บ้าเอ๊ย... `
+`...ทำไมถึง...ทำกับคาน่อนคุงแบบนั้นได้......" `
+`*แกร๊ก* `
+`เก็นจิไขปลดล็อกประตู `
+`ทั้งแปดคนก้าวเข้าไปในห้องหนังสือของคินโซ... `
+`ห้องหนังสือของท่านปู่ ...ผมเคยได้ยินข่าวลือเรื่องนี้มาก่อนแล้ว ก็เลยไม่ได้ตกใจเท่าไร `
+`เขาไม่ได้ทำอะไรมากไปกว่าการตกแต่งห้องนี้จนแน่นหนาด้วยงานอดิเรกเรื่องศาสตร์ลี้ลับของตัวเอง `
+`...หากงานอดิเรกของท่านปู่คือการไล่ตามไอดอล ผนังพวกนี้ก็คงถูกโปสเตอร์ไอดอลแปะจนมิดไปแล้ว `
+`ถึงผมจะไม่เข้าใจ แต่ก็ตระหนักได้ว่าห้องนี้คือการรวมทุกสิ่งที่เขาชอบไว้ด้วยกัน `
+`ถึงอย่างนั้น ผมก็อดไม่ได้ที่จะยืนตะลึงกับกลิ่นยาอันน่าขนลุกและกลิ่นเหม็นเอียนที่ชวนให้สมองละลาย... `
+`พอประตูปิดลง มันก็ส่งเสียงดัง *กึก* ล็อกเองอัตโนมัติ `
+`...เข้าใจล่ะ นี่คือระบบล็อกอัตโนมัติที่จะทำงานทุกครั้งที่ประตูปิดลงสินะ... `
+`และกุญแจที่ไขเปิดประตูนี้จากภายนอกได้มีเพียงสองดอก ซึ่งทั้งสองดอกก็อยู่ในห้องนี้แล้ว `
+`...กล่าวอีกนัยหนึ่ง มันได้กลายเป็น "ห้องปิดตาย" ไปแล้ว `
+`......ชัตเตอร์ ใบเสร็จ โซ่คล้อง `
+`...แล้วตอนนี้ ก็ล็อกอัตโนมัติ `
+`...ประตูบานที่สี่นี้มีระบบล็อกที่แน่นหนาที่สุด และนี่คือห้องปิดตายอย่างไม่ต้องสงสัย `
+`เพื่อให้แน่ใจอย่างถึงที่สุดว่าห้องนี้ปลอดภัย พวกเราจึงตรวจดูทุกซอกทุกมุมเพื่อหาทางเข้าออก `
+`หน้าต่างถูกลงกลอนอย่างแน่นหนา `
+`แค่นั้นก็น่าจะพอแล้ว แต่เพื่อความรอบคอบ พวกเราจึงลองเคาะตามผนังดูทุกจุด `
+`...เพราะอย่างไรเสีย พวกเราก็เคยคุยกันเรื่องประตูลับในห้องนี้ `
+`...แต่ก็ไม่พบสิ่งใดที่น่าสงสัยเลย `
+`ห้องหนังสือของท่านปู่กว้างขวางมาก `
+`ถึงจะเรียกว่าห้องหนังสือ แต่มันก็ไม่ได้เป็นแค่ห้องเดี่ยวๆ `
+`มันสามารถแบ่งออกเป็นสี่ส่วนหลักๆ ได้แก่ ส่วนห้องอ่านหนังสือ ส่วนห้องนอน ส่วนห้องน้ำ และส่วนทำอาหารที่มีอ่างล้างจาน `
+`เข้าใจแล้ว ห้องหนังสือนี้มีสิ่งของครบครันพอให้อยู่อาศัยได้จริงๆ `
+`...ตอนนี้ผมเข้าใจแล้วว่าท่านปู่ใช้ชีวิตทั้งชีวิตอยู่ในห้องนี้โดยไม่ออกไปไหนได้อย่างไร `
+`ดูเหมือนท่านปู่จะไม่มีนิสัยชอบดูทีวี เพราะในห้องนี้ไม่มีทั้งโทรทัศน์หรือแม้แต่วิทยุสักเครื่อง `
+`...พวกเราทำอะไรไม่ได้นอกจากฆ่าเวลาด้วยการนั่งฟังเสียงสายฝน...ไปจนถึงเช้าวันพรุ่งนี้ `
+`หมอนันโจมองดูกระดานหมากรุกที่วางอยู่บนโต๊ะหน้าโซฟาอย่างพินิจพิเคราะห์แล้วพึมพำ... `
+`ดูเหมือนว่านั่นจะเป็นกระดานหมากรุกที่เขาเล่นค้างไว้กับท่านปู่จนถึงเมื่อวาน `
+`...ฝ่ายดำไล่ต้อนฝ่ายขาวจนมุมพอสมควร และดูเหมือนว่าจะเช็คเมตได้ในอีกไม่กี่ตา ช่วงท้ายของช่วงปิดเกม `
+`ทั้งที่เกือบจะเช็คเมตได้อยู่แล้วแท้ๆ `
+`...แต่ช่วงปิดเกมกลับถูกเร่งรัด `
+`...และสุดท้าย ก็ไม่เคยได้เล่นจนจบ `
+`"...คุณคินโซ `
+`...ดูเหมือนว่า... `
+`...พวกเราจะไม่ได้เล่นกระดานนี้จนจบเสียแล้วสินะครับ..." `
+`"......หมอนันโจขอรับ..." `
+`"...ผมเป็นเพื่อนกับคุณคินโซมาเนิ่นนาน ...แต่ผมกลับไม่เคยรู้จักตัวตนของเขาเกินครึ่งหนึ่งเลย `
+`...ผมเชื่อว่ามีคินโซอยู่สองคน คนหนึ่งปราดเปรื่อง...ส่วนอีกคนหนึ่งถูกความบ้าคลั่งบางอย่างครอบงำ... `
+`......ผมไม่เคยเข้าใจอะไรเกี่ยวกับตัวเขาเลย..." `
+`"...โดยเฉพาะเวลาที่เป็นเรื่องของท่าน{f:5:เบียทริเช่} ดูเหมือนว่านิสัยของท่านจะเปลี่ยนไปเป็นคนละคนเลยล่ะค่ะ..." `
+`ณ ทิศทางที่สายตาของคุณคุมาซาวะมองขึ้นไป สามารถมองเห็นภาพเหมือนของ{f:5:เบียทริเช่}ได้ `
+`มันไม่ได้ใหญ่โตมโหฬารเหมือนรูปที่แขวนอยู่ในโถงทางเข้า แต่เป็นรูปขนาดเล็กที่สร้างขึ้นมาสำหรับห้องนี้ `
+`ท่านปู่คงใช้เวลาในทุกๆ วันในห้องนี้ และใช้เวลามากมายมหาศาล `
+`...ไปกับการพูดคุยกับแม่มดในภาพเหมือนนั้น `
+`...แต่เดิมแล้ว {f:5:เบียทริเช่} เป็นอะไรสำหรับท่านปู่กันแน่นะ? `
+`...ในตอนนี้ จะมาอธิบายปัดไปว่าเป็นเพียงเรื่องที่พ่อแม่แต่งขึ้นเพื่อขู่ไม่ให้เด็กๆ เดินหลงเข้าไปในป่าก็คงไม่ได้แล้ว... `
+`ระหว่างที่กินอาหารกระป๋องที่หยิบมาจากในครัว พวกเราก็ได้พูดคุยกันว่า {f:5:เบียทริเช่} เป็นใคร `
+`......ไม่ว่าคนร้ายจะเป็นตัว {f:5:เบียทริเช่} เอง หรือใครสักคนที่แอบอ้างเป็นเธอก็ตาม `
+`ไม่ว่าคนคนนั้นจะเป็นแม่มดหรือมนุษย์ นั่นก็ไม่ใช่ประเด็นสำคัญ สตรีในภาพเหมือนนี้มีความเกี่ยวข้องอย่างลึกซึ้งกับต้นตอและเบื้องหลังของคดีนี้ `
+`......ไม่มีทางที่จะพูดถึงคดีนี้ได้เลย หากไม่พูดถึงเธอ `
+`"...นั่นสินะ `
+`...แม่ แม่เก็บจดหมายของคนร้ายได้จากในห้องของป้าเอวาใช่ไหม?" `
+`"ใช่จ้ะ... `
+`แม่ยังไม่ได้เปิดดูเลย... `
+`...ลองเปิดดูเลยแล้วกันนะ" `
+`...ป้านัตสึฮิหยิบซองจดหมายแบบตะวันตกซองนั้นออกมา `
+`คุณเก็นจิดึงมีดเปิดซองจดหมายออกมาจากลิ้นชักโต๊ะหนังสือแล้วยื่นให้เธอ `
+`ขณะมองดูเธอเปิดมัน พี่จอร์จก็มีสีหน้าบิดเบี้ยวเล็กน้อย `
+`...เพราะอย่างไรเสีย มันก็คือจดหมายที่ถูกทิ้งไว้ ณ สถานที่ที่พ่อแม่ของเขาถูกฆาตกรรม `
+`...มีความเป็นไปได้สูงที่เนื้อหาข้างในจะมีข้อความบางอย่างที่เกินกว่าที่พี่เขาจะทนรับไหว... `
+`ป้านัตสึฮิเองก็ดูเหมือนจะตระหนักถึงเรื่องนั้นเช่นกัน `
+`...เธอจึงกวาดสายตาดูเนื้อหาคร่าวๆ ก่อนโดยไม่อ่านออกเสียง `
+`พวกเราต่างหวาดหวั่นเล็กน้อยว่าเธออาจจะหน้าถอดสีหลังจากได้อ่านข้อความน่าตกใจ แต่เธอก็เพียงแค่ขมวดคิ้วอย่างไม่สบอารมณ์ `
+`"...ในนั้น...เขียนว่าอย่างไรบ้างครับ...?" `
+`"...มีประโยคน่ารังเกียจอยู่หนึ่งประโยคค่ะ `
+`...คงกะจะยั่วโมโหพวกเราเป็นแน่" `
+`นัตสึฮิ เมื่อตัดสินใจแล้วว่าเนื้อหาข้างในสามารถให้พวกเด็กๆ ดูได้ จึงวางมันลงบนโต๊ะอย่างเปิดเผย `
+`ทุกคนต่างจ้องมองมันพร้อมๆ กัน `
+`""สรรเสริญนามแห่งข้า" `
+`......อะไรวะเนี่ย? `
+`...น่าหงุดหงิดชะมัด" `
+`"......คงเป็นการประกาศชัยชนะของ{f:5:เบียทริเช่}น่ะครับ `
+`......บ้าจริง..." `
 `"..............." `
-`"I'll bet you were hoping another weird magic circle would show up." `
-`"......It wasn't a magic circle, `
-`...but my expectations haven't been betrayed. `
-`...Kihihi." `
-`"What could it mean...? `
-`I wonder if she wants to tout her own existence..." `
-`"That seems reasonable. `
-`.........With this letter, we now know that the author of last night's letter is the culprit. `
-`...I think the identical envelope is more significant than what is written here." `
-`"......Without a doubt, this is the type of envelope and sealing wax that the Master used." `
-`"...Ooooohh... `
-`I don't know what's going on anymore... `
-`This is the first time I've seen anything like this since I started working for the Ushiromiya family..." `
-`"Going by last night's letter, ...{f:5:Beatrice} is claiming to be Grandfather's oldest confidante. `
-`...Grandfather often said the same thing in the past, right?" `
-`I spoke to Genji-san and Kumasawa-san, who nodded together. `
-`"...Guess that means you two know more about her than anyone except Grandfather. `
-`......Could you tell us?" `
-`"......For a long time, I've purposefully avoided this topic. `
-`But now that it has come to this, I can no longer do so. `
-`...Genji, tell us everything you know." `
+`"พนันได้เลยว่าเธอคงหวังให้มีวงเวทมนตร์ประหลาดๆ โผล่มาอีกล่ะสิ" `
+`"......ไม่ใช่วงเวทมนตร์หรอก `
+`...แต่ก็ไม่ได้ผิดไปจากที่มาเรียคาดไว้เลยนะ `
+`...คิฮิฮิ" `
+`"มันหมายความว่าอย่างไรกันนะ...? `
+`เธอต้องการโอ้อวดการมีตัวตนของตัวเองหรือเปล่านะ..." `
+`"น่าจะเป็นเช่นนั้นค่ะ `
+`.........จากจดหมายฉบับนี้ ทำให้ตอนนี้พวกเรารู้แล้วว่าผู้เขียนจดหมายเมื่อคืนก็คือคนร้าย `
+`...ดิฉันคิดว่า ซองจดหมายที่เหมือนกันนี้มีความหมายมากกว่าสิ่งที่เขียนอยู่ข้างในเสียอีกค่ะ" `
+`"......เป็นซองจดหมายและครั่งประทับตราแบบเดียวกับที่ท่านเจ้าบ้านใช้ไม่ผิดแน่ขอรับ" `
+`"...โอยยย... `
+`ป้าไม่รู้แล้วว่ามันเกิดอะไรขึ้นกันแน่... `
+`ตั้งแต่เริ่มมาทำงานรับใช้ตระกูลอุชิโรมิยะ นี่เป็นครั้งแรกเลยที่ได้เจอเรื่องพรรค์นี้..." `
+`"ถ้าว่าตามจดหมายเมื่อคืนนี้ ...{f:5:เบียทริเช่}อ้างตัวว่าเป็นคนสนิทที่เก่าแก่ที่สุดของท่านปู่ `
+`...เมื่อก่อนท่านปู่ก็เคยพูดทำนองนี้บ่อยๆ ใช่ไหมล่ะครับ?" `
+`ผมหันไปพูดกับคุณเก็นจิและคุณคุมาซาวะ ซึ่งทั้งสองคนก็พยักหน้าพร้อมกัน `
+`"...แปลว่านอกจากท่านปู่แล้ว สองคนก็น่าจะรู้เรื่องของเธอดีกว่าใครสินะ `
+`......ช่วยเล่าให้พวกเราฟังหน่อยได้ไหมครับ?" `
+`"......เรื่องนี้ ดิฉันจงใจเลี่ยงที่จะพูดถึงมาตลอดค่ะ `
+`แต่ในเมื่อเรื่องบานปลายมาถึงขั้นนี้แล้ว ก็คงเลี่ยงต่อไปไม่ได้อีก `
+`...เก็นจิ เล่าทุกอย่างที่เธอรู้มาเถอะค่ะ" `
 `"..............." `
-`Genji-san didn't answer. `
-`...Did he remain silent despite his knowledge, or did he know nothing at all? `
-`...Still, I had a good guess. `
-`...The ghost story of the witch {f:5:Beatrice} had long been deified among the servants. `
-`...He had probably been very close to Grandfather and his occult hobbies. `
-`So there was a good chance that he'd been indoctrinated with even weirder things, and had increasingly come to deify the witch. `
-`As Grandfather's most trusted servant, who had sworn loyalty to him, `
-`he might be the most influenced by the illusion of the witch that Grandfather had created... `
-`So there was only one reason for Genji-san to remain silent. `
-`...He could speak, but it would definitely cause a backlash, so it was better if he kept his mouth shut, ...and it wasn't like we'd believe him anyway. `
-`Something along those lines. `
-`...A short while ago, Maria had been more than willing to speak bluntly and unrestrainedly, and that had earned her a scuffle with Jessica. `
-`It was natural for Genji-san to keep his silence... `
-`"......Was she Father's... `
-`father's... `
-`concubine?" `
-`His concubine... `
-`...That could be possible. `
-`For ordinary poor people, polygamy isn't only viewed negatively from a moral perspective. `
-`It's also an unmaintainable financial situation. `
-`...But that isn't the case for the very rich. `
-`It's possible for them to have another lover in addition to their real wife. `
-`...We can't deny the possibility that Grandfather had another woman in his life besides Grandmother. `
-`"Maybe... `
-`When Grandmother was alive, I hear she was pretty sure of it. `
-`She thought he was cheating on her. `
-`...I always thought she meant Grandfather's imaginary witch..." `
-`"...Now this is getting really interesting. `
-`...You told me, didn't you Genji-san? `
-`You said {f:5:Beatrice} has been working for Grandfather since before the mansion was finished." `
-`"I heard that the construction of the mansion was completed in Showa 27 (1952)." `
-`"That'd mean this person called {f:5:Beatrice} was in a relationship with Grandfather since at least 30 years ago..." `
-`"Could that concubine of 30 years ago...or maybe a relative or hidden child with that person...hold some kind of grudge and be planning revenge? `
-`...Ihihi, I see, this is starting to sound just like your standard Western mansion mystery." `
-`"......It's a filthy topic, but the easiest line of reasoning to accept. `
-`...What do you think, Genji?" `
+`คุณเก็นจิไม่ตอบ `
+`...เขานิ่งเงียบทั้งที่รู้ หรือว่าไม่รู้อะไรเลยกันแน่? `
+`...ถึงอย่างนั้น ผมก็พอเดาได้ `
+`...เรื่องเล่าขานเกี่ยวกับแม่มด{f:5:เบียทริเช่}ถูกยกขึ้นเป็นสิ่งศักดิ์สิทธิ์ในหมู่คนรับใช้มานานแล้ว `
+`...เขาคงใกล้ชิดกับท่านปู่และงานอดิเรกเรื่องศาสตร์ลี้ลับของท่านมาก `
+`จึงมีโอกาสสูงที่เขาจะถูกปลูกฝังเรื่องประหลาดพิสดารยิ่งกว่านั้น และยิ่งเทิดทูนบูชาแม่มดขึ้นเรื่อยๆ `
+`ในฐานะคนรับใช้ที่ท่านปู่ไว้วางใจที่สุด และได้ปฏิญาณความภักดีต่อท่าน `
+`เขาอาจเป็นคนที่ได้รับอิทธิพลจากภาพลวงตาของแม่มดที่ท่านปู่สร้างขึ้นมากที่สุดก็ได้... `
+`ดังนั้น เหตุผลที่คุณเก็นจินิ่งเงียบจึงมีอยู่เพียงอย่างเดียว `
+`...ถึงพูดไปก็มีแต่จะโดนต่อต้าน สู้เงียบปากไว้จะดีกว่า ...อีกอย่าง ถึงพูดไปก็ใช่ว่าพวกเราจะเชื่อเสียหน่อย `
+`คงจะทำนองนั้นแหละ `
+`...เมื่อครู่นี้ มาเรียเพิ่งจะพูดจาโผงผางไม่ยั้งคิด จนมีเรื่องทะเลาะกับเจสสิก้าไปหมาดๆ `
+`จึงเป็นธรรมดาที่คุณเก็นจิจะเลือกนิ่งเงียบ... `
+`"......เธอคนนั้น เป็น...ของท่านพ่อ `
+`เป็น...ของท่านพ่อ `
+`ภรรยาน้อย...อย่างนั้นหรือคะ?" `
+`ภรรยาน้อย... `
+`...เรื่องนั้นก็เป็นไปได้ `
+`สำหรับคนจนทั่วๆ ไป การมีภรรยาหลายคนไม่ได้ถูกมองในแง่ลบแค่เรื่องศีลธรรมเท่านั้น `
+`แต่มันยังเป็นภาระทางการเงินที่ไม่อาจแบกรับได้ด้วย `
+`...ทว่ากับมหาเศรษฐีแล้ว เรื่องมันต่างออกไป `
+`พวกเขาสามารถมีคนรักอีกคนนอกเหนือจากภรรยาตัวจริงได้ `
+`...เราจึงปฏิเสธความเป็นไปได้ไม่ได้ ว่าท่านปู่อาจมีผู้หญิงอื่นในชีวิตนอกจากท่านย่า `
+`"อาจจะใช่ก็ได้... `
+`ตอนท่านย่ายังมีชีวิตอยู่ ได้ยินว่าท่านย่าค่อนข้างปักใจเชื่อเรื่องนี้เลยล่ะ `
+`ท่านคิดว่าท่านปู่นอกใจ `
+`...ฉันก็นึกว่าท่านหมายถึงแม่มดในจินตนาการของท่านปู่มาตลอดซะอีก..." `
+`"...ชักจะน่าสนใจขึ้นมาจริงๆ แล้วสิ `
+`...คุณเก็นจิเคยบอกผมใช่ไหมล่ะครับ? `
+`ที่บอกว่า{f:5:เบียทริเช่}ทำงานรับใช้ท่านปู่มาตั้งแต่ก่อนคฤหาสน์หลังนี้จะสร้างเสร็จน่ะ" `
+`"ดิฉันได้ยินมาว่า คฤหาสน์หลังนี้สร้างเสร็จสมบูรณ์เมื่อปีโชวะที่ 27 (ปี 1952) ค่ะ" `
+`"ถ้างั้นก็หมายความว่า คนที่ชื่อ{f:5:เบียทริเช่}คนนี้ มีความสัมพันธ์กับท่านปู่มาอย่างน้อยก็ตั้งแต่ 30 ปีก่อนแล้ว..." `
+`"ภรรยาน้อยเมื่อ 30 ปีก่อนคนนั้น...หรืออาจเป็นญาติ หรือลูกนอกสมรสของคนคนนั้น...เกิดผูกใจเจ็บแล้วกำลังวางแผนแก้แค้นอยู่หรือเปล่า? `
+`...อิฮิฮิ นั่นสินะ ชักจะฟังดูเหมือนมิสเตอรี่ตามแบบฉบับคฤหาสน์สไตล์ตะวันตกเข้าไปทุกทีแล้ว" `
+`"......แม้จะเป็นเรื่องที่น่ารังเกียจ แต่ก็เป็นแนวคิดที่เข้าใจได้ง่ายที่สุดค่ะ `
+`...เธอคิดว่าอย่างไร เก็นจิ?" `
 `"............... `
-`......The Master surely had feelings of deep love for her. `
-`There can be no mistake that he cared for her more than his late wife." `
-`"...Who is this person called {f:5:Beatrice}?! `
-`And what's she doing now?!" `
+`......ท่านเจ้าบ้านมีความรักอันลึกซึ้งต่อเธออย่างแน่นอนขอรับ `
+`ไม่มีทางผิดแน่ว่าท่านทรงรักใคร่เธอผู้นั้น ยิ่งกว่าภรรยาผู้ล่วงลับเสียอีก" `
+`"...คนที่ชื่อ{f:5:เบียทริเช่}เนี่ยเป็นใครกันแน่?! `
+`แล้วตอนนี้เธอทำอะไรอยู่ที่ไหน?!" `
 `"............ `
-`...I have heard that she passed away before the mansion was completed." `
-`"She's already dead...?" `
-`"...Yes. `
-`...The Master was deeply stricken by grief at her loss, `
-`......and he devoted himself to the art of black magic as a means to revive her. `
-`...The Master loved {f:5:Beatrice}-sama from the bottom of his heart. `
-`...It was that madness which drove him to do all that you see here." `
-`As Genji-san said this, he spread his arms, as though asking us to look at this room, filled with the signs of Grandfather's madness. `
-`...We were all at a loss for words. `
-`Normally, black magic seems like it'd just be creepy, and it's really hard to imagine why someone might be so enraptured by it. `
-`...Since Kinzo was just an "eccentric" who had restored the Ushiromiya family amidst his madness, nobody had tried to understand him... `
-`The only thing on Grandfather's mind had been the loss of a beloved woman... `
-`...and his inescapable sorrow. `
-`...Earlier, this room had seemed creepy, `
-`...but in an instant, it had changed into something we could understand completely. `
-`The creepy books, `
-`the magic circles, `
-`the medicine, `
-`...all of it. `
-`...It all existed simply because he wanted to revive the face of a single woman who had left this world over 30 years ago... `
-`"......The Master only told me about {f:5:Beatrice}-sama's story once, when he was very drunk. `
-`......Although I have forgotten the details. `
-`......It was... `
-`a deep, deep love, enough to make a woman like me jealous." `
-`"......When Kinzo-san succeeded the Headship of the Ushiromiya family, `
-`...his marriage to his late wife had already been decided by the few surviving family elders." `
-`"...So, `
-`...he was forced into a marriage with some woman who would benefit the Ushiromiya family?" `
-`"...That is correct. `
-`...Kinzo-san was installed as the Head who would revive the family, and had to bear the entirety of that heavy responsibility. `
-`......I do not pretend to know the details of when or where Kinzo-san first met her." `
-`"......Guess it'd be rude to say any more than that." `
-`That was when Grandfather truly fell in love for the first time... `
-`Just how deep was his affection for her? `
-`...That was easy to see just by looking around us. `
-`...This room was covered with piles upon piles of things having to do with black magic. `
-`And Grandfather spent every day shut in here, immersed in his research and isolated from the outside world, never regretting one minute of it. `
-`...You couldn't help but recognize the depths of Grandfather's love for {f:5:Beatrice}... `
+`...กระผมได้ยินมาว่า เธอได้ถึงแก่กรรมไปตั้งแต่ก่อนที่คฤหาสน์จะสร้างเสร็จแล้วขอรับ" `
+`"ตายไปแล้วงั้นเหรอ...?" `
+`"...ขอรับ `
+`...ท่านเจ้าบ้านโศกเศร้าอย่างสุดซึ้งต่อการจากไปของเธอ `
+`......ท่านจึงทุ่มเทให้แก่ศาสตร์แห่งมนตร์ดำ เพื่อเป็นหนทางที่จะชุบชีวิตเธอขึ้นมา `
+`...ท่านเจ้าบ้านรักท่าน{f:5:เบียทริเช่}จากก้นบึ้งของหัวใจ `
+`...ความบ้าคลั่งนั้นเอง ที่ผลักดันให้ท่านทำทุกอย่างดังที่เห็นอยู่นี้ขอรับ" `
+`เมื่อคุณเก็นจิพูดจบ เขาก็กางแขนออก ราวกับจะบอกให้พวกเรามองดูห้องนี้ ซึ่งเต็มไปด้วยร่องรอยแห่งความคลุ้มคลั่งของท่านปู่ `
+`...พวกเราทุกคนต่างพูดไม่ออก `
+`ตามปกติแล้ว มนตร์ดำคงดูเป็นเรื่องน่าขนลุกเพียงอย่างเดียว และยากจะเข้าใจจริงๆ ว่าทำไมใครสักคนถึงได้ลุ่มหลงมันได้ถึงขนาดนี้ `
+`...เพราะคินโซเป็นเพียง "คนพิลึก" ผู้กอบกู้ตระกูลอุชิโรมิยะขึ้นมาท่ามกลางความบ้าคลั่งของตน จึงไม่มีใครพยายามทำความเข้าใจเขา... `
+`สิ่งเดียวที่อยู่ในใจของท่านปู่ มีเพียงการสูญเสียหญิงอันเป็นที่รัก... `
+`...และความโศกเศร้าที่ไม่อาจหลีกหนีได้ `
+`...ก่อนหน้านี้ ห้องนี้ดูน่าขนลุก `
+`...แต่ชั่วพริบตา มันกลับแปรเปลี่ยนเป็นสิ่งที่เราเข้าใจได้อย่างถ่องแท้ `
+`หนังสือชวนขนลุก `
+`วงเวท `
+`สารเคมี `
+`...ทั้งหมดนั่น `
+`...ทั้งหมดล้วนมีอยู่ เพียงเพราะเขาปรารถนาจะได้เห็นใบหน้าของหญิงคนหนึ่ง ผู้ลาจากโลกนี้ไปกว่า 30 ปีก่อนฟื้นคืนมาอีกครั้ง... `
+`"......ท่านเจ้าบ้านเคยเล่าเรื่องของท่าน{f:5:เบียทริเช่}ให้ดิฉันฟังแค่ครั้งเดียว ตอนที่ท่านเมามากน่ะค่ะ `
+`......ถึงแม้รายละเอียดป้าจะลืมไปหมดแล้วก็เถอะ `
+`......มันเป็น... `
+`ความรักที่ลึกซึ้ง ลึกซึ้งเสียจนผู้หญิงอย่างป้ายังนึกอิจฉาเลยล่ะค่ะ" `
+`"......ตอนที่คุณคินโซสืบทอดตำแหน่งประมุขตระกูลอุชิโรมิยะ `
+`...การแต่งงานกับภรรยาผู้ล่วงลับ ก็ถูกกำหนดไว้แล้วโดยพวกผู้อาวุโสในตระกูลเพียงไม่กี่คนที่รอดชีวิตมาได้ครับ" `
+`"...ถ้าอย่างนั้น `
+`...ท่านก็ถูกบังคับให้แต่งงานกับผู้หญิงที่จะนำผลประโยชน์มาให้ตระกูลอุชิโรมิยะงั้นเหรอครับ?" `
+`"...ถูกต้องแล้วล่ะครับ `
+`...คุณคินโซได้รับการแต่งตั้งให้เป็นประมุขตระกูลผู้จะมากอบกู้ตระกูล และต้องแบกรับความรับผิดชอบอันหนักหน่วงนั้นไว้ทั้งหมด `
+`......ผมคงไม่อาจบอกได้ว่าคุณคินโซได้พบกับเธอเป็นครั้งแรกที่ไหนหรือเมื่อไรครับ" `
+`"......คงเสียมารยาทถ้าจะซักไซ้ไปมากกว่านี้สินะครับ" `
+`นั่นคือตอนที่ท่านปู่ได้ตกหลุมรักอย่างแท้จริงเป็นครั้งแรก... `
+`ความรักที่ท่านมีต่อเธอมันลึกซึ้งเพียงใดกันนะ? `
+`...เรื่องนั้น เพียงแค่มองดูรอบตัวพวกเราก็เข้าใจได้ง่ายดาย `
+`...ห้องนี้เต็มไปด้วยกองสิ่งของที่เกี่ยวข้องกับมนตร์ดำทับถมกันเป็นพะเนิน `
+`และท่านปู่ก็ขังตัวเองอยู่ในนี้ทุกเมื่อเชื่อวัน จมดิ่งอยู่กับการค้นคว้าและตัดขาดจากโลกภายนอก โดยไม่เคยนึกเสียดายเวลาแม้แต่นาทีเดียว `
+`...มันทำให้ไม่อาจปฏิเสธได้เลย ถึงความลึกซึ้งในความรักที่ท่านปู่มีต่อ{f:5:เบียทริเช่}... `
 `"......... `
-`...I...had it all wrong, Genji-san." `
-`"......What...do you mean by that?" `
-`"...I-I've always thought that...maybe you servants believed blindly in the witch because you were influenced by Grandfather's creepy black magic hobby. `
-`...But that's not how it was, right...?" `
-`By acting as though {f:5:Beatrice}'s soul at least had been restored... `
-`and existed inside this mansion, `
-`...they might have hoped to soothe Grandfather's heart... `
-`With closed eyes and the expression of one remembering something from the distant past, `
-`...Genji had broken his long silence. `
-`......In making that confession, he probably felt like he was betraying his one and only Master in the most serious way, even though that person was already dead. `
-`...{f:5:Beatrice} has revived as a witch, and she is in the mansion even now. `
-`......That was his mantra, `
-`he had believed it, `
-`...had made people believe it, `
-`.........And Genji would take that with him to the grave. `
-`This might have been the last service he could offer up to his Master. `
-`The legend of the witch, the mysterious tale of Rokkenjima that was still whispered of amongst the servants... `
-`...Its true nature was... `
-`a sad lie. `
-`...No, it was an act of kindness towards Grandfather, who had lost the person he loved above all else. `
+`...ฉัน...เข้าใจผิดไปหมดเลย คุณเก็นจิ" `
+`"......ที่ว่านั้น...หมายความว่าอย่างไรหรือขอรับ?" `
+`"...ฉ-ฉันคิดมาตลอดว่า...พวกคนรับใช้อย่างพวกคุณเชื่อเรื่องแม่มดอย่างไม่ลืมหูลืมตา เพราะได้รับอิทธิพลมาจากงานอดิเรกมนตร์ดำชวนขนลุกของท่านปู่ `
+`...แต่มันไม่ใช่แบบนั้นเลยใช่ไหมล่ะ...?" `
+`ด้วยการทำเป็นเหมือนกับว่า อย่างน้อยดวงวิญญาณของ{f:5:เบียทริเช่}ได้รับการฟื้นฟูขึ้นมาแล้ว... `
+`และยังคงสถิตอยู่ภายในคฤหาสน์หลังนี้ `
+`...พวกเขาอาจหวังว่าจะช่วยปลอบประโลมหัวใจของท่านปู่ได้บ้าง... `
+`ดวงตาปิดลงพร้อมสีหน้าของผู้ที่กำลังหวนรำลึกถึงเรื่องราวในอดีตอันไกลโพ้น `
+`...เก็นจิได้ทำลายความเงียบอันยาวนานของตนลง `
+`......ในการสารภาพเรื่องนั้น เขาคงรู้สึกราวกับว่ากำลังทรยศท่านเจ้าบ้านผู้เป็นหนึ่งเดียวอย่างร้ายแรงที่สุด แม้ว่าบุคคลผู้นั้นจะจากโลกนี้ไปแล้วก็ตาม `
+`...{f:5:เบียทริเช่}ฟื้นคืนชีพขึ้นมาในฐานะแม่มด และเวลานี้เธอก็ยังคงอยู่ในคฤหาสน์ `
+`......นั่นคือคำที่เขาท่องซ้ำมาตลอด `
+`เขาเคยเชื่อเช่นนั้น `
+`...และทำให้ผู้คนเชื่อเช่นนั้น `
+`.........และเก็นจิจะนำความลับนั้นติดตัวลงหลุมศพไปด้วย `
+`นี่อาจเป็นการรับใช้ครั้งสุดท้ายที่เขาสามารถอุทิศให้แก่ท่านเจ้าบ้าน `
+`ตำนานแม่มด เรื่องเล่าลี้ลับแห่งเกาะร็อกเค็นจิมะที่ยังคงกระซิบกระซาบกันในหมู่คนรับใช้... `
+`...แท้จริงแล้ว... `
+`คือคำโกหกอันแสนเศร้า `
+`...ไม่ใช่สิ มันคือความอ่อนโยนที่มีต่อท่านปู่ ผู้สูญเสียบุคคลอันเป็นที่รักยิ่งเหนือสิ่งอื่นใดไป `
 `"......... `
-`...I remember denying the witch's existence in front of Father on multiple occasions. `
-`......Now I finally understand how much that must have wounded him..." `
-`"...Right now, I can understand very well. `
-`......If I thought I could revive Shannon using black magic, `
-`...I'd immediately become the next owner of this room and start researching..." `
-`"............Aniki." `
-`Another strand of tears dripped from George's eyes. `
-`...Maybe his tears were infectious. Tears rose to Jessica's eyes too, and she sniffled... `
-`"......{f:5:Beatrice} has said it. `
-`......Very soon, she will be able to revive people. `
-`You'll be able to meet them, she said." `
-`—Very soon, the door to the Golden Land will be opened. `
-`In the promised land that glitters gold, the souls of all the dead will be resurrected, along with the love that has been lost. `
-`...Then I will sleep in a world of peacefulness for all time. `
-`"...Did she say that? `
-`The {f:5:Beatrice} who gave you the letter?" `
-`".........You don't believe, do you? `
-`......Kihihihi." `
-`"...If only Grandfather were here, `
-`I'm sure he'd be happy. `
-`I'm sure he'd be jumping for joy now that {f:5:Beatrice} is about to be revived... `
-`...In that case, I believe. `
-`...If Grandfather gave up half of his life for this research, trying to resurrect the soul of the woman he loved and spending the rest of his life believing, ...I'll believe too." `
-`"......Battler........." `
-`"...When you love a single woman for so long, `
-`...the people around you catch on to it, and it becomes the truth. `
-`......Maybe you could say they're just being polite for the sake of your feelings. `
-`......But right here, now, ...I'd like to call that magic." `
-`"......It isn't just being polite. `
-`......It really is...magic. `
-`...She's a witch. `
-`...Kihihihihihi. `
-`It looks like nobody can see {f:5:Beatrice} after all..." `
-`Some time passed. `
-`As we listened to the sound of the rain, `
-`...we considered what kind of love and madness must have possessed the owner of this room as he spent half of his life here... `
-`"......If you ask me as a woman, then while I'd like to be understanding of Father's feelings of true love, `
-`...it did leave Mother in an awkward position." `
-`"Haha, I agree. `
-`Cheating is cheating. `
-`No way to make it pretty..." `
-`"...Yeah, that's right. `
-`Gotta feel sorry for Grandmother." `
-`"So, ...have there been any rumors about a child between {f:5:Beatrice} and Grandfather...?" `
-`The keyword "{f:5:Beatrice}" has been hidden in every corner of this case. `
-`So it's natural to suspect some relative of hers. `
-`"No. `
-`......I have not heard of anything like that." `
-`"...If there was one, a memento of his most beloved person, he surely would have given them all of his affection. `
-`...Since he ended up immersing himself in black magic instead, maybe we should assume that there was no such child." `
-`"......Come to think of it, that reminds me of a rumor I heard. `
-`...You know it, right? `
-`That story about how Grandfather heavily supported an orphanage called the Fukuin House?" `
-`"...Enough of that. `
-`That is nothing more than slander which would desecrate Father." `
-`"Tell us, Aunt Natsuhi. `
-`...I think even you'd agree that this is no time to hide things from each other." `
-`"......It's a worthless story. `
-`Father made massive donations to an orphanage and had the orphans employed as servants at the Head Family, to give them some on-the-job experience. `
-`The story in question is simply some drivel spread by fools...who claim that Father was using those orphans for some filthy hobby." `
-`"For a while, some guys even said he was collecting human sacrifices for his black magic... `
-`And he really is doing weird experiments and ceremonies in this room all the time, so I half believed it myself..." `
-`"...And these servants who came from the Fukuin House are?" `
-`"......There are several of them, but Shannon and Kanon were the two scheduled during the family conference shift." `
-`To resurrect {f:5:Beatrice}, ...he brought in servants from an orphanage as human sacrifices...? `
-`"After all, everyone Grandfather selected as a servant was young, about the same age as Shannon or Kanon-kun. `
-`...I was sure it was because Grandfather had some bizarre hobby." `
-`"Jessica! `
-`Mind your words." `
-`When Aunt Natsuhi scolded her, the atmosphere instantly went sour and everyone fell quiet. `
-`...However, something was tugging at the back of my mind. `
-`Sacrifices... `
-`Sacrifices... `
-`......Human sacrifices brought over from an orphanage... `
-`...What is it? `
-`Freaky words like "sacrifices" don't pop up often. `
-`...And yet, I've seen or heard that word recently. `
-`......Some part of my memory is tugging at me. `
-`...Hey, {f:5:Beatrice}. `
-`What do you know...? `
-`I had arrived in front of the portrait of {f:5:Beatrice}. `
-`It wasn't as massive as the one in the entrance hall, `
-`but that portrait, which must have been drawn by some famous painter, was still just as intimidating in this smaller size. `
-`...Below it, just like in the entrance hall, was the epitaph that supposedly hinted at the location of the hidden gold... `
-`"..................ah... `
+`...ดิฉันจำได้ว่าเคยปฏิเสธเรื่องการมีตัวตนของแม่มดต่อหน้าท่านพ่ออยู่หลายต่อหลายครั้งค่ะ `
+`......ตอนนี้ถึงได้เข้าใจเสียทีว่านั่นคงทำร้ายจิตใจของท่านพ่อมากเพียงใด..." `
+`"...ตอนนี้ผมเข้าใจเป็นอย่างดีเลยครับ `
+`......ถ้าผมคิดว่าจะชุบชีวิตชาน่อนขึ้นมาได้ด้วยศาสตร์มืดล่ะก็ `
+`...ผมคงยอมเป็นเจ้าของห้องคนต่อไปแล้วเริ่มค้นคว้าทันทีเหมือนกัน..." `
+`"............พี่ครับ" `
+`น้ำตาอีกหยดร่วงหล่นจากดวงตาของจอร์จ `
+`...อาจเพราะน้ำตานั้นติดต่อกันได้ น้ำตาจึงเอ่อล้นเบ้าตาของเจสสิก้าเช่นกัน และเธอก็สูดจมูก... `
+`"......{f:5:เบียทริเช่}บอกไว้แล้วนะ `
+`......อีกประเดี๋ยว เธอก็จะชุบชีวิตผู้คนได้แล้ว `
+`จะได้พบกันอีกแน่นอน เธอบอกแบบนั้นนะ" `
+`—อีกประเดี๋ยว ประตูสู่ดินแดนทองคำก็จะเปิดออก `
+`ณ ดินแดนแห่งพันธสัญญาอันทอประกายสีทอง วิญญาณของผู้ตายทั้งปวงจะฟื้นคืนชีพขึ้นมา พร้อมกับความรักที่สูญสิ้นไป `
+`...จากนั้น ข้าก็จะหลับใหลอยู่ในโลกอันแสนสงบสุขตลอดกาล `
+`"...เธอพูดแบบนั้นเหรอ? `
+`{f:5:เบียทริเช่}คนที่ยื่นจดหมายให้เธอน่ะ?" `
+`".........ไม่เชื่อล่ะสิ? `
+`......คิฮิฮิฮิ" `
+`"...ถ้าเพียงแต่ท่านปู่อยู่ที่นี่ `
+`ฉันมั่นใจว่าท่านปู่คงดีใจแน่ `
+`คงจะกระโดดโลดเต้นด้วยความดีใจที่{f:5:เบียทริเช่}กำลังจะฟื้นคืนชีพขึ้นมา... `
+`...ถ้าเป็นแบบนั้น ฉันเชื่อก็ได้ `
+`...หากท่านปู่ยอมสละชีวิตไปครึ่งหนึ่งเพื่อการค้นคว้านี้ เพื่อพยายามชุบวิญญาณของผู้หญิงที่รัก และใช้เวลาที่เหลือทั้งชีวิตไปกับความเชื่อนั้น ...ฉันก็จะเชื่อด้วยเหมือนกัน" `
+`"......แบทเลอร์........." `
+`"...เมื่อรักผู้หญิงคนหนึ่งอย่างลึกซึ้งยาวนานถึงเพียงนั้น `
+`...ผู้คนรอบข้างก็จะค่อยๆ คล้อยตาม จนกระทั่งมันกลายเป็นความจริงขึ้นมา `
+`......บางที อาจจะพูดได้ว่าพวกเขาแค่เออออตามน้ำเพื่อรักษาน้ำใจ `
+`......แต่ ณ ที่ตรงนี้ ในเวลานี้ ...ผมอยากจะเรียกสิ่งนั้นว่าเวทมนตร์ครับ" `
+`"......ไม่ใช่แค่รักษาน้ำใจหรอกนะ `
+`......มันคือ...เวทมนตร์จริงๆ ต่างหาก `
+`...เธอเป็นแม่มดนะ `
+`...คิฮิฮิฮิฮิ `
+`ดูเหมือนจะไม่มีใครมองเห็น{f:5:เบียทริเช่}ได้เลยสินะ..." `
+`เวลาล่วงเลยไปครู่หนึ่ง `
+`ท่ามกลางเสียงสายฝนที่พวกเราเฝ้าฟัง `
+`...พวกเราต่างนึกถึงความรักและความบ้าคลั่งแบบไหนกัน ที่เข้าครอบงำเจ้าของห้องนี้ยามใช้ชีวิตครึ่งหนึ่งของตนอยู่ที่นี่... `
+`"......ในฐานะผู้หญิงคนหนึ่ง แม้ดิฉันอยากจะเข้าใจความรู้สึกรักแท้ของท่านพ่อก็ตาม `
+`...แต่นั่นก็ทำให้คุณแม่ต้องตกอยู่ในจุดที่กลืนไม่เข้าคายไม่ออกเหลือเกินค่ะ" `
+`"ฮะๆ ฉันเห็นด้วยเลย `
+`นอกใจก็คือนอกใจวันยังค่ำ `
+`จะพูดยังไงก็ไม่ดูดีขึ้นมาหรอก..." `
+`"...ก็นั่นสินะ `
+`ต้องสงสารท่านย่าเขาล่ะ" `
+`"แล้ว... เคยมีข่าวลือเรื่องลูกที่เกิดระหว่าง{f:5:เบียทริเช่}กับท่านปู่บ้างไหมครับ...?" `
+`คำสำคัญอย่าง "{f:5:เบียทริเช่}" ซ่อนอยู่ในทุกซอกทุกมุมของคดีนี้ `
+`ดังนั้น การจะสงสัยว่าอาจเป็นญาติของเธอจึงเป็นเรื่องธรรมดา `
+`"หามิได้ขอรับ `
+`......กระผมไม่เคยได้ยินเรื่องเช่นนั้นเลยขอรับ" `
+`"...ถ้าหากมีอยู่จริง ในฐานะของดูต่างหน้าของบุคคลอันเป็นที่รักยิ่ง ท่านปู่ก็คงมอบความรักใคร่ทั้งหมดให้ไปแล้ว `
+`...แต่การที่ท่านปู่หันไปหมกมุ่นกับศาสตร์มืดแทน เราอาจต้องคิดว่าไม่มีเด็กคนนั้นอยู่จริงก็ได้ครับ" `
+`"......จะว่าไป ฉันก็นึกถึงข่าวลือเรื่องหนึ่งขึ้นมาได้ `
+`...รู้กันใช่ไหมล่ะ? `
+`เรื่องที่ว่าท่านปู่ให้การสนับสนุนบ้านเด็กกำพร้าที่ชื่อบ้านฟุคุอินอย่างหนักน่ะ?" `
+`"...พอได้แล้วค่ะ `
+`นั่นเป็นแค่คำใส่ร้ายป้ายสีที่จะเหยียบย่ำเกียรติของท่านพ่อเท่านั้นนะคะ" `
+`"เล่าให้ฟังเถอะครับ ป้านัตสึฮิ `
+`...ผมว่าแม้แต่ป้าเองก็น่าจะเห็นด้วย ว่าเวลานี้ไม่ใช่เวลาที่จะมาปิดบังอะไรกันแล้วนะครับ" `
+`"......มันเป็นเรื่องไร้สาระค่ะ `
+`ท่านพ่อบริจาคเงินจำนวนมหาศาลให้บ้านเด็กกำพร้า และรับเด็กกำพร้ามาทำงานเป็นคนรับใช้ที่ตระกูลหลัก เพื่อให้เด็กๆ ได้เรียนรู้ประสบการณ์การทำงานจริง `
+`ส่วนเรื่องที่ว่านั้น ก็เป็นเพียงเรื่องเหลวไหลที่พวกคนเขลาปล่อยออกมา... โดยอ้างว่าท่านพอนำเด็กกำพร้าเหล่านั้นมาใช้เพื่อสนองงานอดิเรกสกปรกของตัวเองค่ะ" `
+`"ช่วงหนึ่งถึงกับมีคนพูดว่าท่านปู่รวบรวมเครื่องสังเวยมนุษย์มาใช้ในศาสตร์มืดด้วยซ้ำ... `
+`แถมท่านปู่ยังทำการทดลองกับพิธีกรรมประหลาดในห้องนี้อยู่ตลอดเวลา จนฉันเองยังแอบเชื่อไปครึ่งหนึ่งเลย..." `
+`"...แล้วคนรับใช้ที่มาจากบ้านฟุคุอินนี่มีใครบ้างเหรอครับ?" `
+`"......มีอยู่หลายคนขอรับ แต่ผู้ที่มีเวรทำงานในช่วงการประชุมเครือญาติคือชาน่อนกับคาน่อนขอรับ" `
+`เพื่อชุบชีวิต{f:5:เบียทริเช่} ...ท่านปู่ถึงกับพาคนรับใช้จากบ้านเด็กกำพร้ามาเป็นเครื่องสังเวยมนุษย์งั้นหรือ...? `
+`"ก็แหม ทุกคนที่ท่านปู่เลือกมาเป็นคนรับใช้มีแต่วัยรุ่นทั้งนั้นเลยนี่ อายุไล่เลี่ยกับชาน่อนหรือไม่ก็คาน่อนคุง `
+`...ฉันเลยปักใจเชื่อว่าคงเพราะท่านปู่มีรสนิยมพิลึกพิลั่นอะไรสักอย่างแน่ๆ" `
+`"เจสสิก้า! `
+`ระวังปากหน่อยค่ะ" `
+`พอป้านัตสึฮิดุเข้า บรรยากาศก็เสียไปในทันทีและทุกคนต่างเงียบกริบ `
+`...ทว่า มีบางอย่างกำลังสะกิดใจผมอยู่ `
+`เครื่องสังเวย... `
+`เครื่องสังเวย... `
+`......เครื่องสังเวยมนุษย์ที่นำมาจากบ้านเด็กกำพร้า... `
+`...อะไรกันนะ? `
+`คำชวนขนลุกอย่าง "เครื่องสังเวย" ไม่ใช่คำที่จะได้ยินบ่อยๆ `
+`...ถึงอย่างนั้น ผมกลับเคยเห็นหรือได้ยินคำคำนี้มาไม่นานนี้ `
+`......ความทรงจำส่วนหนึ่งกำลังสะกิดผมอยู่ `
+`...นี่ {f:5:เบียทริเช่} `
+`เธอรู้อะไรบ้างล่ะ...? `
+`ผมเดินมาหยุดอยู่ตรงหน้ารูปเหมือนของ{f:5:เบียทริเช่} `
+`มันไม่ได้ใหญ่โตมโหฬารเท่ากับบานที่อยู่ในโถงทางเข้า `
+`แต่รูปเหมือนที่น่าจะวาดโดยจิตรกรชื่อดังภาพนี้ แม้จะย่อส่วนลงมาก็ยังคงให้ความรู้สึกน่าเกรงขามไม่แพ้กัน `
+`...ด้านล่างของภาพ มีจารึกที่ว่ากันว่าเป็นคำใบ้บอกตำแหน่งของทองคำลับอยู่ เช่นเดียวกับที่โถงทางเข้า... `
+`"..................อ๊ะ... `
 `.........! `
-`Sacrifices, `
-`...here." `
-`"Wh-What the hell, Battler? `
-`You're creeping me out..." `
-`Six... `
-`sacrifices. `
-`......Ah, `
-`......aaaaaaaaaaaaaahh!!!" `
-`Both of my eyes opened as wide as plates... `
-`...Everything's been predicted right there from the very beginning...! `
-`Everyone crowded around. `
-`And the same expression of shock rose to all of our faces...! `
-`That's right. `
-`It's right there in the epitaph. `
-`"On the first twilight, offer the six chosen by the key as sacrifices." `
-`"Ah, ...aaahh, there's no doubt. `
-`Six people died in the beginning! `
-`And even on the shutter where the magic circle was drawn...no, where the Hebrew was written, it mentioned the offering of sacrifices...!!" `
-`"...Uu-. `
-`...I've been saying that from the beginning." `
-`That's right, Maria said it right at the start! `
-`Right after we found the six bodies, when Maria was in the parlor watching TV, she said it! `
-`'......Uu-. `
-`The culprit isn't human.' `
-`"{i:It's just the sacrifices chosen by the key.}" `
-`"This has nothing to do with the location of the hidden gold!! `
-`It's the instructions for a resurrection ceremony using black magic or something! `
-`After all, this epitaph requires a large number of "deaths"!" `
-`"...I-It sure does. `
-`Even reading through it quickly, there'd be 6+2+5, `
-`...13 people who must die...!" `
-`"...How many people are normally on this island?!" `
-`"...I-It changes depending on the shifts for the servants, but there's Father, my husband, Jessica, and me. `
-`And two or three servants. `
-`...Today and yesterday, there were five of them, but there aren't normally that many." `
-`"Which means that normally, `
-`...there wouldn't be enough sacrifices to carry out this "ceremony". `
-`...No, wait. `
-`...There's that rumor that Grandfather was collecting servants from an orphanage to be used as sacrifices in some creepy ceremony..." `
-`"So what does this mean?! `
-`He increased the number of servants to increase the number of sacrifices...and waited for the annual family conference when even more people would gather...? `
-`...Isn't now the only time of the year this ceremony could be held?!" `
-`When Jessica screamed this, Maria broke out in that creepy laugh, looking truly pleased. `
-`"......Kihihihihihihihihihihihihihihi. `
-`...Haven't you ever heard of people making bets to test their fate?" `
-`Like throwing a sandal and saying that if it lands right side up, tomorrow will be sunny. `
-`...Or saying that tomorrow will be a good day if a coin lands heads up. `
-`...There are many little superstitions like that. `
-`Sometimes, when your luck is down and you get bored, and you roll the dice and get three sixes, you want to believe it's a portent of some miracle. `
-`...When flipping a sandal, you have at worst a 50% chance. `
-`Even if you get it right side up, it's not worth much. `
-`...But if you carelessly roll three dice and they all come up six, you might think that's a small miracle. `
-`"......Magic works the same way. `
-`...You must pray earnestly for an extremely unlikely result. `
-`...Then, the feelings from all those stored up prayers gain magical power and become incarnate. `
-`......The magic that Grandfather was trying to perform was probably like that. `
-`The key randomly selected sacrifices in a lottery. `
-`So, to reduce the chance that he himself was selected, he chose the day with the greatest number of people on the island to carry out the ceremony..." `
-`"Ridiculous!! `
-`Are you saying that this entire situation was caused by a mere ceremony for some bizarre magic?!" `
-`Natsuhi yelled. `
-`...She couldn't quell the fear that a scorpion charm might be the only reason she was still safe. `
-`......If I hadn't received that charm from Jessica and hung it from my doorknob, `
-`...would I have been killed, mixed in along with those six?! `
-`And the strangest part is...even though I hung the charm from the inside of my door, they couldn't get through that door. `
-`...The culprit noticed the charm from outside the door and gave up trying to open it. `
-`...A human couldn't have perceived that. `
-`A charm meant to stop something that was not human...had done exactly that...!! `
-`Impossible, impossible, impossible!!! `
-`"But Natsuhi-san, `
-`the epitaph certainly does continue to fit even after that..." `
-`"O-On the second twilight, those who remain shall tear apart the two who are close... `
-`...Could this be talking about Eva-sama and Hideyoshi-sama...?" `
-`"......P-Painful as it may be, ...we must reach that conclusion. `
-`...And after the culprit killed them, they left the words from "the third twilight" in a letter there." `
-`"Th-That's right... `
-`After carrying out the second twilight, they left the third twilight in that place. `
-`...The third twilight was...just like Aunt Natsuhi just read...!!" `
-`"On the third twilight, those who remain shall praise my noble name." `
-`Aaaaaaaaaahhh, ...if you read it this way, it just keeps going on, doesn't it? `
-`"On the fourth twilight, gouge the head and kill." `
-`Gouge the head and kill. `
-`...George-aniki's parents were killed with those "demon's icepicks" gouged into their heads. `
-`...But if they were the second twilight, `
-`...someone else must've been gouged in the head... `
-`"...That's Grandfather... `
-`He was burned in the incinerator, and our eyes were so drawn to that part that we didn't notice, `
-`...but his forehead... `
-`no, his head had been gouged." `
-`"Grandfather was...the victim of the fourth twilight? `
-`Th-Then, Kanon-kun was...!" `
-`"..."On the fifth twilight, gouge the chest and kill". `
-`...We thought Kanon-kun's case was an unexpected encounter with the culprit, ......but that's wrong. `
-`From the very beginning, they planned to lure someone out alone and drive something through their chest..." `
-`"......If the culprit has followed the epitaph this far, `
-`...does that mean three people still have to die...?!" `
-`"On the sixth twilight, gouge the stomach and kill." `
-`"On the seventh twilight, gouge the knee and kill." `
-`"On the eighth twilight, gouge the leg and kill." `
-`"......Y-Yes, `
-`...you could read it that way... `
-`...eeeeepp..." `
-`"Well, I wonder about that... `
-`......After those three die, it reaches the ninth twilight. `
-`Take a look..." `
-`"On the ninth twilight, the witch shall revive, and none shall be left alive." `
-`"We're...all gonna be killed by {f:5:Beatrice}..." `
-`"......I don't get it. `
-`Wouldn't that mean everyone dies no matter how many people there are? `
-`...What was Grandfather after? `
-`Doesn't this mean the ceremony would kill him too, no matter what...?!" `
-`"......It's okay if no one's left alive. `
-`...On the tenth twilight, we finally arrive at the Golden Land." `
-`"On the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's treasures, once and for the last time." `
-`"The witch shall praise the wise and bestow four treasures." `
-`"...Grandfather wasn't afraid of dying. `
-`......Look at the second and third of the four treasures." `
-`"......'One shall be the resurrection of all the dead souls. `
-`One shall be the resurrection of the love that was lost'. `
-`...So Grandfather believed he would eventually be revived, even if he died partway through this ceremony...?" `
-`"Ridiculous! That's insane!! `
-`When you die, it's over, right?! `
-`The dead don't come back to life. `
-`Isn't that a miracle humanity's been chasing after for thousands of years and still hasn't accomplished?! `
-`So is this what it means? `
-`Something like, you'll be able to meet them in the afterlife, where they'll be restored?!" `
-`"...If what you're saying now is right, ...would that mean that... `
-`Grandfather, whose remaining life is slim and who's been driven mad by love, is committing suicide... `
-`no, ...a massive forced group suicide...?!" `
+`เครื่องสังเวย `
+`...อยู่นี่" `
+`"อะ-อะไรของนายเนี่ย แบทเลอร์? `
+`ทำเอาขนลุกหมดแล้วนะ..." `
+`หก... `
+`เครื่องสังเวย `
+`......อ๊ะ `
+`......อา~~~~~~~~!!!" `
+`ดวงตาทั้งสองข้างของผมเบิกกว้างเท่าจาน... `
+`...ทุกสิ่งทุกอย่างถูกทำนายไว้ตรงนั้นตั้งแต่แรกแล้ว...! `
+`ทุกคนกรูกันเข้ามามุงดู `
+`และสีหน้าตกตะลึงแบบเดียวกันก็ปรากฏขึ้นบนใบหน้าของพวกเราทุกคน...! `
+`ใช่แล้ว `
+`มันเขียนไว้ตรงนั้น ในจารึก `
+`"ราตรีที่หนึ่ง จงถวายหกคนที่กุญแจเลือกสรรเป็นเครื่องสังเวย" `
+`"อ๊ะ ...อา ใช่แน่ๆ ไม่ผิดแน่ `
+`ตอนแรกสุดมีคนตายหกคน! `
+`แล้วแม้แต่บนบานชัตเตอร์ที่วาดวงเวทมนตร์ไว้...ไม่สิ ตรงที่เขียนภาษาฮีบรูไว้ ก็พูดถึงการถวายเครื่องสังเวยเหมือนกัน...!!" `
+`"...อู- `
+`...มาเรียบอกเรื่องนั้นมาตั้งแต่แรกแล้วนะ" `
+`ใช่แล้ว มาเรียพูดไว้ตั้งแต่ตอนแรกสุดเลย! `
+`ทันทีหลังจากที่เราพบศพทั้งหก ตอนที่มาเรียดูทีวีอยู่ในห้องรับแขก เธอก็พูดไว้! `
+`'......อู- `
+`คนร้ายไม่ใช่มนุษย์' `
+`"{i:ก็แค่เครื่องสังเวยที่กุญแจเลือกสรร}" `
+`"นี่มันไม่เกี่ยวอะไรกับที่ซ่อนของทองคำลับเลยสักนิด!! `
+`แต่มันคือขั้นตอนพิธีกรรมฟื้นคืนชีพด้วยศาสตร์มืดหรืออะไรทำนองนั้นต่างหาก! `
+`ก็จารึกนี่น่ะ เรียกร้อง "ความตาย" เป็นจำนวนมากเลยไม่ใช่เรอะ!" `
+`"...จ-จริงด้วยสิ `
+`แค่อ่านดูเร็วๆ ก็มี 6+2+5 `
+`...ต้องมีคนตายถึง 13 คนเลยนะ...!" `
+`"...ปกติแล้วบนเกาะนี้มีคนอยู่กี่คนกันครับ?!" `
+`"...ม-มันเปลี่ยนไปตามกะของคนรับใช้น่ะค่ะ แต่หลักๆ ก็มีท่านพ่อ สามีของดิฉัน เจสสิก้า แล้วก็ตัวดิฉัน `
+`แล้วก็คนรับใช้อีกสองหรือสามคน `
+`...วันนี้กับเมื่อวานมีอยู่ห้าคน แต่ตามปกติไม่ได้มีเยอะขนาดนั้นหรอกค่ะ" `
+`"ซึ่งก็หมายความว่าตามปกติแล้ว `
+`...จะมีเครื่องสังเวยไม่พอที่จะทำ "พิธีกรรม" นี้ `
+`...ไม่สิ เดี๋ยวก่อน `
+`...มันมีข่าวลือว่าท่านปู่รวบรวมคนรับใช้มาจากสถานเลี้ยงเด็กกำพร้า เพื่อเอามาเป็นเครื่องสังเวยในพิธีกรรมชวนขนลุกบางอย่างอยู่นี่..." `
+`"แล้วมันหมายความว่าไงกันล่ะเนี่ย?! `
+`เพิ่มจำนวนคนรับใช้เพื่อเพิ่มจำนวนเครื่องสังเวย...แล้วรอจนถึงการประชุมเครือญาติประจำปีที่คนจะมารวมตัวกันมากขึ้นงั้นเหรอ...? `
+`...ช่วงนี้มันเป็นเวลาเดียวในรอบปีที่จะจัดพิธีกรรมนี้ได้ไม่ใช่เรอะ?!" `
+`พอเจสสิก้ากรีดร้องออกมาแบบนั้น มาเรียก็ระเบิดเสียงหัวเราะชวนขนลุก ดูพออกพอใจอย่างแท้จริง `
+`"......คิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิ `
+`...ไม่เคยได้ยินเรื่องคนที่วางเดิมพันเพื่อทดสอบชะตาชีวิตของตัวเองบ้างเหรอ?" `
+`อย่างเช่นการโยนรองเท้าแตะแล้วบอกว่าถ้ามันหงาย พรุ่งนี้อากาศจะแจ่มใส `
+`...หรือบอกว่าพรุ่งนี้จะเป็นวันที่ดีถ้าโยนเหรียญออกหัว `
+`...ความเชื่องมงายเล็กๆ น้อยๆ ทำนองนั้นมีอยู่มากมาย `
+`บางครั้งเวลาที่ดวงตกจนรู้สึกเบื่อหน่าย แล้วทอยลูกเต๋าได้แต้มหกสามลูก ก็อยากจะเชื่อว่านั่นคือลางบอกเหตุถึงปาฏิหาริย์บางอย่าง `
+`...เวลาโยนรองเท้าแตะเสี่ยงทาย อย่างแย่ที่สุดก็มีโอกาส 50% `
+`ถึงมันจะหงายขึ้นมา ก็ไม่ได้มีค่าอะไรนักหนา `
+`...แต่ถ้าเผลอทอยลูกเต๋าสามลูกเล่นๆ แล้วออกแต้มหกทั้งหมด ก็อาจจะคิดว่าเป็นปาฏิหาริย์เล็กๆ ขึ้นมาได้ `
+`"......เวทมนตร์ก็ทำงานแบบเดียวกันนั่นแหละ `
+`...ต้องอธิษฐานอย่างแรงกล้าต่อผลลัพธ์ที่มีโอกาสเกิดขึ้นน้อยนิดเหลือเกิน `
+`...จากนั้น ความรู้สึกจากคำอธิษฐานทั้งหลายที่สั่งสมไว้ก็จะก่อเกิดเป็นพลังเวทและปรากฏเป็นจริงขึ้นมา `
+`......เวทมนตร์ที่ท่านปู่พยายามจะทำก็คงจะเป็นแบบนั้นเหมือนกัน `
+`กุญแจได้สุ่มเลือกเครื่องสังเวยเหมือนการจับฉลาก `
+`ดังนั้น เพื่อลดโอกาสที่ตัวเองจะถูกเลือก ท่านปู่ก็เลยเลือกวันที่มีคนอยู่บนเกาะมากที่สุดเพื่อประกอบพิธีกรรมยังไงล่ะ..." `
+`"ไร้สาระสิ้นดี!! `
+`จะบอกว่าสถานการณ์ทั้งหมดนี้เกิดขึ้นเพียงเพราะพิธีกรรมเวทมนตร์พิลึกพิลั่นนั่นงั้นเหรอคะ?!" `
+`นัตสึฮิตะโกนลั่น `
+`...เธอไม่อาจข่มความกลัวที่ว่า เครื่องรางแมงป่องอาจเป็นเพียงเหตุผลเดียวที่ทำให้เธอยังปลอดภัยอยู่ได้ `
+`......ถ้าดิฉันไม่ได้รับเครื่องรางนั่นมาจากเจสสิก้าแล้วแขวนไว้ที่ลูกบิดประตู `
+`...ดิฉันจะถูกฆ่าตาย ปะปนไปพร้อมกับคนทั้งหกนั่นด้วยหรือเปล่านะ?! `
+`และสิ่งที่แปลกที่สุดก็คือ...ทั้งที่ดิฉันแขวนเครื่องรางไว้ด้านในประตูแท้ๆ แต่พวกเขากลับผ่านประตูนั่นเข้ามาไม่ได้ `
+`...คนร้ายสังเกตเห็นเครื่องรางจากนอกประตู แล้วก็ยอมแพ้ที่จะเปิดมัน `
+`...มนุษย์ไม่มีทางล่วงรู้เรื่องนั้นได้แน่ `
+`เครื่องรางที่มีไว้เพื่อหยุดยั้งสิ่งที่ไม่ใช่มนุษย์...ได้ทำหน้าที่ของมันอย่างแท้จริง...!! `
+`เป็นไปไม่ได้ เป็นไปไม่ได้ เป็นไปไม่ได้!!! `
+`"แต่คุณนัตสึฮิครับ `
+`หลังจากนั้น จารึกก็ยังคงสอดคล้องกับเหตุการณ์จริงๆ นะครับ..." `
+`"ร-ราตรีที่สอง ผู้เหลืออยู่จงฉีกสองผู้เคียงชิดให้พรากจากกัน... `
+`...นี่จะหมายถึงคุณเอวากับคุณฮิเดโยชิหรือเปล่านะคะ...?" `
+`"......จ-จะเจ็บปวดเพียงใด ...เราก็คงต้องสรุปแบบนั้นครับ `
+`...แล้วหลังจากที่คนร้ายฆ่าทั้งสองคน ก็ทิ้งถ้อยคำจาก "ราตรีที่สาม" เอาไว้ในจดหมายตรงนั้นครับ" `
+`"จ-จริงด้วยสิ... `
+`หลังจากก่อเหตุตามราตรีที่สองเสร็จ ก็ทิ้งราตรีที่สามไว้ตรงนั้น `
+`...ราตรีที่สามก็คือ...แบบเดียวกับที่ป้านัตสึฮิเพิ่งอ่านไปนั่นเอง...!!" `
+`"ราตรีที่สาม ผู้เหลืออยู่จงสรรเสริญนามอันทรงเกียรติแห่งข้า" `
+`อา~~~~~~~~ ...ถ้าอ่านดูแบบนี้ มันก็ดำเนินต่อไปเรื่อยๆ เลยไม่ใช่เหรอ? `
+`"ราตรีที่สี่ จงคว้านหัวแล้วสังหาร" `
+`จงคว้านหัวแล้วสังหาร `
+`...พ่อแม่ของพี่จอร์จถูกฆ่าโดยมี "ที่เจาะน้ำแข็งของปีศาจ" นั่นคว้านแทงเข้าไปในหัว `
+`...แต่ถ้าพวกท่านคือราตรีที่สอง `
+`...ก็ต้องมีคนอื่นที่ถูกคว้านหัวสิ... `
+`"...นั่นมันท่านปู่... `
+`ท่านปู่ถูกเผาในเตาเผาขยะ สายตาพวกเราก็เลยจดจ่ออยู่กับตรงนั้นจนไม่ทันสังเกต `
+`...แต่ว่าหน้าผากของท่านปู่... `
+`ไม่สิ หัวของท่านปู่ถูกคว้านอยู่" `
+`"ท่านปู่คือ...เหยื่อของราตรีที่สี่งั้นเหรอ? `
+`ง-งั้น คาน่อนคุงก็...!" `
+`"..."ราตรีที่ห้า จงคว้านอกแล้วสังหาร" `
+`...พวกเราคิดว่ากรณีของคาน่อนคุงเป็นการเผชิญหน้ากับคนร้ายโดยบังเอิญ ......แต่มันไม่ใช่เลยครับ `
+`ตั้งแต่แรกสุด คนร้ายตั้งใจจะล่อใครสักคนออกไปตามลำพังแล้วแทงทะลุอกอยู่แล้ว..." `
+`"......ถ้าคนร้ายทำตามจารึกมาถึงขนาดนี้ `
+`...ก็หมายความว่ายังต้องมีคนตายอีกสามคนงั้นเหรอคะ...?!" `
+`"ราตรีที่หก จงคว้านท้องแล้วสังหาร" `
+`"ราตรีที่เจ็ด จงคว้านเข่าแล้วสังหาร" `
+`"ราตรีที่แปด จงคว้านขาแล้วสังหาร" `
+`"......ช-ใช่แล้วค่ะ `
+`...จะอ่านแบบนั้นก็ได้... `
+`...ฮี๊~~~~..." `
+`"ก็นะ เรื่องนั้นจะจริงเร้อ... `
+`......พอสามคนนั้นตาย ก็จะถึงราตรีที่เก้า `
+`ดูนี่สิ..." `
+`"ราตรีที่เก้า แม่มดฟื้นคืนชีพ และไม่มีผู้ใดเหลือรอด" `
+`"พวกเรา...จะโดน{f:5:เบียทริเช่}ฆ่าหมดทุกคนเลยงั้นเหรอ..." `
+`"......ฉันไม่เข้าใจเลยว่ะ `
+`แบบนั้นก็แปลว่าไม่ว่าจะมีคนอยู่กี่คน ทุกคนก็ต้องตายหมดไม่ใช่เหรอ? `
+`...คุณปู่ต้องการอะไรกันแน่? `
+`แบบนี้มันไม่เท่ากับว่าพิธีกรรมจะฆ่าแม้กระทั่งตัวท่านเอง ไม่ว่าจะยังไงก็ตามหรอกเหรอ...?!" `
+`"......ไม่เหลือรอดสักคนก็ไม่เป็นไรหรอกนะ `
+`...ในราตรีที่สิบ พวกเราก็จะได้ไปถึงดินแดนทองคำกันในที่สุด" `
+`"ราตรีที่สิบ การเดินทางสิ้นสุด เจ้าจะได้ครองพลังแห่งสมบัติในดินแดนทองคำ เพียงครั้งเดียวและครั้งสุดท้าย" `
+`"แม่มดจะสรรเสริญผู้ปราดเปรื่อง และประทานสมบัติสี่ประการ" `
+`"...คุณปู่ไม่ได้กลัวความตายเลย `
+`......ดูสมบัติประการที่สองกับสามในสมบัติสี่ประการสิ" `
+`"......'หนึ่งคือ การปลุกดวงวิญญาณผู้ตายทั้งปวงให้คืนมา `
+`หนึ่งคือ การปลุกแม้กระทั่งความรักที่สูญสิ้นให้คืนมา' `
+`...ถ้าอย่างนั้น คุณปู่ก็เชื่อว่าในที่สุดตัวเองจะฟื้นคืนชีพขึ้นมา แม้ว่าจะตายไปกลางคันในพิธีกรรมนี้อย่างนั้นหรือครับ...?" `
+`"ไร้สาระน่า! บ้าไปแล้วชัดๆ!! `
+`คนเราพอตายไปมันก็จบกันไม่ใช่เหรอไงเล่า?! `
+`คนตายที่ไหนจะฟื้นคืนชีพขึ้นมาได้ `
+`นั่นมันไม่ใช่ปาฏิหาริย์ที่มนุษยชาติเฝ้าไขว่คว้ามาหลายพันปีแต่ก็ยังทำไม่สำเร็จหรอกเหรอ?! `
+`แล้วมันหมายความว่ายังไงกันแน่? `
+`จะบอกว่าประมาณว่า จะได้ไปพบกันในโลกหลังความตาย ที่ซึ่งทุกคนได้ฟื้นคืนสภาพกลับมาอย่างนั้นเหรอ?!" `
+`"...ถ้าที่เธอพูดมาเมื่อกี้มันถูกต้อง...มันก็หมายความว่า... `
+`คุณปู่ที่เหลือชีวิตอยู่อีกไม่นาน และถูกความรักครอบงำจนเสียสติ กำลังฆ่าตัวตาย... `
+`ไม่สิ...กำลังบังคับฆ่าตัวตายหมู่ครั้งมโหฬารอย่างนั้นเหรอ...?!" `
 `".................." `
-`"...Genji, `
-`...is such a thing possible...?!" `
-`"......I don't know. `
-`...The Master is a man who sometimes has the wisdom to see a thousand years into the future. `
-`However, there are times when that appears to be nothing more than madness to commoners such as myself..." `
-`"Okay, should we take that for a "yes"?! `
-`What do you say, Kumasawa-san?!" `
-`"I-I don't know anything...! `
-`That's right, I don't know... `
-`Do you think I would be on this island today if I did know? `
-`I would have faked an illness or done anything to take the day off, that's right!!" `
-`"What about your opinion, Doctor Nanjo? You've been Grandfather's friend for many years..." `
-`"......I-I feel the same as Genji-san. `
-`...Kinzo-san was a man who far surpassed ordinary people. `
-`I've even felt a sort of inhuman power from him at times. `
-`......Even I......don't know what Kinzo-san was thinking when he wrote that epitaph...!" `
-`"...All we can say...is that even if Father did write this script, someone else is carrying it out." `
-`"That's right. `
-`......At the very least, there's another culprit who attacked Grandfather and Kanon-kun. `
-`Furthermore, that person is still continuing the crimes just as the epitaph says...!" `
-`"...The letter in the beginning that we didn't think deeply about... `
-`What was it that was written there?" `
-`We thought back to the recitation of the letter last night... `
-`{f:5:Beatrice} had proclaimed something inside it. `
-`She had proclaimed that, according to her contract with Kinzo, she would collect everything of the Ushiromiya family as interest. `
-`But then she had also revealed a special clause. `
-`If someone discovered the location of the gold Grandfather had hidden, that right would be lost. `
-`When the letter was read, Grandfather was still alive. `
-`...But at that time, it had already been sealed with wax by the Head's Ring. `
-`...Which meant Grandfather had handed the ring over to {f:5:Beatrice} while he was still alive. `
-`...If we take a straightforward approach, `
-`maybe we should assume {f:5:Beatrice} is carrying out that strange contract, with Grandfather guaranteeing her that right. `
-`...In other words, this was the same as saying Grandfather knew of and approved of the contents of that letter. `
-`In other words, it's basically a joint message from {f:5:Beatrice} and Grandfather... `
-`telling us that {f:5:Beatrice} will start collecting interest if we don't solve the riddle. `
-`...In other words, Grandfather and {f:5:Beatrice} were demanding that we try and solve the riddle of the epitaph. `
-`And if we couldn't, they were saying that the massacre would be carried out according to the epitaph. `
-`What does that mean? `
-`What do they want?! `
-`I don't have a clue what it means! `
+`"...เก็นจิ `
+`...เรื่องแบบนั้นเป็นไปได้ด้วยหรือคะ?!" `
+`"......กระผมไม่อาจทราบได้ขอรับ `
+`...ท่านเจ้าบ้านเป็นบุคคลที่มีปัญญามองการณ์ไกลไปข้างหน้าได้ถึงพันปีในบางครา `
+`ทว่า ก็มีบางครั้งที่สิ่งนั้นดูไม่ต่างอะไรไปจากความวิปลาสในสายตาของสามัญชนเยี่ยงกระผม..." `
+`"แปลว่าพวกเราควรเข้าใจคำตอบนั้นว่า 'ใช่' สินะ?! `
+`แล้วคุณป้าล่ะว่าไง คุณคุมาซาวะ?!" `
+`"ด-ดิฉันไม่รู้อะไรเลยค่ะ...! `
+`ใช่แล้วค่ะ ดิฉันไม่รู้จริง ๆ... `
+`คิดว่าถ้าดิฉันรู้แล้วจะยังมาอยู่บนเกาะนี้ในวันนี้เหรอคะ? `
+`ดิฉันคงแกล้งป่วยหรือทำทุกวิถีทางเพื่อขอหยุดงานไปแล้ว ใช่แล้วค่ะ!!" `
+`"แล้วความเห็นของคุณหมอล่ะครับ หมอนันโจ? คุณหมอเป็นเพื่อนกับคุณปู่มาหลายปี..." `
+`"......ผ-ผมก็รู้สึกเหมือนกับคุณเก็นจิครับ `
+`...คุณคินโซเป็นคนที่เหนือกว่าคนธรรมดาสามัญไปไกลมาก `
+`บางครั้งผมถึงกับสัมผัสได้ถึงพลังที่เหนือมนุษย์จากตัวเขา `
+`......ขนาดผมเอง......ก็ยังไม่รู้เลยว่าคุณคินโซคิดอะไรอยู่ตอนที่เขียนจารึกนั่นขึ้นมา...!" `
+`"...สิ่งเดียวที่เราพอบอกได้...ก็คือถึงแม้ท่านพ่อจะเป็นคนเขียนบทละครนี้ขึ้นมา แต่ก็มีคนอื่นกำลังนำมันไปลงมือทำอยู่ค่ะ" `
+`"ใช่แล้วล่ะครับ `
+`......อย่างน้อยที่สุด ก็มีคนร้ายอีกคนหนึ่งที่ทำร้ายคุณปู่กับคาน่อนคุง `
+`ยิ่งไปกว่านั้น คนผู้นั้นยังคงก่ออาชญากรรมต่อไปตามที่จารึกระบุไว้เป๊ะๆ...!" `
+`"...จดหมายฉบับแรกที่เราไม่ได้คิดให้ลึกซึ้งในตอนนั้น... `
+`มีอะไรเขียนอยู่ข้างในนั้นบ้างนะครับ?" `
+`พวกเรานึกย้อนกลับไปถึงตอนที่มีการอ่านจดหมายฉบับนั้นเมื่อคืนวาน... `
+`{f:5:เบียทริเช่}ได้ประกาศบางอย่างไว้ในนั้น `
+`เธอประกาศว่า ตามสัญญาที่มีไว้กับคินโซ เธอจะริบทุกสิ่งทุกอย่างของตระกูลอุชิโรมิยะไปเป็นดอกเบี้ย `
+`แต่จากนั้นเธอก็ยังเผยข้อกำหนดยกเว้นเอาไว้ `
+`หากมีใครค้นพบสถานที่ซ่อนทองคำที่คุณปู่ซ่อนไว้ สิทธิ์นั้นก็จะตกไป `
+`ตอนที่จดหมายนั้นถูกอ่าน คุณปู่ยังมีชีวิตอยู่ `
+`...แต่ในเวลานั้น มันก็ถูกประทับครั่งปิดผนึกด้วยแหวนประจำตำแหน่งประมุขตระกูลไปเรียบร้อยแล้ว `
+`...ซึ่งหมายความว่าคุณปู่ได้มอบแหวนนั้นให้กับ{f:5:เบียทริเช่}ไปแล้วตั้งแต่ตอนที่ยังมีชีวิตอยู่ `
+`...ถ้าเรามองเรื่องนี้แบบตรงไปตรงมา `
+`บางทีเราอาจต้องทึกทักเอาว่า {f:5:เบียทริเช่}กำลังปฏิบัติตามสัญญาประหลาดนั่น โดยมีคุณปู่เป็นผู้รับประกันสิทธิ์นั้นให้แก่เธอ `
+`...หรือพูดอีกอย่างก็คือ มันไม่ต่างอะไรกับการบอกว่าคุณปู่รู้เห็นและเห็นชอบกับเนื้อหาในจดหมายฉบับนั้น `
+`กล่าวคือ มันแทบจะเป็นสารร่วมจาก{f:5:เบียทริเช่}และคุณปู่... `
+`ที่บอกแก่พวกเราว่า {f:5:เบียทริเช่}จะเริ่มเก็บดอกเบี้ยถ้าพวกเราไขปริศนาไม่ได้ `
+`...พูดอีกอย่างก็คือ คุณปู่กับ{f:5:เบียทริเช่}กำลังเรียกร้องให้พวกเราพยายามไขปริศนาของจารึกให้ได้ `
+`และถ้าพวกเราทำไม่ได้ พวกเขาก็บอกว่าการสังหารหมู่จะดำเนินต่อไปตามจารึก `
+`มันหมายความว่ายังไงกันแน่? `
+`พวกเขาต้องการอะไรกันแน่?! `
+`ผมไม่เข้าใจความหมายของมันเลยสักนิด! `
 `"............ `
-`......Look, another letter from {f:5:Beatrice}." `
-`"...Huh? `
-`What did you say?" `
-`Maria was pointing at the top of the table, where the canned food everyone had been eating just now still lay. `
-`A Western envelope from {f:5:Beatrice} certainly was sitting there, ...but so what...? `
-`"...What in the?!" `
-`Aunt Natsuhi let out a hysterical cry, looking between her own hand and the table. `
-`...Because the envelope she had just opened was still grasped in her hand. `
-`...So why is there still an envelope on the table...?! `
-`"...Wh-What the hell?!?! `
-`What's going on, Maria?!! `
-`Where did that envelope come from?!" `
-`"...Just now, I looked and it was lying there. `
-`Uu-." `
-`"...I-I don't know anything, anything!!" `
-`"This isn't funny, there's only the eight of us here!! `
-`There's no way some ninth person snuck in!! `
-`There wasn't enough time during the few seconds that we gathered around the portrait, right?!" `
-`"Get back, all of you!!! `
-`Back against the wall!!" `
-`Aunt Natsuhi was pointing the rifle at Genji and the others, bellowing at them...! `
-`Genji-san was overpowered, his face looking like he didn't have a clue what was going on... `
-`Of course, I felt the same, ...but a few moments late, I reached the same conclusion Aunt Natsuhi had. `
-`Until just a few seconds ago, there had been no letter like this on the table...! `
-`And nobody entered this room! `
-`That means someone among us placed it there during the few seconds when everyone was looking away, preoccupied with the portrait...!! `
-`"Battler-kun, open that envelope and read what's inside!" `
-`"S-Sure!!" `
-`I picked it up. `
-`...It was still sealed with wax. `
-`Even without disturbing its contents, I realized that this was an as-yet unopened envelope, an unknown envelope! `
-`Without relying on a paper knife, I tore it open and pulled out the letter inside. `
-`The contents were as follows. `
-`'Are you enjoying the riddle of Kinzo-sama's epitaph? `
-`As you are all probably aware, you have very little time remaining. `
-`Please abandon any naive hopes of escaping after the storm passes. `
-`This game can only end with my victory or yours. `
-`When time runs out, I will win by default. `
-`There will be no ties. `
-`Make sure that you do not misunderstand your current situation.' `
-`"That's what it says..." `
-`"......It isn't clear who put this letter there. `
-`However, I have been able to narrow down the list of suspects. `
-`It's you all!!" `
-`"...M-Madam... `
-`That's just...too horrible..." `
-`"Just before I moved towards the portrait, I set a can of food down here. `
-`At that time, there definitely wasn't anything as strange as this letter there!!" `
-`"And at that time, Jessica, George-kun and Battler-kun were already in front of the portrait!! `
-`And they didn't leave the spot in front of the portrait until the letter appeared! `
-`So the person who set that letter down is one of you four!!! `
-`{f:5:Beatrice} is here!!!" `
-`"......Uu-. `
-`We aren't {f:5:Beatrice}. `
-`...{f:5:Beatrice} "exists"!" `
-`"Silence!!! `
-`I don't know whether I should suspect one of you or all of you. `
-`...But without a doubt, at least one among you is the culprit!!!" `
-`"......Th-That's right. `
-`There can't be a 19th person...! `
-`There's no way witches exist!! `
-`Even when Kanon-kun was killed, `
-`...yeah, that could be explained if Kumasawa-san was the one who did it!! `
-`The truth is that Kumasawa-san entered the boiler room with Kanon-kun and killed him! `
-`And then she lied, saying he had already fallen when she got there!!" `
-`"Y-You're making a mistake, Milady...!! `
-`Why would I do something like that...?!!" `
-`"...I don't have the slightest idea how my parents were killed in that closed room. `
-`But when they were killed, everyone except for the servants had an alibi. `
-`...The only ones who didn't were the servants... `
-`But...does that really mean it's okay to suspect them...?!" `
-`"...Y-Yes, ...now that you mention it, they have no alibi for any of the cases... `
-`......Nng!!" `
-`Should we really be so quick to make that judgment?! `
-`But this time...in this room, in this place, in this moment...in this minimally small bit of time and space, it's obvious. `
-`Only one of the four of them could have set the letter there in our blind spot...!! `
-`We can't tell who put it there, but it's obvious that one of the four did it...!! `
-`"...N-Natsuhi-san, `
-`please, calm yourself... `
-`A lot has happened today! `
-`I understand how much strain is on your mind right now...!" `
-`"Doctor Nanjo, it truly pains me to call you suspicious...! `
-`However, you are Father's personal doctor and his closest friend! `
-`You have been by his side for many years, and you might even know about {f:5:Beatrice}. `
-`Could you be hiding some kind of old obligation?!" `
-`"Of course not...!! `
-`Calm yourself...!" `
-`It was pitiful to watch Doctor Nanjo frantically pleading his innocence. `
-`It was probably a normal reaction that anyone would give if they were suspected. `
-`Kumasawa was the same. `
-`Ever since Jessica voiced her suspicions of Kumasawa murdering Kanon, Kumasawa had been totally flustered. `
-`That was why Genji's still calm appearance looked so bold. `
-`Aunt Natsuhi pointed the barrel of the gun. `
-`"......Genji, `
-`you were Grandfather's number one subordinate. `
-`...Was {f:5:Beatrice} an illusion you showed to Father, with you as the performer?!" `
-`"......If by suspecting me, you recognize me as the Master's greatest servant, `
-`...then I count it a great honor, regardless of the circumstances. `
-`......However, I am not the one who put the letter there." `
-`"Do you expect us to just accept that?!! `
-`You must be the ringleader! `
-`Maybe Kumasawa and Doctor Nanjo are your accomplices!! `
-`......And Maria-chan too." `
-`Not content to suspect just the adults, Aunt Natsuhi pointed the gun relentlessly at Maria too. `
-`But Maria acted as though nothing had happened. `
-`......Or maybe she thought she would be fine even if she was shot. `
-`"Maria-chan, `
-`...by this point, we can no longer remove someone from suspicion just because they're young. `
-`So for the last time, let me ask the question that everyone's had since last night! `
-`...Yesterday, who was the {f:5:Beatrice} who handed you that letter?!!" `
-`".........Uu-." `
-`"...Maria, don't dodge the question!! `
-`Make it clear! `
-`Who gave you that letter?!!" `
-`"...Kihihihihihi. `
-`How many times do I have to tell you? `
-`It's {f:5:Beatrice}. `
-`The thousand-year-old Golden Witch. `
-`......If you want to know what she looks like, just turn around. `
-`...See, she's right there. `
-`{f:5:Beatrice} is. `
-`...Kihhihihihihihihihihihihihihihihihihihihihihihihihi!" `
-`"D-Don't mess with us, Mariaaaaaaaaa!!!" `
-`"Enough, Jessica! `
-`Maria, too. `
-`Don't you understand the situation?! `
-`What are you hoping to gain by saying stuff like that?! `
-`Stop stirring each other up pointlessly!" `
-`"...I don't understand. `
-`...Who do you all want the culprit to be? `
-`You only believe in {f:5:Beatrice} when you don't want to suspect one of your own. `
-`When you're trying to settle a grudge because someone who's close to you has been killed, only then do you want to believe in a Human you can attack with violence, and deny {f:5:Beatrice}." `
-`"......That's why you can't "see" her. `
-`...{f:5:Beatrice} "exists". `
-`You all can't see her!" `
-`"Silence!!! `
-`I don't want to label you as the culprit, but there is no longer any doubt that you enjoy making this situation unpleasant and are providing assistance to the enemy!!" `
-`"...Kihihihihihihihi. `
-`...Then what will you do? `
-`Shoot me? `
-`I don't mind. `
-`Very soon, the door to the Golden Land will be opened. `
-`Then all the dead will be resurrected. `
-`...Right now, death is nothing to be afraid of. `
-`...Kihihihihihihihihihihihihihihihihihihihihihi!" `
-`"M-Mom, she really is suspicious!! `
-`We can't keep her with us!!" `
-`"But Aunt Natsuhi, please, calm down...! `
-`There's no reason to shoot Maria! `
-`Please remain composed...! `
-`The letter was meant to provoke us, but it's nothing to be afraid of! `
-`Even the culprit is scared of what will happen tomorrow. `
-`They're scared of the police! `
-`Right now, this island is free from the reach of the law, but that's only because it's isolated by this typhoon! `
-`Once the typhoon passes, the law will return! `
-`So you mustn't shoot...!!" `
-`"...How can you stay so calm, George nii-san?!! `
-`One of these four is the culprit! `
-`No, maybe all four of them are working together! `
-`How can you stay so calm when one of these four might be the culprit who killed your parents?!!" `
-`"Even I have the desire to find the culprit and kill them...! `
-`But that would be simple barbarism. `
-`I will leave the judgement of crimes to the law! `
-`So no matter how suspicious they are, you mustn't pull that trigger!!" `
-`"I-I feel the same as George-aniki... `
-`Aunt Natsuhi, `
-`get ahold of yourself for a second... `
-`Anyway, it'd be bad to shoot, ihihi...! `
-`In times like this, I hear you should tilt your head back and say "Stay cool" three times..." `
-`"......Let me make this clear. `
-`Witches don't exist! `
-`Not on Rokkenjima, not in the Ushiromiya mansion!" `
-`"I declare it as Ushiromiya Natsuhi, representative of the Ushiromiya family!! `
-`There's no witch here! `
-`I won't accept {f:5:Beatrice}!! `
-`No matter what you're planning, I won't let you lay one finger on my daughter or the rest of them!!! `
-`That's my duty as a mother and as representative to the family!!" `
-`Those words...were the final words of farewell...that settled everything. `
-`...To protect her daughter, Aunt Natsuhi would regard any suspicious person as an enemy. `
-`...The only reason George-aniki and I were standing on this side was because, by coincidence, we had a clear alibi regarding the letter. `
-`If I hadn't approached the portrait, `
-`...I would also be at the other end of that gun barrel, treated like a criminal... `
-`...But even though part of me thought that, `
-`...part of me was thinking that chasing all the suspicious people from this room would finally guarantee our safety... `
-`Genji-san and Kumasawa-san and Doctor Nanjo... All of them were on Grandfather's side. `
-`Maybe you could say that once Maria started blindly believing in {f:5:Beatrice}, she was also on Grandfather's side. `
-`...That's right, they're all suspicious. `
-`But is this really okay...?! `
-`If we throw out all of the suspicious ones in such a lawless way, will we still have the right to defy the lawlessness of the witch...?! `
-`Aunt Natsuhi didn't tell them to leave with her own words. `
-`...But with wordless pressure, she induced them to say that themselves. `
-`...Because if Doctor Nanjo didn't say those words, this cold silence would surely continue forever. `
-`"......Calm yourself, Natsuhi-san. `
-`......Still, I understand your feelings well. `
-`I myself feel like there's something wrong with my head after all of these strange, repeated incidents... `
-`So I understand well why you want to suspect us..." `
-`".........If you really have nothing to do with this, ...then my actions now would be beyond rude. `
-`......However, ...please understand, just this once." `
-`"......Very well. `
-`...Let's leave the room. `
-`......What do you say, Genji-san? `
-`...Shall we return to the parlor and continue our chess game?" `
-`".........If that is what you wish, ...by all means." `
-`"......I-I don't want to...! `
-`After all, that means we'll have to leave this room knowing that the wolf is among us, right...?! `
-`I don't want to, Madam, please forgive me. Eeeeeeeeekk......!" `
-`It was obvious what Kumasawa-san was trying to say. `
-`If she was innocent, then she was being ejected into dangerous territory along with the culprit. `
-`...In the current situation, urging her to leave this room along with the suspects was almost exactly the same as letting her get killed... `
-`However, Kumasawa-san really was suspicious just for being the first one to discover that Kanon-kun had been murdered. `
-`...At that time, everyone except Kumasawa-san had an alibi. `
-`...Unless we could prove the existence of some contraption...or the existence of some 19th person, Kumasawa-san was by far the most likely suspect. `
-`I didn't want to believe it. `
-`However, Aunt Natsuhi and the rest of us were in such a difficult situation that we couldn't help suspecting her as well... `
-`So we didn't say anything to stop Aunt Natsuhi from trying to oppressively chase them from the room. `
-`...We had stopped her from shooting, but we were passively agreeing to chase the others out of the room...! `
-`On top of that, Maria spoke to the fretful Kumasawa-san. `
-`"......It's okay. `
-`...{f:5:Beatrice} is kind to those who respect her. `
-`...You believe that {f:5:Beatrice} "exists". `
-`...So it'll definitely be okay. `
-`...I'll watch TV in the parlor. `
-`Let's watch it together. `
-`...It's so boring here, without TV. `
-`......Kihihihihihihihihihihihihihihihi hihihi." `
-`It looked like Kumasawa found Maria's roguish laugh very frightening... `
-`However, the three other people had agreed to leave the room. `
-`Kumasawa couldn't fight the flow and had to agree, crying as she went... `
-`"...Well then, Natsuhi-san. `
-`That will be all for tonight. `
-`...Let us meet again tomorrow." `
-`"...Yes. `
-`Please understand, at least for tonight. `
-`When the police come, all of us will surely apologize for our rudeness. `
-`...You may play chess, but do it in a safe place if you can. `
-`...Genji, I leave them in your hands." `
-`"......Certainly." `
-`"...H-Hohoho... `
-`It can't be helped, can it... `
-`They always say that the most frightening bears are those with their children." `
-`"...Genji, Kumasawa, my sincere apologies. `
-`...Let us meet again tomorrow. `
-`......Maria-chan too. `
-`...Please forgive your cold Aunt." `
-`"Uu-. `
-`I forgive you. `
-`Uu-!" `
-`"Madam, the keys to this room. `
-`...I will hand both over to you." `
-`Genji-san pulled two golden keys from his pocket and handed them to Aunt Natsuhi... `
-`"...And, I will also hand over my bundle of keys to the inside of the mansion." `
-`He took out a bundle of about ten keys of various shapes, and handed it over. `
-`......To the servants, those keys were probably proof of their position. `
-`Being placed in charge of those keys meant that they were trusted, relied upon. `
-`...When they were forced to return them, ...it meant that they had lost that trust. `
-`...Thinking about it this way, ...to Genji-san, who had worked here for a span of many years, there could be no greater shame. `
-`...However, Genji-san's usual indifferent expression remained on his face. `
-`"...Genji, `
-`...I had planned that, after Father passed away, I would reward you for your many years of hard work and allow you to retire. `
-`......To treat you like this... `
-`...makes me feel ashamed from the bottom of my heart......" `
-`"I have already received the Master's favor. `
-`...Everything I have done until today has been in repayment for that. `
-`......Please, do not worry over it." `
-`"...Well then, ...shall we, everyone? `
-`...Goodnight to you all." `
-`"Uu-. `
-`Goodnight. `
-`Goodnight to you too, Battler! Uu-!" `
-`"...Ah, ...Maria. `
-`Wait a sec." `
-`Knowledge of guilt made me call Maria back. `
-`...I groped around in my pocket...and took out that scorpion keychain. `
-`"......This repels magic, right? `
-`...Wear it." `
-`"Uu-...? `
-`Didn't you say you dropped it...?" `
-`"...Back then, I got ticked off and just bluffed that I'd lost it. `
-`...There's no way I'd lose the precious charm you gave me." `
+`......ดูสิ มีจดหมายจาก{f:5:เบียทริเช่}มาอีกฉบับแล้วนะ" `
+`"...หา? `
+`เธอว่าอะไรนะ?" `
+`มาเรียชี้ไปที่บนโต๊ะ ซึ่งอาหารกระป๋องที่ทุกคนเพิ่งกินไปเมื่อครู่ยังคงวางเกลื่อนกลาดอยู่ `
+`ซองจดหมายแบบตะวันตกจาก{f:5:เบียทริเช่}วางอยู่ตรงนั้นจริง ๆ ...แต่แล้วมันทำไมล่ะ...? `
+`"...อะไรกันเนี่ย?!" `
+`ป้านัตสึฮิกรีดร้องออกมาอย่างเสียสติ พลางมองสลับไปมาระหว่างมือของตัวเองกับโต๊ะตัวนั้น `
+`...เพราะซองจดหมายที่เธอเพิ่งแกะไปเมื่อกี้นี้ ยังคงถูกกำแน่นอยู่ในมือของเธอ `
+`...แล้วทำไมถึงยังมีซองจดหมายวางอยู่บนโต๊ะอีกได้ล่ะ...?! `
+`"...อ-อะไรวะเนี่ย?!?! `
+`มันเกิดอะไรขึ้น มาเรีย?!! `
+`ซองจดหมายนั่นมาจากไหนกัน?!" `
+`"...เมื่อกี้พอมองไป มันก็วางอยู่ตรงนั้นแล้ว `
+`อู-" `
+`"...ด-ดิฉันไม่รู้เรื่องอะไรเลยจริง ๆ นะคะ!!" `
+`"ไม่ตลกเลยนะเว้ย พวกเราอยู่กันที่นี่แค่แปดคนเท่านั้นนะ!! `
+`ไม่มีทางที่จะมีคนที่เก้าแอบย่องเข้ามาได้หรอก!! `
+`ช่วงเวลาไม่กี่วินาทีที่พวกเราไปมุงกันรอบรูปเหมือนนั่น มันไม่มีเวลาพอหรอกใช่ไหมล่ะ?!" `
+`"ถอยไปให้หมดทุกคนเลยนะ!!! `
+`ถอยไปชิดกำแพงเดี๋ยวนี้!!" `
+`ป้านัตสึฮิเล็งปืนไรเฟิลไปทางพวกเก็นจิ พลางตวาดใส่พวกเขาเสียงลั่น...! `
+`คุณเก็นจิถูกข่มจนนิ่ง สีหน้าของเขาดูไม่เข้าใจเลยสักนิดว่าเกิดอะไรขึ้น... `
+`แน่นอนว่าผมเองก็รู้สึกไม่ต่างกัน ...แต่ชั่วครู่หลังจากนั้น ผมก็มาถึงข้อสรุปเดียวกับที่ป้านัตสึฮิคิดได้ `
+`จนถึงเมื่อไม่กี่วินาทีก่อน บนโต๊ะตัวนั้นไม่มีจดหมายแบบนี้วางอยู่อย่างแน่นอน...! `
+`และไม่มีใครเข้ามาในห้องนี้เลยสักคน! `
+`นั่นหมายความว่า มีใครบางคนในหมู่พวกเรานี่แหละที่เอามันมาวางไว้ ในช่วงเวลาไม่กี่วินาทีที่ทุกคนหันไปสนใจรูปเหมือนจนละสายตาไป...!! `
+`"แบทเลอร์คุง เปิดซองจดหมายนั่นแล้วอ่านข้อความข้างในเดี๋ยวนี้!" `
+`"ค-ครับผม!!" `
+`ผมหยิบมันขึ้นมา `
+`...มันยังคงปิดผนึกด้วยครั่งเอาไว้อยู่ `
+`แม้ไม่ต้องไปรบกวนของที่อยู่ข้างใน ผมก็รู้ได้ทันทีว่านี่เป็นซองจดหมายที่ยังไม่ได้เปิด เป็นซองจดหมายที่ไม่เคยเห็นมาก่อน! `
+`ผมฉีกมันออกโดยไม่พึ่งมีดเปิดซองจดหมาย แล้วดึงจดหมายข้างในออกมา `
+`เนื้อความข้างในมีดังต่อไปนี้ `
+`'กำลังเพลิดเพลินกับปริศนาบนจารึกของท่านคินโซอยู่หรือเปล่าคะ `
+`อย่างที่พวกคุณทุกคนน่าจะทราบกันดี เวลาที่เหลืออยู่ของพวกคุณเหลือน้อยเต็มทีแล้ว `
+`ได้โปรดละทิ้งความหวังลมๆ แล้งๆ เรื่องที่จะหนีรอดไปได้หลังจากพายุสงบลงเสียเถอะค่ะ `
+`เกมนี้จบลงได้เพียงแค่ชัยชนะของข้า หรือไม่ก็ของพวกเจ้าเท่านั้น `
+`เมื่อเวลาหมดลง ข้าจะเป็นฝ่ายชนะตามกติกา `
+`จะไม่มีการเสมอกัน `
+`จงแน่ใจเถิดว่าพวกเจ้าไม่ได้เข้าใจสถานการณ์ปัจจุบันของตัวเองผิดไป' `
+`"มันเขียนไว้แบบนี้น่ะ..." `
+`"......ยังไม่แน่ชัดว่าใครเป็นคนเอาสะเก็ดจดหมายนี้มาวาง `
+`แต่ดิฉันสามารถจำกัดวงผู้ต้องสงสัยได้แล้วค่ะ `
+`ก็พวกคุณทุกคนนั่นแหละ!!" `
+`"...ค-คุณผู้หญิงคะ... `
+`นั่นมัน...ใจร้ายเกินไปแล้วนะคะ..." `
+`"ก่อนที่ดิฉันจะเดินไปทางรูปภาพ ดิฉันวางกระป๋องอาหารไว้ตรงนี้ `
+`ตอนนั้น แน่นอนว่าไม่มีของประหลาดอย่างจดหมายฉบับนี้อยู่ตรงนั้นแน่!!" `
+`"และในตอนนั้น เจสสิก้า จอร์จคุง แล้วก็แบทเลอร์คุงก็อยู่หน้ารูปภาพกันอยู่แล้ว!! `
+`แล้วพวกเขาก็ไม่ได้ขยับออกจากหน้าภาพเลยจนกระทั่งจดหมายปรากฏขึ้นมา! `
+`ดังนั้น คนที่เอาซองจดหมายนั้นมาวาง ก็คือหนึ่งในพวกคุณสี่คนนี้แหละค่ะ!!! `
+`{f:5:เบียทริเช่}อยู่ที่นี่แล้ว!!!" `
+`"......อู- `
+`พวกเราไม่ใช่ {f:5:เบียทริเช่} หรอก `
+`...{f:5:เบียทริเช่} "มีตัวตนอยู่" ต่างหากล่ะ!" `
+`"เงียบเดี๋ยวนี้นะคะ!!! `
+`ดิฉันไม่รู้ว่าควรสงสัยคนใดคนหนึ่ง หรือทุกคนในพวกคุณ `
+`...แต่ที่แน่ๆ อย่างน้อยต้องมีคนร้ายอยู่ท่ามกลางพวกคุณหนึ่งคนอย่างไม่ต้องสงสัยค่ะ!!!" `
+`"......จ-จริงด้วย `
+`มันไม่มีทางมีบุคคลที่ 19 ได้หรอก...! `
+`แม่มดจะไปมีอยู่จริงได้ยังไงกัน!! `
+`แม้แต่ตอนที่คาน่อนคุงถูกฆ่า `
+`...ใช่ ถ้าคุณคุมาซาวะเป็นคนลงมือ ก็อธิบายเรื่องทั้งหมดได้แล้ว!! `
+`ความจริงก็คือ คุณคุมาซาวะเข้าไปในห้องหม้อต้มกับคาน่อนคุงแล้วลงมือฆ่าเขา! `
+`แล้วก็โกหกหน้าตายว่า พอไปถึงเขาก็ล้มฟุบอยู่ก่อนแล้วไงล่ะ!!" `
+`"ค-คุณหนูเข้าใจผิดไปกันใหญ่แล้วนะคะ...!! `
+`ทำไมดิฉันต้องทำเรื่องแบบนั้นด้วยล่ะคะ...?!" `
+`"...ผมเองก็นึกไม่ออกเลยครับ ว่าพ่อแม่ถูกฆ่าในห้องปิดตายนั้นได้อย่างไร `
+`แต่ตอนที่ทั้งสองถูกฆ่า ทุกคนนอกจากคนรับใช้ต่างก็มีพยานที่อยู่กันหมด `
+`...คนกลุ่มเดียวที่ไม่มี ก็คือพวกคนรับใช้... `
+`แต่...นั่นหมายความว่าเราจะสงสัยพวกเขาได้จริงๆ หรือครับ...?!" `
+`"...ช-ใช่ ...พอพูดถึงเรื่องนี้ พวกเขาก็ไม่มีพยานที่อยู่เลยสักคดีจริงๆ... `
+`......อึ่ก!!" `
+`เราควรจะด่วนตัดสินใจขนาดนั้นจริงๆ หรือ `
+`แต่คราวนี้...ในห้องนี้ ตรงที่แห่งนี้ ในเสี้ยวเวลานี้...ในช่วงเวลาและสถานที่อันคับแคบที่สุดนี้ มันชัดเจนเหลือเกิน `
+`มีเพียงหนึ่งในสี่คนนั้นเท่านั้น ที่สามารถวางจดหมายไว้ในมุมอับสายตาของพวกเราได้...!! `
+`เราไม่อาจรู้ได้ว่าใครเป็นคนวาง แต่เห็นได้ชัดว่าหนึ่งในสี่คนนั้นเป็นคนทำแน่ๆ...!! `
+`"...ค-คุณนัตสึฮิครับ `
+`ได้โปรด ใจเย็นๆ ก่อนเถอะครับ... `
+`วันนี้เกิดเรื่องขึ้นมากมายเหลือเกิน! `
+`ผมเข้าใจดีนะครับว่าจิตใจของคุณต้องแบกรับความตึงเครียดไว้มากแค่ไหน...!" `
+`"หมอนันโจคะ ดิฉันปวดใจเหลือเกินที่ต้องสงสัยคุณ...! `
+`แต่คุณเป็นแพทย์ประจำตัวของท่านพ่อ และยังเป็นสหายคนสนิทที่สุดของท่าน! `
+`คุณอยู่เคียงข้างท่านมานานหลายปี แล้วคุณก็อาจจะรู้เรื่องของ{f:5:เบียทริเช่}ด้วยซ้ำ `
+`คุณกำลังปกปิดบุญคุณเก่าแก่อะไรอยู่หรือเปล่าคะ?!" `
+`"จะไปมีเรื่องแบบนั้นได้ยังไงกันครับ...!! `
+`ใจเย็นๆ ก่อนเถอะครับ...!" `
+`ภาพหมอนันโจที่พยายามร้องขอความบริสุทธิ์อย่างสิ้นหวังนั้นช่างน่าเวทนานัก `
+`นั่นคงเป็นปฏิกิริยาตามธรรมดาที่ใครก็ตามย่อมแสดงออกมาเมื่อถูกสงสัย `
+`คุมาซาวะเองก็เช่นกัน `
+`นับตั้งแต่เจสสิก้าเปิดปากสงสัยว่าคุมาซาวะเป็นคนฆ่าคาน่อน คุมาซาวะก็ลนลานทำอะไรไม่ถูกไปหมด `
+`ด้วยเหตุนั้น ท่าทีที่ยังคงสงบเยือกเย็นของเก็นจิจึงดูอาจหาญเหลือเกิน `
+`ป้านัตสึฮิเล็งปากกระบอกปืนไปทางนั้น `
+`"......เก็นจิ `
+`เธอคือคนสนิทอันดับหนึ่งของท่านปู่ `
+`...{f:5:เบียทริเช่}เป็นภาพลวงตาที่เธอแสดงให้ท่านพ่อดู โดยมีเธอเป็นผู้แสดงงั้นหรือ?!" `
+`"......หากการสงสัยกระผม หมายถึงการที่คุณผู้หญิงยอมรับว่ากระผมเป็นคนรับใช้ที่ยอดเยี่ยมที่สุดของท่านเจ้าบ้าน `
+`...กระผมก็นับเป็นเกียรติอย่างยิ่ง ไม่ว่าจะในสถานการณ์ใดก็ตามขอรับ `
+`......ทว่า กระผมไม่ได้เป็นผู้นำจดหมายนั้นไปวางไว้ขอรับ" `
+`"คิดว่าพวกเราจะยอมรับคำตอบแค่นั้นงั้นหรือคะ?!! `
+`เธอต้องเป็นตัวการแน่ๆ! `
+`บางทีคุมาซาวะกับหมอนันโจอาจจะเป็นผู้สมรู้ร่วมคิดของเธอก็ได้!! `
+`......และมาเรียจังด้วยเช่นกัน" `
+`ไม่เพียงแต่สงสัยพวกผู้ใหญ่ ป้านัตสึฮิยังหันปากกระบอกปืนไปทางมาเรียอย่างไร้ความปรานีอีกด้วย `
+`แต่มาเรียกลับทำราวกับไม่มีอะไรเกิดขึ้น `
+`......หรือบางทีเธออาจคิดว่า ถึงถูกยิงก็ไม่เป็นไรอยู่แล้ว `
+`"มาเรียจัง `
+`...ถึงจุดนี้แล้ว เราคงไม่สามารถตัดใครออกจากข้อสงสัยเพียงเพราะยังเป็นเด็กได้อีกต่อไป `
+`ดังนั้น นี่จะเป็นครั้งสุดท้าย ที่ป้าจะถามคำถามที่ทุกคนสงสัยกันมาตั้งแต่เมื่อคืน! `
+`...เมื่อวานนี้ ใครคือ{f:5:เบียทริเช่}คนที่ยื่นจดหมายนั่นให้หนูกันแน่คะ?!!" `
+`".........อู-" `
+`"...มาเรีย อย่ามาบ่ายเบี่ยงนะเว้ย!! `
+`พูดมาให้ชัดๆ เลย! `
+`ใครเป็นคนให้จดหมายนั่นกับเธอมากันแน่?!!" `
+`"...คิฮิฮิฮิฮิ `
+`ต้องให้บอกอีกกี่ครั้งกันล่ะ? `
+`ก็{f:5:เบียทริเช่}ไง `
+`แม่มดทองคำผู้มีชีวิตมาหนึ่งพันปี `
+`......ถ้าอยากรู้ว่าหน้าตาเป็นยังไง ก็แค่หันหลังกลับไปสิ `
+`...เห็นไหมล่ะ อยู่ตรงนั้นไง `
+`{f:5:เบียทริเช่}น่ะ `
+`...คิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิ!" `
+`"อ-อย่ามากวนประสาทกันนะ มาเรีย~~~~~!!!" `
+`"พอได้แล้ว เจสสิก้า! `
+`มาเรีย เธอก็ด้วย `
+`ไม่เข้าใจสถานการณ์หรือไงวะ?! `
+`พูดจาแบบนั้นแล้วคิดว่าจะได้อะไรขึ้นมาล่ะ?! `
+`เลิกยั่วยุกันไปมาอย่างไร้ประโยชน์ได้แล้ว!" `
+`"...ไม่เข้าใจเลย `
+`...ทุกคนอยากให้ใครเป็นคนร้ายกันแน่เหรอ? `
+`พวกเธอจะเชื่อในตัว{f:5:เบียทริเช่} ก็แค่ตอนที่ไม่อยากสงสัยพวกเดียวกันเองเท่านั้นแหละ `
+`พอจะสะสางความแค้นเพราะคนใกล้ตัวถูกฆ่า ถึงค่อยอยากจะเชื่อว่ามีมนุษย์ที่สามารถใช้ความรุนแรงเข้าเล่นงานได้ แล้วก็ปฏิเสธ{f:5:เบียทริเช่}" `
+`"......เพราะงั้นแหละ ถึงมอง "ไม่เห็น" เธอไงล่ะ `
+`...{f:5:เบียทริเช่} "มีตัวตนอยู่" `
+`พวกเธอนั่นแหละที่มองไม่เห็นเธอเอง!" `
+`"เงียบเดี๋ยวนี้นะคะ!!! `
+`ป้าไม่อยากตราหน้าว่าหนูเป็นคนร้ายหรอกนะ แต่ไม่มีข้อกังขาอีกแล้วว่าหนูกำลังสนุกกับการทำให้สถานการณ์เลวร้ายลง และคอยให้ความช่วยเหลือศัตรูอยู่!!" `
+`"...คิฮิฮิฮิฮิฮิฮิ `
+`...แล้วจะทำยังไงล่ะ? `
+`จะยิงมาเรียเหรอ? `
+`ไม่เป็นไรหรอกนะ `
+`อีกประเดี๋ยว ประตูสู่ดินแดนทองคำก็จะเปิดออกแล้ว `
+`ถึงตอนนั้น คนตายทุกคนก็จะได้ฟื้นคืนชีพขึ้นมา `
+`...ในตอนนี้ ความตายน่ะไม่มีอะไรต้องกลัวเลย `
+`...คิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิ!" `
+`"ม-แม่ ยัยนี่น่าสงสัยจริงๆ ด้วยนะ!! `
+`พวกเราให้อยู่ด้วยไม่ได้แล้ว!!" `
+`"แต่ป้านัตสึฮิครับ ได้โปรดใจเย็นก่อนเถอะครับ...! `
+`ไม่มีเหตุผลอะไรที่จะต้องยิงมาเรียนี่ครับ! `
+`ได้โปรดมีสติไว้ก่อนเถอะครับ...! `
+`จดหมายนั่นมีไว้เพื่อยั่วโมโหเรา แต่มันไม่มีอะไรให้ต้องกลัวเลยนะครับ! `
+`แม้แต่คนร้ายเองก็กลัวสิ่งที่จะเกิดขึ้นในวันพรุ่งนี้เหมือนกัน `
+`พวกเขาเองก็กลัวตำรวจครับ! `
+`ตอนนี้เกาะนี้อาจอยู่นอกเหนือกฎหมาย แต่นั่นก็เพราะมันถูกตัดขาดด้วยพายุไต้ฝุ่นลูกนี้เท่านั้น! `
+`พอพายุไต้ฝุ่นผ่านพ้นไป กฎหมายก็จะกลับมา! `
+`เพราะฉะนั้น อย่ายิงเลยนะครับ...!!" `
+`"...พี่จอร์จ ทำไมยังใจเย็นอยู่ได้ขนาดนั้นเล่า?!! `
+`หนึ่งในสี่คนนี้คือคนร้ายนะเว้ย! `
+`ไม่สิ บางทีอาจร่วมมือกันทั้งสี่คนเลยด้วยซ้ำ! `
+`หนึ่งในสี่คนนี้อาจเป็นคนร้ายที่ฆ่าพ่อแม่พี่แท้ๆ ยังจะใจเย็นอยู่ได้ยังไงกันเล่า?!!" `
+`"แม้แต่ผมเองก็มีความคิดที่อยากจะตามหาคนร้ายแล้วฆ่าทิ้งเหมือนกัน...! `
+`แต่นั่นมันก็แค่ความป่าเถื่อนเท่านั้น `
+`การตัดสินความผิด ผมจะปล่อยให้เป็นหน้าที่ของกฎหมายครับ! `
+`เพราะงั้นไม่ว่าพวกเขาจะน่าสงสัยแค่ไหน ก็อย่าลั่นไกปืนกระบอกนั้นเลยนะครับ!!" `
+`"ผ-ผมก็เห็นด้วยกับพี่จอร์จนะ... `
+`ป้านัตสึฮิครับ `
+`ดึงสติตัวเองกลับมาก่อนเถอะครับ... `
+`ยังไงการยิงก็ไม่ดีแน่ อิฮิฮิ...! `
+`เวลาแบบนี้น่ะ เขาว่าให้เงยหน้าขึ้นแล้วพูดคำว่า 'ใจเย็นไว้' สักสามรอบไงครับ..." `
+`"......ดิฉันขอพูดให้ชัดเจนตรงนี้เลยนะคะ `
+`แม่มดน่ะไม่มีจริง! `
+`ไม่ว่าบนเกาะร็อกเค็นจิมะ หรือในคฤหาสน์อุชิโรมิยะแห่งนี้ก็ตาม!" `
+`"ในฐานะอุชิโรมิยะ นัตสึฮิ ตัวแทนแห่งตระกูลอุชิโรมิยะ ดิฉันขอประกาศไว้ตรงนี้!! `
+`ที่นี่ไม่มีแม่มดทั้งนั้น! `
+`ดิฉันไม่มีวันยอมรับ{f:5:เบียทริเช่}เด็ดขาด!! `
+`ไม่ว่าจะวางแผนอะไรไว้ ดิฉันจะไม่มีวันยอมให้แตะต้องลูกสาวของดิฉันหรือเด็กคนอื่นแม้แต่ปลายนิ้วเดียวเด็ดขาด!!! `
+`นั่นคือหน้าที่ของดิฉันในฐานะแม่ และในฐานะตัวแทนของตระกูล!!" `
+`ถ้อยคำเหล่านั้น...คือคำกล่าวอำลาครั้งสุดท้าย...ที่ตัดสินทุกสิ่งทุกอย่าง `
+`...เพื่อปกป้องลูกสาวแล้ว ป้านัตสึฮิพร้อมจะมองทุกคนที่น่าสงสัยเป็นศัตรู `
+`...เหตุผลเดียวที่ผมกับพี่จอร์จยังยืนอยู่ฝั่งนี้ได้ ก็เพียงเพราะความบังเอิญที่เรามีหลักฐานที่อยู่เรื่องจดหมายอย่างชัดเจนเท่านั้น `
+`ถ้าหากผมไม่ได้เดินเข้าไปใกล้ภาพวาดนั่น `
+`...ผมเองก็คงต้องไปยืนอยู่ตรงปลายปากกระบอกปืนนั้น และถูกปฏิบัติราวกับเป็นอาชญากรคนหนึ่ง... `
+`...แต่ถึงแม้ใจหนึ่งของผมจะคิดแบบนั้น `
+`...อีกใจหนึ่งก็คิดว่า การขับไล่คนที่น่าสงสัยทุกคนออกไปจากห้องนี้ ในที่สุดก็จะรับประกันความปลอดภัยให้พวกเราได้เสียที... `
+`คุณเก็นจิ คุณคุมาซาวะ แล้วก็หมอนันโจ...ทุกคนล้วนอยู่ฝ่ายท่านปู่ `
+`หรืออาจจะพูดได้ว่า นับตั้งแต่ที่มาเรียเริ่มเชื่อในตัว{f:5:เบียทริเช่}อย่างไม่ลืมหูลืมตา เธอก็เป็นฝ่ายท่านปู่ไปด้วยเหมือนกัน `
+`...ใช่แล้ว ทุกคนน่าสงสัยไปหมด `
+`แต่ทำแบบนี้จะดีจริงๆ เหรอ...?! `
+`ถ้าเราขับไล่คนที่น่าสงสัยออกไปอย่างป่าเถื่อนไร้กฎหมายเช่นนี้ เราจะยังมีสิทธิ์ไปต่อต้านความป่าเถื่อนไร้กฎหมายของแม่มดอยู่อีกเหรอ...?! `
+`ป้านัตสึฮิไม่ได้เอ่ยปากไล่ให้พวกเขาออกไปด้วยตัวเอง `
+`...แต่ใช้แรงกดดันไร้เสียง ชักนำให้พวกเขาพูดคำนั้นออกมากันเอง `
+`...เพราะหากหมอนันโจไม่เอ่ยคำนั้นออกมา ความเงียบอันเย็นเยียบนี้ก็คงดำเนินต่อไปชั่วนิรันดร์เป็นแน่ `
+`"......ใจเย็นก่อนเถอะครับ คุณนัตสึฮิ `
+`......แต่ถึงอย่างนั้น ผมก็เข้าใจความรู้สึกของคุณดีครับ `
+`ตัวผมเอง หลังจากเกิดเหตุการณ์ประหลาดซ้ำแล้วซ้ำเล่าแบบนี้ ก็รู้สึกเหมือนสติสตังจะฟั่นเฟือนไปแล้วเหมือนกัน... `
+`เพราะฉะนั้น ผมจึงเข้าใจดีครับว่าทำไมคุณถึงอยากจะสงสัยพวกเรา..." `
+`".........ถ้าหากพวกคุณไม่มีส่วนเกี่ยวข้องกับเรื่องนี้จริงๆ ...การกระทำของดิฉันในตอนนี้ก็ถือว่าไร้มารยาทอย่างที่สุดค่ะ `
+`......แต่ว่า ...ได้โปรดเข้าใจด้วยเถอะนะคะ แค่ครั้งนี้เท่านั้น" `
+`"......เข้าใจแล้วครับ `
+`...พวกเราออกไปจากห้องนี้กันเถอะครับ `
+`......คุณคิดว่ายังไงครับ คุณเก็นจิ? `
+`...พวกเรากลับไปที่ห้องรับรองแล้วเล่นหมากรุกต่อกันดีไหมครับ?" `
+`".........หากท่านประสงค์เช่นนั้น ...ก็ยินดีขอรับ" `
+`"......ด-ดิฉันไม่อยากไปเลยค่ะ...! `
+`ก็แบบนั้นมันเท่ากับว่า พวกเราต้องออกไปจากห้องนี้ทั้งๆ ที่รู้ว่ามีหมาป่าปะปนอยู่กับเราไม่ใช่เหรอคะ...?! `
+`ไม่อยากไปเลยค่ะ คุณผู้หญิง ยกโทษให้ดิฉันเถอะนะคะ กรี๊~~~~ด......!" `
+`สิ่งที่คุมาซาวะซังพยายามจะพูดนั้นชัดเจนอยู่แล้ว `
+`ถ้าหากเธอเป็นผู้บริสุทธิ์จริง นั่นก็หมายความว่าเธอกำลังถูกขับไล่ไปยังดินแดนอันตรายพร้อมกับตัวคนร้าย `
+`...ในสถานการณ์ปัจจุบัน การเร่งเร้าให้เธอออกจากห้องนี้ไปพร้อมกับกลุ่มผู้ต้องสงสัย ก็แทบไม่ต่างอะไรกับการปล่อยให้เธอไปตายเลยสักนิด... `
+`ทว่า คุณคุมาซาวะก็น่าสงสัยจริงๆ เพียงแค่จากการเป็นคนแรกที่พบว่าคาน่อนคุงถูกฆาตกรรม `
+`...ในตอนนั้น ทุกคนนอกจากคุณคุมาซาวะต่างก็มีหลักฐานที่อยู่กันหมด `
+`...เว้นเสียแต่ว่าเราจะพิสูจน์การมีอยู่ของกลไกบางอย่าง...หรือการมีอยู่ของบุคคลที่ 19 ได้ ไม่เช่นนั้นคุณคุมาซาวะก็เป็นผู้ต้องสงสัยที่มีน้ำหนักที่สุดอย่างไม่ต้องสงสัย `
+`ผมไม่อยากจะเชื่อเลย `
+`ทว่า ทั้งป้านัตสึฮิและพวกเราที่เหลือต่างตกอยู่ในสถานการณ์กลืนไม่เข้าคายไม่ออก จนอดที่จะระแวงเธอไปด้วยไม่ได้... `
+`พวกเราจึงไม่ได้พูดห้ามอะไร ตอนที่ป้านัตสึฮิพยายามบีบคั้นขับไล่พวกเขาออกจากห้องไป `
+`...พวกเราห้ามไม่ให้เธอยิง แต่ก็ยินยอมให้คนอื่นๆ ถูกไล่ออกจากห้องไปโดยปริยาย...! `
+`ยิ่งไปกว่านั้น มาเรียยังเอ่ยปากกับคุณคุมาซาวะที่กำลังกระสับกระส่าย `
+`"......ไม่เป็นไรหรอกนะ `
+`...{f:5:เบียทริเช่}น่ะอ่อนโยนต่อคนที่เคารพเธอเสมอ `
+`...คุณคุมาซาวะก็เชื่อว่า{f:5:เบียทริเช่} 'มีตัวตนจริง' นี่นา `
+`...เพราะงั้นจะต้องไม่เป็นไรแน่นอน `
+`...มาเรียจะไปดูทีวีที่ห้องรับรองนะ `
+`ไปดูด้วยกันเถอะ `
+`...อยู่ที่นี่ไม่มีทีวี น่าเบื่อจะตายไป `
+`......คิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิฮิ ฮิฮิฮิ" `
+`ดูเหมือนคุมาซาวะจะรู้สึกหวาดกลัวกับเสียงหัวเราะชวนขนลุกของมาเรียอย่างยิ่ง... `
+`ทว่า อีกสามคนที่เหลือต่างตกลงที่จะออกจากห้องไปแล้ว `
+`คุมาซาวะจึงไม่อาจฝืนกระแสได้ และจำต้องยอมตามไปทั้งน้ำตา... `
+`"...ถ้าอย่างนั้น คุณนัตสึฮิครับ `
+`คืนนี้คงต้องพอแค่นี้ `
+`...ไว้พบกันใหม่ในวันพรุ่งนี้นะครับ" `
+`"...ค่ะ `
+`ได้โปรดเข้าใจด้วยเถอะนะคะ อย่างน้อยก็สำหรับคืนนี้ `
+`เมื่อตำรวจมาถึง พวกเราทุกคนจะต้องขอโทษในความไร้มารยาทนี้อย่างแน่นอนค่ะ `
+`...จะเล่นหมากรุกก็ได้ แต่ถ้าเป็นไปได้ก็ขอให้อยู่ในที่ที่ปลอดภัยนะคะ `
+`...เก็นจิ ฉันฝากพวกเขาด้วยนะ" `
+`"......รับทราบขอรับ" `
+`"...ฮ-โฮ่ะโฮ่ะโฮ่ะ... `
+`ช่วยไม่ได้สินะคะ... `
+`เขาถึงว่ากันว่า หมีที่อยู่กับลูกน่ะน่ากลัวที่สุดแล้วล่ะค่ะ" `
+`"...เก็นจิ คุมาซาวะ ต้องขอโทษด้วยจริงๆ นะคะ `
+`...ไว้พบกันใหม่พรุ่งนี้นะคะ `
+`......มาเรียจังด้วยนะจ๊ะ `
+`...ยกโทษให้ป้าใจร้ายคนนี้ด้วยนะ" `
+`"อู- `
+`มาเรียยกโทษให้ `
+`อู-!" `
+`"คุณผู้หญิงขอรับ กุญแจของห้องนี้ `
+`...กระผมขอมอบทั้งสองดอกให้แก่ท่านขอรับ" `
+`คุณเก็นจิล้วงกุญแจสีทองสองดอกออกมาจากกระเป๋าแล้วส่งให้ป้านัตสึฮิ... `
+`"...และกระผมขอมอบพวงกุญแจสำหรับภายในคฤหาสน์ให้ด้วยขอรับ" `
+`เขาหยิบพวงกุญแจที่มีลูกกุญแจรูปทรงต่างๆ ราวสิบดอกออกมา แล้วส่งมอบให้ `
+`......สำหรับพวกคนรับใช้แล้ว กุญแจเหล่านั้นคงเป็นเครื่องพิสูจน์ถึงสถานะของตน `
+`การได้รับมอบหมายให้ดูแลกุญแจเหล่านั้น หมายความว่าได้รับความไว้วางใจ ได้รับการพึ่งพา `
+`...เมื่อถูกบีบให้ต้องคืนมันไป ...ก็ย่อมหมายความว่าได้สูญเสียความไว้วางใจนั้นไปแล้ว `
+`...พอลองคิดดูแบบนี้ ...สำหรับคุณเก็นจิที่ทำงานที่นี่มาเนิ่นนานหลายปี คงไม่มีความอัปยศใดจะยิ่งไปกว่านี้อีกแล้ว `
+`...ทว่า สีหน้าไร้อารมณ์อันเป็นปกติของคุณเก็นจิยังคงไม่เปลี่ยนไป `
+`"...เก็นจิ `
+`...ดิฉันตั้งใจไว้ว่า หลังจากท่านพ่อล่วงลับไปแล้ว จะตอบแทนการทำงานหนักตลอดหลายปีของคุณ และให้คุณได้เกษียณอย่างสบาย `
+`......แต่กลับต้องมาปฏิบัติต่อคุณเช่นนี้... `
+`...ทำให้ดิฉันรู้สึกละอายใจจากก้นบึ้งของหัวใจจริงๆ ค่ะ......" `
+`"กระผมได้รับพระคุณของท่านเจ้าบ้านมามากแล้วขอรับ `
+`...ทุกสิ่งที่กระผมทำมาจนถึงวันนี้ ก็เพื่อตอบแทนสิ่งนั้น `
+`......ได้โปรด อย่ากังวลไปเลยขอรับ" `
+`"...เอาละครับ ...พวกเราไปกันเถอะครับ? `
+`...ราตรีสวัสดิ์นะครับทุกท่าน" `
+`"อู- `
+`ราตรีสวัสดิ์นะ `
+`ราตรีสวัสดิ์นะแบทเลอร์! อู-!" `
+`"...อ๊ะ ...มาเรีย `
+`เดี๋ยวก่อนสิ" `
+`ความรู้สึกผิดในใจทำให้ผมเอ่ยเรียกมาเรียไว้ `
+`...ผมคลำดูในกระเป๋า...แล้วหยิบพวงกุญแจแมงป่องอันนั้นออกมา `
+`"......นี่ช่วยขับไล่เวทมนตร์ได้ใช่ไหม? `
+`...พกติดตัวไว้นะ" `
+`"อู-...? `
+`ไม่ใช่ว่าบอกว่าทำตกหายไปแล้วเหรอ...?" `
+`"...ตอนนั้นฉันหงุดหงิด ก็เลยแกล้งโม้ไปว่าทำหายเฉยๆ `
+`...เครื่องรางล้ำค่าที่เธออุตส่าห์ให้มา ฉันไม่มีทางทำหายหรอกน่า" `
 `"............" `
-`Maria silently took the charm. `
-`...I was unable to say anything after that... `
-`"......Well then, everyone, good night to you..." `
-`We watched them leave, our expressions completely worn out, ...and we weren't even able to respond. `
-`...Until the door closed and we heard the auto-lock, we were unable to breathe... `
-`Then, we were finally allowed to take a breath. `
-`...After that, I noticed that {f:5:Beatrice}'s letter, which I had been gripping the whole time and which was soaked with my sweat, actually had two sheets. `
-`...The paper had been tightly stuck together, so I'd mistakenly thought that there was only one. `
-`There were no characters on the second sheet. `
-`...The thing drawn there was a magic circle, written with a red ink like blood. `
-`......Just like how every magic circle up until then had been different, this magic circle was one I'd never laid eyes on before. `
-`Inside the circle, a large triangle and a small triangle were fit together in a simple design. `
-`But just as before, there was writing in Hebrew, and it seemed clear that it held some kind of meaning. `
-`I wanted to know what that could be, ...but we had just chased Maria, the only person who could understand the meaning of magic circles, out of the room... `
-`......I thought of this magic circle as {f:5:Beatrice}'s second message. `
-`...What does this magic circle mean? `
-`.........Damn it...! `
-`After chasing out all the suspicious people, all we had to do was stay barricaded here until morning, and everything would probably be over. `
-`...Once the typhoon has passed, when the seagulls cry, will everything be resolved? `
-`But the letter, which had unexpectedly appeared in the study, forced us to reject that naivety. `
-`...It had made it very clear that, if time ran out, it would mean the witch's victory. `
-`When time runs out, is the witch planning to take on the offensive? `
-`...This time, is she planning to display some fearful magical power, maybe something that could have been used to kill six adults at once? `
-`...Wait, when is time supposed to run out anyway? `
-`...I don't know...anything... `
-`".........With this, ...we should finally be safe. `
-`...Finally. `
-`......Definitely..." `
-`Even as she said that, Aunt Natsuhi couldn't stop gripping that rifle. `
-`...There was no release in the tension of her expression. `
-`Of course, none of us felt like breathing a sigh of relief. `
-`.........At least, not until we could hear the cry of the seagulls once more...... `
+`มาเรียรับเครื่องรางนั้นไปเงียบๆ `
+`...หลังจากนั้นผมก็พูดอะไรไม่ออกอีกเลย... `
+`"......ถ้าเช่นนั้น ราตรีสวัสดิ์ขอรับทุกท่าน..." `
+`พวกเรามองส่งพวกเขาออกไปด้วยสีหน้าเหนื่อยล้าถึงขีดสุด ...โดยไม่แม้แต่จะสามารถเอ่ยปากตอบรับ `
+`...จนกระทั่งประตูปิดลงและได้ยินเสียงระบบล็อกอัตโนมัติ พวกเราแทบจะหายใจไม่ทั่วท้อง... `
+`จากนั้น พวกเราถึงค่อยได้ผ่อนลมหายใจออกมาในที่สุด `
+`...หลังจากนั้น ผมก็สังเกตเห็นว่าจดหมายของ{f:5:เบียทริเช่}ที่ผมกำแน่นไว้ตลอดจนชุ่มไปด้วยเหงื่อ ความจริงแล้วมีอยู่สองแผ่น `
+`...กระดาษมันแนบติดกันแน่น ผมก็เลยเข้าใจผิดไปว่ามีแค่แผ่นเดียว `
+`บนแผ่นที่สองไม่มีตัวอักษรใดๆ เขียนไว้เลย `
+`...สิ่งที่วาดอยู่ตรงนั้นคือวงเวทมนตร์ ซึ่งเขียนขึ้นด้วยหมึกสีแดงคล้ายเลือด `
+`......เฉกเช่นเดียวกับที่วงเวทมนตร์ก่อนหน้านี้ล้วนแตกต่างกันไป วงเวทมนตร์นี้ก็เป็นแบบที่ผมไม่เคยเห็นมาก่อนเช่นกัน `
+`ภายในวงกลมมีรูปสามเหลี่ยมขนาดใหญ่กับขนาดเล็กประกบเข้าด้วยกันเป็นลวดลายเรียบง่าย `
+`แต่ก็เหมือนกับคราวก่อนๆ ที่มีข้อความภาษาฮีบรูเขียนอยู่ และเห็นได้ชัดว่ามันต้องมีความหมายบางอย่างแฝงอยู่ `
+`ผมอยากรู้ว่ามันหมายถึงอะไร ...แต่พวกเราเพิ่งจะไล่มาเรีย ผู้เป็นคนเดียวที่เข้าใจความหมายของวงเวทมนตร์ ออกไปจากห้องเสียแล้ว... `
+`......ผมนึกถึงวงเวทมนตร์นี้ว่าเป็นสารฉบับที่สองของ{f:5:เบียทริเช่} `
+`...วงเวทมนตร์นี้หมายความว่าอย่างไรกันแน่? `
+`.........บ้าเอ๊ย...! `
+`หลังจากไล่ทุกคนที่น่าสงสัยออกไปแล้ว สิ่งที่พวกเราต้องทำก็แค่ขังตัวเองอยู่ในนี้จนถึงเช้า แล้วทุกอย่างก็คงจะจบลง `
+`...เมื่อพายุไต้ฝุ่นพัดผ่านไป ยามแว่วเสียงนกนางนวล ทุกอย่างจะคลี่คลายลงได้จริงหรือ? `
+`แต่จดหมายที่จู่ๆ ก็โผล่ขึ้นมาในห้องหนังสือ กลับบีบให้พวกเราต้องปฏิเสธความคิดไร้เดียงสานั้น `
+`...มันระบุไว้อย่างชัดเจนว่า หากหมดเวลา ก็จะถือเป็นชัยชนะของแม่มด `
+`เมื่อหมดเวลาลง แม่มดคิดจะเริ่มเป็นฝ่ายรุกอย่างนั้นหรือ? `
+`...คราวนี้ หล่อนคิดจะสำแดงพลังเวทมนตร์อันน่าสะพรึงกลัว อย่างเช่นสิ่งที่อาจใช้สังหารผู้ใหญ่ถึงหกคนในคราวเดียวอย่างนั้นหรือ? `
+`...เดี๋ยวก่อน แล้วไอ้คำว่าหมดเวลามันเมื่อไหร่กันแน่ล่ะ? `
+`...ผมไม่รู้...อะไรสักอย่างเลย... `
+`".........เท่านี้ ...พวกเราก็น่าจะปลอดภัยเสียที `
+`...เสียที `
+`......ต้องปลอดภัยแน่ๆ..." `
+`แม้จะเอ่ยเช่นนั้น แต่ป้านัตสึฮิก็ยังคงกำปืนไรเฟิลกระบอกนั้นไว้แน่นไม่ยอมปล่อย `
+`...ความตึงเครียดบนสีหน้าของเธอไม่มีทีท่าว่าจะคลายลงเลย `
+`แน่นอนว่าพวกเราไม่มีใครรู้สึกอยากจะถอนหายใจอย่างโล่งอกได้เลยสักคน `
+`.........อย่างน้อย ก็จนกว่าจะได้ยินเสียงนกนางนวลกู่ร้องอีกครั้งหนึ่ง...... `

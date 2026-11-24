@@ -1,841 +1,841 @@
-`The Ushiromiya family conference was held once every year, on the first weekend of October. `
-`If a normal family were to hold a so-called "family conference", `
-`you'd expect it to be nothing more than a reunion of rarely seen relatives who greet each other around buckets of sushi or something. `
-`However, part of the family's great fortune had been lent out to Grandfather's children, `
-`and no one in this family was considered an adult until they had met with success in business, `
-`so this meeting literally was a conference. `
-`How much of the fortune was invested? What sort of business was conducted? How much profit was earned? `
-`As a result, how much of the fortune borrowed from the main family could be repaid? `
-`Or, possibly, how much more would be borrowed for future business ventures? `
-`What lessons had they learned, and what could they learn from their mistakes? `
-`It seems that topics like these were discussed very seriously in the past. `
-`My dad said it was like lying on a bed of nails. `
-`Apparently, it used to be a very serious family meeting, where people were bathed in scornful and angry voices, and some people even got slapped despite their age. `
-`However, that had become a thing of the past. `
-`Now, with everyone pursuing their own business ventures and achieving success, `
-`it was becoming more of a normal yearly get-together. `
-`Even so, telling Grandfather about recent events was extremely stressful, `
-`so while it was nothing more than a simple get-together for us grandchildren, it was still a real stomachache for our parents. `
-`The absence of the man who was the source of all this trouble, regardless of the reason, probably made today's lunch taste much more delicious. `
-`The phrase "While the demon is not around, everyone can relax" comes to mind. `
-`Anyway, let's introduce Jessica's father, whose face I haven't seen for six years. `
-`The man sitting to my father's left is his older brother and Jessica's father, `
-`Uncle {p:0:蔵臼}. `
-`......This name sure is easy to read. `
-`Krauss ({p:0:蔵臼}). `
-`...Now that we've gotten used to this string of weird names, our perspective is totally skewed, `
-`so Krauss doesn't actually seem that bad. `
-`It even starts to sound kinda cool... `
-`Just like with Aunt Natsuhi, I didn't have many memories of speaking with Uncle Krauss. `
-`He had never been one to chat to children, and I felt like he was always talking with the adults, just like Aunt Natsuhi. `
-`According to my father's gossip, he was a spiteful and violent man. `
-`If what he said is true, Uncle Krauss used to be very domineering from his position as the oldest sibling `
-`...and was despised by all the other siblings. `
-`...Though, despite that, those siblings all seem to be chatting happily together. `
-`Oh, well. Even if their relationship was bad when they were children, sometimes when people grow up and live apart from each other, their relationships change. `
-`That's probably what this was. `
-`After all, they all had children of about the same age. `
-`By sharing the same family environment, they probably profited by exchanging opinions. `
-`Maybe because of that, a short while ago the circle of parents began to discuss the exams Jessica and I would be taking. `
-`Jessica, in order to escape questions about exams from my father on her left, `
-`purposefully faced right while firing off a rapid series of comments, not giving him any chance to get a word in. `
-`Moving on, let's look at the end opposite from Krauss and the others. `
-`In the very last seat at the table, an old gentleman with a sturdy physique sat facing Kyrie-san. `
-`This was my first time meeting him. `
-`I had only just been introduced to him, but it seems he's Grandfather's personal doctor, a man called Nanjo ({p:0:南條}). `
-`I heard he used to own a huge clinic on the nearby island of Niijima, but he turned it over to his son and began living a life of leisure in his old age. `
-`He had known Grandfather since the very beginning, when the mansion was first constructed on this island, and had built up a relationship over several decades. `
-`I thought at first that the two of them might've gotten to know each other through Grandfather's suspicious hobbies, but it seems he was actually Grandfather's chess partner. `
-`......I see. That kind of hobby seems very like our Grandfather, what with his love of all things Western. `
-`Nanjo's probably the only person who could enter Rokkenjima despite being neither a family member nor a servant. `
-`He looked like a calm old gentleman as he listened to the discussion between Kyrie and the other women, who sat near to him. `
-`...Considering how long he stayed by the side of our short-tempered Grandfather, his generous heart was probably nothing to laugh at. `
-`...Still, even if he was a family doctor, having anyone outside the Ushiromiya family attend the family conference was a little odd. `
-`It made me think that Grandfather's condition might've worsened so much, it'd be a major topic of discussion at today's conference... `
-`After all, George said something like that just a second ago. `
-`Something about how we've been getting continuous reports since around last year that Grandfather didn't have long to live. `
-`...It's nasty to think about it, but consider how rich Grandfather is. `
-`At the time of his death, his wealth will suddenly be released, probably along with a fair share of our parents' stomach acid, `
-`and it'll lead to ulcers for everyone. `
-`After all, this sort of thing just gets messier when there's more wealth to be divided. `
-`There's a good chance they'll be talking about stuff like that at the family conference. `
-`...Still, it's not like it's got anything to do with us kids. `
-`......Finally, even though he hasn't shown up, let me introduce our Grandfather. `
-`The person who should be sitting in that "Incipient's Chair" is Ushiromiya Kinzo. `
-`...It really sucks. `
-`Everyone else in the family has these weird names, but he's got this perfectly normal one himself. `
-`If only his name were written Kinzo ({p:0:金蔵}), but he let us call him "Goldsmith" or something, `
-`I'd totally freak out. `
-`As you can probably guess by now, he's a frightening person with an extremely short temper. `
-`I'm one of his grandchildren, not a son, and I haven't seen him since elementary school. `
-`Thanks to that, I have no memory of being beaten myself, but our parents were apparently raised with an iron fist. `
-`That earlier conversation between my dad and Uncle Krauss, about who should go convince Grandfather to come down, `
-`seems pretty darn funny once you know their background. `
-`You can't really tell Grandfather's story without covering that pivotal event back before the {ruby:1926-1989:Showa} era. `
-`Until the {ruby:1868–1912:Meiji} and {ruby:1912–1926:Taisho} eras, the Ushiromiya family was great and prosperous. `
-`They owned several spinning mills, making them rich enough to just double over laughing every day as the money kept rolling in. `
-`Incidentally, Grandfather was a member of a branch family and had pretty much nothing to do with the main family. `
-`Not only was he way down the list of people who could inherit the Headship, but he had hardly any contact with the glamorous main family. `
-`However, during the Great Kanto Earthquake in {ruby:Taisho 12:1923}, the mansion owned by the Ushiromiya family in Odawara was flattened. `
-`The spinning mills in Tokyo were all burned down in a huge fire, `
-`and the Ushiromiya family lost most of its wealth and family members in an instant. `
-`So, once they started trying to figure out who the successor to the Ushiromiya family should be, they apparently found no one remaining except Kinzo in his branch family. `
-`In Kinzo's later reminiscences, he referred to this as good fortune so great that it overturned fate. `
-`With that, Grandfather's boring, everyday life did a 180. `
-`He was entrusted with reviving the dying Ushiromiya family, which had lost nearly all of its wealth. `
-`However, just because he had been entrusted with this task didn't mean he could accomplish it. `
-`Apparently, those around him weren't really expecting much. `
-`However, this is when Grandfather began displaying his extraordinary talent and good luck. `
-`Grandfather used all of the family's remaining wealth, as well as everything from the hair on his head to his toenails, as collateral in order to borrow a massive amount of money. `
-`Once he'd built up a gigantic war chest, he immediately invested in businesses. `
-`It was like someone tumbling down a hill on a bike without any brakes... `
-`...And then jumping onto a neighboring bike, and then another one! `
-`Just like some crazy street performance. `
-`I'll bet everyone thought Grandfather had no business ability whatsoever. `
-`However, after several miracles and turns of good luck, with coincidences piling up and every chance taken advantage of, `
-`he was suddenly in control of powerful connections with the occupying forces. `
-`At that time, McArthur and the GHQ were the ultimate authority in Japan. `
-`Grandfather, in a twinkle of an eye, began succeeding in business under the protection of the occupying forces, quickly becoming very rich. `
-`By this point, it's probably safe to say that information, not luck, saved the day. `
-`He must have made some seriously deep connections with the occupying forces. `
-`......Grandfather knew beforehand about emergency demands that would be made for the Korean War. `
-`No, it was more than that.  He must have predicted those emergency demands from the very beginning, when he started investing his money. `
-`The history books make it sound like all of Japan made a large profit off of the emergency demands during the Korean War, but that isn't actually true. `
-`Only a very limited number of the super rich played the money game and made an easy profit. `
-`Most of the citizens remained poor. `
-`...In other words, Grandfather was a member of this extremely lucky group of winners. `
-`I'm pretty sure this all happened during {ruby:Showa 25:1950} or so. `
-`The Great Kanto Earthquake happened in {ruby:Taisho 13:1924}, so... `
-`......That means Grandfather was able to revive the near-dead Ushiromiya family in only about 20 years to a level even higher than it had ever been before. `
-`With that, you'd think he'd revive the main family in Odawara, `
-`but for some reason, he went and did something as crazy as buying an entire small island in the Izu archipelago. `
-`Buying an entire island is not something that you can ordinarily do today. `
-`However, Grandfather was clever. `
-`He contacted the GHQ and applied for the establishment of a marine resource base. `
-`He acquired this island as a business property, then tossed that project aside and claimed it as his own plot of land. `
-`After the war, there were prevention measures against food shortages, and having the sponsorship of the GHQ meant that nobody could oppose him. `
-`From what I've heard, the Tokyo Metropolis of that day offered this land to him practically for free. `
-`Later, Tokyo made difficulties by telling Kinzo to return the land, but the pushy GHQ intervened. `
-`Anyway, it seems under-the-table bribes did their work well. `
-`In the end, the city gave up in frustration. `
-`Grandfather, with considerable skill and good luck, managed to weather the stormy seas of that period, `
-`obtaining a vast fortune and his own island. `
-`Of course, it probably wasn't all luck. `
-`He was obsessed with all things Western, which helped him cultivate his English skills. `
-`He was able to use this to his advantage and sink his teeth into the GHQ. `
-`A mansion was built on the island soon after. `
-`This mansion, in fact. `
-`Grandfather, with his love of the Western style, made this once uninhabited island a canvas upon which he could realize his dreams to his heart's content. `
-`...He now had the Western mansion of his dreams, overflowing with emotion and atmosphere, and a beautiful garden featuring all sorts of roses. `
-`And, he had a private beach where nobody other than himself would ever be permitted to leave a footprint. `
-`......This would be a dream come true for any boy. `
-`After that, he made good use of his huge fortune, `
-`becoming a large stockholder in the extremely stable iron and steel industry, and was able to live an easy and comfortable life just using the dividends. `
-`Well, he's just that incredible. `
-`This kind of person usually has the ability to foresee and predict the future, or at least that is how they're portrayed after the fact. `
-`But Grandfather denies all of that, `
-`repeatedly saying that he was simply blessed with extraordinary luck... `
-`......Anyway, even a lord like that can't help but grow increasingly eccentric when locked up alone on an island `
-`, where all his dreams are made real. `
-`Everyone knows that he's had a Western obsession from the start, `
-`but none of our parents really know when his bizarre black magic hobby began. `
-`Did his love of black magic begin way back when he became fascinated with everything Western, `
-`or did his miraculous stretch of good luck while reviving his family cause him to feel a mysterious power in himself? `
-`At some point, Grandfather began to make the research of black magic his life's work. `
-`He filled his study up with suspicious books, chemicals, and magical items as he became increasingly bizarre. `
-`From what I've heard, those around him warmly (?) watched over him, figuring that someone who had achieved success in life had a right to do as he pleased, but... `
-`...There's no way that's true. `
-`They were probably just creeped out, thinking "That's disgusting, I don't want to get involved." `
-`Anyway, ...that agitated period was an age of big gambles, with both opportunities and risks. `
-`Let's say Grandfather was born in this time period. `
-`He would've had no opportunities and would probably have advanced like a chess piece from mandatory education to college at a leisurely pace, `
-`never becoming more than an average salaryman. `
-`If that happened, he'd probably have sat somewhere, happily talking behind his boss's back. `
-`No, no. Not in a fancy dining hall like this. More like at a table in some bar. `
-`Then again, I'll bet this family conference would be a whole lot more relaxing if that were the case. `
-`Okay, that's enough about the old geezer. `
-`More importantly, let's talk about this incredible lunch!! `
-`"I'm already convinced by that sashimi salad appetizer! `
-`Gohda-san's an excellent chef! `
-`Plus, these fish were caught in the adjacent seas, weren't they?! `
-`They're totally different from the sashimi you get at the supermarket!" `
-`"Hey, quit it, Battler. `
-`Your upbringing will be exposed." `
-`Everyone let out a big laugh. `
-`Damn it, you say that even though you love those cheap pubs. `
-`"Hahahaha. `
-`I've eaten at many unusual places because of work, but this stands right up there with the best of them. `
-`I'd be willing to bet Gohda-san used to be pretty well known in those circles." `
-`"Well, I don't know the details, `
-`but stuff got complicated at the long-standing hotel he used to work at, what with them opening a new establishment with the same name and breaking into factions or whatever it was. `
-`In the middle of all that, he was apparently forced to retire. `
-`At that time, Mom just happened to be sending out job offers for a servant." `
-`As Gohda removed the empty plates, he began to recount his own bumpy past without losing his smile. `
-`"The world is a difficult place. `
-`However, thanks to the Madam, I was given a chance to display my skills as a chef once again, this time for the Ushiromiya family. `
-`Although I enjoy experiencing the smiles of a larger number of people, `
-`I also find it quite entertaining to perform more delicate work that can please the limited number of those who have employed me. `
-`All this is thanks to the opportunity given to me by the Madam." `
-`Gohda-san respectfully bowed his head towards Aunt Natsuhi. `
-`"That's because you were the most talented of the applicants. `
-`The decision was purely objective, not based on personal feelings, so there is no need to thank me." `
-`...Dang, why does Aunt Natsuhi always have to sound so indifferent? `
-`If only she spoke with a bit more kindness, she might leave a different impression. `
-`Shannon-chan and Kumasawa-san entered from the hallway with a serving cart. `
-`"...Please excuse us." `
-`"Now then, let us move on to today's dessert." `
-`Gohda-san and the others laid the beautifully adorned dessert out in front of us all. `
-`I guess it's true when they say you have another stomach for dessert... `
-`I'd thought I'd already filled up on delicious food, `
-`but as soon as I laid eyes on that dessert, my stomach started yelling "More!" `
-`I don't know much about desserts, but this looked really good. `
-`A white pudding-like substance was garnished with two shades of red sauce, `
-`and elegant rose petals adorned the dish. `
-`Normally, during a high-class meal like this, `
-`you're supposed to wait for the chef to extol the virtues of this particular meal before eating. `
-`However, Maria was completely indifferent to strict rules like that, so she got excited by this beautiful and delicious-looking dessert, jumping into the fray as soon as it was placed before her. `
-`Aunt Rosa scolded her, calling it bad manners, but George responded by saying "Now, now, it's okay." `
-`"Uu-?! `
-`This part's sour! `
-`This part's sour! `
-`Battler, this one's no good! `
-`Uu-!" `
-`Maria exclaimed as she sampled the two colored sauces. `
-`"What, some are good and some bad? Okay, I'll give it a go! `
-`Mmmmm?!" `
-`Apparently, one sauce was sweet and the other sour. `
-`Despite it being bad manners, I also stuck my little finger in and licked it. `
-`Whoa, one of the sauces was sour enough to make you pucker up. `
-`If it were yellow, I'd have suspected lemon, but I couldn't guess what kind of sourness would be red. `
-`I decided to ask Shannon, who was putting away the serving cart behind us. `
-`"Shannon-chan, what kind of sauce is this sour stuff?" `
-`"......Umm...... `
-`............uhh, `
-`......aaah..." `
-`Shannon‐chan hesitated to speak. `
-`Maybe her job was just to set the table, so she doesn't really know. `
-`Still, even considering that, she seems pretty stressed. `
-`......Maybe I shouldn't have asked. `
-`Or did they use some ingredient that we'd be better off not knowing about? `
-`While Aunt Natsuhi made a gesture that seemed to indicate an oncoming headache, Kumasawa-san, who was setting the table at the opposite seat, began to chuckle. `
-`"What do you think we made it out of? `
-`Hohohoh, it'll shock you..." `
-`"Huh? I-I don't have a clue. `
-`Wait a sec, Kumasawa baa-san, that laugh's pretty creepy. `
-`So, what is it?!" `
-`"...Don't tell anyone, okay? `
-`Listen very carefully." `
-`Kumasawa-san leaned across from the other side of the table. `
-`I leaned forward myself when she asked. `
-`Their interest caught, Jessica, George-aniki, and, of course, Maria also put their ears closer. `
-`"Uu-. `
-`What? `
-`Whaaat? `
-`Quickly! `
-`Quickly!" `
-`"You see, the sour part is made from... `
-`juice squeezed from a mackerel, hohohoh!" `
-`"""WHAT, mackerel?!?!""" `
-`"That's crazy," we all thought, horrified. `
-`Only Maria accepted it, nodding sagely. `
-`"Uu-? `
-`Mackerels are sour. `
-`This is what comes out when you squeeze them!" `
-`""...ha, wahahahahaha...!"" `
-`When Maria started clamoring that mackerel were sour, the adults were unable to contain their laughter. `
-`Only Aunt Rosa, her face red, `
-`whispered to Maria that mackerel is sour only once {ruby:vinegared:prepared as shimesaba}. `
-`Aaahh, now I totally remember. `
-`Kumasawa-san was always like this, wasn't she? `
-`I think I remember her tricking me too in all sorts of ways when I was young! `
-`The most lethal has gotta be that one! `
-`Those flimsy black things in Chinese dishes! `
-`They're kikurage mushrooms! `
-`She told me they were penguin meat and I went all around school like a smartass telling everyone, didn't I?! `
-`"Kumasawa baa-chan, you sure haven't changed...! `
-`You know Maria's gonna believe it now, right?" `
-`"Hohohoh, it's just a joke. `
-`Now Gohda-san's going to tell us what the sauce really is, won't he?" `
-`Gohda looked a little put off about his masterpiece being laughed at for such a bizarre reason, `
-`but after clearing his throat once, he introduced the dessert to us. `
-`"Well then, allow me to introduce our dessert. `
-`After seeing how much you all enjoyed the rose garden earlier today, I finished this panna cotta in a rose garden style. `
-`The rose petals scattered across were selected just now from that very rose garden. `
-`The sauce is a combination of two reds, strawberry and rose hips. `
-`Please enjoy this mixture of the strawberry's sweetness and the rose hip's sourness. `
-`Furthermore, the rose petals are merely decorative, so please avoid them while you eat. `
-`With that said, please, enjoy." `
-`......Whoa...... Man, I almost want to applaud before eating. `
-`Just like with medicine, reading the detailed description first seems to make it work a whole lot better. `
-`As Gohda-san elaborated on the details of this dessert, it started to feel even more appetizing. `
-`Seriously, should you call him subtle or just talented? `
-`The dessert was probably planned from the beginning, but taking the hint when we all stopped in front of the rose garden earlier today, `
-`he displayed an incredible and timely awareness by just adding a few rose petals from that garden. `
-`This combination of sweet and sour was also exquisite. `
-`If it was just sweet, you'd just get used to it and bored halfway through. `
-`But if you reached the sour sauce at that point, you'd get a really vivid taste. `
-`And then, once you returned to the sweet sauce, all of the sourness in your mouth would be replaced with an enjoyable sweetness. `
-`I'm sure everyone else felt the same way. `
-`Every time Gohda-san passed by one of our seats, someone praised the taste and his presentation. `
-`"How is it, Madam?" `
-`"Splendid, as always. `
-`It is worthy of entertaining our guests." `
-`"I am most grateful for your words. `
-`......Madam, did you know? `
-`I have heard that rose hip has the ability to cure headaches. `
-`I thought that you in particular would appreciate it, so I had it specially prepared." `
-`"...Is that so? `
-`Thank you." `
-`"See, didn't I tell you, Natsuhi nee-san? `
-`Rose hip is great for headaches." `
-`"So it seems. `
-`...I do hope it actually helps." `
-`"Haa-! `
-`Gohda-san, I love ya! `
-`Hey, later on, why don't you tell me how they're treatin' ya?! `
-`Or if ya can't, just let me know what sort of salary you'd like! `
-`Havin' your talent confined to this small island is sacrilege to humanity's cookin' culture! `
-`What d'ya think about working your craft for my company and delightin' all our customers?!" `
-`"Hahaha, Hideyoshi-san, `
-`are you trying to steal away our Gohda? `
-`Now that won't do at all. `
-`We'd better start treating Gohda better, or he'll get snatched up." `
-`"*giggle* Yes, you really should. `
-`If you don't, someone's gonna grab him, and you'll be stuck with three meals of Kumasawa-style mackerel cooking a day, won't you?" `
-`"Hohohoh, that's harsh. `
-`It seems someone's holding a grudge against me." `
-`"""Wahahahahaha!!!""" `
-`Everyone let out a huge laugh. `
-`According to Jessica, Kumasawa-san's mackerel jokes were a running gag that our parents had long since gotten used to. `
-`Kumasawa-san often claimed that mackerels had precious nutritional value, `
-`which could slow aging, make people smarter and more. `
-`...Supposedly, while it couldn't stop the outward signs of aging, it helped prevent aging on the inside. `
-`Since she was still spirited enough to tell these kinds of jokes at her age, there must be something to that theory. `
-`"Hohohoh... `
-`In that case, if you'll excuse me... `
-`Prepare yourself for tonight's dinner! `
-`I'll be cooking plenty of mackerel dishes for you all, so you'd better look forward to it!" `
-`"Wahahaha, we sure will. `
-`Can't wait to get all puckered up from tonight's shimesaba!" `
-`"That sounds wonderful. `
-`I wonder if they'll be serving any good Japanese sake." `
-`"Oh, we certainly will. `
-`Haven't you heard of Rokkenjima's famous mackerel {ruby:liquor:shochu}...?" `
-`"""Wahahahahahaha!!!""" `
-`Kumasawa-san, together with Shannon-chan, bowed and pushed the serving cart away. `
-`It was pretty funny to watch Gohda-san, who looked like his show had totally been stolen, explain in a serious voice that we would be having calf steak for dinner. `
-`"...Umm, `
-`......Kumasawa-san, ...thanks for doing that back there..." `
-`As she pushed the serving cart, Shannon bowed her head very deeply. `
-`"Hohohoh, I haven't done anything that requires thanks." `
-`Kumasawa may have played dumb, but she had obviously understood and saved Shannon in the nick of time. `
-`Back when Battler had asked about dessert, Shannon had unfortunately hesitated. `
-`There may have been several ways to dodge the question, but all of them would have required some quick wits. `
-`Shannon, who hesitated when hard-pressed for a response, was always suffering because of this small weakness. `
-`If only Shannon had a little of the craftiness needed to cleverly shake off a mistake, like Gohda, her life would've been a bit easier. `
-`The fact that she could perform other tasks flawlessly made this weakness even more unfortunate. `
-`However, there were some who understood Shannon's honest nature, her inability to gloss over a mistake and draw attention away from it. `
-`...That was why Kumasawa had smoothly come to her rescue. `
-`"I just heard from Genji-san that there will be a change in the afternoon shifts. `
-`I believe you were given a break until this evening. `
-`Hohohoh, I'm jealous." `
-`"Huh? ...Oh, sorry, I haven't checked the shift chart yet." `
-`"Ah, yes. `
-`I was thinking I might start cooking some mackerel in the oven. `
-`If you don't mind, I would be happy if you would help out a bit before your break." `
-`"Ah, yes...! `
-`I would be delighted to help." `
-`To Shannon, Kumasawa was like a mother among the servants. `
-`The dining hall needed to be cleaned up, so we were chased out. `
-`Instead, tea was being served in the parlor. `
-`Apparently, they'd prepared the black tea that Aunt Rosa had bought for Aunt Natsuhi. `
-`Maria said she also wanted to have some black tea, but my old bastard said she couldn't and told us children to go play outside. `
-`"Battler-kun, why don't we all go for a walk outside?" `
-`"Go ahead and take a look at the roses or somethin'. `
-`But keep a close eye on the weather. `
-`The sky's still clear, but the weather report kept on talkin' about rain." `
-`"Uu-! `
-`I wanna go to the beach, the beach!!" `
-`"Oh, that sounds wonderful. `
-`Playing on a sandy beach isn't something you get to do often, is it?" `
-`"Ah, good point. `
-`Okay, let's all go to the beach then!" `
-`"Uu-! Let's go, let's go!" `
-`"Maria, be careful not to get your clothes wet. `
-`Or your shoes." `
-`"Uu-! `
-`Won't get wet!" `
-`"*giggle* That obedience is so cuuute. `
-`Battler-kun, make sure you keep an eye out for Maria-chan, okay?" `
-`"Sure, leave it to me!" `
-`"Hey, you're pretty obedient and cute yourself, listening to Kyrie like that. `
-`...Why don't you also listen to me obediently for a change?" `
-`"Hah! `
-`Hell no! `
-`Let's go everyone, c'mon!" `
-`The children flew out of the parlor. `
-`They were replaced by Genji, who pushed a serving cart in and prepared to serve the tea. `
-`The parlor was filled with a sublime aroma which delighted everyone while they waited to sate their thirst... `
-`"Hahahahah, ha... `
-`Rudolf's family certainly seems close. `
-`It's a wonderful thing." `
-`"Quit it. We're no match for your family, Aniki." `
-`"That's true. `
-`You've raised Jessica-chan to be so adorable. `
-`I imagine that's yet another fruit of your talents at education and training, Natsuhi nee-san." `
-`"......Thank you." `
-`Natsuhi answered coldly. `
-`...The conversation broke off then, and the parlor fell silent. `
-`Maybe Hideyoshi couldn't bear the silence, because he broke it himself with an exaggerated gesture. `
-`"Still, they sure do grow fast. `
-`...I thought they'd be kids forever, but they start gettin' huge all of a sudden, and then they're adults like us. `
-`Battler-kun looks like a completely different person now!" `
-`"His body has grown much bigger, but he's still just a kid. `
-`Though you could say the same about my husband." `
-`"...I wonder where the border between child and adult is. `
-`I still don't feel as though I've grown up." `
-`"Hmph, isn't that pitiful. `
-`That's not something the mother of a child should say." `
-`"That's right. `
-`We're not children anymore. `
-`We're all adults now. `
-`So I wish we could talk together on an intellectual level, rather than an emotional one." `
-`When Eva smiled with sharp sarcasm, everyone seemed to get more tense. `
-`...It felt as though that pleasant tea aroma had been tossed out the window. `
-`"Since long ago, we've always endeavored to engage in intellectual conversations. `
-`......It seems your sarcasm occasionally misses its mark. `
-`Just as it always has." `
-`"...Oh, what is it you've "always endeavored" to do? `
-`My, my. `
-`I wish I could wrap those words up and send them to this room a few decades ago. `
-`Right, Rosa?" `
+`การประชุมเครือญาติของตระกูลอุชิโรมิยะจะจัดขึ้นปีละครั้ง ในช่วงสุดสัปดาห์แรกของเดือนตุลาคม `
+`ถ้าเป็นครอบครัวธรรมดาที่จัดสิ่งที่เรียกว่า "การประชุมเครือญาติ" ละก็ `
+`คงนึกภาพว่าเป็นแค่งานรวมตัวของญาติๆ ที่นานทีปีหนจะได้เจอกัน แล้วมาทักทายกันรอบถังซูชิอะไรทำนองนั้น `
+`ทว่า ทรัพย์สมบัติมหาศาลส่วนหนึ่งของตระกูลถูกแบ่งให้ลูกๆ ของท่านปู่กู้ยืมไป `
+`และคนในตระกูลนี้จะยังไม่ถือว่าเป็นผู้ใหญ่จนกว่าจะประสบความสำเร็จในธุรกิจ `
+`การพบปะนี้จึงเป็นการประชุมอย่างแท้จริงสมชื่อ `
+`ลงทุนไปเท่าไหร่ ทำธุรกิจประเภทไหน ได้กำไรกลับมามากแค่ไหน `
+`และผลลัพธ์คือจะสามารถชำระคืนเงินที่กู้ยืมไปจากตระกูลหลักได้เท่าไหร่ `
+`หรืออาจจะขอกู้เพิ่มอีกเท่าไหร่สำหรับแผนธุรกิจในอนาคต `
+`ได้รับบทเรียนอะไรมาบ้าง และจะเรียนรู้อะไรจากความผิดพลาดได้บ้าง? `
+`ดูเหมือนว่าในอดีต หัวข้อพวกนี้จะถูกถกกันอย่างตึงเครียดและจริงจังมาก `
+`พ่อของผมบอกว่ามันเหมือนกับการนั่งอยู่บนดงตะปูเลยทีเดียว `
+`เห็นว่าเมื่อก่อนเคยเป็นการประชุมครอบครัวที่เครียดสุดๆ ถึงขั้นมีเสียงสบประมาทและด่าทอกราดใส่กัน แถมบางคนยังโดนตบหน้าทั้งที่อายุป่านนี้แล้วด้วยซ้ำ `
+`ทว่า เรื่องพรรค์นั้นกลายเป็นอดีตไปแล้ว `
+`ตอนนี้ เมื่อทุกคนต่างดำเนินธุรกิจของตัวเองจนประสบความสำเร็จ `
+`มันก็เริ่มกลายเป็นการพบปะสังสรรค์ประจำปีตามปกติมากขึ้น `
+`ถึงอย่างนั้น การต้องรายงานความเป็นไปในช่วงที่ผ่านมาให้ท่านปู่ฟังก็ยังเป็นเรื่องเครียดจัดอยู่ดี `
+`ดังนั้น ในขณะที่พวกเราที่เป็นรุ่นหลานมองว่าเป็นแค่การพบปะธรรมดาๆ แต่สำหรับพวกรุ่นพ่อแม่แล้ว มันก็ยังเป็นเรื่องชวนปวดท้องอยู่ดี `
+`การที่ชายผู้เป็นต้นเหตุของเรื่องน่าปวดหัวทั้งหมดไม่มาปรากฏตัว ไม่ว่าจะด้วยเหตุผลใดก็ตาม คงทำให้มื้อเที่ยงวันนี้อร่อยขึ้นเยอะ `
+`นึกถึงสำนวนที่ว่า "พญามารไม่อยู่ ทุกคนก็รื่นเริง" ขึ้นมาเลย `
+`เอาเถอะ มาแนะนำพ่อของเจสสิก้าที่ผมไม่ได้เห็นหน้ามาตั้ง 6 ปีกันดีกว่า `
+`ชายที่นั่งอยู่ทางซ้ายมือของพ่อผมคือพี่ชายของพ่อ และเป็นพ่อของเจสสิก้า `
+`ลุง{p:0:蔵臼} `
+`......ชื่อนี้อ่านง่ายชะมัด `
+`เคราส์ ({p:0:蔵臼}) `
+`...พอคุ้นเคยกับสารพัดชื่อแปลกประหลาดพวกนี้แล้ว มุมมองของพวกเราก็เลยบิดเบี้ยวไปหมด `
+`ชื่อเคราส์ก็เลยไม่ได้ฟังดูแย่อะไรขนาดนั้น `
+`แถมยังเริ่มจะฟังดูเท่ดีด้วยซ้ำ... `
+`เช่นเดียวกับป้านัตสึฮิ ผมไม่ค่อยมีความทรงจำว่าได้คุยกับลุงเคราส์สักเท่าไหร่ `
+`เขาไม่เคยเป็นฝ่ายชวนเด็กๆ คุย และผมก็รู้สึกว่าเขาเอาแต่คุยกับพวกผู้ใหญ่ตลอด เหมือนกับป้านัตสึฮินั่นแหละ `
+`จากคำนินทาของพ่อผม เขาเป็นคนเจ้าคิดเจ้าแค้นและใช้ความรุนแรง `
+`ถ้าที่พ่อพูดเป็นความจริง ลุงเคราส์ในอดีตก็คงจะชอบใช้อำนาจบาตรใหญ่ในฐานะพี่คนโต `
+`...และเป็นที่รังเกียจของพวกน้องๆ ทุกคน `
+`...ทว่า ถึงกระนั้น พี่น้องพวกนั้นกลับดูพูดคุยกันอย่างสนุกสนาน `
+`ช่างเถอะ ต่อให้ตอนเด็กๆ ความสัมพันธ์จะแย่แค่ไหน บางครั้งพอโตขึ้นและแยกย้ายกันไปใช้ชีวิต ความสัมพันธ์ก็เปลี่ยนไปได้ `
+`ครั้งนี้ก็คงเป็นแบบนั้นแหละ `
+`อีกอย่าง แต่ละคนก็มีลูกรุ่นราวคราวเดียวกัน `
+`การได้แชร์สภาพแวดล้อมครอบครัวแบบเดียวกัน คงทำให้ได้ประโยชน์จากการแลกเปลี่ยนความคิดเห็นกันบ้าง `
+`อาจจะเพราะแบบนั้น เมื่อครู่นี้วงสนทนาของพวกพ่อแม่จึงเริ่มคุยเรื่องการสอบที่เจสสิก้ากับผมจะต้องเผชิญ `
+`เจสสิก้า เพื่อที่จะหลบเลี่ยงคำถามเรื่องสอบจากพ่อของผมทางซ้ายมือ `
+`ก็จงใจหันหน้าไปทางขวาแล้วยิงคำพูดใส่รัวๆ ไม่เปิดโอกาสให้พ่อได้แทรกขึ้นมาแม้แต่คำเดียว `
+`ต่อมา ลองมองไปยังฝั่งตรงข้ามกับพวกเคราส์ดูบ้าง `
+`ที่ที่นั่งริมสุดของโต๊ะ สุภาพบุรุษสูงวัยรูปร่างกำยำนั่งอยู่ตรงข้ามกับคุณคิริเอะ `
+`นี่เป็นครั้งแรกที่ผมได้พบเขา `
+`ผมเพิ่งได้รับการแนะนำให้รู้จัก แต่ดูเหมือนเขาจะเป็นหมอประจำตัวของท่านปู่ ชายที่ชื่อนันโจ ({p:0:南條}) `
+`ได้ยินว่าเขาเคยเป็นเจ้าของคลินิกขนาดใหญ่บนเกาะนีจิมะที่อยู่ใกล้ๆ แต่ได้ส่งมอบให้ลูกชายไปแล้ว และเริ่มใช้ชีวิตวัยชราอย่างสบายอารมณ์ `
+`เขารู้จักกับท่านปู่มาตั้งแต่ยุคแรกเริ่มที่คฤหาสน์บนเกาะแห่งนี้เพิ่งสร้างเสร็จ และสร้างสายสัมพันธ์ต่อกันมายาวนานหลายทศวรรษ `
+`ตอนแรกผมนึกว่าทั้งสองคนอาจจะสนิทกันผ่านงานอดิเรกน่าสงสัยของท่านปู่เสียอีก แต่ดูเหมือนจริงๆ แล้วเขาจะเป็นคู่เล่นหมากรุกของท่านปู่ `
+`......เข้าใจละ งานอดิเรกแบบนั้นดูสมเป็นท่านปู่ผู้คลั่งไคล้ทุกสิ่งที่เป็นตะวันตกจริงๆ `
+`นันโจคงเป็นคนเพียงคนเดียวที่สามารถเข้าออกเกาะร็อกเค็นจิมะได้ ทั้งที่ไม่ใช่คนในครอบครัวและไม่ใช่คนรับใช้ `
+`เขาดูเป็นสุภาพบุรุษสูงวัยผู้สุขุมขณะนั่งฟังบทสนทนาระหว่างคิริเอะกับผู้หญิงคนอื่นๆ ที่นั่งอยู่ใกล้ๆ `
+`...เมื่อพิจารณาว่าเขาอยู่เคียงข้างท่านปู่ผู้ใจร้อนมาได้นานขนาดนี้ จิตใจอันกว้างขวางของเขาคงไม่ใช่เรื่องล้อเล่นแน่ `
+`...ถึงอย่างนั้น ต่อให้เป็นหมอประจำครอบครัว การมีคนนอกตระกูลอุชิโรมิยะเข้าร่วมการประชุมเครือญาติก็ยังดูแปลกอยู่ดี `
+`มันทำให้ผมคิดว่าอาการของท่านปู่อาจจะทรุดหนักลงมาก จนกลายเป็นหัวข้อสำคัญของการประชุมในวันนี้... `
+`เพราะเมื่อกี้จอร์จก็เพิ่งพูดอะไรทำนองนั้นอยู่เหมือนกัน `
+`ที่ว่าตั้งแต่ช่วงปีที่แล้ว มีรายงานเข้ามาเรื่อยๆ ว่าท่านปู่อาจจะอยู่ได้อีกไม่นาน `
+`...มันเป็นเรื่องน่ารังเกียจที่จะคิดถึง แต่ลองนึกดูสิว่าท่านปู่รวยขนาดไหน `
+`ยามที่เขาเสียชีวิต ทรัพย์สมบัติของเขาจะถูกปลดปล่อยออกมาในคราวเดียว พร้อมๆ กับน้ำย่อยในกระเพาะอาหารของพวกพ่อแม่ `
+`และคงทำให้ทุกคนเป็นแผลในกระเพาะกันถ้วนหน้า `
+`ก็นะ ยิ่งมีสมบัติให้แบ่งกันมากเท่าไหร่ เรื่องพรรค์นี้ก็ยิ่งยุ่งเหยิงมากขึ้นเท่านั้น `
+`มีโอกาสสูงที่พวกเขาจะคุยเรื่องแบบนั้นกันในการประชุมเครือญาติ `
+`...ถึงกระนั้น มันก็ไม่ได้เกี่ยวอะไรกับพวกเราที่เป็นเด็กสักหน่อย `
+`......สุดท้ายแล้ว แม้ว่าเขาจะไม่ได้ปรากฏตัว แต่ขอแนะนำท่านปู่ของพวกเราหน่อยแล้วกัน `
+`บุคคลที่ควรจะนั่งอยู่บน "เก้าอี้ของประมุข" ตัวนั้นคือ อุชิโรมิยะ คินโซ `
+`...น่าเจ็บใจจริงๆ `
+`คนอื่นในตระกูลมีแต่ชื่อแปลกๆ ทั้งนั้น แต่ตัวเขาเองกลับมีชื่อที่ปกติธรรมดาอย่างสมบูรณ์แบบ `
+`ถ้าชื่อของเขาเขียนว่าคินโซ ({p:0:金蔵}) แล้วยอมให้พวกเราเรียกว่า "โกลด์สมิธ" หรืออะไรทำนองนั้นละก็ `
+`ผมคงสติแตกไปเลย `
+`อย่างที่คงเดากันได้แล้วในตอนนี้ เขาเป็นคนที่น่ากลัวและอารมณ์ร้ายสุดขีด `
+`ผมเป็นหลานคนหนึ่งไม่ใช่ลูกชาย และไม่ได้เจอเขามาตั้งแต่ชั้นประถมแล้ว `
+`ด้วยเหตุนี้ ผมจึงไม่มีความทรงจำว่าเคยถูกทุบตีด้วยตัวเอง แต่พวกพ่อแม่ดูเหมือนจะถูกเลี้ยงดูมาด้วยกำปั้นเหล็ก `
+`บทสนทนาก่อนหน้านี้ระหว่างพ่อผมกับลุงเคราส์ ที่เถียงกันว่าใครควรจะขึ้นไปเกลี้ยกล่อมให้ท่านปู่ลงมา `
+`พอรู้เบื้องหลังแล้วก็ฟังดูตลกพิลึก `
+`คงไม่สามารถเล่าเรื่องของท่านปู่ได้เลย หากไม่พูดถึงเหตุการณ์สำคัญครั้งนั้นก่อนยุค{ruby:1926-1989:โชวะ} `
+`จนถึงยุค{ruby:1868–1912:เมจิ}และ{ruby:1912–1926:ไทโช} ตระกูลอุชิโรมิยะเคยยิ่งใหญ่และรุ่งเรืองมาก `
+`พวกเขาเป็นเจ้าของโรงปั่นด้ายหลายแห่ง ร่ำรวยเสียจนแทบจะหัวเราะจนตัวงอได้ทุกวันเมื่อเงินทองไหลมาเทมาไม่ขาดสาย `
+`อนึ่ง ท่านปู่เป็นสมาชิกของตระกูลสาขา และแทบไม่มีความเกี่ยวข้องใดๆ กับตระกูลหลักเลย `
+`ไม่เพียงแต่อยู่ท้ายแถวของรายชื่อผู้มีสิทธิ์สืบทอดตำแหน่งประมุขตระกูลเท่านั้น แต่เขายังแทบไม่ได้ติดต่อกับตระกูลหลักอันหรูหราเลยด้วยซ้ำ `
+`ทว่า ในช่วงเหตุการณ์แผ่นดินไหวครั้งใหญ่ในคันโตเมื่อปี{ruby:ไทโชที่ 12:1923} คฤหาสน์ของตระกูลอุชิโรมิยะในโอดาวาระก็พังทลายราบเป็นหน้ากลอง `
+`โรงปั่นด้ายในโตเกียวต่างถูกเผาทำลายวอดวายในกองเพลิงขนาดใหญ่ `
+`และตระกูลอุชิโรมิยะก็สูญเสียทั้งทรัพย์สมบัติและสมาชิกในครอบครัวส่วนใหญ่ไปในพริบตา `
+`ดังนั้น พอเริ่มพิจารณาว่าใครควรเป็นผู้สืบทอดของตระกูลอุชิโรมิยะ จึงดูเหมือนไม่มีใครหลงเหลืออยู่อีกนอกจากคินโซในตระกูลสาขา `
+`ในบันทึกความทรงจำช่วงหลัง คินโซเรียกสิ่งนี้ว่าเป็นโชคดีมหาศาลที่พลิกผันโชคชะตา `
+`ด้วยเหตุนั้น ชีวิตประจำวันอันแสนน่าเบื่อของท่านปู่จึงพลิกผันไป 180 องศา `
+`เขาได้รับมอบหมายให้ฟื้นฟูตระกูลอุชิโรมิยะที่กำลังจะดับสูญ ซึ่งสูญสิ้นทรัพย์สมบัติไปเกือบทั้งหมด `
+`ทว่า เพียงเพราะได้รับมอบหมายหน้าที่นี้ ไม่ได้แปลว่าเขาจะทำสำเร็จ `
+`ดูเหมือนคนรอบข้างก็ไม่ได้คาดหวังอะไรมากนัก `
+`แต่แล้ว นี่คือช่วงเวลาที่ท่านปู่เริ่มแสดงพรสวรรค์อันเหลือเชื่อและโชคลาภอันมหาศาลออกมา `
+`ท่านปู่ใช้ทรัพย์สมบัติที่เหลืออยู่ทั้งหมดของตระกูล รวมถึงทุกอย่างตั้งแต่เส้นผมบนหัวจรดเล็บเท้าเป็นหลักประกันเพื่อกู้ยืมเงินจำนวนมหาศาล `
+`เมื่อรวบรวมทุนรบขนาดยักษ์ได้แล้ว เขาก็ทุ่มลงทุนในธุรกิจทันที `
+`มันเหมือนกับคนขี่จักรยานที่ไม่มีเบรกพุ่งดิ่งลงเขา... `
+`...แล้วกระโดดข้ามไปขี่จักรยานคันข้างๆ แล้วก็กระโดดไปอีกคันหนึ่ง! `
+`ราวกับการแสดงข้างถนนสุดบ้าคลั่ง `
+`ผมพนันได้เลยว่าทุกคนคงคิดว่าท่านปู่ไม่มีความสามารถทางธุรกิจเลยแม้แต่น้อย `
+`ทว่า หลังจากปาฏิหาริย์และโชคลาภหลายระลอก ด้วยความบังเอิญที่ประดังประเดเข้ามาและการฉกฉวยทุกโอกาสเอาไว้ `
+`จู่ๆ เขาก็ได้กุมเส้นสายอันทรงพลังกับกองกำลังยึดครอง `
+`ในเวลานั้น แมกอาเธอร์และกองบัญชาการจีเอชคิวคืออำนาจสูงสุดในญี่ปุ่น `
+`ท่านปู่ประสบความสำเร็จในธุรกิจภายใต้การคุ้มครองของกองกำลังยึดครองในชั่วพริบตา และกลายเป็นมหาเศรษฐีอย่างรวดเร็ว `
+`ถึงจุดนี้ คงพูดได้อย่างปลอดภัยว่าสิ่งที่กอบกู้สถานการณ์ไว้ไม่ใช่โชค แต่เป็นข้อมูลข่าวสาร `
+`เขาคงต้องผูกสัมพันธ์กับกองกำลังยึดครองไว้อย่างลึกซึ้งเป็นแน่ `
+`......ท่านปู่รู้ล่วงหน้าเรื่องอุปสงค์พิเศษที่จะเกิดขึ้นจากสงครามเกาหลี `
+`ไม่สิ ยิ่งกว่านั้นอีก เขาคงคาดการณ์เรื่องอุปสงค์พิเศษพวกนั้นได้ตั้งแต่เริ่มลงเงินแล้วด้วยซ้ำ `
+`ตำราประวัติศาสตร์ทำให้ฟังดูเหมือนว่าคนญี่ปุ่นทุกคนต่างร่ำรวยจากอุปสงค์พิเศษช่วงสงครามเกาหลี แต่ความจริงไม่ได้เป็นแบบนั้นหรอก `
+`มีเพียงอภิมหาเศรษฐีกลุ่มน้อยนิดเท่านั้นที่ได้เล่นเกมการเงินและกอบโกยกำไรได้อย่างง่ายดาย `
+`ประชาชนส่วนใหญ่ยังคงยากจน `
+`...พูดอีกอย่างก็คือ ท่านปู่เป็นหนึ่งในกลุ่มผู้ชนะที่โชคดีอย่างมหาศาลกลุ่มนี้นี่เอง `
+`ผมค่อนข้างแน่ใจว่าเรื่องทั้งหมดนี้เกิดขึ้นราวๆ ปี{ruby:โชวะที่ 25:1950} `
+`แผ่นดินไหวครั้งใหญ่ในคันโตเกิดขึ้นเมื่อปี{ruby:ไทโชที่ 13:1924} เพราะงั้น... `
+`......นั่นหมายความว่า ท่านปู่สามารถฟื้นฟูตระกูลอุชิโรมิยะที่จวนเจียนจะล่มสลายให้กลับมายิ่งใหญ่กว่าแต่ก่อนได้ในเวลาเพียงราวๆ 20 ปีเท่านั้น `
+`ถ้าเป็นแบบนั้น ใครๆ ก็คงคิดว่าเขาจะฟื้นฟูตระกูลสายหลักที่โอดาวาระ `
+`แต่ไม่รู้ทำไม เขาถึงได้ทำเรื่องพิลึกพิลั่นอย่างการกว้านซื้อเกาะเล็กๆ ทั้งเกาะในหมู่เกาะอิซุ `
+`การซื้อเกาะทั้งเกาะไม่ใช่เรื่องที่จะทำกันได้ง่ายๆ ในยุคนี้ `
+`ทว่า ท่านปู่เป็นคนฉลาดแกมโกง `
+`เขาติดต่อกับ GHQ แล้วยื่นเรื่องขอตั้งฐานทรัพยากรทางทะเล `
+`เขาได้กรรมสิทธิ์เกาะนี้มาในฐานะทรัพย์สินทางธุรกิจ จากนั้นก็เขี่ยโครงการนั้นทิ้งแล้วฮุบมาเป็นที่ดินส่วนตัว `
+`ช่วงหลังสงครามมีมาตรการป้องกันปัญหาขาดแคลนอาหาร แถมการมี GHQ หนุนหลังก็ทำให้ไม่มีใครกล้าคัดค้าน `
+`เท่าที่ผมได้ยินมา มหานครโตเกียวในยุคนั้นแทบจะประเคนเกาะนี้ให้เขาฟรีๆ เลยด้วยซ้ำ `
+`ภายหลัง โตเกียวพยายามสร้างความยุ่งยากโดยบอกให้คินโซคืนที่ดิน แต่ GHQ ที่วางก้ามก็เข้ามาแทรกแซง `
+`เอาเป็นว่า ดูเหมือนการติดสินบนใต้โต๊ะจะได้ผลชะงัดทีเดียว `
+`ในที่สุด ทางเมืองก็ต้องยอมรามือไปอย่างเจ็บใจ `
+`ท่านปู่ที่ทั้งเก่งกาจและเปี่ยมโชค พาตัวเองฝ่าคลื่นลมมรสุมในยุคนั้นมาได้ `
+`จนคว้าทั้งทรัพย์สมบัติมหาศาลและเกาะส่วนตัวมาครอง `
+`แน่นอนว่ามันคงไม่ใช่แค่เรื่องโชคช่วยทั้งหมด `
+`เขาคลั่งไคล้ทุกสิ่งที่เป็นตะวันตก ซึ่งช่วยขัดเกลาทักษะภาษาอังกฤษของเขา `
+`เขาจึงใช้จุดนี้ให้เป็นประโยชน์แล้วฝังเขี้ยวเล็บเข้าไปใน GHQ `
+`ไม่นานหลังจากนั้น คฤหาสน์ก็ถูกสร้างขึ้นบนเกาะ `
+`ซึ่งก็คือคฤหาสน์หลังนี้นี่เอง `
+`ท่านปู่ผู้หลงใหลในสไตล์ตะวันตก ได้เปลี่ยนเกาะร้างแห่งนี้ให้กลายเป็นผืนผ้าใบสำหรับแต่งแต้มความฝันได้สมใจอยาก `
+`...ตอนนี้เขามีคฤหาสน์สไตล์ตะวันตกในฝันที่อบอวลไปด้วยมนต์เสน่ห์และบรรยากาศอันล้นปรี่ พร้อมด้วยสวนสวยที่ประดับประดาด้วยกุหลาบนานาพันธุ์ `
+`แถมยังมีหาดทรายส่วนตัวที่จะไม่มีใครอื่นได้รับอนุญาตให้มาทิ้งรอยเท้าไว้อีกด้วย `
+`......นี่มันความฝันที่เป็นจริงของเด็กผู้ชายทุกคนชัดๆ `
+`หลังจากนั้น เขาก็นำทรัพย์สินมหาศาลไปต่อยอดได้อย่างชาญฉลาด `
+`ด้วยการเข้าไปเป็นผู้ถือหุ้นรายใหญ่ในอุตสาหกรรมเหล็กกล้าที่มั่นคงเป็นอย่างยิ่ง และสามารถใช้ชีวิตอย่างสุขสบายได้ด้วยเงินปันผลเพียงอย่างเดียว `
+`ก็นะ เขาเหลือเชื่อขนาดนั้นเลยล่ะ `
+`คนประเภทนี้มักจะถูกมองว่ามีความสามารถในการมองการณ์ไกลและหยั่งรู้อนาคต หรืออย่างน้อยเขาก็ถูกสรรเสริญแบบนั้นในภายหลัง `
+`แต่ท่านปู่ปฏิเสธเรื่องพวกนั้นทั้งหมด `
+`แล้วพร่ำบอกซ้ำๆ ว่าเขาแค่ได้รับพรจากโชคชะตาอันเหลือล้นเท่านั้น... `
+`......ถึงอย่างนั้น แม้แต่เจ้าคนนายคนแบบนั้น ก็อดไม่ได้ที่จะยิ่งทำตัวพิลึกพิลั่นขึ้นเรื่อยๆ เมื่อขังตัวเองอยู่คนเดียวบนเกาะ `
+`ที่ซึ่งความฝันทั้งหมดกลายเป็นจริง `
+`ทุกคนต่างรู้ดีว่าเขาคลั่งไคล้ความเป็นตะวันตกมาตั้งแต่ต้น `
+`แต่พวกพ่อแม่ของเราไม่มีใครรู้แน่ชัดเลยว่า งานอดิเรกเรื่องเวทมนตร์ดำอันแปลกประหลาดของเขาเริ่มขึ้นตั้งแต่เมื่อไหร่ `
+`ความหลงใหลในเวทมนตร์ดำของเขาเริ่มขึ้นตั้งแต่ตอนที่เขาหลงใหลทุกสิ่งที่เป็นตะวันตกหรือเปล่า `
+`หรือเป็นเพราะโชคที่เข้าข้างอย่างปาฏิหาริย์ในการกอบกู้ตระกูล ทำให้เขารู้สึกถึงพลังลึกลับบางอย่างในตัวเองกันแน่? `
+`ไม่รู้ตั้งแต่เมื่อไหร่ที่ท่านปู่เริ่มยึดการวิจัยเวทมนตร์ดำเป็นเป้าหมายในชีวิต `
+`เขาอัดแน่นห้องทำงานด้วยหนังสือต้องสงสัย สารเคมี และไอเทมเวทมนตร์ ขณะที่ตัวเองก็ยิ่งพิลึกพิลั่นขึ้นเรื่อยๆ `
+`เท่าที่ผมได้ยินมา คนรอบข้างต่างเฝ้ามองเขาอย่างอบอุ่น (?) พลางคิดว่าคนที่ประสบความสำเร็จในชีวิตย่อมมีสิทธิ์ทำอะไรตามใจชอบ แต่... `
+`...มันจะไปจริงได้ยังไงกันเล่า `
+`พวกเขาก็คงแค่ขนลุกขนพองแล้วคิดว่า "น่าขยะแขยงจัง ไม่อยากเข้าไปยุ่งด้วยเลย" มากกว่า `
+`ช่างเถอะ ...ยุคสมัยอันปั่นป่วนนั้นเป็นยุคแห่งการเดิมพันครั้งใหญ่ ที่เต็มไปด้วยทั้งโอกาสและความเสี่ยง `
+`สมมุติว่าท่านปู่มาเกิดในยุคนี้สิ `
+`เขาคงไม่มีโอกาสแบบนั้น และคงเดินไปตามเส้นทางเหมือนเบี้ยบนกระดานหมากรุก ตั้งแต่การศึกษาภาคบังคับไปจนถึงมหาวิทยาลัยอย่างเนิบนาบ `
+`แล้วก็ลงเอยด้วยการเป็นแค่มนุษย์เงินเดือนธรรมดาๆ คนหนึ่ง `
+`ถ้าเป็นแบบนั้น เขาคงนั่งนินทาเจ้านายลับหลังอย่างมีความสุขอยู่ที่ไหนสักแห่ง `
+`ไม่สิไม่ใช่ ไม่ใช่ในห้องอาหารหรูหราแบบนี้หรอก แต่เป็นตามโต๊ะในร้านเหล้าสักแห่งมากกว่า `
+`แต่ก็นั่นแหละ ผมพนันได้เลยว่าการประชุมเครือญาติคราวนี้คงจะผ่อนคลายกว่านี้เยอะถ้าเป็นแบบนั้น `
+`เอาล่ะ เรื่องของตาแก่นั่นพอแค่นี้ดีกว่า `
+`ที่สำคัญกว่านั้น มาพูดถึงมื้อเที่ยงสุดยอดนี่ดีกว่า!! `
+`"แค่อาหารเรียกน้ำย่อยอย่างสลัดซาชิมินี่ ผมก็ยอมสยบแล้วครับ! `
+`คุณโกดะเป็นเชฟที่สุดยอดจริงๆ! `
+`แถมปลาพวกนี้ก็จับมาจากทะเลแถวนี้ใช่ไหมครับเนี่ย?! `
+`คนละเรื่องกับซาชิมิที่ซื้อตามซูเปอร์มาร์เก็ตเลยครับ!" `
+`"เฮ้ย พอได้แล้วน่า แบทเลอร์ `
+`เดี๋ยวเขาก็รู้หมดหรอกว่าถูกเลี้ยงดูมายังไง" `
+`ทุกคนต่างส่งเสียงหัวเราะลั่น `
+`พับผ่าสิ ตัวเองก็ชอบไปร้านเหล้าถูกๆ แท้ๆ ยังจะมาพูดดีอีก `
+`"ฮ่าฮ่าฮ่าฮ่า `
+`ผมเคยไปทานอาหารตามที่แปลกๆ มาเยอะเพราะเรื่องงาน แต่อันนี้ยอดเยี่ยมไม่แพ้ที่ไหนเลยครับ `
+`ผมพนันได้เลยว่าเมื่อก่อนคุณโกดะต้องมีชื่อเสียงพอตัวในแวดวงนั้นแน่ๆ ครับ" `
+`"ก็ไม่รู้รายละเอียดหรอกนะ `
+`แต่เห็นว่ามีเรื่องวุ่นวายที่โรงแรมเก่าแก่ที่เขาเคยทำงานอยู่น่ะ ประมาณว่าเปิดสาขาใหม่ที่ใช้ชื่อเดียวกันแล้วก็แตกเป็นก๊กเป็นเหล่าอะไรทำนองนั้น `
+`ท่ามกลางเรื่องพวกนั้น ดูเหมือนเขาจะถูกบีบให้ลาออก `
+`ช่วงนั้นแม่ก็ดันเปิดรับสมัครคนรับใช้พอดีด้วยสิ" `
+`ขณะที่โกดะเก็บจานเปล่าออกไป เขาก็เริ่มเล่าถึงอดีตอันลุ่มๆ ดอนๆ ของตัวเองโดยไม่ยอมให้รอยยิ้มเลือนหายไป `
+`"โลกนี้อยู่ยากจริงๆ ครับผม `
+`ทว่า ต้องขอบคุณคุณผู้หญิง ที่ทำให้ผมได้รับโอกาสแสดงฝีมือในฐานะเชฟอีกครั้ง และคราวนี้ก็เพื่อตระกูลอุชิโรมิยะ `
+`แม้ผมจะชอบเห็นรอยยิ้มของผู้คนจำนวนมาก `
+`แต่การได้ทำงานอันประณีตเพื่อสร้างความพึงพอใจให้กับผู้ว่าจ้างเพียงไม่กี่ท่าน ก็นับเป็นเรื่องที่เพลิดเพลินใจยิ่งนักครับผม `
+`ทั้งหมดนี้ต้องขอบคุณโอกาสที่คุณผู้หญิงมอบให้ผมแท้ๆ เลยครับผม" `
+`คุณโกดะก้มศีรษะให้ป้านัตสึฮิอย่างนอบน้อม `
+`"นั่นเพราะคุณเป็นผู้ที่มีความสามารถโดดเด่นที่สุดในบรรดาผู้สมัครต่างหากล่ะคะ `
+`การตัดสินใจนั้นเป็นไปตามเกณฑ์ล้วนๆ โดยไม่มีความรู้สึกส่วนตัวเจือปน จึงไม่จำเป็นต้องขอบคุณดิฉันหรอกค่ะ" `
+`...โธ่เอ๊ย ทำไมป้านัตสึฮิต้องพูดจาเย็นชาแบบนั้นตลอดเวลาด้วยนะ? `
+`ถ้าเธอพูดจาด้วยความอ่อนโยนกว่านี้อีกสักนิด ก็คงจะสร้างความประทับใจที่ต่างออกไปแล้วแท้ๆ `
+`ชาน่อนจังกับคุณคุมาซาวะเข็นรถเสิร์ฟเข้ามาจากทางเดิน `
+`"...ขออนุญาตนะคะ" `
+`"เอาละครับ ถ้าเช่นนั้นเรามาต่อกันที่ของหวานของวันนี้กันดีกว่าครับผม" `
+`คุณโกดะกับคนอื่นๆ จัดวางของหวานที่ตกแต่งอย่างงดงามลงตรงหน้าของพวกเราทุกคน `
+`สงสัยจะจริงอย่างที่เขาว่ากัน ว่ามีอีกกระเพาะไว้สำหรับของหวาน... `
+`ทั้งที่ผมนึกว่าตัวเองอิ่มแปล้กับอาหารอร่อยๆ ไปแล้วแท้ๆ `
+`แต่ทันทีที่ได้เห็นของหวานจานนั้น ท้องของผมก็เริ่มร้องตะโกนว่า "ขออีก!" `
+`ผมไม่ค่อยรู้เรื่องของหวานเท่าไหร่ แต่นี่มันดูน่ากินจริงๆ `
+`วัตถุสีขาวคล้ายพุดดิงถูกแต่งแต้มด้วยซอสสีแดงสองเฉด `
+`และมีกลีบกุหลาบอันประณีตประดับอยู่บนจาน `
+`ตามปกติแล้ว ในมื้ออาหารชั้นสูงแบบนี้ `
+`เราควรจะต้องรอให้เชฟบรรยายสรรพคุณของอาหารจานนี้เสียก่อนจึงค่อยลงมือกิน `
+`แต่มาเรียไม่ได้สนใจกฎเกณฑ์เข้มงวดพวกนั้นเลยแม้แต่น้อย พอตื่นเต้นกับของหวานที่ทั้งสวยงามและดูน่าอร่อย ก็พุ่งเข้าใส่ทันทีที่มันถูกวางลงตรงหน้า `
+`น้าโรซ่าดุเธอว่าเสียมารยาท แต่จอร์จก็พูดขึ้นมาว่า "เอาน่าๆ ไม่เป็นไรหรอกครับ" `
+`"อู-?! `
+`ตรงนี้เปรี้ยวจัง! `
+`ตรงนี้เปรี้ยวจัง! `
+`แบทเลอร์ อันนี้ไม่ได้เรื่องเลย! `
+`อู-!" `
+`มาเรียร้องขึ้นขณะชิมซอสทั้งสองสี `
+`"อะไร มีอันที่อร่อยกับไม่อร่อยด้วยเหรอ? เอาละ ขอลองหน่อยซิ! `
+`อื้มมมม?!" `
+`ดูเหมือนว่าซอสอันหนึ่งจะหวานและอีกอันจะเปรี้ยว `
+`ถึงจะเสียมารยาท แต่ผมก็เอานิ้วก้อยจิ้มขึ้นมาเลียดูเหมือนกัน `
+`โห ซอสอันหนึ่งเปรี้ยวจี๊ดจนทำเอาหน้าเบี้ยวเลย `
+`ถ้าเป็นสีเหลืองก็คงคิดว่าเป็นเลมอนอยู่หรอก แต่ผมนึกไม่ออกเลยว่าความเปรี้ยวสีแดงแบบนี้คืออะไร `
+`ผมจึงตัดสินใจถามชาน่อนที่กำลังเก็บรถเข็นเสิร์ฟอาหารอยู่ข้างหลังพวกเรา `
+`"ชาน่อนจัง ไอ้ที่เปรี้ยวๆ นี่มันคือซอสอะไรเหรอ?" `
+`"......เอ่อ...... `
+`............คือว่า `
+`......อา..." `
+`ชาน่อนจังอึกอักไม่กล้าพูด `
+`บางทีหน้าที่ของเธออาจแค่จัดโต๊ะ ก็เลยไม่รู้จริงๆ ก็ได้ `
+`ถึงอย่างนั้น เธอก็ดูเครียดผิดปกติเมื่อเทียบกับเรื่องแค่นี้ `
+`......ผมอาจจะไม่ควรถามก็ได้ `
+`หรือว่ามีวัตถุดิบบางอย่างที่พวกเราไม่รู้ไว้จะดีกว่ากันนะ? `
+`ขณะที่ป้านัตสึฮิทำท่าเหมือนอาการปวดหัวกำลังกำเริบ ป้าคุมาซาวะที่กำลังจัดโต๊ะอยู่ตรงที่นั่งฝั่งตรงข้ามก็เริ่มหัวเราะอย่างอารมณ์ดี `
+`"คิดว่าทำมาจากอะไรกันล่ะคะ? `
+`โฮ่ะโฮ่ะโฮ่ะ รู้แล้วจะตกใจนะ..." `
+`"หา? ฉ-ฉันไม่รู้หรอก `
+`เดี๋ยวก่อนสิ ป้าคุมาซาวะ เสียงหัวเราะนั้นน่าขนลุกชะมัด `
+`ตกลงแล้วมันคืออะไรกันแน่ล่ะ?!" `
+`"...อย่าไปบอกใครเขานะคะ? `
+`ฟังให้ดีๆ ล่ะ" `
+`ป้าคุมาซาวะยื่นหน้าข้ามมาจากอีกฝั่งของโต๊ะ `
+`ผมเองก็ยื่นตัวเข้าไปหาเมื่อเธอขอให้ตั้งใจฟัง `
+`เจสสิก้า พี่จอร์จ และแน่นอนว่ารวมถึงมาเรียที่ถูกดึงความสนใจ ต่างก็ยื่นหูเข้าไปใกล้ด้วย `
+`"อู- `
+`อะไรเหรอ? `
+`อะไรเหยอ? `
+`เร็วเข้าสิ! `
+`เร็วเข้าสิ!" `
+`"ความจริงแล้ว ส่วนที่เปรี้ยวนั้นทำมาจาก... `
+`น้ำคั้นจากปลาซาบะค่ะ โฮ่ะโฮ่ะโฮ่ะ!" `
+`"""หา ปลาซาบะเนี่ยนะ?!?!""" `
+`"บ้าไปแล้ว" พวกเราทุกคนคิดตรงกันด้วยความตกตะลึง `
+`มีเพียงมาเรียเท่านั้นที่ยอมรับคำนั้นและพยักหน้าหงึกๆ อย่างรู้แจ้ง `
+`"อู-? `
+`ปลาซาบะมันเปรี้ยวนี่นา `
+`คั้นออกมาก็เลยได้อันนี้ไงล่ะ!" `
+`""...ฮะ ว่าฮ่าฮ่าฮ่าฮ่า...!"" `
+`พอมาเรียเริ่มส่งเสียงยืนยันว่าปลาซาบะมันเปรี้ยว พวกผู้ใหญ่ก็กลั้นหัวเราะไม่อยู่ `
+`มีเพียงน้าโรซ่าที่หน้าแดงก่ำ `
+`กระซิบเตือนมาเรียว่าปลาซาบะมันเปรี้ยวก็เพราะ{ruby:ดองน้ำส้ม:ทำเป็นชิเมะซาบะ}ต่างหาก `
+`อา นึกออกแล้วจริงๆ ด้วย `
+`ป้าคุมาซาวะเป็นคนแบบนี้มาแต่ไหนแต่ไรแล้วนี่นะ? `
+`เหมือนผมจะจำได้ว่าตอนเด็กๆ ก็เคยถูกเธอหลอกสารพัดเรื่องเหมือนกัน! `
+`เรื่องที่ร้ายแรงที่สุดต้องเป็นเรื่องนั้นแน่ๆ! `
+`ไอ้แผ่นดำๆ นิ่มๆ ในอาหารจีนนั่น! `
+`มันคือเห็ดหูหนูดำต่างหาก! `
+`เธอเคยบอกผมว่ามันคือเนื้อเพนกวิน แล้วผมก็เที่ยวเอาไปอวดรู้บอกคนทั่วโรงเรียนเลยไม่ใช่รึไงกันเล่า?! `
+`"ป้าคุมาซาวะนี่ไม่เปลี่ยนไปเลยจริงๆ นะครับ...! `
+`รู้ทั้งรู้ว่ามาเรียต้องเชื่อแน่ๆ ใช่ไหมเนี่ย?" `
+`"โฮ่ะโฮ่ะโฮ่ะ ล้อเล่นเฉยๆ ค่ะ `
+`เอาล่ะ เดี๋ยวคุณโกดะจะบอกพวกเราเองค่ะว่าแท้จริงแล้วมันคือซอสอะไร ใช่ไหมคะ?" `
+`โกดะดูจะเคืองนิดๆ ที่ผลงานชิ้นเอกของตนถูกหัวเราะเยาะด้วยเหตุผลพิลึกพิลั่นพรรค์นี้ `
+`แต่หลังจากกระแอมหนึ่งครั้ง เขาก็เริ่มแนะนำของหวานจานนี้ให้พวกเราฟัง `
+`"ถ้าเช่นนั้น ขออนุญาตแนะนำของหวานในมื้อนี้นะครับผม `
+`หลังจากที่ได้เห็นทุกท่านเพลิดเพลินกับสวนกุหลาบเมื่อช่วงสายของวันนี้ ผมจึงได้รังสรรค์พานาคอตต้านี้ให้ออกมาในสไตล์สวนกุหลาบครับผม `
+`กลีบกุหลาบที่โรยอยู่นี้ ก็เพิ่งคัดสรรมาจากสวนกุหลาบแห่งนั้นสดๆ ร้อนๆ ครับผม `
+`ซอสนี้เป็นการผสมผสานของสองสีแดง นั่นคือสตรอว์เบอร์รีกับโรสฮิปครับผม `
+`ขอเชิญทุกท่านลิ้มรสการผสมผสานระหว่างความหวานของสตรอว์เบอร์รีและความเปรี้ยวของโรสฮิปได้เลยครับ `
+`อนึ่ง กลีบกุหลาบนั้นมีไว้เพื่อความสวยงามเท่านั้น ขอความกรุณาละเว้นไว้ขณะรับประทานด้วยครับผม `
+`หากเข้าใจแล้ว ก็ขอเชิญเพลิดเพลินได้เลยครับผม" `
+`......โห...... ให้ตายสิ แทบจะอยากปรบมือให้ก่อนกินเลยแฮะ `
+`ก็เหมือนกับยา พอได้อ่านสรรพคุณอย่างละเอียดก่อนแล้ว ดูเหมือนจะออกฤทธิ์ได้ดีขึ้นเป็นกอง `
+`ยิ่งคุณโกดะอธิบายรายละเอียดของของหวานจานนี้มากเท่าไหร่ มันก็ยิ่งดูน่ากินขึ้นไปอีก `
+`จริงๆ เลย จะเรียกว่าช่างใส่ใจในรายละเอียดหรือเปี่ยมพรสวรรค์ดีล่ะเนี่ย? `
+`ของหวานคงถูกวางแผนไว้ตั้งแต่แรกแล้ว แต่เขาก็จับสังเกตตอนที่พวกเราทุกคนหยุดดูสวนกุหลาบเมื่อตอนสาย `
+`แล้วแสดงไหวพริบอันน่าทึ่งและทันท่วงที เพียงแค่เด็ดกลีบกุหลาบจากสวนนั้นมาประดับเพิ่ม `
+`การจับคู่รสหวานอมเปรี้ยวนี้ก็ยอดเยี่ยมไม่แพ้กัน `
+`ถ้ามีแค่รสหวาน พอกินไปได้ครึ่งทางลิ้นก็จะเริ่มชินและเลี่ยน `
+`แต่ถ้าตักไปโดนซอสเปรี้ยวในจังหวะนั้น รสชาติก็จะกลับมาสดชื่นจัดจ้านขึ้นมาทันที `
+`และเมื่อตักซอสหวานกินต่อ ความเปรี้ยวในปากทั้งหมดก็จะถูกแทนที่ด้วยความหวานอันรื่นรมย์ `
+`ผมมั่นใจว่าคนอื่นๆ ก็คงรู้สึกแบบเดียวกัน `
+`ทุกครั้งที่คุณโกดะเดินผ่านที่นั่งของใครสักคน ก็จะมีคนเอ่ยชมทั้งรสชาติและการจัดจานเสมอ `
+`"เป็นอย่างไรบ้างครับผม คุณผู้หญิง?" `
+`"ยอดเยี่ยมเหมือนเช่นเคยค่ะ `
+`สมกับที่นำมาใช้รับรองแขกของเรา" `
+`"ขอบพระคุณสำหรับคำชมเป็นอย่างยิ่งครับผม `
+`......คุณผู้หญิงทราบหรือไม่ครับ? `
+`กระผมได้ยินมาว่าโรสฮิปมีสรรพคุณช่วยบรรเทาอาการปวดศีรษะได้ด้วยครับผม `
+`ผมคิดว่าโดยเฉพาะอย่างยิ่งคุณผู้หญิงน่าจะถูกใจ จึงได้ตั้งใจเตรียมไว้เป็นพิเศษครับผม" `
+`"...อย่างนั้นหรือคะ? `
+`ขอบใจนะ" `
+`"เห็นไหมล่ะคะ พี่นัตสึฮิ ฉันบอกแล้วใช่ไหมล่ะ? `
+`โรสฮิปน่ะดีต่ออาการปวดหัวมากเลยนะ" `
+`"ดูเหมือนจะเป็นเช่นนั้นนะคะ `
+`...หวังว่าจะช่วยได้จริงๆ ค่ะ" `
+`"ฮ้า-! `
+`คุณโกดะ ฉันถูกใจนายจริงๆ เว้ย! `
+`นี่ เดี๋ยวไว้ค่อยมาเล่าให้ฉันฟังหน่อยสิว่าที่นี่เขาดูแลนายยังไงบ้าง?! `
+`หรือถ้าเล่าไม่ได้ ก็บอกมาเลยว่าอยากได้เงินเดือนสักเท่าไหร่! `
+`การปล่อยให้ฝีมือระดับนายต้องมาอุดอู้อยู่บนเกาะเล็กๆ นี้น่ะ มันคือการลบหลู่ต่อวัฒนธรรมอาหารของมนุษยชาติชัดๆ! `
+`คิดยังไงถ้าจะไปโชว์ฝีมือที่บริษัทฉัน แล้วสร้างความประทับใจให้ลูกค้าทุกคนของพวกเราน่ะ?!" `
+`"ฮะฮะฮะ คุณฮิเดโยชิ `
+`นี่คิดจะชิงตัวโกดะของเราไปงั้นหรือ? `
+`แบบนั้นคงยอมไม่ได้หรอกนะ `
+`พวกเราคงต้องดูแลโกดะให้ดีกว่านี้ซะแล้ว ไม่อย่างนั้นคงโดนฉกตัวไปแน่" `
+`"คิก จริงด้วยสิคะ `
+`ถ้าไม่ทำอย่างนั้น มีหวังโดนใครฉกตัวไป แล้วพวกพี่คงต้องทนกินอาหารเมนูปลาซาบะฝีมือคุมาซาวะวันละสามมื้อแหงเลยใช่ไหมล่ะคะ" `
+`"โฮ่ะโฮ่ะโฮ่ะ พูดแรงจังเลยนะคะ `
+`ดูเหมือนจะมีใครบางคนผูกใจเจ็บกับดิฉันซะแล้วสิคะ" `
+`"""ว่าฮ่าฮ่าฮ่าฮ่าฮ่า!!!""" `
+`ทุกคนต่างระเบิดเสียงหัวเราะออกมาดังลั่น `
+`จากที่ฟังเจสสิก้าเล่า มุกปลาซาบะของคุณคุมาซาวะเป็นมุกประจำที่พวกพ่อแม่ชินชาจนฟังกันเป็นเรื่องปกติไปนานแล้ว `
+`คุณคุมาซาวะมักจะอ้างว่าปลาซาบะมีคุณค่าทางโภชนาการอันล้ำค่า `
+`ซึ่งช่วยชะลอความแก่ ทำให้ฉลาดขึ้น และอื่นๆ อีกสารพัด `
+`...ว่ากันว่า ถึงมันจะหยุดยั้งร่องรอยความชราภายนอกไม่ได้ แต่มันก็ช่วยป้องกันความชราจากภายในได้ `
+`การที่เธอยังมีชีวิตชีวาพอจะเล่นมุกพวกนี้ได้ในวัยนี้ ทฤษฎีนั้นคงมีส่วนจริงอยู่บ้างล่ะมั้ง `
+`"โฮ่ะโฮ่ะโฮ่ะ... `
+`ถ้าอย่างนั้น ดิฉันขอตัวก่อนนะคะ... `
+`เตรียมใจรับมื้อค่ำคืนนี้ไว้ให้ดีเถอะค่ะ! `
+`ดิฉันจะทำเมนูปลาซาบะให้ทานกันเต็มคราบ เพราะงั้นตั้งตารอได้เลยค่ะ!" `
+`"ว่าฮ่าฮ่า พวกเราตั้งตารอแน่ `
+`แทบรอเข็ดฟันกับชิเมะซาบะคืนนี้ไม่ไหวแล้วว่ะ!" `
+`"ฟังดูวิเศษจังเลยค่ะ `
+`จะมีสาเกญี่ปุ่นดีๆ เสิร์ฟด้วยไหมนะ" `
+`"แหม มีแน่นอนสิคะ `
+`ยังไม่เคยได้ยินชื่อ{ruby:เหล้า:โชจู}ปลาซาบะอันเลื่องชื่อของเกาะร็อกเค็นจิมะหรือคะ...?" `
+`"""ว่าฮ่าฮ่าฮ่าฮ่าฮ่า!!!""" `
+`คุณคุมาซาวะกับชาน่อนจังค้อมศีรษะแล้วเข็นรถเสิร์ฟอาหารออกไป `
+`มันตลกดีพิลึกที่ได้เห็นคุณโกดะ ผู้ดูเหมือนโดนขโมยซีนไปต่อหน้าต่อตา พยายามอธิบายด้วยน้ำเสียงจริงจังว่ามื้อค่ำของพวกเราจะเป็นสเต๊กเนื้อลูกวัว `
+`"...เอ่อ `
+`......คุณคุมาซาวะคะ ...ขอบคุณที่ช่วยไว้เมื่อกี้นะคะ..." `
+`ขณะที่กำลังเข็นรถเสิร์ฟอาหาร ชาน่อนก็ก้มศีรษะลงต่ำมาก `
+`"โฮ่ะโฮ่ะโฮ่ะ ไม่ได้ทำอะไรถึงขั้นต้องขอบคุณหรอกจ้ะ" `
+`คุมาซาวะอาจจะแกล้งทำเป็นไขสือ แต่เห็นได้ชัดว่าเธอเข้าใจสถานการณ์และช่วยชาน่อนไว้ได้ทันท่วงที `
+`ตอนที่แบทเลอร์ถามถึงของหวาน ชาน่อนดันเกิดชะงักไป `
+`การจะเลี่ยงคำถามอาจมีอยู่หลายวิธี แต่ทุกวิธีล้วนต้องอาศัยไหวพริบปฏิภาณอันรวดเร็ว `
+`ชาน่อนผู้มักจะอ้ำอึ้งเวลาจนมุม มักจะต้องทนทุกข์เพราะจุดอ่อนเล็กๆ นี้อยู่เสมอ `
+`ถ้าเพียงแต่ชาน่อนมีเล่ห์เหลี่ยมที่จะปัดเป่าความผิดพลาดไปได้อย่างแนบเนียนเหมือนโกดะสักนิด ชีวิตของเธอก็คงจะง่ายขึ้นกว่านี้ `
+`การที่เธอสามารถทำงานอื่นๆ ได้อย่างไร้ที่ติ ยิ่งทำให้จุดอ่อนนี้ดูน่าเสียดายขึ้นไปอีก `
+`ทว่า ก็ยังมีคนที่เข้าใจธรรมชาติอันซื่อตรงของชาน่อน ความไม่ประสีประสาในการกลบเกลื่อนความผิดพลาดและเบี่ยงเบนความสนใจ `
+`...นั่นคือเหตุผลที่คุณคุมาซาวะยื่นมือเข้ามาช่วยเธอได้อย่างแนบเนียน `
+`"ป้าเพิ่งได้ยินจากคุณเก็นจิมาว่า จะมีการสลับกะช่วงบ่ายน่ะจ้ะ `
+`รู้สึกว่าเธอจะได้พักจนถึงตอนเย็นเลยนะ `
+`โฮ่ะโฮ่ะโฮ่ะ น่าอิจฉาจังเลย" `
+`"เอ๊ะ? ...อ๊ะ ขอโทษค่ะ ดิฉันยังไม่ได้เช็กตารางเวรเลย" `
+`"อ้อ ใช่สิ `
+`ป้าคิดว่าจะเริ่มเอาปลาซาบะเข้าเตาอบสักหน่อยน่ะ `
+`ถ้าไม่รังเกียจ ช่วยป้าสักนิดก่อนไปพักผ่อนจะดีใจมากเลยนะจ๊ะ" `
+`"อ๊ะ ได้ค่ะ...! `
+`ยินดีช่วยอย่างยิ่งเลยค่ะ" `
+`สำหรับชาน่อนแล้ว คุมาซาวะเปรียบเสมือนแม่ในหมู่คนรับใช้ `
+`ห้องรับประทานอาหารจำเป็นต้องทำความสะอาด พวกผมจึงถูกไล่ออกมา `
+`แต่เปลี่ยนไปเสิร์ฟชาในห้องรับรองแทน `
+`ดูเหมือนพวกเขาจะเตรียมชาดำที่คุณน้าโรซ่าซื้อมาให้คุณป้านัตสึฮิไว้ `
+`มาเรียบอกว่าอยากดื่มชาดำด้วย แต่ตาแก่ของผมบอกว่าไม่ได้ แล้วไล่ให้พวกเด็กๆ ออกไปเล่นข้างนอก `
+`"แบทเลอร์คุง พวกเราออกไปเดินเล่นข้างนอกกันดีไหม" `
+`"ออกไปดูดอกกุหลาบหรืออะไรแถวนั้นก็ได้นะ `
+`แต่คอยระวังเรื่องสภาพอากาศให้ดีล่ะ `
+`ตอนนี้ท้องฟ้ายังโปร่งอยู่ก็จริง แต่พยากรณ์อากาศเอาแต่เตือนเรื่องฝนตกไม่หยุดเลย" `
+`"อู-! `
+`อยากไปชายหาด ชายหาด!!" `
+`"แหม ฟังดูวิเศษจังเลยนะจ๊ะ `
+`การได้เล่นบนหาดทรายไม่ใช่โอกาสที่มีบ่อยๆ เสียด้วยสิ ใช่ไหมล่ะ" `
+`"อ๊ะ พูดถูกแฮะ `
+`งั้นพวกเราทุกคนไปที่ชายหาดกันเถอะ!" `
+`"อู-! ไปกัน ไปกัน!" `
+`"มาเรีย ระวังอย่าให้เสื้อผ้าเปียกล่ะ `
+`รองเท้าด้วยนะ" `
+`"อู-! `
+`ไม่เปียกหรอก!" `
+`"คิก ความว่าง่ายนั่นน่ารักจั๊ง `
+`แบทเลอร์คุง คอยดูมาเรียจังให้ดีด้วยนะจ๊ะ" `
+`"ได้เลย ปล่อยเป็นหน้าที่ผมเองครับ!" `
+`"เฮ้ย ตัวแกเองก็ว่าง่ายน่ารักดีนี่หว่า ฟังที่คิริเอะพูดซะขนาดนั้น `
+`...ทำไมไม่ลองเชื่อฟังพ่อว่าง่ายๆ แบบนั้นบ้างวะ?" `
+`"ฮึ! `
+`ไม่มีทางซะหรอกเว้ย! `
+`ไปกันเถอะทุกคน เร็วเข้า!" `
+`พวกเด็กๆ พากันวิ่งกรูออกจากห้องรับรองไป `
+`เก็นจิเข้ามาแทนที่พลางเข็นรถเสิร์ฟเข้ามา และเริ่มเตรียมเสิร์ฟชา `
+`ห้องรับรองอบอวลไปด้วยกลิ่นหอมอันเลิศล้ำ ชวนให้ทุกคนเคลิบเคลิ้มระหว่างรอคอยการดับกระหาย... `
+`"ฮะฮะฮะฮะ ฮ่า... `
+`ครอบครัวของรูดอล์ฟดูสนิทสนมกันดีจริงเชียว `
+`เป็นเรื่องที่วิเศษมากเลยนะ" `
+`"พอเถอะน่า พวกผมเทียบกับบ้านพี่ไม่ติดหรอก" `
+`"จริงด้วยสิคะ `
+`เลี้ยงดูเจสสิก้าจังจนน่ารักน่าเอ็นดูขนาดนี้ `
+`ฉันคิดว่านั่นคงเป็นอีกหนึ่งผลลัพธ์จากพรสวรรค์ด้านการศึกษาและการอบรมสั่งสอนของพี่นัตสึฮินะคะ" `
+`"......ขอบคุณค่ะ" `
+`นัตสึฮิตอบอย่างเย็นชา `
+`...บทสนทนาขาดช่วงลงตรงนั้น และห้องรับรองก็ตกอยู่ในความเงียบงัน `
+`บางทีฮิเดโยชิอาจจะทนความเงียบนั้นไม่ได้ จึงเอ่ยทำลายมันด้วยท่าทางโอเวอร์ `
+`"ถึงอย่างนั้น เด็กๆ ก็โตกันเร็วจริงๆ นะ `
+`...ฉันนึกว่าพวกนั้นจะเป็นเด็กตลอดไปซะอีก แต่อยู่ๆ ก็ตัวโตขึ้นมา แล้วก็กลายเป็นผู้ใหญ่เหมือนพวกเราไปซะแล้ว `
+`แบทเลอร์คุงตอนนี้นี่ดูเปลี่ยนไปเป็นคนละคนเลยนะ!" `
+`"ตัวโตขึ้นมากก็จริง แต่เขาก็ยังเป็นแค่เด็กนั่นแหละค่ะ `
+`ถึงจะพูดแบบนั้นกับสามีของฉันได้เหมือนกันก็เถอะ" `
+`"...ฉันสงสัยจังว่าเส้นแบ่งระหว่างเด็กกับผู้ใหญ่อยู่ตรงไหนกันแน่ `
+`ตัวฉันเองยังไม่รู้สึกว่าตัวเองโตเป็นผู้ใหญ่เลยสักนิดค่ะ" `
+`"หึ น่าสมเพชจริงนะ `
+`นั่นไม่ใช่คำพูดที่คนเป็นแม่ควรพูดออกมาเลยสักนิด" `
+`"จริงด้วยสิคะ `
+`พวกเราไม่ใช่เด็กกันแล้วนี่นะ `
+`ตอนนี้พวกเราทุกคนต่างเป็นผู้ใหญ่กันหมดแล้ว `
+`เพราะฉะนั้น ฉันก็อยากให้พวกเราคุยกันด้วยระดับสติปัญญา มากกว่าจะใช้อารมณ์น่ะค่ะ" `
+`เมื่อเอวายิ้มเยาะอย่างเฉียบคม บรรยากาศก็ดูจะยิ่งตึงเครียดขึ้น `
+`...รู้สึกราวกับว่ากลิ่นหอมรื่นรมย์ของน้ำชาได้ถูกเหวี่ยงทิ้งออกไปนอกหน้าต่างเสียแล้ว `
+`"ตั้งแต่ไหนแต่ไรมา พวกเราก็พยายามสนทนากันอย่างมีสติปัญญาอยู่เสมอ `
+`......ดูเหมือนคำประชดของเธอจะยิงพลาดเป้าไปเป็นพักๆ นะ `
+`เหมือนอย่างที่เป็นมาตลอดนั่นแหละ" `
+`"...แหม ที่ว่า "พยายามอยู่เสมอ" นี่พยายามทำอะไรกันเหรอจ๊ะ? `
+`ตายจริง `
+`ฉันอยากจะห่อคำพูดพวกนั้นส่งกลับมาที่ห้องนี้เมื่อสองสามทศวรรษก่อนเสียจริง `
+`ว่าไหม โรซ่า?" `
 `"..............." `
-`Rosa gave a vague smile. `
-`She knew that, whether she agreed or disagreed, she'd earn the displeasure of one of her siblings. `
-`It was a bit of worldly wisdom that had been essential for someone growing up as the youngest sibling. `
-`"Quit it, Aneki. `
-`We'd better get started on our main topic while the brats aren't around. `
-`Let us make that our intellectual discussion." `
-`As Rudolf glanced over the faces of all present, some let out a slight sigh and some let a small look of resignation cross their face. `
-`......They were approaching their unavoidable... `
-`true agenda. `
-`"Last year, his life expectancy was estimated at about three months. `
-`Which I guess means he's got negative 9 months left now. `
-`Should we take that to mean it might suddenly happen at any time?" `
-`"...The Family Head is still alive and well. `
-`The fact that you'd bring up such an inappropriate topic under the light of day...makes me doubt your sanity, Rudolf-san." `
-`"Still, Natsuhi-san, `
-`this is the sort of thing you can't put off until after somethin' happens. `
-`He's still healthy now, which makes this the perfect time to talk about this, while we've still got time to plan. `
-`It's just a bit of financial etiquette, you might say." `
-`"It seems Father is the focus of everyone's concern. `
-`...Doctor Nanjo, `
-`could we hear the details from you? `
-`That appears to be what everyone else is waiting for, after all." `
-`".....................*cough*." `
-`Nanjo, who had been standing by the window and staring out at the rose garden, let out a single cough when he realized that he was being called. `
-`"...Doctor Nanjo, `
-`...how is Father's condition?" `
-`"Well, to begin, `
-`...allow me to start with a revision, since my estimate last year that he had only three months left was not borne out." `
-`"No need to explain. `
-`You're saying that measuring remaining life is only a prediction, not a promise, right?" `
-`"...That is correct. `
-`Because of that, while I will accept everyone's repeated questions, I can by no means confirm when he will pass away. `
-`A human's life is supported by their body and their mind. `
-`...If the body is weak, the situation becomes more dangerous, but if the mind is strong enough to compensate for that weakness, the effects of one's condition can sometimes remain in a subdued state." `
-`"So you're saying that even if his body is weak, his mind is still firm and spirited." `
-`".........Kyrie, sorry, but please stay quiet for a bit." `
-`"......I'm sorry." `
-`"That is correct. `
-`Kinzo-san's body is being overwhelmed by the demon of ill health. `
-`This will hold especially true as long as he continues to partake of such strong alcohol..." `
-`"So, he's in a crisis now because he drinks. `
-`And maybe he's lived this long because he drinks. `
-`There's Dad for you, the heavy drinker." `
-`"Well then, Doctor, I know you can't give anything more than a prediction, `
-`...but what do you think about Father's chances of living until this day next year...?" `
-`"That's quite a rude question to ask about the Family Head." `
-`Natsuhi jumped on Eva, not even bothering to hide her astonished expression. `
-`Eva stared back daringly, but Hideyoshi realized what was going on and tried to smooth things over with a forced smile. `
-`"Ah, Natsuhi-san, forgive her! `
-`Eva, choose your words a bit more carefully, okay?" `
-`"I'm sorry. `
-`I was just so concerned about Father's condition. `
-`*giggle*." `
-`"...Is that so? `
-`I hadn't realized." `
-`"Doctor Nanjo, please tell us. `
-`For the sake of the beautiful love of a daughter worried about her father's lifespan." `
-`Krauss laughed sarcastically, and Eva, smiling sweetly, returned an identical chuckle. `
-`"...You ask whether he will still be healthy next year, `
-`......but as a doctor, it is very hard to say. `
-`Because while I do think this lull in his condition will continue for a while, `
-`if he suffers some kind of fit, there may be nothing we can do. `
-`......After all, Rokkenjima is a solitary island. `
-`It is not as though an ambulance could quickly jump in to save him. `
-`Normally, I would want to have him placed in a large hospital on the mainland, but..." `
-`"Father stated that he does not want his noble research interrupted. `
-`......It seems he holds a grudge over the way we tried to force him out last year. `
-`Apparently, he strongly suspects that he'll be shut away in some hospital if he goes outside. `
-`And that's how things are now." `
-`"Has Doctor Nanjo been examining him?" `
-`"Father trusts Doctor Nanjo. `
-`...It seems he can be examined when in one of his better moods..." `
-`"I can examine his condition, but if I try to recommend medicine or hospitalization, he refuses to listen. `
-`......I've really only been able to look." `
-`"It's true some people hate doctors... `
-`Still, what a hassle!" `
-`Nanjo sighed deeply. `
-`The purpose of an examination is to determine what medical treatment would be appropriate. `
-`Receiving an examination and then not following the advice given makes the whole thing pointless... `
-`"So, to sum it up, `
-`he's still expected to live three months. `
-`There's no way to guess how long he'll continue to live while still on the verge of death." `
-`"......Rudolf-san, `
-`couldn't you be a little more discreet with your words?" `
-`"Ah, sorry. `
-`I've always talked this way. `
-`Give me a break." `
-`"I understand how Doctor Nanjo sees it. `
-`...What about you, Krauss nii-san?" `
-`"......Hmph. `
-`To be perfectly honest, I have to disagree with Doctor Nanjo. `
-`I find it truly difficult to think of Father as a person so sick that he has only three months to live. `
-`His yell is as healthy as ever, and I still get chills at the thought of his fists raining down on me. `
-`......Pushing the care of your father solely on the shoulders of the eldest sibling is far from fair." `
-`"Hahhaha. `
-`In the next world, get born after me. `
-`.........Okay, let's get back on track. `
-`So, in the opinion of our impartial and neutral doctor, it wouldn't be odd for him to go any time. `
-`No offense to you, Aniki, but I'd rather trust the opinion of an expert in his field. `
-`Which means it's definitely not too early to start talking about Dad's assets." `
-`"Father's personal funds probably reach as high as several ten billion yen, right? `
-`But it's not as though that's all neatly gathered as ready cash. `
-`It's not as simple as simply cutting a birthday cake with a knife." `
-`"...That's an interesting way to put it. `
-`That's right, you sometimes get strawberries or chocolates on top of the cake, making it hard to cleanly cut it into equal parts. `
-`Given that, don't you think it's important to discuss beforehand how best to stick the knife in...?" `
-`"I cannot understand how you all can openly discuss this as though the Family Head is dead, even though he's still alive." `
-`"Come now, don't you see how important this is? `
-`After all, when the time comes, the inheritance of his fortune must be carried out immediately, right? `
-`Moreover, the glorious Ushiromiya house's wealth is vast. `
-`Don't you understand that careful discussion is necessary beforehand? `
-`There's a huge difference between this family's resources and your family's wealth." `
-`"......How rude! `
-`My birth family has nothing to do with this." `
-`Natsuhi responded indignantly, though in a low voice, and the already dark atmosphere grew even more hostile... `
-`"Give it a rest, Eva... `
-`Natsuhi-san, forgive us! `
-`Pardon her rudeness." `
-`Hideyoshi tried to smooth things over by glancing at both with a forced smile, but it only resulted in making the hostility between Eva and Natsuhi even more intense... `
-`"............It seems I'll just get in the way if I stay any longer. `
-`Please excuse me." `
-`Nanjo rose from his seat and exited the parlor. `
-`...To an outsider, it may have seemed like a normal act of courtesy, but his back was watched by several glances envious of his ability to escape. `
-`After the doctor had exited and his footsteps had disappeared into the distance, Krauss recrossed his legs. `
-`"In other words, this is what you all would like to say... `
-`Father's remaining life is short. `
-`You want to quickly enter into a practical conference concerning the distribution of the inheritance. `
-`......Why are you so eager, I wonder? `
-`Certainly, as you say, estimating and distributing the Ushiromiya family's wealth is no simple task. `
-`In that case, shouldn't we make careful and deliberate calculations? `
-`It seems to me that you are all impatient to split up the cake tonight. `
-`Isn't that true, Rosa? `
-`What reason is there to be hasty?" `
-`".........We aren't being hasty. `
-`...However, we need to have an agreement between the siblings. `
-`It doesn't matter when we do that, `
-`but if the day Father's condition worsens is approaching, `
-`discussing the matter beforehand hardly seems hasty to me..." `
-`Rosa shot a glance at Eva and Rudolf. `
-`...As the youngest sibling in the family, it was hard for her to be cross-examined by the eldest. `
-`"......Oh? `
-`Is that your true opinion? `
-`I didn't expect that the most honest and pure-hearted of the siblings would say something like that. `
-`I wonder if those two told you to say it..." `
+`โรซ่ายิ้มแหย `
+`เธอรู้ดีว่าไม่ว่าจะเห็นด้วยหรือไม่เห็นด้วย ก็รังแต่จะทำให้พี่คนใดคนหนึ่งไม่พอใจ `
+`นั่นคือไหวพริบการเอาตัวรอดที่จำเป็นอย่างยิ่งสำหรับคนที่โตมาในฐานะน้องคนสุดท้อง `
+`"พอได้แล้วน่า พี่ `
+`รีบเข้าเรื่องหลักตอนที่พวกเด็กๆ ไม่อยู่กันดีกว่า `
+`เอาเรื่องนั้นมาถกกันอย่างมีปัญญาเถอะ" `
+`ขณะที่รูดอล์ฟกวาดสายตามองหน้าทุกคนที่อยู่ในห้อง บางคนก็ถอนหายใจออกมาเบาๆ และบางคนก็มีสีหน้ายอมรับชะตากรรมปรากฏขึ้น `
+`......พวกเขากำลังเข้าใกล้เรื่องที่ไม่อาจหลีกเลี่ยง... `
+`วาระที่แท้จริง `
+`"เมื่อปีก่อน มีการประเมินว่าพ่อจะอยู่ได้อีกราวสามเดือน `
+`ซึ่งก็คงแปลว่าตอนนี้อายุขัยติดลบไปเก้าเดือนแล้วสินะ `
+`เราควรเข้าใจว่ามันอาจเกิดขึ้นกะทันหันเมื่อไหร่ก็ได้ใช่ไหมล่ะ?" `
+`"...ท่านประมุขตระกูลยังคงมีชีวิตและสบายดีอยู่นะคะ `
+`การที่คุณหยิบยกเรื่องที่ไม่เหมาะสมเช่นนี้ขึ้นมาพูดกันกลางวันแสกๆ...ทำให้ดิฉันสงสัยในสติสัมปชัญญะของคุณจริงๆ ค่ะ คุณรูดอล์ฟ" `
+`"แต่ก็นะ คุณนัตสึฮิ `
+`เรื่องพรรค์นี้มันผลัดผ่อนรอให้เกิดเรื่องก่อนไม่ได้หรอกนะ `
+`ตอนนี้ท่านยังแข็งแรงอยู่ จึงเป็นเวลาที่เหมาะที่สุดที่จะคุยกันเรื่องนี้ ตอนที่เรายังมีเวลาเตรียมการกันได้ `
+`จะเรียกว่าเป็นมารยาททางการเงินสักนิดก็ว่าได้ล่ะนะ" `
+`"ดูเหมือนท่านพ่อจะเป็นศูนย์รวมความกังวลของทุกคนสินะ `
+`...หมอนันโจ `
+`ช่วยเล่ารายละเอียดให้พวกเราฟังหน่อยได้ไหม? `
+`ดูเหมือนนั่นจะเป็นสิ่งที่ทุกคนกำลังรอฟังอยู่พอดี" `
+`".....................แค่กๆ" `
+`นันโจที่ยืนอยู่ริมหน้าต่างและเหม่อมองสวนกุหลาบ กระแอมไอออกมาหนึ่งครั้งเมื่อรู้ตัวว่าถูกเรียก `
+`"...หมอนันโจคะ `
+`...อาการของท่านพ่อเป็นอย่างไรบ้างคะ?" `
+`"ก่อนอื่นเลย `
+`...ผมคงต้องขอแก้ไขคำพูดก่อน เนื่องจากที่เคยประเมินไว้เมื่อปีก่อนว่าท่านจะอยู่ได้อีกเพียงสามเดือนนั้นไม่ได้เป็นไปตามคาดครับ" `
+`"ไม่ต้องอธิบายหรอกย่ะ `
+`จะบอกว่าการประเมินอายุขัยที่เหลือน่ะเป็นแค่การคาดเดา ไม่ใช่คำสัญญาใช่ไหมล่ะ?" `
+`"...ถูกต้องแล้วครับ `
+`ด้วยเหตุนี้ ถึงแม้ผมจะยอมรับคำถามซ้ำๆ ของทุกท่าน แต่ผมก็ไม่อาจยืนยันได้เลยว่าท่านจะจากไปเมื่อใด `
+`ชีวิตของมนุษย์นั้นค้ำจุนอยู่ด้วยร่างกายและจิตใจ `
+`...หากร่างกายอ่อนแอก็ย่อมตกอยู่ในภาวะอันตราย แต่หากจิตใจเข้มแข็งพอที่จะชดเชยความอ่อนแอนั้นได้ อาการของโรคก็อาจสงบลงได้ในบางครั้งครับ" `
+`"ก็แปลว่าถึงร่างกายจะอ่อนแอ แต่จิตใจยังคงมั่นคงและฮึกเหิมอยู่สินะคะ" `
+`".........คิริเอะ โทษทีนะ แต่อยู่เงียบๆ สักแป๊บเถอะ" `
+`"......ขอโทษค่ะ" `
+`"ถูกต้องแล้วครับ `
+`ร่างกายของคุณคินโซกำลังถูกปีศาจร้ายแห่งความเจ็บป่วยครอบงำ `
+`โดยเฉพาะอย่างยิ่ง ตราบใดที่ท่านยังคงดื่มสุราแรงๆ เช่นนั้นต่อไป..." `
+`"งั้นตอนนี้ก็เข้าขั้นวิกฤตเพราะกินเหล้า `
+`แล้วที่อยู่มาได้จนถึงป่านนี้ก็อาจเพราะกินเหล้าเหมือนกัน `
+`สมกับเป็นพ่อ คอทองแดงตัวจริงเสียงจริง" `
+`"ถ้าอย่างนั้น คุณหมอคะ ฉันรู้ว่าคุณบอกได้แค่การคาดเดา `
+`...แต่คุณคิดว่าโอกาสที่ท่านพ่อจะอยู่ไปจนถึงวันนี้ของปีหน้ามีมากน้อยแค่ไหนกันล่ะ...?" `
+`"ถามถึงท่านประมุขตระกูลแบบนั้น มันเสียมารยาทมากเลยนะคะ" `
+`นัตสึฮิตอกใส่เอวาโดยไม่คิดจะซ่อนสีหน้าตกตะลึงเลยแม้แต่น้อย `
+`เอวาจ้องกลับอย่างท้าทาย แต่ฮิเดโยชิรู้ทันสถานการณ์จึงรีบยิ้มเจื่อนๆ เพื่อประนีประนอม `
+`"อ๊ะ คุณนัตสึฮิ ให้อภัยเธอเถอะนะ! `
+`เอวา ระวังคำพูดคำจาหน่อยสิเธอ" `
+`"ขอโทษด้วยแล้วกันนะจ๊ะ `
+`ก็ฉันเป็นห่วงอาการของท่านพ่อมากไปหน่อยนี่นา `
+`คิก" `
+`"...อย่างนั้นหรือคะ? `
+`ดิฉันดูไม่ออกเลยค่ะ" `
+`"หมอนันโจ ได้โปรดบอกพวกเราเถอะ `
+`เห็นแก่ความรักอันงดงามของลูกสาวที่เป็นห่วงอายุขัยของพ่อด้วยเถอะนะ" `
+`เคราส์หัวเราะเยาะอย่างเหน็บแนม ส่วนเอวาที่ยิ้มหวานก็หัวเราะในลำคอตอบกลับไปด้วยท่าทีแบบเดียวกัน `
+`"...ที่ถามว่าปีหน้าท่านจะยังแข็งแรงดีอยู่หรือไม่นั้น `
+`......ในฐานะแพทย์แล้ว ตอบได้ยากมากครับ `
+`เพราะถึงผมจะคิดว่าช่วงที่อาการทรงตัวนี้จะดำเนินต่อไปอีกสักพัก `
+`แต่หากเกิดอาการกำเริบขึ้นมา พวกเราก็อาจจะหมดหนทางเยียวยา `
+`......อย่างไรเสีย เกาะร็อกเค็นจิมะก็เป็นเกาะโดดเดี่ยว `
+`ไม่ใช่ว่าจะเรียกรถพยาบาลมารับตัวไปช่วยชีวิตได้อย่างรวดเร็ว `
+`ตามปกติแล้ว ผมอยากให้ท่านไปรักษาตัวที่โรงพยาบาลใหญ่บนแผ่นดินใหญ่มากกว่า แต่ว่า..." `
+`"ท่านพ่อบอกว่าไม่อยากให้งานวิจัยอันสูงส่งของท่านต้องหยุดชะงัก `
+`......ดูเหมือนท่านยังผูกใจเจ็บเรื่องที่พวกเราพยายามบังคับพาตัวท่านออกไปเมื่อปีก่อน `
+`ดูท่าจะระแวงอย่างหนักว่าถ้าก้าวขาออกไปข้างนอก จะถูกขังไว้ในโรงพยาบาลสักแห่ง `
+`เรื่องมันก็เลยเป็นอย่างที่เห็นนี่แหละ" `
+`"หมอนันโจได้ตรวจร่างกายท่านพ่อบ้างไหมคะ?" `
+`"ท่านพ่อไว้ใจหมอนันโจ `
+`...ดูเหมือนจะยอมให้ตรวจได้บ้างตอนที่อารมณ์ดี..." `
+`"ผมตรวจดูอาการได้ แต่หากลองแนะนำเรื่องยาหรือการเข้าโรงพยาบาล ท่านก็จะไม่ยอมฟังเลยครับ `
+`......ทำได้เพียงแค่ตรวจดูเท่านั้นจริงๆ ครับ" `
+`"คนเกลียดหมอมันก็มีอยู่จริงๆ นั่นแหละนะ... `
+`แต่แบบนี้ก็ลำบากใจแย่เลยแฮะ!" `
+`นันโจถอนหายใจลึก `
+`เป้าหมายของการตรวจร่างกายคือการวินิจฉัยว่าการรักษาทางการแพทย์แบบใดจึงจะเหมาะสม `
+`การรับการตรวจแล้วไม่ยอมปฏิบัติตามคำแนะนำ ทำให้เรื่องทั้งหมดกลายเป็นสิ่งไร้ความหมาย... `
+`"งั้นสรุปก็คือ `
+`พ่อยังมีชีวิตอยู่ได้อีกสามเดือนเหมือนเดิม `
+`ไม่มีทางเดาได้เลยว่าแกจะยื้อชีวิตอยู่บนเส้นแบ่งความเป็นความตายไปได้อีกนานแค่ไหน" `
+`"......คุณรูดอล์ฟคะ `
+`ช่วยระวังคำพูดคำจาให้มากกว่านี้หน่อยไม่ได้หรือคะ?" `
+`"อ่า โทษที `
+`ฉันก็พูดแบบนี้มาแต่ไหนแต่ไรแล้วล่ะ `
+`ยกโทษให้หน่อยเถอะน่า" `
+`"ฉันเข้าใจมุมมองของหมอนันโจแล้วค่ะ `
+`...แล้วพี่เคราส์ล่ะคะ คิดยังไง?" `
+`"......หึ `
+`ถ้าให้พูดตามตรง ฉันคงต้องขอเห็นต่างจากหมอนันโจ `
+`ฉันนึกภาพท่านพ่อเป็นคนป่วยหนักที่เหลือเวลาชีวิตแค่อีกสามเดือนไม่ออกจริงๆ `
+`เสียงตวาดของท่านพ่อยังแข็งแรงเหมือนเคย แถมฉันยังรู้สึกหนาวสันหลังวาบทุกทีเมื่อคิดว่าอาจโดนกำปั้นของท่านระดมทุบลงมา `
+`......การโยนภาระดูแลท่านพ่อให้พี่คนโตแบกรับไว้คนเดียวแบบนี้น่ะ มันห่างไกลจากความยุติธรรมนัก" `
+`"ฮะฮ่าฮ่า `
+`ชาติหน้าก็เกิดมาเป็นน้องฉันแล้วกันนะ `
+`.........เอาล่ะ เข้าเรื่องกันต่อดีกว่า `
+`สรุปคือ ในความเห็นของคุณหมอผู้เป็นกลางและไม่มีส่วนได้ส่วนเสีย ท่านพ่อจะจากไปเมื่อไหร่ก็ไม่แปลกเลย `
+`ไม่ได้จะลบหลู่พี่หรอกนะ แต่ฉันเชื่อความเห็นของผู้เชี่ยวชาญในสายงานมากกว่าว่ะ `
+`แปลว่าการเริ่มคุยเรื่องทรัพย์สินของพ่อตั้งแต่ตอนนี้ ไม่ได้เร็วเกินไปเลยสักนิด" `
+`"ทรัพย์สินส่วนตัวของท่านพ่อคงสูงถึงหลายหมื่นล้านเยนเลยใช่ไหมล่ะ? `
+`แต่ใช่ว่าทั้งหมดจะกองรวมกันอยู่อย่างเรียบร้อยในรูปเงินสดพร้อมใช้เสียหน่อย `
+`มันไม่ได้ง่ายเหมือนแค่เอามีดมาตัดเค้กวันเกิดหรอกนะจ๊ะ" `
+`"...เปรียบเทียบได้น่าสนใจนี่ `
+`นั่นสิ บางทีบนหน้าเค้กก็มีสตรอว์เบอร์รีหรือช็อกโกแลตวางอยู่ ทำให้แบ่งเป็นชิ้นเท่าๆ กันได้ยาก `
+`ถ้าเป็นแบบนั้น เธอไม่คิดว่าการปรึกษากันล่วงหน้าเรื่องวิธีลงมีดให้ดีที่สุดน่ะสำคัญหรอกเหรอ...?" `
+`"ดิฉันไม่เข้าใจเลยค่ะว่าทำไมทุกท่านถึงคุยกันอย่างเปิดเผยราวกับท่านประมุขตระกูลเสียชีวิตไปแล้ว ทั้งๆ ที่ท่านยังมีชีวิตอยู่แท้ๆ" `
+`"แหม ไม่เห็นเหรอจ๊ะว่าเรื่องนี้สำคัญแค่ไหน? `
+`ก็เมื่อถึงเวลานั้น การสืบทอดมรดกทรัพย์สินของท่านก็ต้องจัดการทันทีไม่ใช่หรือไง? `
+`อีกอย่าง ทรัพย์สมบัติของตระกูลอุชิโรมิยะอันรุ่งโรจน์น่ะมีมหาศาลนะ `
+`ไม่เข้าใจหรือไงว่าต้องมีการหารือกันอย่างรอบคอบไว้ล่วงหน้าน่ะ? `
+`สินทรัพย์ของตระกูลนี้กับความมั่งคั่งของบ้านเดิมเธอน่ะ มันต่างกันราวฟ้ากับเหวเชียวนะยะ" `
+`"......เสียมารยาท! `
+`บ้านเดิมของดิฉันไม่เกี่ยวข้องกับเรื่องนี้นะคะ" `
+`นัตสึฮิตอบกลับด้วยความเดือดดาล แม้จะใช้น้ำเสียงแผ่วต่ำ และบรรยากาศที่อึมครึมอยู่แล้วก็ยิ่งตึงเครียดขึ้นไปอีก... `
+`"พอเถอะน่า เอวา... `
+`คุณนัตสึฮิ ยกโทษให้พวกเราด้วยนะ! `
+`ให้อภัยที่เธอเสียมารยาทด้วยเถอะ" `
+`ฮิเดโยชิพยายามไกล่เกลี่ยด้วยการมองทั้งสองฝ่ายพร้อมรอยยิ้มเจื่อนๆ แต่มันกลับทำให้ความเป็นอริระหว่างเอวากับนัตสึฮิยิ่งทวีความรุนแรงขึ้น... `
+`"............ดูเหมือนว่าหากผมอยู่ต่อก็คงจะมีแต่เกะกะเปล่าๆ `
+`ขอตัวก่อนนะครับ" `
+`นันโจรุกขึ้นจากที่นั่งแล้วเดินออกจากห้องรับแขกไป `
+`...สำหรับคนนอก อาจมองดูเหมือนเป็นมารยาทตามปกติ แต่แผ่นหลังของเขากลับถูกจับจ้องด้วยสายตาอิจฉาจากหลายๆ คนที่อยากจะหนีไปแบบนั้นบ้าง `
+`หลังจากหมอออกไปและเสียงฝีเท้าแว่วหายไปในระยะไกล เคราส์ก็นั่งไขว่ห้างอีกครั้ง `
+`"สรุปแล้ว สิ่งที่พวกเธออยากจะพูดก็คือแบบนี้สินะ... `
+`ชีวิตที่เหลืออยู่ของท่านพ่อมีอีกไม่นาน `
+`พวกเธอเลยอยากจะรีบเข้าสู่การประชุมเชิงปฏิบัติเรื่องการแบ่งมรดกกันโดยเร็ว `
+`......ทำไมถึงได้กระตือรือร้นกันนักนะ? `
+`จริงอยู่ ตามที่เธอว่ามา การประเมินและแบ่งสรรทรัพย์สมบัติของตระกูลอุชิโรมิยะไม่ใช่เรื่องง่ายๆ `
+`ถ้าเช่นนั้น เราไม่ควรคำนวณอย่างรอบคอบและถี่ถ้วนหรอกหรือ? `
+`สำหรับฉัน ดูเหมือนพวกเธอจะใจร้อนอยากแบ่งเค้กกันคืนนี้เสียให้ได้เลยนะ `
+`ไม่จริงหรือไง โรซ่า? `
+`มีเหตุผลอะไรให้ต้องรีบร้อนขนาดนั้น?" `
+`".........พวกเราไม่ได้รีบร้อนนะคะ `
+`...แต่ว่า พวกเราพี่น้องจำเป็นต้องมีความเห็นพ้องต้องกัน `
+`จะทำเมื่อไหร่ก็ไม่ต่างกันหรอกค่ะ `
+`แต่ถ้าวันที่อาการของท่านพ่อย่ำแย่ลงกำลังใกล้เข้ามา `
+`การคุยเรื่องนี้กันไว้ล่วงหน้า ฉันก็ไม่เห็นว่าจะดูรีบร้อนตรงไหนเลยนี่คะ..." `
+`โรซ่าชำเลืองมองเอวากับรูดอล์ฟ `
+`...ในฐานะน้องคนสุดท้องของบ้าน การถูกพี่คนโตซักไล่ต้อนเช่นนี้จึงเป็นเรื่องลำบากใจสำหรับเธอ `
+`"......เหรอ? `
+`นั่นคือความเห็นจริงๆ ของเธอหรือ? `
+`ฉันไม่นึกเลยนะว่าคนที่ซื่อตรงและไร้เดียงสาที่สุดในบรรดาพี่น้องจะพูดเรื่องแบบนี้ออกมา `
+`สงสัยสองคนนั้นคงบอกให้เธอพูดสินะ..." `
 `"........................" `
-`"Quit it, Aniki. `
-`Rosa's one of Dad's kids too. `
-`She's got as much right to his inheritance as the rest of us. `
-`It's only natural that she'd be interested. `
-`...After all, Dad'll definitely die, and that's not something that'll happen in the distant future. `
-`......On the contrary, Aniki, you're way too relaxed. `
-`It almost seems like you'd like nothing better than to turn the discussion away from the inheritance issue." `
-`".........What do you mean by that? `
-`Are you trying to accuse my husband of something?" `
-`"C-Calm down, Natsuhi-san. `
-`Listen to what we have to say..." `
-`"Nii-san, I hear the times have been extremely good lately. `
-`Yes, since last year, we've been in an unprecedented boom, and the yen keeps on rising. `
-`It seems that it's no longer a dream that the dollar will reach 100 yen. `
-`Also, the ruling party says that it'll establish health resort maintenance law by next year. `
-`At this moment, resort development companies across Japan are running about, trying to gather as much funding as they can." `
-`"...You certainly seem to know a lot about it. `
-`Japan is about to experience an unprecedented boom. `
-`It'll be a repeat of the Korean War Demands, the time during which Father revived the Ushiromiya family. `
-`...The people of Japan have been working like mad, achieving vast economic growth and becoming the most well-off people in the world, reaching the height of our prosperity. `
-`We've reached an era where private spending is vast, which means easy money for institutions that can capitalize on that fact." `
-`"The three kinds of electrical appliances no longer represent the people's needs. `
-`The people need ski resorts, golf courses, public pools. `
-`Resort hotels and theme parks!" `
-`"Have you gone to Delsney Land, which opened just a few years ago? `
-`What an excellent theme park! `
-`It's a place where even an adult can be a kid and have fun with his family. `
-`No longer do we count our sole virtue to be selfless devotion while failing to care for our families. `
-`We have become the most prosperous people in the world, and now we can finally enjoy the benefits." `
-`"Krauss-san, your foresight's nothing to sneeze at. `
-`...When I heard that sort of thing several years ago, I thought it was crazy. `
-`...But when I heard about the G5 nations' Plaza Accord, that all changed. `
-`The yen shot up, and I'll bet the price of land skyrockets soon too. `
-`It won't be long before Japan becomes the economic center of the world. `
-`......You've got a great sense of the direction the world's movin', Krauss-san. `
-`At least there can be no debate about that." `
-`"I feel the same as Hideyoshi-san. `
-`Aniki, you can read into the next decade of history. `
-`I'll bet you got that keen sense from Dad, `
-`and it's incredible. `
-`......However, unlike Dad, the timing of your predictions has been a bit off sometimes, right?" `
-`"Nii-san, you've been starting resort projects everywhere, convinced that Japan will soon see a boom, but almost all of them continue to fail. `
-`...While I'm sure that the era you predicted will soon arrive, it seems you misread the timing of that boom." `
-`"...You were too early. `
-`You then panicked and tried to sell everything off, which only opened the wound even further. `
-`...If your nose was really so reliable, then there should be no reason for you to sell off your property. `
-`Is this proof that you mistrust your own ability?" `
-`"......How rude! `
-`Are you trying to insult my husband?" `
-`Natsuhi's forehead creased as she rose from the sofa. `
-`Eva, paying this no heed, stared at Krauss with a confident smile. `
-`...Krauss, who also maintained his confident appearance, told Natsuhi to sit down. `
-`"Please stop, Natsuhi. `
-`Eva's always been incapable of talking any other way. `
-`...Calm down a little, `
-`or your headache will get worse." `
-`"There's proof of your lack of talent right next to us. `
-`......After all, Nii-san, weren't you all excited about turning this island into a resort? `
-`You built a wonderful resort hotel and beautifully maintained the garden... `
-`I'm just an amateur and don't pretend to understand, but you must have used a significant amount of money for that, right?" `
-`"And what is that to you?! `
-`My husband's business is none of yours!" `
-`"Actually, that's not true, Natsuhi-san. `
-`Rokkenjima doesn't belong to Aniki. `
-`It belongs to Dad. `
-`Of course, the hotel does belong to Aniki, right? `
-`In fact, we'd be more than willing to pay lodging fees for tonight. `
-`What do you think, Rosa?" `
-`"......Well, hmm. `
-`...If what I have on hand will suffice." `
-`"If I can make it into a resort, this island's financial worth will rise. `
-`It is true that expenses have piled up, but we can expect a large harvest in the future. `
-`When that happens, all of you stand to profit as well, do you not?" `
-`"I understand that. `
-`If the value of this island rises, that'll increase our portions when we distribute the inheritance. `
-`Of course, I won't ask you to divide the island and the mansion into four equal parts. `
-`We can just resolve the matter with money equal to the value of the property." `
-`"If you understand that much, what about my business makes you so dissatisfied?" `
-`"We aren't dissatisfied, we're uneasy. `
-`In the first place, Aniki, `
-`when do you plan to open that hotel? `
-`Left this way, you won't get anything out of it except our grubby hand prints, right?" `
-`"That's right. `
-`It's an important tool for your business, isn't it? `
-`Surely you can't keep it locked up until the moment you open it. `
-`Buildings go bad if you don't use them and air them out every once in a while. `
-`Even so, it's a bit extravagant for a guesthouse that we only use once a year. `
-`Right, Rosa?" `
-`".........That's right. `
-`Considering how wonderful it is, I'm sure it will become quite popular once you open it." `
-`"Oh, `
-`......so the hotel you keep talking about is the guesthouse..." `
-`"It's splendid. `
-`Just as Rosa said, if you were to open it, I'm sure it would become popular." `
-`The lodging they had been guided to wasn't originally intended to serve as a guesthouse. `
-`...It was originally constructed as a resort hotel. `
-`However, even though it was built two years previously, there was still absolutely no prospect of it opening. `
-`"Nii-san, it's just like all of your enterprises. `
-`Your attention and planning are both fabulous. `
-`Then, it always becomes unmaintainable partway through...and ends before you have a chance to earn any profit." `
-`"You were brilliant when you saw that using this island only as a place to live was a waste. `
-`I think it was a pretty good plan to turn it into a resort that could use the prospect of marine sports, fishing, honeymoons and the like to attract customers. `
-`If I were the oldest son, I'm sure I'd have strained my brain looking for a way to make a profit off this island." `
-`"But two full years have passed since you finished building, right? `
-`After two years, you still haven't had the opportunity to open it. `
-`Where's the managing company you entrusted it to?" `
-`"......Impertinence! `
-`That is not my husband's fault! `
-`There has just been some trouble with the company that my husband contracted with. No matter how you look at it, we are victims here!" `
-`"And yet, `
-`the rumors we've heard about this company you hired... `
-`...haven't been good at all." `
-`"Let's be clear about this, dear. `
-`...Did you really think we wouldn't hear about how lack of payment, embezzlement, and other issues led to the project disintegrating mid-flight? `
-`We even have evidence." `
-`"I don't know what kind of evidence you think you found, but it's all baseless! `
-`As new members in the tourism industry, it is necessary for us to lay the groundwork with various people. `
-`It is also important to investigate the trustworthiness of our partners. `
-`It's merely taken us some time to meet that goal!" `
-`"......I'll admit that, in my rashness, the hotel was completed too early. `
-`However, it's not as though we're paying maintenance costs. `
-`It's a foundation that will eventually become immensely significant." `
-`"Liar. `
-`I'll bet you want to liquidate it but can't. `
-`After all, there's no reason for anyone to buy such an extravagant hotel on an isolated, empty island without any established sightseeing routes. `
-`And anyway, what about all the loans you made for this project?" `
-`"Even if you aren't incurring maintenance costs, the borrowed money that you can't return just keeps growing. `
-`...Sorry, Krauss nii-san, `
-`but I've investigated the development plan for this island a bit. `
-`...To be honest, I haven't heard anything good either." `
-`"Hideyoshi-san, `
-`I can see how you might be left with that impression by looking only at the current financial situation. `
-`However, this is a forward-looking investment. `
-`I have no choice but to admit that my prediction was mistaken, and that up until now, several liabilities have been created." `
-`"However, the times have finally caught up with me. `
-`I will soon regain everything that I have lost up to this point. `
-`No, actually, all of the investments I have made until now will finally return to my possession. `
-`That's right, just like throwing away a small fry which then becomes a salmon, they will come back even bigger than before." `
-`"I'll accept that. `
-`The resort business will probably see an unprecedented boom before long, `
-`though I don't know if it'll be enough to cover all your debt..." `
-`".........However, Krauss nii-san, `
-`after all your failures in the past, who exactly do you expect to provide you with funding? `
-`And this isn't some small amount we're talkin's about. `
-`You'll need enough funding to fill the massive hole you've dug." `
-`"......What are you trying to say, Hideyoshi-san?" `
-`"Ahh, Natsuhi-san, please don't get angry! `
-`We looked into this, too. `
-`We checked to see who might've provided Krauss nii-san with enough financing `
-`to support his recent large-scale projects, despite his string of failures." `
-`"...And we discovered... `
-`that no such backer exists. `
-`The iron rule of the money roulette is that you bet against the loser. `
-`Aniki, you're a fairly well-known loser in this field. `
-`It's true that prosperous times are about to come, but when we looked for people who considered that enough to overlook your string of failures... `
-`and also had enough for the investment, `
-`we found no candidates." `
-`"So, `
-`the big question now... `
-`is where you got that money from." `
-`".........Hoh. `
-`Now isn't this intriguing. `
-`And?" `
-`"D-Dear! `
-`How long do you plan to let these ridiculous remarks stand?!!" `
-`"Sit down, Natsuhi-san. `
-`Let's cut to the point. `
-`Aniki, you've been diverting Dad's private funds for your own businesses. `
-`There's pretty much no room for doubt. `
-`If you think we've made some kind of mistake, please, feel free to explain." `
-`"Rudolf, don't call it diverting funds. `
-`This is embezzlement, plain and simple. `
-`A huge crime that can be criminally prosecuted." `
-`"Th-This sort of rudeness cannot be tolerated!! `
-`How can you face the Successor to the Ushiromiya Head Family and level these absurd accusations?!!" `
-`"They aren't absurd, they're right on the mark. `
-`I'm sure he'd like to somehow make his business succeed and recover his losses, but his debt keeps getting bigger! `
-`He's just trying to cover up the failure of one gamble by making an even bigger one. `
-`It's only natural that he'd try to grab any source of funding close at hand! `
-`Let me be frank. Nii-san, what you're doing is embezzlement. `
-`You're betraying Father. `
-`You know that we'll have the courts settle this after it's all over, right? `
-`Do you think that kind of person has any right to call themselves the Successor to the Ushiromiya Head Family?" `
-`"O-Of all the... Y-You dare to claim that he has betrayed the Family Head?!! `
-`You no longer have the right to straddle the threshold of the glorious Ushiromiya family!! `
-`Leave this place at once!! `
-`Now!! `
-`Get out!!" `
-`Natsuhi, who had already reached the limits of her anger, shouted at Eva in a rage. `
-`She then pointed alternately at Eva and the hallway, demanding that she leave. `
-`Eva took out a folding fan and fanned herself with it, glaring maliciously at Natsuhi as though silently daring her to repeat what she'd said. `
-`However, her mouth was still smiling, curved in the shape of a crescent moon. `
-`...In that unpleasant silence, Rosa gulped. `
-`"Hey, ...Natsuhi nee-san? `
-`To whom do you think you are speaking in such a tone?" `
-`"I'm speaking to the exceedingly rude sister of my husband!! `
-`As the person in charge of family affairs, I cannot overlook any more of this!!" `
-`"In charge of the affairs? `
-`Huhuhu, `
-`hahahaha, `
-`ahhahahahaha!! `
-`Be silent, `
-`lowly maidservant!" `
-`Eva folded the fan with a snap and rose to her feet energetically. `
-`Compared to the elegance and playfulness she'd shown until a second ago, she was now unimaginably aggressive. `
-`"How foolish. You stand down!! `
-`Before Eva of the Ushiromiya family!" `
-`"You tell me to stand down? Me, Ushiromiya Eva, the third ranked in the Ushiromiya family hierarchy and the one allowed to sit at the left shoulder of the Head?!! `
-`Know your place!! `
-`And then look at your shabby self in a mirror!! `
-`Where is the symbol of the wing on your clothes? `
-`Where are you permitted to wear the One-Winged Eagle? `
-`Aren't you nothing more than a borrowed womb to house the next Successor to the Ushiromiya family?!! `
-`Understand your place, you common housemaid!!" `
-`Eva's face twisted hideously as her words gouged into Natsuhi's heart like talons, wrenching at it. `
+`"พอได้แล้ว พี่ `
+`โรซ่าก็เป็นลูกของพ่อคนหนึ่งเหมือนกันนะ `
+`ยัยนี่มีสิทธิ์ในมรดกพอๆ กับพวกเรานั่นแหละ `
+`มันก็เป็นธรรมดาที่จะสนใจไม่ใช่เหรอ `
+`...อีกอย่าง พ่อต้องตายแน่ๆ และนั่นไม่ใช่เรื่องที่จะเกิดขึ้นในอนาคตอันไกลโพ้นเสียหน่อย `
+`......ในทางกลับกัน พี่ต่างหากที่ดูสบายใจเกินไป `
+`ดูเหมือนพี่จะอยากเบี่ยงประเด็นไปจากเรื่องมรดกเสียเหลือเกินนะ" `
+`".........หมายความว่าอย่างไรกันคะ? `
+`กำลังจะปรักปรำอะไรสามีของดิฉันอย่างนั้นหรือคะ?" `
+`"ใ-ใจเย็นๆ ก่อนเถอะ คุณนัตสึฮิ `
+`ฟังที่พวกเราจะพูดก่อนนะ..." `
+`"พี่เคราส์ ฉันได้ยินมาว่าช่วงนี้ยุคสมัยกำลังรุ่งเรืองสุดขีดเลยนี่คะ `
+`ใช่แล้ว ตั้งแต่ปีกลายมา เราอยู่ในช่วงเศรษฐกิจเฟื่องฟูอย่างที่ไม่เคยมีมาก่อน แถมเงินเยนก็แข็งค่าขึ้นเรื่อยๆ `
+`ดูเหมือนว่าอัตราแลกเปลี่ยน 100 เยนต่อดอลลาร์จะไม่ใช่เรื่องเพ้อฝันอีกต่อไปแล้ว `
+`แถมพรรครัฐบาลยังบอกอีกว่าจะผลักดันกฎหมายพัฒนาพื้นที่ตากอากาศออกมาให้ได้ภายในปีหน้า `
+`ในตอนนี้ บริษัทพัฒนาพื้นที่พักตากอากาศทั่วญี่ปุ่นต่างวิ่งวุ่นเพื่อระดมทุนกันให้ได้มากที่สุดเท่าที่จะทำได้" `
+`"...เธอก็รู้เรื่องดีนี่ `
+`ญี่ปุ่นกำลังจะพบกับยุคทองอย่างที่ไม่เคยมีมาก่อน `
+`มันจะเป็นการจำลองความต้องการช่วงสงครามเกาหลีขึ้นมาอีกครั้ง ช่วงเวลาที่ท่านพ่อได้ฟื้นฟูตระกูลอุชิโรมิยะขึ้นมา `
+`...คนญี่ปุ่นทำงานกันอย่างบ้าคลั่ง สร้างความเติบโตทางเศรษฐกิจอย่างมหาศาล และกลายเป็นประชากรที่มั่งคั่งที่สุดในโลก จนมาถึงจุดสูงสุดแห่งความรุ่งโรจน์ `
+`เราได้มาถึงยุคที่การใช้จ่ายภาคเอกชนมีมหาศาล ซึ่งหมายความว่าเป็นเงินที่ได้มาง่ายๆ สำหรับองค์กรที่สามารถฉกฉวยประโยชน์จากความจริงข้อนี้ได้" `
+`"เครื่องใช้ไฟฟ้าสามสิ่งไม่ได้เป็นตัวแทนความต้องการของผู้คนอีกต่อไปแล้ว `
+`สิ่งที่ผู้คนต้องการคือลานสกี สนามกอล์ฟ สระว่ายน้ำสาธารณะ `
+`โรงแรมรีสอร์ต และสวนสนุกต่างหาก!" `
+`"เคยไปเดลสนีย์แลนด์ที่เพิ่งเปิดเมื่อไม่กี่ปีก่อนไหมล่ะ? `
+`ช่างเป็นสวนสนุกที่ยอดเยี่ยมอะไรอย่างนั้น! `
+`เป็นสถานที่ที่แม้แต่ผู้ใหญ่ก็กลับไปเป็นเด็กและสนุกสนานร่วมกับครอบครัวได้ `
+`พวกเราไม่ถือว่าการทุ่มเทเสียสละโดยละเลยครอบครัวเป็นคุณธรรมเพียงหนึ่งเดียวอีกต่อไป `
+`เราได้กลายเป็นประชากรที่มั่งคั่งที่สุดในโลก และบัดนี้ ในที่สุดพวกเราก็สามารถเพลิดเพลินกับผลประโยชน์เหล่านั้นได้แล้ว" `
+`"คุณเคราส์ สายตาการณ์ไกลของคุณไม่ใช่เรื่องเล่นๆ เลยนะเนี่ย `
+`...ตอนที่ฉันได้ยินเรื่องพวกนี้เมื่อหลายปีก่อน ฉันยังคิดว่ามันบ้าบออยู่เลย `
+`...แต่พอได้ยินเรื่องข้อตกลงพลาซาของกลุ่มประเทศ G5 ทุกอย่างก็เปลี่ยนไป `
+`เงินเยนพุ่งกระฉูด และฉันพนันได้เลยว่าราคาที่ดินก็คงจะพุ่งทะยานขึ้นตามในไม่ช้า `
+`อีกไม่นานหรอกที่ญี่ปุ่นจะกลายเป็นศูนย์กลางเศรษฐกิจของโลก `
+`......คุณมองทิศทางที่โลกกำลังหมุนไปได้ขาดจริงๆ คุณเคราส์ `
+`อย่างน้อยเรื่องนี้ก็ไม่มีข้อกังขาเลยล่ะ" `
+`"ฉันก็คิดเหมือนคุณฮิเดโยชินะ `
+`พี่น่ะอ่านประวัติศาสตร์ในทศวรรษข้างหน้าออกทะลุปรุโปร่งเลย `
+`ฉันว่าพี่คงได้สัญชาตญาณอันเฉียบแหลมนั้นมาจากพ่อแน่ๆ `
+`และมันก็น่าทึ่งจริงๆ `
+`......ทว่า ไม่เหมือนพ่อนะ จังหวะเวลาในการคาดเดาของพี่มันคลาดเคลื่อนไปหน่อย ใช่ไหมล่ะ?" `
+`"พี่เคราส์ พี่เริ่มโครงการรีสอร์ตไปทั่วทุกหนทุกแห่งเพราะเชื่อมั่นว่าญี่ปุ่นจะเข้าสู่ยุคเฟื่องฟูในเร็ววัน แต่แทบทั้งหมดกลับล้มเหลวไม่เป็นท่า `
+`...แม้ฉันจะมั่นใจว่ายุคสมัยที่พี่ทำนายไว้จะมาถึงในไม่ช้า แต่ดูเหมือนพี่จะกะจังหวะเวลาของความเฟื่องฟูนั้นผิดไปสินะคะ" `
+`"...พี่ใจเร็วเกินไป `
+`แล้วพี่ก็ตื่นตระหนกจนพยายามเทขายทุกอย่างทิ้ง ซึ่งมีแต่จะทำให้แผลเปิดกว้างขึ้นไปอีก `
+`...ถ้าสัญชาตญาณของพี่เชื่อถือได้ขนาดนั้นจริงๆ มันก็ไม่มีเหตุผลอะไรที่พี่จะต้องเทขายทรัพย์สินทิ้งเลยนี่คะ `
+`นี่เป็นหลักฐานว่าพี่เองก็ไม่เชื่อมั่นในความสามารถของตัวเองหรือเปล่า?" `
+`"......เสียมารยาท! `
+`กำลังจะดูหมิ่นสามีของดิฉันอย่างนั้นหรือคะ?!" `
+`นัตสึฮิขมวดคิ้วแน่นขณะลุกขึ้นจากโซฟา `
+`เอวาไม่นำพาต่อสิ่งนั้น พลางจ้องมองเคราส์ด้วยรอยยิ้มมั่นใจ `
+`...เคราส์ซึ่งยังคงรักษาท่าทีมั่นใจเอาไว้เช่นกัน บอกให้นัตสึฮินั่งลง `
+`"พอเถอะ นัตสึฮิ `
+`เอวาก็พูดจาแบบอื่นไม่เป็นมาแต่ไหนแต่ไรแล้ว `
+`...ใจเย็นลงหน่อยเถอะ `
+`เดี๋ยวอาการปวดหัวจะยิ่งแย่ลงไปอีก" `
+`"หลักฐานความไร้ความสามารถของพี่ มันก็อยู่ข้างๆ พวกเรานี่ไงล่ะ `
+`......ก็แหม พี่เคราส์กระตือรือร้นจะเปลี่ยนเกาะนี้ให้เป็นรีสอร์ตไม่ใช่เหรอจ๊ะ? `
+`สร้างโรงแรมรีสอร์ตสุดวิเศษ แถมยังจัดสวนไว้อย่างงดงาม... `
+`ฉันมันแค่มือสมัครเล่น ไม่บังอาจเข้าใจหรอกนะ แต่คงใช้เงินไปไม่ใช่น้อยๆ เลยใช่ไหมล่ะ?" `
+`"แล้วมันเกี่ยวอะไรกับคุณด้วยคะ?! `
+`ธุรกิจของสามีดิฉัน ไม่ใช่เรื่องกงการอะไรของคุณเลยสักนิด!" `
+`"จริงๆ แล้วไม่ใช่หรอกนะ คุณนัตสึฮิ `
+`เกาะร็อกเค็นจิมะไม่ใช่ของพี่เคราส์ `
+`มันเป็นของพ่อ `
+`แน่นอนว่าโรงแรมน่ะเป็นของพี่เคราส์อยู่แล้วใช่ไหมล่ะ? `
+`จริงๆ คืนนี้พวกเรายินดีจ่ายค่าที่พักให้ด้วยซ้ำนะ `
+`เธอว่าไง โรซ่า?" `
+`"......เอ่อ นั่นสินะคะ `
+`...ถ้าเงินติดตัวที่ฉันมีตอนนี้มันพอน่ะนะ" `
+`"หากฉันพัฒนาให้เป็นรีสอร์ตได้ มูลค่าทางการเงินของเกาะนี้ก็จะสูงขึ้น `
+`จริงอยู่ว่าค่าใช้จ่ายจะพอกพูน แต่ในอนาคตเราสามารถคาดหวังผลตอบแทนอันมหาศาลได้ `
+`เมื่อถึงตอนนั้น พวกเธอก็ย่อมได้รับผลประโยชน์ร่วมไปด้วยไม่ใช่หรือไง?" `
+`"เรื่องนั้นฉันเข้าใจย่ะ `
+`ถ้ามูลค่าของเกาะนี้สูงขึ้น ส่วนแบ่งของพวกเราตอนแบ่งมรดกก็ย่อมเพิ่มขึ้นด้วย `
+`แน่นอนว่าฉันไม่ขอให้แบ่งเกาะกับคฤหาสน์ออกเป็นสี่ส่วนเท่ากันหรอกนะ `
+`แค่เคลียร์กันด้วยเงินสดที่มีมูลค่าเทียบเท่าทรัพย์สินก็พอแล้ว" `
+`"หากเข้าใจถึงเพียงนั้นแล้ว มีอะไรในธุรกิจของฉันที่ทำให้เธอไม่พอใจกันล่ะ?" `
+`"พวกเราไม่ได้ไม่พอใจหรอก แต่กังวลต่างหาก `
+`ก่อนอื่นเลยนะ พี่เคราส์ `
+`พี่กะจะเปิดโรงแรมนั้นเมื่อไหร่กันแน่? `
+`ปล่อยทิ้งไว้แบบนี้ นอกจากรอยมือสกปรกๆ ของพวกเราแล้ว พี่คงไม่ได้อะไรจากมันเลยสักนิดจริงไหม?" `
+`"จริงด้วยสิคะ `
+`มันเป็นเครื่องมือสำคัญในธุรกิจของพี่ไม่ใช่เหรอจ๊ะ? `
+`คงไม่คิดจะปิดล็อกทิ้งไว้จนกว่าจะถึงเวลาเปิดจริงๆ หรอกนะ `
+`อาคารน่ะ ถ้าไม่ใช้แล้วไม่เปิดให้อากาศถ่ายเทบ้างมันจะเสื่อมโทรมเอานะ `
+`ถึงอย่างนั้น การใช้เป็นแค่เกสต์เฮาส์ให้พวกเราพักปีละหน มันก็ดูหรูหราฟุ่มเฟือยเกินไปหน่อยนะ `
+`ว่าไหม โรซ่า?" `
+`".........นั่นสินะคะ `
+`วิเศษขนาดนั้น ถ้าเปิดขึ้นมาจริงคงได้รับความนิยมไม่น้อยแน่ๆ ค่ะ" `
+`"แหม `
+`......ที่พูดถึงโรงแรมกันไม่หยุดนี่ หมายถึงเกสต์เฮาส์สินะคะ..." `
+`"หรูหราดีออก `
+`อย่างที่โรซ่าว่า ถ้าเปิดให้บริการ รับรองว่าต้องฮิตแน่" `
+`ที่พักซึ่งพวกเขาถูกนำทางไปนั้น เดิมทีไม่ได้ตั้งใจจะใช้เป็นเกสต์เฮาส์แต่แรก `
+`...เดิมทีมันถูกสร้างขึ้นมาเพื่อเป็นโรงแรมรีสอร์ต `
+`ทว่า แม้จะสร้างเสร็จมาสองปีแล้ว ก็ยังไม่มีวี่แววว่าจะได้เปิดทำการเลยแม้แต่น้อย `
+`"พี่เคราส์ มันก็เหมือนกับทุกโครงการของพี่นั่นแหละ `
+`ความใส่ใจกับการวางแผนน่ะยอดเยี่ยมทั้งคู่ `
+`แต่สุดท้ายก็มักจะไปต่อไม่ไหวกลางคัน...แล้วก็จบลงก่อนที่จะมีโอกาสทำกำไรได้ทุกที" `
+`"สายตาพี่เฉียบแหลมมากนะที่มองออกว่าการใช้เกาะนี้แค่เป็นที่อยู่อาศัยมันช่างสิ้นเปลือง `
+`การเปลี่ยนให้เป็นรีสอร์ตเพื่อดึงดูดลูกค้าด้วยกีฬาทางน้ำ การตกปลา ฮันนีมูน หรืออะไรทำนองนั้น ฉันว่ามันเป็นแผนที่ดีทีเดียว `
+`ถ้าฉันเป็นลูกชายคนโต ก็คงเค้นสมองหาวิธีทำกำไรจากเกาะนี้เหมือนกันนั่นแหละ" `
+`"แต่ตั้งแต่สร้างเสร็จ มันก็ผ่านมาสองปีเต็มแล้วไม่ใช่เหรอ? `
+`ผ่านมาสองปีแล้ว ก็ยังไม่มีโอกาสได้เปิดเลยสักที `
+`แล้วบริษัทบริหารจัดการที่พี่ไปจ้างวานไว้มันหายไปไหนเสียล่ะ?" `
+`"......เสียมารยาท! `
+`นั่นไม่ใช่ความผิดของสามีดิฉันนะคะ! `
+`แค่มีปัญหากับบริษัทที่สามีดิฉันทำสัญญาด้วยเท่านั้น ไม่ว่าจะมองมุมไหนทางเราก็เป็นผู้เสียหายทั้งนั้น!" `
+`"แต่ก็นะ `
+`ข่าวลือที่พวกเราได้ยินมาเกี่ยวกับบริษัทที่ว่าจ้างมาเนี่ย... `
+`...มันไม่สู้ดีเลยสักนิดนะ" `
+`"พูดให้ชัดๆ ไปเลยสิคุณ `
+`...คิดจริงๆ หรือว่าพวกเราจะไม่ได้ยินเรื่องการเบี้ยวหนี้ การยักยอกเงิน และสารพัดปัญหาจนโปรเจกต์พังครืนลงมากลางคันน่ะ? `
+`พวกเรามีหลักฐานด้วยซ้ำไป" `
+`"ดิฉันไม่ทราบหรอกนะคะว่าพวกคุณไปหาหลักฐานอะไรมา แต่มันไร้มูลความจริงทั้งสิ้น! `
+`ในฐานะผู้มาใหม่ในอุตสาหกรรมการท่องเที่ยว การปูรากฐานร่วมกับคนหลายๆ ฝ่ายย่อมเป็นสิ่งจำเป็น `
+`การตรวจสอบความน่าเชื่อถือของหุ้นส่วนก็เป็นเรื่องสำคัญเช่นกัน `
+`ทางเราแค่ต้องใช้เวลาสักหน่อยเพื่อให้บรรลุเป้าหมายนั้นเท่านั้นเองค่ะ!" `
+`"......ฉันยอมรับว่าด้วยความใจร้อน ทำให้โรงแรมสร้างเสร็จเร็วเกินไปหน่อย `
+`ทว่า มันก็ไม่ได้มีค่าใช้จ่ายในการบำรุงรักษาอะไรนี่ `
+`นี่คือรากฐานที่จะทวีความสำคัญอย่างมหาศาลในภายภาคหน้า" `
+`"โกหกน่า `
+`ฉันพนันได้เลยว่าพี่อยากจะขายทอดตลาดใจจะขาดแต่ขายไม่ออก `
+`ก็แหม ใครจะมาบ้าซื้อโรงแรมหรูหราขนาดนั้นบนเกาะโดดเดี่ยวว่างเปล่าที่ไม่มีแม้แต่เส้นทางท่องเที่ยวกันล่ะ `
+`แล้วอีกอย่าง เงินกู้มหาศาลที่พี่กู้มาทำโครงการนี้จะว่ายังไง?" `
+`"ต่อให้ไม่มีค่าบำรุงรักษา แต่เงินที่กู้ยืมมาแล้วยังคืนไม่ได้ มันก็มีแต่จะพอกพูนขึ้นเรื่อยๆ นะ `
+`...ขอโทษด้วยนะ พี่เคราส์ `
+`แต่ฉันเองก็ลองสืบเรื่องแผนพัฒนาเกาะนี้ดูบ้างแล้วเหมือนกัน `
+`...พูดตรงๆ ว่าทางนี้ก็ไม่ได้ยินเรื่องดีๆ เลยสักเรื่อง" `
+`"คุณฮิเดโยชิ `
+`ฉันเข้าใจนะว่าการมองเพียงสถานการณ์ทางการเงินในปัจจุบัน อาจทำให้รู้สึกเช่นนั้นได้ `
+`แต่นี่คือการลงทุนเพื่ออนาคต `
+`ฉันคงต้องยอมรับว่าการคาดการณ์ของฉันมีความผิดพลาด และก่อให้เกิดหนี้สินขึ้นมาจำนวนหนึ่งจนถึงตอนนี้" `
+`"ทว่า ในที่สุดยุคสมัยก็ตามฉันทันแล้ว `
+`อีกไม่นาน ฉันจะได้ทุกสิ่งที่เสียไปจนถึงตอนนี้กลับคืนมาทั้งหมด `
+`ไม่สิ ที่จริงแล้ว เงินลงทุนทั้งหมดที่ฉันลงไปจนถึงตอนนี้ จะกลับคืนสู่มือของฉันในที่สุด `
+`ถูกต้อง เปรียบเหมือนการปล่อยปลาตัวเล็กไปแล้วได้ปลาแซลมอนกลับมา มันจะหวนคืนมาอย่างยิ่งใหญ่กว่าเดิมเสียอีก" `
+`"เรื่องนั้นฉันพอฟังขึ้นอยู่หรอก `
+`อีกไม่นานธุรกิจรีสอร์ตก็คงจะเฟื่องฟูอย่างที่ไม่เคยมีมาก่อนจริงๆ นั่นแหละ `
+`ถึงจะไม่รู้ว่ามันจะพอชดใช้หนี้สินทั้งหมดของพี่หรือเปล่าก็เถอะ..." `
+`".........แต่ว่านะ พี่เคราส์ `
+`หลังจากความล้มเหลวซ้ำซากที่ผ่านมา พี่คิดว่าใครหน้าไหนจะยอมให้เงินทุนกับพี่กันแน่? `
+`แล้วเงินที่เราพูดถึงกันอยู่นี่ก็ไม่ใช่จำนวนน้อยๆ เลยนะ `
+`พี่ต้องใช้เงินทุนมหาศาลเพื่อมาอุดหลุมยักษ์ที่พี่ขุดเอาไว้เชียวนะ" `
+`"......คุณฮิเดโยชิ คิดจะพูดอะไรกันแน่คะ?" `
+`"อ๊ะ คุณนัตสึฮิ อย่าเพิ่งโกรธสิครับ! `
+`พวกเราเองก็ลองตรวจสอบเรื่องนี้ดูแล้ว `
+`พวกเราไปสืบดูว่าใครกันที่อาจจะให้เงินทุนแก่พี่เคราส์ `
+`มากพอที่จะมาค้ำจุนโครงการขนาดใหญ่ในช่วงหลัง ทั้งๆ ที่พี่เขาล้มเหลวติดต่อกันมาตลอดแบบนี้" `
+`"...แล้วพวกเราก็พบว่า... `
+`ไม่มีผู้สนับสนุนพรรค์นั้นอยู่เลย `
+`กฎเหล็กของรูเล็ตต์เงินตราคือการแทงสวนทางกับคนแพ้ `
+`พี่น่ะ เป็นคนแพ้ที่มีชื่อเสียงพอตัวในวงการนี้เลยนะ `
+`จริงอยู่ว่ายุครุ่งเรืองกำลังจะมาถึง แต่พอพวกเราลองมองหาคนที่คิดว่าแค่นั้นก็พอจะมองข้ามความล้มเหลวเป็นหางว่าวของพี่ได้... `
+`แถมยังมีเงินหนาพอจะลงทุนด้วยแล้ว `
+`ก็ไม่พบตัวเลือกเลยสักราย" `
+`"ดังนั้น `
+`คำถามใหญ่ในตอนนี้... `
+`ก็คือพี่เอาเงินก้อนนั้นมาจากไหนกันแน่" `
+`".........โฮ่ `
+`ช่างน่าสนใจดีนี่ `
+`แล้วไงต่อล่ะ?" `
+`"ค-คุณคะ! `
+`จะปล่อยให้พูดจาเหลวไหลพรรค์นี้ไปถึงเมื่อไหร่กันคะ?!!" `
+`"นั่งลงเถอะครับ คุณนัตสึฮิ `
+`เข้าประเด็นกันเลยดีกว่า `
+`พี่แอบเอาเงินส่วนตัวของพ่อไปหมุนใช้ในธุรกิจตัวเอง `
+`แทบไม่มีข้อกังขาอะไรอีกแล้ว `
+`ถ้าคิดว่าพวกเราเข้าใจอะไรผิดไป ก็เชิญอธิบายมาได้ตามสบายเลยครับ" `
+`"รูดอล์ฟ อย่าเรียกว่าเอาเงินไปหมุนสิ `
+`นี่มันคือการยักยอกชัดๆ เลยต่างหาก `
+`ความผิดอุกฉกรรจ์ที่ฟ้องคดีอาญาได้เลยนะ" `
+`"ค-ความหยาบคายพรรค์นี้จะยอมทนดูไม่ได้เด็ดขาดค่ะ!! `
+`กล้าดียังไงถึงมาปรักปรำผู้สืบทอดแห่งตระกูลหลักอุชิโรมิยะอย่างไร้สาระแบบนี้คะ?!!" `
+`"ไม่ได้ไร้สาระสักหน่อย ตรงเผงเลยต่างหาก `
+`คงอยากจะทำให้ธุรกิจสำเร็จเพื่อกู้ความสูญเสียกลับมาแทบตายสินะ แต่หนี้สินกลับยิ่งบานปลายขึ้นเรื่อยๆ น่ะสิ! `
+`ก็แค่พยายามกลบความล้มเหลวจากการพนันรอบหนึ่ง ด้วยการวางเดิมพันที่ใหญ่กว่าเดิม `
+`มันก็ธรรมดาอยู่แล้วที่จะต้องคว้าแหล่งเงินทุนที่อยู่ใกล้มือที่สุดน่ะ! `
+`พูดตรงๆ เลยนะ พี่ สิ่งที่พี่ทำอยู่มันคือการยักยอก `
+`พี่กำลังทรยศท่านพ่อ `
+`คงรู้นะว่าหลังจากเรื่องทั้งหมดนี้จบลง พวกเราจะเอาเรื่องไปให้ศาลตัดสิน? `
+`คิดว่าคนพรรค์นั้นยังมีหน้ามาเรียกตัวเองว่าผู้สืบทอดแห่งตระกูลหลักอุชิโรมิยะอยู่อีกเหรอ?" `
+`"ช-ช่างกล้า... ก-กล้าดียังไงมาบอกว่าเขาทรยศต่อประมุขตระกูลกันคะ?!! `
+`คนอย่างเธอไม่มีสิทธิ์แม้แต่จะก้าวข้ามธรณีประตูของตระกูลอุชิโรมิยะอันทรงเกียรติอีกต่อไปแล้ว!! `
+`ออกไปจากที่นี่เดี๋ยวนี้!! `
+`เดี๋ยวนี้เลย!! `
+`ไสหัวไป!!" `
+`นัตสึฮิซึ่งบันดาลโทสะจนถึงขีดสุดแล้วแผดเสียงใส่เอวาอย่างเกรี้ยวกราด `
+`แล้วชี้นิ้วสลับไปมาระหว่างเอวากับโถงทางเดิน สั่งให้อีกฝ่ายออกไป `
+`เอวาหยิบพัดจีบออกมากระพือ พลางจ้องเขม็งไปยังนัตสึฮิด้วยสายตามุ่งร้าย ราวกับกำลังท้าทายให้อีกฝ่ายพูดซ้ำอีกรอบอย่างเงียบงัน `
+`ทว่า ริมฝีปากของเธอยังคงแย้มยิ้มโค้งเป็นรูปจันทร์เสี้ยว `
+`...ท่ามกลางความเงียบอันชวนอึดอัดนั้น โรซ่าลอบกลืนน้ำลาย `
+`"นี่... พี่นัตสึฮิ? `
+`คิดว่ากำลังพูดด้วยน้ำเสียงแบบนั้นกับใครกันมิทราบ?" `
+`"ฉันกำลังพูดกับน้องสาวผู้เสียมารยาทอย่างร้ายกาจของสามีฉันยังไงล่ะ!! `
+`ในฐานะผู้ดูแลกิจการภายในของตระกูล ฉันจะยอมมองข้ามเรื่องพรรค์นี้ไปมากกว่านี้ไม่ได้อีกแล้ว!!" `
+`"ผู้ดูแลกิจการภายในงั้นเหรอ? `
+`หุหุหุ `
+`ฮ่าๆๆๆ `
+`อะฮ่าๆๆๆๆ!! `
+`หุบปากไปซะ `
+`นังคนรับใช้ชั้นต่ำ!" `
+`เอวาหุบพัดดังฉับแล้วลุกขึ้นยืนพรวดพราด `
+`เมื่อเทียบกับความสง่างามและขี้เล่นที่เธอแสดงออกจนถึงเมื่อครู่แล้ว ท่าทีคุกคามในตอนนี้ช่างรุนแรงเกินจะจินตนาการได้ `
+`"โง่เง่าสิ้นดี หล่อนนั่นแหละถอยไป!! `
+`ต่อหน้าเอวาแห่งตระกูลอุชิโรมิยะคนนี้!" `
+`"หล่อนกล้าสั่งให้ฉันถอยเหรอ? ฉันคนนี้เนี่ยนะ อุชิโรมิยะ เอวา ลำดับที่สามในสายตระกูลอุชิโรมิยะ และได้รับอนุญาตให้นั่งเคียงบ่าซ้ายของประมุขตระกูล?!! `
+`เจียมกะลาหัวซะบ้าง!! `
+`แล้วไปส่องกระจกดูสารรูปอันซอมซ่อของตัวเองซะ!! `
+`ตราสัญลักษณ์รูปปีกบนเสื้อผ้าของหล่อนมันอยู่ตรงไหนกัน? `
+`ตรงไหนกันที่หล่อนได้รับอนุญาตให้ประดับนกอินทรีปีกเดียว? `
+`หล่อนมันก็แค่แม่พันธุ์รับจ้างที่ยืมมาอุ้มท้องผู้สืบทอดคนต่อไปของตระกูลอุชิโรมิยะไม่ใช่รึไง?!! `
+`สำนึกถึงฐานะตัวเองซะบ้าง นังคนรับใช้ก้นครัว!!" `
+`ใบหน้าของเอวาบิดเบี้ยวอย่างน่าเกลียด ขณะที่ถ้อยคำของเธอทิ่มแทงเข้าสู่หัวใจของนัตสึฮิดั่งกรงเล็บที่คว้านขยี้ `
 `"........................!!!" `
-`There were a hundred ways Natsuhi wanted to respond. `
-`However, her anger and sorrow crushed her throat...and none of those words managed to make it to her mouth. `
-`...Her anger had nowhere to go...and became a single hot tear that slowly dripped down... `
-`"What's wrong? `
-`If you have something to say, please do so. `
-`Come on." `
-`Eva faced her with a provocative gaze. `
-`......However, Natsuhi could do nothing but tremble, her clenched fists quivering... `
-`Krauss quietly broke that powder-keg tension. `
-`"Natsuhi, `
-`leave your seat. `
-`You should go cool your head." `
-`"Wha...!!" `
-`Natsuhi, resenting the fact that her husband had not come to her aid, shifted the focus of her attack. `
-`"D-Dear, don't you understand what they're saying about you?! `
-`These people are baselessly calling you a traitor to Father!! `
-`They are making light of the fact that we protect the glory of the Ushiromiya family, even though we are constantly expending every effort to earn that glory from Father. `
-`They trample all of that underfoot with their hateful rambling!!! `
-`And you don't even try to fight back! Why?! `
-`I'm only standing up for us because you won't, but you've been putting the entire burden on me for some time now!! `
-`And now you tell me to go cool my head?! `
-`It's always me!!" `
-`"Even though I have always considered this family's affairs so seriously, you've...!! `
-`Aaaaaaaahhh, gaaaaaaaaahhhh!!!" `
-`Natsuhi was already unable to hide her tears. `
-`She flew from the room in that state. `
-`After that, all that remained was a somewhat embarrassed mood about the parlor... `
-`When the sound of footsteps grew distant and silence returned, Krauss shrugged his shoulders slightly. `
-`"...I apologize for my wife. `
-`She has always been bad at controlling her emotions. `
-`It's even been rough for me." `
-`"If that's what's been managing your household, you must suffer to no end, Nii-san. `
-`*giggle*giggle*...!" `
-`"Aaaaaaahhh. `
-`Aaaaaaaaaaaaaahhh!!!" `
-`"...M-Madam......" `
-`"It's nothing...! `
-`Leave me be...!!" `
-`Natsuhi flew into her room and threw herself onto her bed, lamenting... `
-`Those heartwrenching sobs reached Kumasawa in the hallway... `
-`......Poor Madam Natsuhi... `
-`There is a deep enmity between her and Eva-sama. `
-`Explaining their relationship would be very trying for me, as a woman... `
-`The Ushiromiya family holds blood in high regard, but if a woman marries and leaves the family, they are normally removed from the family register. `
-`...Thus, under normal circumstances, Eva-sama should have been removed when she married Hideyoshi-sama. `
-`However, `
-`...there is no one deserving of blame in this matter. `
-`The Madam certainly bears no guilt. `
-`There nothing to call it other than a whim of God. `
-`...Krauss-sama and Natsuhi-sama were not blessed with children for some time. `
-`After all, this is the male-dominant Ushiromiya family. `
-`A wife is merely a tool to create a heir. `
-`...If such a wife cannot fulfill her only duty, she will not even be treated as a human. `
-`It pains me to remember how the Master tortured Madam during that time... `
-`Back then, a wedding between Eva-sama and Hideyoshi-sama was being discussed. `
-`Eva-sama was sly. `
-`...Taking advantage of Madam's inability to become pregnant, she gained the favor of the Master. `
-`She inspired him to allow her to marry and give birth to a Successor herself, making sure to avoid transferring her name out of the Ushiromiya register. `
-`There was a vast difference in the Ushiromiya hierarchy between Madam, who married into the Ushiromiya family and was treated like an outsider, and Eva-sama, who was related to the family by blood and whose husband took on the Ushiromiya name. `
-`Furthermore, Eva-sama actually gave birth first, and to a boy... `
-`As for how much weaker Madam's position was than Eva-sama's...well, I believe you could see for yourself... `
-`...I'm sure Madam is tormented by the thought that, if only she had gotten pregnant earlier, the Master wouldn't have accepted Eva-sama's request to keep her last name after marriage, and Eva-sama wouldn't have been permitted to act as arrogantly as she did today... `
-`However, ...that was not Madam's fault...... `
-`All of the blame lies with God's whims and the stork that delivered Jessica late...... `
-`Even so, Madam won't allow herself to see things this way... `
-`......She probably can't help but cry bitter tears as a woman...at her inability to carry out the duties expected of a wife... `
-`Ahh, how sad... `
-`I cannot do anything except watch over her from the shadows...... `
+`มีถ้อยคำเป็นร้อยที่นัตสึฮิอยากจะตอบโต้ `
+`ทว่า ความโกรธและความโศกเศร้ากลับตีตื้นขึ้นมาจุกที่คอ...จนไม่มีคำใดหลุดรอดออกมาจากริมฝีปากได้เลย `
+`...ความโกรธที่ไร้ทางระบาย...แปรเปลี่ยนเป็นหยดน้ำตาอุ่นหยดหนึ่งที่ค่อยๆ รินไหลลงมา... `
+`"เป็นอะไรไปล่ะ? `
+`ถ้ามีอะไรจะพูดก็เชิญสิจ๊ะ `
+`เอาสิ" `
+`เอวาประจันหน้ากับเธอด้วยสายตายั่วยุ `
+`......ทว่า นัตสึฮิทำได้เพียงตัวสั่นเทา กำปั้นที่กำแน่นสั่นระริก... `
+`เคราส์ทำลายความตึงเครียดอันพร้อมปะทุดั่งถังดินปืนนั้นลงอย่างเงียบๆ `
+`"นัตสึฮิ `
+`ลุกออกไปซะ `
+`เธอควรออกไปสงบสติอารมณ์หน่อย" `
+`"อะ...!!" `
+`นัตสึฮิที่เจ็บแค้นเพราะสามีไม่ยอมออกโรงช่วยเหลือ เปลี่ยนเป้าหมายของการโจมตีไปทันที `
+`"ค-คุณคะ ไม่เข้าใจหรือไงว่าพวกเขากำลังพูดถึงคุณว่ายังไงบ้างน่ะ?! `
+`คนพวกนี้กำลังหาว่าคุณทรยศต่อท่านพ่ออย่างไม่มีมูลความจริงเลยนะคะ!! `
+`พวกเขาดูหมิ่นเกียรติยศของตระกูลอุชิโรมิยะที่เราปกป้อง ทั้งที่เราทุ่มเทเรี่ยวแรงทุกอย่างเพื่อให้ได้มาซึ่งเกียรตินั้นจากท่านพ่อแท้ๆ `
+`พวกเขากลับเหยียบย่ำทุกสิ่งทุกอย่างด้วยคำพล่ามอันน่ารังเกียจพวกนี้เนี่ยนะ!!! `
+`แล้วคุณก็ไม่คิดจะตอบโต้เลยสักนิด! ทำไมกันล่ะคะ?! `
+`ฉันยอมออกหน้าก็เพราะคุณไม่ยอมทำแท้ๆ แต่คุณกลับโยนภาระทั้งหมดมาให้ฉันตั้งนานแล้วนะคะ!! `
+`แล้วตอนนี้ยังจะมาบอกให้ฉันไปสงบสติอารมณ์อีกเหรอคะ?! `
+`มีแต่ฉันเสมอเลย!!" `
+`"ทั้งที่ฉันคิดถึงเรื่องของตระกูลนี้อย่างจริงจังมาโดยตลอด แต่คุณกลับ...!! `
+`อา~~~~~~~ กา~~~~~~~!!!" `
+`นัตสึฮิไม่อาจซ่อนน้ำตาไว้ได้อีกต่อไปแล้ว `
+`เธอจึงวิ่งเตลิดออกจากห้องไปในสภาพนั้น `
+`หลังจากนั้น สิ่งที่หลงเหลืออยู่ในห้องรับแขกก็มีเพียงบรรยากาศกระอักกระอ่วนใจ... `
+`เมื่อเสียงฝีเท้าไกลห่างออกไปจนความเงียบงันหวนกลับมา เคราส์ก็ยักไหล่เบาๆ `
+`"...ต้องขอโทษแทนภรรยาของฉันด้วย `
+`หล่อนมักจะควบคุมอารมณ์ตัวเองไม่ค่อยได้แต่ไหนแต่ไรแล้ว `
+`ขนาดฉันเองยังเหนื่อยใจอยู่เรื่อยเลย" `
+`"ถ้าคนพรรค์นั้นเป็นคนดูแลหลังบ้านให้ พี่ก็คงต้องลำบากไม่รู้จักจบสิ้นเลยสินะคะ พี่ `
+`คิกคิก...!" `
+`"อา~~~~~~ `
+`อา~~~~~~~~~~~~~!!!" `
+`"...ค-คุณผู้หญิง......" `
+`"ไม่มีอะไรหรอกค่ะ...! `
+`ปล่อยดิฉันไว้คนเดียวเถอะค่ะ...!!" `
+`นัตสึฮิพุ่งเข้าไปในห้องแล้วทิ้งตัวลงบนเตียง ร่ำไห้คร่ำครวญ... `
+`เสียงสะอึกสะอื้นอันบาดขั้วหัวใจนั้นแว่วมาถึงคุมาซาวะที่ยืนอยู่ตรงทางเดิน... `
+`......คุณผู้หญิงนัตสึฮิผู้น่าสงสาร... `
+`ความบาดหมางระหว่างเธอกับคุณเอวานั้นช่างลึกซึ้งนัก `
+`การจะอธิบายความสัมพันธ์ของทั้งคู่นั้น แม้แต่กับดิฉันที่เป็นผู้หญิงเหมือนกันยังรู้สึกลำบากใจ... `
+`ตระกูลอุชิโรมิยะให้ความสำคัญกับสายเลือดก็จริง แต่หากสตรีแต่งงานออกไปจากตระกูล ตามปกติแล้วก็จะถูกคัดชื่อออกจากทะเบียน `
+`...ดังนั้น ตามธรรมดาแล้ว เมื่อคุณเอวาแต่งงานกับคุณฮิเดโยชิ ชื่อของเธอก็ควรจะถูกคัดออกไป `
+`ทว่า `
+`...ในเรื่องนี้ไม่มีใครที่สมควรถูกตำหนิเลย `
+`คุณผู้หญิงไม่ได้มีความผิดอะไรอย่างแน่นอน `
+`ไม่อาจเรียกเป็นอื่นได้นอกจากความแปรปรวนของพระผู้เป็นเจ้า `
+`...คุณเคราส์กับคุณนัตสึฮิไม่ได้รับพรให้มีบุตรอยู่เป็นเวลานาน `
+`เพราะอย่างไรเสีย ที่นี่ก็คือตระกูลอุชิโรมิยะที่ถือผู้ชายเป็นใหญ่ `
+`ภรรยาเป็นเพียงเครื่องมือในการให้กำเนิดทายาทเท่านั้น `
+`...หากภรรยาเช่นนั้นไม่อาจทำหน้าที่เพียงหนึ่งเดียวของตนได้ ก็จะไม่ได้รับการปฏิบัติดั่งมนุษย์ด้วยซ้ำ `
+`พอนึกถึงช่วงเวลานั้นที่ท่านเจ้าบ้านทรมานจิตใจคุณผู้หญิงแล้ว ช่างปวดใจเหลือเกิน... `
+`ในตอนนั้น มีการพูดคุยเรื่องการแต่งงานระหว่างคุณเอวากับคุณฮิเดโยชิขึ้นมา `
+`คุณเอวาเจ้าเล่ห์นัก `
+`...เธอฉวยโอกาสที่คุณผู้หญิงไม่อาจตั้งครรภ์ เอาอกเอาใจจนเป็นที่โปรดปรานของท่านเจ้าบ้าน `
+`เธอเกลี้ยกล่อมให้ท่านยอมให้ตนแต่งงานและให้กำเนิดผู้สืบทอดด้วยตัวเอง โดยไม่ยอมให้ชื่อของตนถูกย้ายออกจากทะเบียนของอุชิโรมิยะ `
+`ในลำดับขั้นของตระกูลอุชิโรมิยะนั้น ช่างแตกต่างกันลิบลับ ระหว่างคุณผู้หญิงที่แต่งเข้ามาในตระกูลอุชิโรมิยะแล้วถูกปฏิบัติราวกับเป็นคนนอก กับคุณเอวาที่มีสายเลือดของตระกูลและให้สามีเข้ามาใช้นามสกุลอุชิโรมิยะ `
+`ยิ่งไปกว่านั้น คุณเอวายังให้กำเนิดบุตรได้ก่อนจริงๆ แถมยังเป็นเด็กผู้ชายอีก... `
+`ส่วนเรื่องที่ว่าสถานะของคุณผู้หญิงนั้นด้อยกว่าของคุณเอวาเพียงใด...ก็คงจะเห็นประจักษ์แก่สายตาแล้ว... `
+`...ดิฉันแน่ใจว่าคุณผู้หญิงคงทรมานกับความคิดที่ว่า หากเพียงแต่ตนตั้งครรภ์ได้เร็วกว่านี้ ท่านเจ้าบ้านก็คงไม่ยอมรับคำขอของคุณเอวาที่จะคงนามสกุลเดิมไว้หลังแต่งงาน และคุณเอวาก็คงไม่มีสิทธิ์มาวางอำนาจบาตรใหญ่เหมือนอย่างในวันนี้ได้... `
+`ทว่า ...นั่นไม่ใช่ความผิดของคุณผู้หญิงเลย...... `
+`ความผิดทั้งหมดล้วนอยู่ที่ความเอาแต่ใจของพระผู้เป็นเจ้า และนกกระสาที่พาเจสสิก้ามาส่งช้าไปต่างหาก...... `
+`ถึงกระนั้น คุณผู้หญิงก็คงไม่อาจยอมให้ตัวเองคิดเช่นนั้นได้... `
+`......เธอคงอดไม่ได้ที่จะต้องหลั่งน้ำตาอันขมขื่นในฐานะผู้หญิง...ที่ไม่สามารถทำหน้าที่อันพึงมีของภรรยาได้... `
+`อา ช่างน่าเศร้าเหลือเกิน... `
+`ดิฉันทำอะไรไม่ได้เลย นอกจากคอยเฝ้ามองดูเธออยู่เงียบๆ จากเงามืด...... `

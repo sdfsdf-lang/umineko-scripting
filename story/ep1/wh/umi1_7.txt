@@ -1,863 +1,863 @@
-`A news ticker popped up on top of the TV program we were watching. `
-`The disaster report told how municipalities all over were continually sending out rain, flood, and wave warnings. `
-`Of course, the raindrops beating harshly on the window were even more convincing. `
-`"......This rain's incredible. `
-`Still, when it's raining this hard, it also feels like it might stop at any moment." `
-`"You wish! `
-`They said the typhoon's moving slow, so it might be like this all day tomorrow. `
-`And even a little bad weather stops the boats from coming." `
-`"It looks like we won't be able to head out on Sunday after all. `
-`...Just in case, I cleared all outside business from my Monday schedule, and I'm glad I did." `
-`"Which means...ihihi, looks like we'll get to skip school Monday. `
-`Living on an island's starting to sound pretty good! `
-`......Come to think of it, Jessica, you've gotta take a boat to school every day, don't you? `
-`What do you do when the boats stop running? `
-`Do you stay home when it rains and show up late when the wind's blowing, like King Kamehameha?" `
-`"If the boats don't come, I stay home. `
-`Still, it's not as good as it sounds. `
-`Usually, I'm ordered to study by myself, and it's not that fun with someone standing right behind you watching everything you do." `
-`"During the rainy season, does the weather ever stay bad for a long time `
-`and make you miss a bunch of days in a row?" `
-`"That does happen sometimes. `
-`Still, I'd get a call from my homeroom teacher every single day, who'd sourly guide me on how I should teach myself and what I had to turn in." `
-`"She can't skip school as easily as you're imagining, Battler-kun. `
-`She's got to follow the rules for people that travel to school by boat and get a good amount of studying done." `
-`"It'd actually be easier to just go to school. `
-`In my own room, I get distracted and can't concentrate. `
-`After being made to do nothing but workbooks for several days straight, it's pretty hard to handle all that mental stress. `
-`......When I get into college, I really just wanna go to some dorm and quickly say goodbye to this inconvenient island." `
-`"Ah, okay... `
-`By the way, what do you do when the weather's good in the morning, but then gets so bad on your way home that the boats are closed? `
-`Do you spend the night at school?" `
-`"That actually happens a lot. `
-`Because of that, they've built some lodgings there for people who can't get back to the island they live on. `
-`That's where you'd spend the night. `
-`Sometimes, when it gets really bad, you can't get back home for a few days at a time." `
-`"Someone commuting to school or work on a train packed to twice its capacity might carelessly think that `
-`commuting by boat would be pretty interesting and fun, `
-`but it sounds like it comes with troubles of its own." `
-`"You hear thoughtless tourists saying stuff like that all the time. `
-`I've had enough of island life. `
-`I really wanna just graduate high school and say goodbye to this island." `
-`"But there are all-dorm schools even for high school, right? `
-`Why'd you choose that Niijima school, of all places?" `
-`"I've wanted to go to one of those from the beginning!! `
-`But Mom's always going on about how I need to learn manners and discipline as the Successor. `
-`...So, I ended up sticking close to home even for high school. `
-`Man, I hate this island. `
-`I just wanna go live in a city. `
-`I don't care if rain or even spears fall from the sky, as long as I can move to a city where I can wear casual clothes and sandals... `
-`and can get to a convenience store in less than five minutes..." `
-`"Hahahaha. `
-`Hold out just a little longer. `
-`Just a bit more and you'll graduate high school, right?" `
-`"I can't wait a little longer. `
-`Aaaaaah..." `
-`Jessica stretched out and reclined in the sofa. `
-`Maybe it was a bad time slot, because there weren't any interesting programs on, `
-`and we had nothing to do but languidly kill time until we were called for dinner. `
-`After that episode, Maria never returned to the cousins' room after all. `
-`Aunt Rosa probably took her back to the mansion. `
-`It had to be pretty boring for Maria, all by herself while the adults had a confusing conversation. `
-`......We thought we might as well head over to the mansion to see her, but the weather really was awful... `
-`and since there wasn't much time until dinner, we stayed where we were. `
-`At that time, we heard the sound of a humble knock. `
-`Jessica answered. `
-`"Ye-s!" `
-`".........The preparations for dinner are complete. `
-`Please come to the mansion." `
-`It was Kanon-kun's voice. `
-`Did he go to all the trouble of coming from the mansion in this rain just to get us? `
-`Couldn't he have just called us on the telephone? `
-`...Well, I guess servants at work don't always get to take the most efficient route. `
-`"Just when I was getting hungry. `
-`Let's go." `
-`George-aniki turned off the television and stood up. `
-`"My stomach's been growling for a while! `
-`I've always been a huge fan of the main family's dinners! `
-`And didn't Gohda-san say it was calf steak or something? `
-`Oohh, I can't wait!!" `
-`"Our dinners are always even more fabulous than usual when the family conference comes around. `
-`Even I'm looking forward to it! `
-`Let's go, let's go." `
-`As we left the room, Kanon-kun bowed silently and respectfully. `
-`"Okay, let's go. `
-`Is the rain pretty nasty out there?" `
-`"......Yes. `
-`Take care not to get your garments wet." `
-`After seeing the three of us out, Kanon-kun peered into the empty room. `
-`".........Wasn't Maria-sama with you...?" `
-`"No, she's not. `
-`Wasn't she with Aunt Rosa?" `
-`Rosa was lying on a sofa in the empty parlor, having fallen asleep before she knew it. `
-`...She was bearing a burden that the children couldn't even imagine. `
-`That's why she only needed to let her guard down a little...before the weariness immediately dragged her into the world of sleep. `
-`Realizing this, Genji brought a blanket over to her. `
-`When he tried to spread it over her, her eyes snapped open as though she'd been shocked with electricity. `
-`"..................ah...! `
+`แถบตัววิ่งรายงานข่าวปรากฏขึ้นมาบนจอโทรทัศน์เหนือรายการที่เรากำลังดูกันอยู่ `
+`รายงานภัยพิบัติแจ้งว่าเทศบาลท้องถิ่นในหลายพื้นที่ต่างทยอยประกาศเตือนภัยฝนตกหนัก น้ำท่วม และคลื่นลมแรงอย่างต่อเนื่อง `
+`แน่นอนว่าเสียงเม็ดฝนที่ซัดสาดใส่หน้าต่างอย่างรุนแรงนั้นเป็นหลักฐานที่น่าเชื่อถือยิ่งกว่า `
+`"......ฝนตกหนักชะมัด `
+`แต่พอตกหนักขนาดนี้ มันก็ชวนให้รู้สึกเหมือนว่าจะหยุดตกได้ทุกเมื่อเหมือนกันแฮะ" `
+`"ฝันไปเถอะ! `
+`เขาบอกว่าไต้ฝุ่นเคลื่อนตัวช้า พรุ่งนี้ทั้งวันก็อาจจะเป็นแบบนี้ก็ได้นะ `
+`แถมแค่อากาศแย่นิดหน่อย เรือก็ไม่แล่นแล้ว" `
+`"ดูท่าวันอาทิตย์พวกเราคงจะกลับไม่ได้จริงๆ สินะครับ `
+`...ผมเคลียร์งานนอกสถานที่ในตารางวันจันทร์ออกไปหมดแล้วเผื่อไว้ ดีจริงๆ ที่ทำแบบนั้น" `
+`"ซึ่งก็แปลว่า...อิฮิฮิ ดูเหมือนวันจันทร์จะได้โดดเรียนว่ะ `
+`การอยู่บนเกาะนี่ชักจะฟังดูเข้าท่าขึ้นมาแล้วสิ! `
+`......จะว่าไป เจสสิก้า เธอต้องนั่งเรือไปโรงเรียนทุกวันไม่ใช่เหรอ? `
+`แล้วเวลาเรือหยุดวิ่งเธอทำยังไงล่ะ? `
+`ฝนตกก็หยุดอยู่บ้าน พอลมพัดก็ไปสาย เหมือนกษัตริย์คาเมฮาเมฮาอะไรแบบนั้นรึเปล่า?" `
+`"ถ้าเรือไม่มา ฉันก็อยู่บ้าน `
+`แต่มันไม่ได้ดีอย่างที่คิดหรอกนะ `
+`ปกติฉันจะโดนสั่งให้อ่านหนังสือคนเดียว แล้วมันก็ไม่ได้สนุกเลยสักนิดที่มีคนมายืนจ้องอยู่ข้างหลังตลอดเวลาแบบนั้น" `
+`"ช่วงหน้าฝน เคยมีแบบที่อากาศแย่ติดต่อกันนานๆ `
+`จนต้องหยุดเรียนหลายวันติดกันบ้างไหม?" `
+`"ก็มีบ้างนะ `
+`แต่ครูประจำชั้นจะโทรมาทุกวันเลย คอยเคี่ยวเข็ญด้วยน้ำเสียงบูดบึ้งว่าต้องอ่านหนังสือเองยังไง แล้วต้องส่งงานอะไรบ้าง" `
+`"ไม่ได้โดดเรียนได้สบายๆ อย่างที่คิดหรอกนะ แบทเลอร์คุง `
+`ต้องทำตามกฎระเบียบของคนที่เดินทางไปโรงเรียนทางเรือ แล้วก็ต้องอ่านหนังสือให้ได้ตามเป้าด้วย" `
+`"ความจริงไปโรงเรียนยังจะสบายกว่าซะอีก `
+`อยู่ในห้องตัวเอง ฉันวอกแวกจนไม่มีสมาธิเลย `
+`พอโดนบังคับให้ทำแต่แบบฝึกหัดติดต่อกันหลายวันเข้า ความเครียดมันสะสมจนแทบทนไม่ไหวเลยล่ะ `
+`......พอเข้ามหาวิทยาลัยได้ ฉันอยากไปอยู่หอพักแล้วรีบบอกลาไอ้เกาะที่ไม่สะดวกสบายแบบนี้เต็มทนแล้ว" `
+`"อ่า งั้นเหรอ... `
+`แล้วถ้าตอนเช้าอากาศดี แต่ขากลับอากาศแย่จนเรือหยุดวิ่งจะทำยังไงล่ะ? `
+`ต้องนอนค้างที่โรงเรียนเหรอ?" `
+`"เรื่องนั้นเกิดขึ้นบ่อยเลยล่ะ `
+`ด้วยเหตุนี้ ที่นั่นก็เลยมีที่พักสร้างไว้สำหรับคนที่กลับเกาะตัวเองไม่ได้ `
+`ก็ต้องไปนอนค้างที่นั่นแหละ `
+`บางครั้งถ้าแย่มากๆ ก็กลับบ้านไม่ได้ติดกันหลายวันเลยนะ" `
+`"คนที่ต้องเบียดเสียดขึ้นรถไฟแน่นเอี้ยดเกินพิกัดสองเท่าไปเรียนหรือไปทำงาน อาจจะเผลอคิดไปว่า `
+`การเดินทางด้วยเรือคงจะน่าสนใจและสนุกดี `
+`แต่ฟังดูแล้วก็คงมีความลำบากในแบบของมันสินะครับ" `
+`"พวกนักท่องเที่ยวที่ไม่คิดอะไรก็ชอบพูดแบบนั้นกันตลอดแหละ `
+`ฉันเอียนกับชีวิตบนเกาะเต็มทีแล้ว `
+`อยากจะจบ ม.ปลาย ไวๆ แล้วบอกลาเกาะนี้ไปให้พ้นๆ จริงๆ" `
+`"แต่โรงเรียนประจำตั้งแต่ ม.ปลาย ก็มีนี่นา? `
+`ทำไมถึงเลือกไปโรงเรียนที่เกาะนีจิมะได้ล่ะนั่น?" `
+`"ฉันก็อยากไปโรงเรียนแบบนั้นมาตั้งแต่แรกแล้วเฟ้ย!! `
+`แต่มารยาทและวินัยในฐานะผู้สืบทอดที่แม่ชอบพร่ำบ่นนั่นแหละ `
+`...ผลก็คือ ม.ปลาย ฉันเลยต้องเรียนอยู่ใกล้บ้านแค่นี้ `
+`ให้ตายสิ ฉันเกลียดเกาะนี้ชะมัด `
+`อยากไปใช้ชีวิตในเมืองใหญ่จะแย่ `
+`ต่อให้ฝนจะตกหรือหอกจะหล่นลงมาจากฟ้า ฉันก็ไม่สน ขอแค่ได้ย้ายไปอยู่ในเมืองที่ใส่ชุดสบายๆ กับรองเท้าแตะเดินได้... `
+`แล้วก็เดินไปร้านสะดวกซื้อได้ในเวลาไม่ถึง 5 นาทีก็พอ..." `
+`"ฮะฮะฮะฮะ `
+`อดทนอีกนิดเถอะนะ `
+`อีกแค่นิดเดียวเธอก็จะจบ ม.ปลาย แล้วไม่ใช่เหรอ?" `
+`"รออีกนิดไม่ไหวแล้วโว้ย `
+`อา~~~~..." `
+`เจสสิก้าบิดขี้เกียจพลางเอนหลังพิงโซฟา `
+`อาจเป็นเพราะช่วงเวลานี้ไม่มีรายการอะไรน่าสนใจเลย `
+`พวกเราจึงทำได้แค่นั่งฆ่าเวลาอย่างเฉื่อยชาไปจนกว่าจะมีคนมาเรียกไปกินมื้อค่ำ `
+`หลังจากเหตุการณ์นั้น สุดท้ายมาเรียก็ไม่ได้กลับมาที่ห้องของพวกลูกพี่ลูกน้องอีกเลย `
+`น้าโรซ่าคงพาเธอกลับไปที่คฤหาสน์แล้ว `
+`คงจะน่าเบื่อสำหรับมาเรียไม่น้อยที่ต้องอยู่คนเดียว ขณะที่พวกผู้ใหญ่คุยเรื่องที่ชวนสับสนกันอยู่ `
+`......พวกเราคิดจะลองเดินไปหาเธอที่คฤหาสน์ดูเหมือนกัน แต่อากาศแย่มากจริงๆ... `
+`และเพราะเหลือเวลาอีกไม่นานก็จะถึงมื้อค่ำแล้ว พวกเราจึงรออยู่ที่เดิมต่อไป `
+`ในตอนนั้นเอง ก็มีเสียงเคาะประตูดังขึ้นอย่างสำรวม `
+`เจสสิก้าขานรับ `
+`"มาแล้-ว!" `
+`".........เตรียมมื้อค่ำเสร็จเรียบร้อยแล้วครับ `
+`ขอเชิญไปที่คฤหาสน์ด้วยครับ" `
+`เป็นเสียงของคาน่อนคุง `
+`เขาอุตส่าห์ฝ่าฝนมาจากคฤหาสน์เพื่อมาตามพวกเราเลยงั้นเหรอ? `
+`แค่โทรศัพท์มาบอกก็ไม่ได้รึไงกันนะ? `
+`...ก็นะ คนรับใช้เวลาทำงานคงไม่ได้เลือกวิธีที่สะดวกที่สุดเสมอไปล่ะมั้ง `
+`"กำลังหิวอยู่พอดีเลยครับ `
+`ไปกันเถอะ" `
+`พี่จอร์จปิดโทรทัศน์แล้วลุกขึ้นยืน `
+`"ท้องฉันร้องมาพักใหญ่แล้วเนี่ย! `
+`ฉันน่ะแฟนตัวยงของมื้อค่ำบ้านใหญ่มาแต่ไหนแต่ไรแล้ว! `
+`แถมคุณโกดะยังบอกว่ามีสเต๊กเนื้อลูกวัวหรืออะไรทำนองนั้นไม่ใช่เหรอ? `
+`โอ้โห รอกินไม่ไหวแล้วโว้ย!!" `
+`"มื้อค่ำบ้านเราเวลาถึงช่วงการประชุมเครือญาติน่ะหรูหรากว่าปกติอยู่แล้วล่ะ `
+`ขนาดฉันยังตั้งตารอเลย! `
+`ไปกันเถอะ ไปกันเถอะ" `
+`ตอนที่พวกเราเดินออกจากห้อง คาน่อนคุงก้มศีรษะให้อย่างเงียบเชียบและนอบน้อม `
+`"เอาล่ะ ไปกันเถอะ `
+`ข้างนอกฝนตกหนักมากไหม?" `
+`"......ครับ `
+`โปรดระวังอย่าให้เสื้อผ้าเปียกนะครับ" `
+`หลังจากส่งพวกเราทั้งสามคนออกไปแล้ว คาน่อนคุงก็ชะโงกมองเข้าไปในห้องที่ว่างเปล่า `
+`".........คุณมาเรีย...ไม่ได้อยู่ด้วยกันหรอกหรือครับ...?" `
+`"เปล่านี่ ไม่อยู่นะ `
+`ไม่ได้อยู่กับน้าโรซ่าหรอกเหรอ?" `
+`โรซ่านอนอยู่บนโซฟาในห้องรับแขกที่ว่างเปล่า เธอเผลอหลับไปตั้งแต่เมื่อไรก็ไม่รู้ `
+`...เธอกำลังแบกรับภาระที่พวกเด็กๆ ไม่อาจจินตนาการได้ `
+`ด้วยเหตุนี้ เพียงแค่ลดการระแวดระวังลงเพียงนิดเดียว...ความเหนื่อยล้าก็ฉุดดึงเธอเข้าสู่ห้วงนิทราในทันที `
+`เมื่อเก็นจิเห็นเข้า จึงนำผ้าห่มมาให้เธอ `
+`ขณะที่เขาพยายามจะคลี่ห่มให้ เธอก็เบิกตากว้างขึ้นทันทีราวกับถูกกระแสไฟฟ้าช็อต `
+`"..................อ๊ะ...! `
 `............ `
-`......Oh, it's you, Genji‐san......thank you." `
-`When she realized that the thing that had touched her was just a blanket, and that Genji had been considerately giving it to her, she let out a sigh of relief. `
-`"......Did I wake you? `
-`My sincere apologies." `
-`"No, it's okay. `
-`I hadn't planned on sleeping in the first place. `
-`...What time is it now?" `
-`When he was asked for the time, Genji checked a pocket watch that he took out of his chest pocket. `
-`".........It is slightly after 6:00." `
-`Rosa gave her head a little shake when she realized that not much time had actually passed, even though it'd felt like she'd slept for ages. `
-`...Even though she didn't feel rested at all, the drowsiness that had enveloped her must've been pretty deep. `
-`"Thank you, I'll be fine without the blanket... `
-`I mustn't sleep at such a strange time. `
-`My sense of time has been completely thrown off. `
-`...............The rain... `
-`has finally started pouring down in earnest, hasn't it?" `
-`Rosa finally realized that the peaceful sound that had put her to sleep was actually the rain. `
-`"The wind's blowing hard too. `
-`...I wonder if the typhoon's finally here." `
-`"......That's what they said on TV. `
-`The typhoon is moving slowly, so they think it will be like this all day tomorrow." `
-`"Really...? `
-`.........So, our last chance to see that wonderful rose garden must already have passed by." `
-`From the window, what she could see of the rose garden was completely blurred by the wind and the rain. `
-`"...Maria... `
-`......That's right, what about Maria?!" `
-`"............I have not seen her. `
-`Did she not return to the guesthouse?" `
-`Rosa knew her daughter's nature well. `
-`So a chill ran down her spine. `
-`Maria was stubbornly honest, `
-`......and if she was ordered to find something that didn't exist, she would look forever and ever. `
-`......Even in pouring rain...!! `
-`"......No. `
-`The cousins left before I did, so Maria was alone...! `
-`Unless someone told her to stop, she'd stay there even if it started raining spears! `
-`Without even opening an umbrella!! `
-`.........Aaah, how could I have lost control of my emotions and done such a thing?!!" `
-`Even though she'd known about Maria's simple honesty better than anyone, she'd once again lost control of her emotions and done something terrible!! `
-`"Mariaaaaaaa!!" `
-`Rosa pushed Genji away and ran down the hall. `
-`The outside really looked like a typhoon, and the rain was pouring down spectacularly. `
-`Maybe because of some aspect of the terrain, the winds weren't typhoon-class, so an umbrella wouldn't be torn out of one's hands. `
-`Even so, it certainly was a windy rain. `
-`There was no time to admire the roses being drenched. `
-`"Anyway, I'm getting pretty worried about Maria. `
-`.........You don't think she's still rebelliously searching for that rose alone, do you?" `
-`"...I wonder. `
-`Surely she wouldn't do it in this rain... `
-`or at least, I wish I could believe that, but Maria-chan sometimes gets really stubborn and intensely straightforward." `
-`We hadn't worried much, thinking that Aunt Rosa had taken her back to the mansion. `
-`...However, when Kanon-kun had come from the mansion to call us and thought Maria was here, we got a little worried. `
-`".........I did not see her in the mansion, so I was sure she was here. `
-`After all, Rosa-sama was taking a nap..." `
-`"You didn't see her on your way over here?" `
-`".........My apologies. `
-`I opened my umbrella and ran as fast as I could, so I did not pay much attention." `
-`If he had cut through the rose garden, taking the shortest line between the mansion and the guesthouse, then he would've just barely missed the place where Maria had been looking for her rose. `
-`And it was raining this hard, too. `
-`It certainly would've been possible for Kanon-kun to fail to notice her. `
-`"Instead of arguing around here, it'd be faster to just check it out directly. `
-`......Aniki, why don't we race over there?" `
-`"Oh, do you think you can beat me now that you've been growing for six years? `
-`Okay, let's settle this. `
-`............Go!!" `
-`George-aniki and I flew out into the rain. `
-`Jessica and Kanon-kun followed us. `
-`"Mariaaa!! `
-`If you're there, answer me!! `
-`Mariaaa!!" `
-`"It's Aunt Rosa. `
-`Hey, Aunt Rosa!!" `
-`When George-aniki called back, Aunt Rosa jumped at him and grabbed onto him. `
-`"Where's Maria?! `
-`Isn't she with you?!" `
-`"No, we didn't meet with Maria-chan after that." `
-`"............Mariaaaaa!!!" `
-`............Six years ago, Maria had been three years old. `
-`She was a cute and pure kid who'd just accept whatever anyone said. `
-`...But six years have passed since then! `
-`She's nine now, and experiencing the ups and downs of life should've taught her something. `
-`......But Maria, are you telling me you're still as innocent and pure as you used to be...?! `
-`"Mariaaaaaaaaaaaa!!!" `
-`As I circled the rose bed, something white unexpectedly turned to face me. `
-`......It was a white umbrella. `
-`Maria was crouching down, holding a white umbrella and still searching for that rose... `
-`"............Uu-." `
-`Her face, which had turned bright red from her crying her eyes out, was dirtied with water and mud. It was a truly pitiful sight. `
-`"Maria, `
-`......are you still looking?!" `
-`"......Uu-...... `
-`Can't find it... `
-`Can't find... `
-`...my rose...... `
-`...Uu-......" `
-`Maria had probably been here since the rain started pouring down. `
-`Her shoulders were freezing. `
-`She looked tired to the bone, but fortunately, since she was holding an umbrella, she wasn't completely soaked. `
-`...The umbrella probably came from the handbag Maria always carried around. `
-`......Thank goodness. `
-`Seriously, thank goodness. `
-`"Battler-kun! `
-`Thank goodness, you found her!" `
-`"Mariaaaaaaaaa!! `
-`I'm sorry, I'm so sorry...!!" `
-`Aunt Rosa threw her umbrella aside and hugged Maria. `
-`"......Uu-......... `
-`It's not here. `
-`...My rose isn't here... `
-`......Uu-......" `
-`"I'll look for it with you later... `
-`Okay? `
-`So just put it on hold for today. `
-`...Okay?" `
-`".........Uu-... `
-`Put it on hold for today......" `
-`It looked like Maria still wasn't able to accept it, but she no longer had enough energy left to resist. `
-`Jessica and Kanon-kun caught up with us. `
-`"......I'll have a towel ready in the mansion immediately." `
-`"Maria, `
-`...were you here this whole time......?" `
-`"I'm sorry...... `
-`I'm sorry for being such a bad mother........." `
-`"......Aunt Rosa, why don't we head back to the mansion for the time being? `
-`If we stay here, Maria will catch a cold." `
-`".........You're right. `
-`Maria, let's go. `
-`If we don't get you cleaned up, Grandfather will be mad." `
-`"Uu-... `
-`Hungry." `
-`"It's already time to eat. `
-`You did a good job holding out, Maria. `
-`Once the weather gets better, we'll all go search together." `
-`We couldn't stay in the rain forever. `
-`We took Maria with us as we headed back to the mansion. `
-`Maria apparently wasn't as worn out as I'd thought. `
-`When she remembered we were having calf steak for dinner, she started chanting "I'm hungry, I'm hungry, uu-uu-!", and returned to her usual spirited self. `
-`......Aunt Rosa didn't chide Maria for saying "uu-uu-". `
-`"I see. `
-`So she had an umbrella on her. `
-`Maria sure is good at packing the right stuff." `
-`"......Uu-. `
-`I didn't bring an umbrella. `
-`Uu-." `
-`"What? Then how did you get that white umbrella you're holding?" `
-`"Uu-! `
-`I borrowed it!" `
-`Some caring person must have brought her an umbrella. `
-`A normal kid would look for shelter once it started raining, but Maria was too stubborn to give up so easily. `
-`...So, maybe that caring person gave up on telling Maria to find shelter, then decided to at least give her an umbrella. `
-`"I see. `
-`I'll have to thank that person. `
-`Who was it?" `
-`"Uu-! `
-`{f:5:Beatrice}!" `
-`The name Maria cheerfully mentioned...was that of the island's witch. `
-`Rosa took a deep breath and asked again, trying to do so in a way that wouldn't damage Maria's good mood. `
-`"Really? That's wonderful. `
-`So, who was it? `
-`Who brought you that umbrella?" `
-`"Uu-. `
-`{f:5:Beat}- `
-`{f:5:ri-ce}-! `
-`Uu-uu-!" `
-`Maria immediately realized that her mother didn't believe her and started crying out unhappily again. `
-`So Rosa stopped pursuing the subject. `
-`It'd probably be faster to ask whoever lent Maria the umbrella during dinner, rather than ask Maria herself... `
-`"Father, `
-`please at least join us for dinner. `
-`It won't be a family conference otherwise." `
-`Along with a dull pounding on the door, the sound of Krauss's entreaty could be heard. `
-`However, that voice seemed to be resigned to the fact that nothing it said would be heard. `
-`".........Kinzo-san, `
-`won't you at least come out for dinner? `
-`All your children have gathered here to see your face, haven't they?" `
-`"Silence, Nanjo. `
-`............So, the bishop won't work. `
-`...............One move too short......" `
-`Apparently, Kinzo was completely focused on the final battle of his long-lasting chess match with Nanjo. `
-`Kinzo's brow was wrinkled as he continued to glare at the game board through his spectacles. Krauss's voice didn't reach his ears. `
-`".........Kinzo-san, `
-`I'm hungry myself. `
-`Why don't we go down and eat?" `
-`"Go by yourself if that's what you want. `
-`Let me consider this next move for a little longer. `
-`...We are going to finish it tonight. `
-`............Otherwise, it's doubtful we'll finish before the world ends." `
-`Nanjo rose from his seat, hoping this would prompt Kinzo do the same, but Kinzo's eyes never left the chessboard. `
-`He knew well that Kinzo always displayed a blind concentration when it came to chess, `
-`but he'd never seen Kinzo concentrate as hard as this. `
-`...It was almost as though Kinzo was telling the truth, and there would never be another chance for them to continue their contest if they didn't finish tonight... `
-`It seemed that, no matter how obstinately he called out to Kinzo, it wouldn't reach the latter's heart. `
-`Nanjo gave up and headed to the door that Krauss was still banging on... `
-`The door to the study opened. `
-`Krauss was taken aback, thinking that maybe Kinzo was actually coming out. `
-`However, Nanjo was the one who appeared, and Krauss let out a sigh of relief. `
-`"......Doctor Nanjo, `
-`is Father..." `
-`"......I'm sorry I couldn't be of service... `
-`...Right now, this room is Kinzo-san's whole world." `
-`Nanjo shook his head with a completely defeated expression. `
-`Krauss raised his fist once more and banged on the door, shouting. `
-`"......Father, can you hear me?! `
-`We're heading down now, but please join us any time you feel like it. `
-`All of your children are waiting for you...!" `
-`His voice was very loud, and he was making a racket pounding on the door. `
-`There was no way it wouldn't reach Kinzo's ears. `
-`............Well, it certainly was reaching him. `
-`But he ignored it anyway. `
-`However, unlike the time he'd been called down for lunch, he didn't fly into a rage. `
-`......By now, Kinzo was calm at heart, ...almost as though he had taken on a philosophical view and turned himself over to fate. `
-`"Neither dinner nor the faces of my children interest me in the slightest. `
-`......I will only leave here if {f:5:Beatrice} is resurrected, or if I am chosen as a sacrifice for the key. `
-`The Demons' Roulette has already started spinning. `
-`What meaning does dinner have at this point......?" `
-`As though the painfully loud banging on the door completely failed to enter his hearing... `
-`...Kinzo silently thought about his next chess move, still in his philosophical state... `
-`Just as always, Kinzo's figure couldn't be seen anywhere in the dining hall. `
-`Krauss, wearing a bitter smile, returned with Nanjo. `
-`"Father says he still is not feeling well. `
-`He truly regrets missing this once-a-year opportunity to sit together with his gathered family." `
-`Eva and Rudolf sniggered. `
-`Given Kinzo's personality, there was no way he'd show signs of regret, `
-`...and none of his relatives showed any regret at his absence. `
-`"Then why don't we start dinner? `
-`Gohda, begin." `
-`"Certainly. `
-`Well then, if you will allow me..." `
-`When Gohda was told to start the family conference dinner, his biggest time to shine of the whole year, he nodded with a broad grin. `
-`"......Umm, may I ask who lent Maria an umbrella?" `
-`When Rosa timidly cut through the silence of the dining hall, everyone noticed. `
-`"...An umbrella? `
-`What's this about?" `
-`"Umm, `
-`...a short while back, Maria was in the rose garden when it started raining, `
-`and she apparently borrowed a white umbrella from someone. I wanted to thank them..." `
-`"It wasn't one of us. `
-`After you left, we moved to a different room and had a "friendly" chat that whole time." `
-`"Haha, ...that's right. `
-`Even after that, the siblings had a real friendly chat." `
-`The word "friendly" fell awkwardly from Hideyoshi's lips, `
-`so even those who hadn't been present could tell the conversation hadn't been a pleasant one. `
-`"At the very least, it couldn't have been me, Eva, Rudolf, Hideyoshi-san or Kyrie-san." `
-`"We were together the whole time, even after Natsuhi nee-san and Rosa-san left. `
-`The whole time until the meal started." `
-`"Nii-san went up to the study with Genji-san to call Father. `
-`At that time, the rest of us went straight to the dining hall. `
-`So it wasn't one of us. `
-`...Couldn't it have been a servant kind enough to lend an umbrella?" `
-`"So, was it you, Gohda-san?" `
-`"...I have been in the kitchen the whole time preparing. `
-`My sincere apologies..." `
-`Gohda looked slightly disappointed about missing this chance to show off. `
-`At that time, Shannon and Kumasawa appeared, pushing a serving cart loaded with hors d'oeuvres. `
-`"Then what about Kumasawa-san or Shannon-chan?" `
-`"...Yes? `
-`H-Has something gone wrong...?" `
-`Because Shannon had come in partway, she shrank back, mistakenly thinking that the others were searching for the one responsible for some error. `
-`"It isn't like that. `
-`It started to rain when Maria-chan was alone in the rose garden. `
-`After that, someone lent her an umbrella. `
-`Aunt Rosa said she wanted to thank that person." `
-`"......Uu-. `
-`......{f:5:Beatrice}..." `
-`Maria, her mouth a thin line, said the witch's name in a small voice. `
-`Aunt Rosa explained the situation one more time. `
-`As she did, Kumasawa-san cackled. `
-`"Hohohoh. `
-`It wasn't us. `
-`Shannon-san and I were preparing the rooms together, so we did not go outside." `
-`"...Yes. `
-`......I'm sorry I wasn't able to be of assistance......" `
-`"Preparing the rooms? `
-`...What do you mean by that?" `
-`"...............Because of the rain, `
-`we thought it would be troublesome for all of the guests to return to the guesthouse, `
-`so the servants were ordered to prepare the guest rooms inside the mansion." `
-`"...Really? How thoughtful. `
-`Yes, it certainly would be rude to chase us outside in this rain." `
-`"Could you give it a rest..." `
-`"Yes. `
-`After receiving the order from Madam, ...Kumasawa-san, Kanon-kun and I started preparing the rooms. `
-`...Then it became time for dinner, `
-`so Genji-sama ordered Kanon-kun to go to the guesthouse and summon the children." `
-`"Yes. `
-`So, did Kanon-san find Maria on the way to the guesthouse and hand her the umbrella?" `
-`"......Uu-. `
-`Wroooong!!" `
-`The person who had actually received the umbrella denied it. `
-`Rosa was troubled. `
-`All she wanted to do was give a word of thanks to the person who had lent the umbrella, but she couldn't find them. `
-`And she'd thought asking like this with everyone gathered for dinner would work immediately... `
-`"...Then, was it you, Natsuhi nee-san?" `
-`"I'm sorry. `
-`After everyone's "friendly" chat, my headache was so bad that I have been resting in my room. `
-`Therefore, I did not go outside." `
-`".........Then who was it? `
-`George-kun and the kids? `
-`......That can't be right." `
-`"No, it wasn't us. `
-`We were watching television in the guesthouse the whole time." `
-`"Actually, we thought Maria had just gone back to the mansion with you..." `
-`"Then Kanon-kun came, and he asked whether Maria was with us. That's when we first realized she wasn't in the mansion. `
-`I mean, if it were me, I'd have grabbed her hand and pulled her under a roof before giving her an umbrella." `
-`Rosa was completely baffled. `
-`One by one, the relatives and the servants denied that they had done it. `
-`...Even though it really wasn't something anyone would need to hide. `
-`So, by process of elimination, the number of remaining candidates wasn't large. `
-`"Of course, it wasn't me. `
-`Right after it began raining, I visited Kinzo-san's room, and I was playing chess with him until just now." `
-`"......Which means that it also wasn't Grandfather." `
-`"Wait a sec... `
-`Isn't this starting to get a bit weird? `
-`Who's left?" `
-`"Then, ...who was it? `
-`...Genji-san? `
-`Huh? `
-`Um, wait a second, don't get me wrong. `
-`It's not like I'm searching for some culprit or anything. `
-`All I want to do is, as a mother, thank the person who gave Maria an umbrella in the middle of the rain......!" `
-`...Giving an umbrella to a girl loitering in the rain was something to be praised, not hidden. `
-`...Despite that, no one raised their hand. `
-`......Why not? `
-`Everyone started whispering about how strange this was getting... `
-`"......Calm down, Rosa. `
-`Why don't we just ask the person who was lent the umbrella?" `
-`That's what everyone had been thinking since the beginning. `
-`They were all scratching their heads at why she didn't just ask Maria, who had been given the umbrella. `
-`However, Rosa bit her lower lip. `
-`After all, she already knew how Maria would answer if asked. `
-`"Of course! `
-`Rudolf-kun here's got it right. `
-`Maria-chan, tell your uncle! `
-`Who lent you the umbrella?" `
-`"{f:5:Beatrice}!" `
-`The dining hall was wrapped in silence for an instant, but it was soon interrupted by a burst of laughter. `
-`"Hahahaha. `
-`I see, so {f:5:Beatrice}, the witch of the forest, felt pity and lent her an umbrella. `
-`What a lovely story. `
-`Rosa, there you have it." `
-`"......Nng, `
-`............nnnggg." `
-`Rosa couldn't believe it. `
-`...Even though she just wanted to say thanks for the umbrella, why did everything have to be so clouded in smoke...? `
-`"Uu-! `
-`Just like Uncle Krauss said. `
-`{f:5:Beatrice} let me borrow it! `
-`Uu-uu-!" `
-`"Hahahahaha... `
-`Isn't that wonderful? `
-`We should all be jealous of such purity. `
-`What do you think, everyone? `
-`Hahahaha..." `
-`Krauss was laughing with a face that was clearly mocking, `
-`but Maria was overjoyed, apparently convinced that her claim was being believed. `
-`"......How did that work? `
-`Does that mean a witch really appeared and lent her an umbrella?" `
-`Jessica asked me in a small voice that wouldn't carry over to Maria, who was sitting across from me. `
-`"Has Maria ever been the type to make jokes?" `
-`If we'd heard that kind of story pop out of my old bastard's mouth, we would've just taken it as another joke. `
-`......However, it was hard to explain it away like that when Maria said it. This was getting pretty unnerving... `
-`"No way. `
-`She's always been frank and serious. `
-`She's the sort who'd believe any joke, even ones normal people could instantly tell were lies. `
-`I've never even heard of her cracking a joke." `
-`Aunt Rosa probably knew that better than anyone. `
-`It appeared that because of this weird situation, she had no idea what was going on anymore. `
-`"So, if Maria says she borrowed an umbrella from {f:5:Beatrice}, that must mean it really was {f:5:Beatrice}?" `
-`".........We're talking about Maria here, so I can't think of it as some kind of metaphor or joke. `
-`...It might be best to take what she says at face value." `
-`"Then what's going on? `
-`Are you saying Genji-san or someone put on that fancy dress from the portrait and gave Maria the umbrella?" `
-`"...I'm not sure about that... `
-`Actually, that's what I want to know." `
-`Jessica shrugged jokingly, but her expression didn't completely match her attitude. `
-`Once the hors d'oeuvres were set out and Gohda showed off his vast store of knowledge, the meal began. `
-`A couple casual chats broke out here and there, but they seemed somehow distant, and the meal ended up being so quiet that you couldn't ignore the sound of the rain sneaking into the dining hall. `
-`Kumasawa and Shannon, pushing the serving cart, ran into Genji and Kanon on their way to the kitchen. `
-`"...Oh, it's Genji-san. Did you lend Maria-san an umbrella?" `
-`".........An umbrella? `
-`What are you talking about?" `
-`"Well, `
-`......I heard that when it started raining, Maria-sama was alone in the rose garden. `
-`...It seems she borrowed an umbrella from someone there, `
-`but we don't know who it was." `
-`"It wasn't me. `
-`After all, I actually thought Maria-sama was in the guesthouse. `
-`When Battler-sama first found her, she was already holding a white umbrella." `
-`"My apologies, but it was not me either..." `
-`".........Then, you don't think it was... `
-`...the Master?" `
-`Both in the dining hall and right here, everyone had stated that they hadn't done it. `
-`...That left only Kinzo, but... `
-`"Maybe he went walking down the corridor for some reason... `
-`when he just happened to see Maria-sama in the rose garden without even an umbrella..." `
-`"............The Master... `
-`is not particularly fond of Maria-sama." `
-`"I agree. `
-`............I can't imagine that, for Maria-sama's sake, he'd go to all of the trouble of descending the stairs with an umbrella." `
-`"Oh my, ......how troublesome. `
-`Does that mean the one who lent Maria-sama an umbrella really was {f:5:Beatrice}-sama? `
-`Hohohohoh..." `
-`Kumasawa laughed, just like the relatives in the dining hall who had laughed it off. `
-`......She couldn't think of any other way to break through the smoke veiling the current situation. `
-`Just then, the crisp sound of hands clapping twice rang through the hallway. `
-`They all turned around at once to see Gohda coming out of the dining hall. `
-`"Okay, everyone. `
-`When serving a dinner, proper timing while setting the table is essential. `
-`Please immediately see to setting out the soup. `
-`Genji-san, the women are in the middle of an important job, so please don't get in their way." `
+`......อ้าว คุณเก็นจิเองเหรอ......ขอบคุณนะ" `
+`เมื่อตระหนักได้ว่าสิ่งที่สัมผัสตัวเธอเป็นเพียงผ้าห่ม และเก็นจินำมาให้ด้วยความใส่ใจ เธอก็ถอนหายใจออกมาด้วยความโล่งอก `
+`"......กระผมทำให้ตื่นหรือขอรับ? `
+`ต้องกราบขออภัยด้วยขอรับ" `
+`"ไม่เป็นไรหรอก `
+`แต่แรกก็ไม่ได้กะจะนอนอยู่แล้วด้วย `
+`...ตอนนี้กี่โมงแล้วเหรอ?" `
+`เมื่อถูกถามเวลา เก็นจิจึงหยิบนาฬิกาพกออกมาจากกระเป๋าเสื้อขึ้นมาดู `
+`".........หกโมงเศษแล้วขอรับ" `
+`โรซ่าส่ายหัวเล็กน้อยเมื่อพบว่าเวลาเพิ่งผ่านไปไม่เท่าไร ทั้งที่รู้สึกเหมือนตัวเองหลับไปนานมาก `
+`...แม้จะไม่รู้สึกว่าหายเหนื่อยเลยสักนิด แต่ความง่วงที่เข้าครอบงำเธอคงจะลึกพอดู `
+`"ขอบคุณนะ ไม่ต้องห่มผ้าหรอก... `
+`ไม่ควรมานอนเอาเวลาแปลกๆ แบบนี้เลย `
+`สัมผัสเรื่องเวลาเพี้ยนไปหมดเลยล่ะ `
+`...............ฝน... `
+`เริ่มตกหนักจริงจังแล้วสินะ?" `
+`ในที่สุดโรซ่าก็ตระหนักได้ว่า เสียงอันสงบเยือกเย็นที่กล่อมให้เธอหลับไปนั้น แท้จริงแล้วคือเสียงฝนนี่เอง `
+`"ลมก็พัดแรงด้วย `
+`...พายุไต้ฝุ่นคงมาถึงแล้วสินะ" `
+`"......ในโทรทัศน์แจ้งไว้เช่นนั้นขอรับ `
+`พายุไต้ฝุ่นเคลื่อนตัวช้า จึงคาดว่าสภาพอากาศคงจะเป็นแบบนี้ไปตลอดทั้งวันพรุ่งนี้ขอรับ" `
+`"งั้นเหรอ...? `
+`.........ถ้าอย่างนั้น โอกาสสุดท้ายที่จะได้เห็นสวนกุหลาบอันงดงามนั่น ก็คงผ่านพ้นไปแล้วสินะ" `
+`เมื่อมองจากหน้าต่าง ภาพของสวนกุหลาบก็พร่ามัวไปด้วยแรงลมและสายฝนจนมองแทบไม่เห็น `
+`"...มาเรีย... `
+`......จริงสิ แล้วมาเรียล่ะ?!" `
+`"............กระผมยังไม่พบคุณหนูเลยขอรับ `
+`ไม่ได้กลับไปที่เกสต์เฮาส์หรอกหรือขอรับ?" `
+`โรซ่ารู้ซึ้งถึงนิสัยของลูกสาวตัวเองเป็นอย่างดี `
+`ความเย็นเยียบจึงแล่นวาบไปทั่วไขสันหลังของเธอ `
+`มาเรียนั้นเป็นเด็กซื่อตรงจนหัวรั้น `
+`......หากสั่งให้ตามหาสิ่งที่ไม่มีอยู่จริง เด็กคนนั้นก็จะก้มหน้าก้มตาหาไปชั่วกัปชั่วกัลป์ `
+`......แม้จะต้องอยู่ท่ามกลางสายฝนกระหน่ำก็ตาม...!! `
+`"......ไม่นะ `
+`พวกเด็กๆ กลับไปก่อนฉัน มาเรียก็เลยอยู่คนเดียว...! `
+`ถ้าไม่มีใครสั่งให้หยุด ต่อให้ฝนตกลงมาเป็นหอก ยัยเด็กนั่นก็ยังคงอยู่ที่นั่นแน่! `
+`โดยที่ไม่แม้แต่จะกางร่มด้วยซ้ำ!! `
+`.........อา ทำไมฉันถึงควบคุมอารมณ์ไม่อยู่จนทำเรื่องแบบนั้นลงไปได้นะ?!!" `
+`ทั้งที่รู้ซึ้งถึงความซื่อบริสุทธิ์ของมาเรียดียิ่งกว่าใคร แต่เธอก็เผลอปล่อยให้อารมณ์ครอบงำจนทำเรื่องเลวร้ายลงไปอีกแล้ว!! `
+`"มาเรีย~~~~~~!!" `
+`โรซ่าผลักเก็นจิออกแล้ววิ่งพรวดไปตามทางเดิน `
+`บรรยากาศภายนอกดูเหมือนพายุไต้ฝุ่นอย่างแท้จริง และฝนก็กำลังเทกระหน่ำลงมาอย่างหนักหน่วง `
+`อาจเป็นเพราะลักษณะภูมิประเทศ ลมจึงไม่ได้รุนแรงถึงระดับไต้ฝุ่น ร่มจึงไม่ถึงกับถูกลมพัดปลิวหลุดจากมือ `
+`ถึงกระนั้น ก็ยังถือเป็นฝนที่ลมพัดกระโชกแรงอยู่ดี `
+`ไม่มีเวลาแม้แต่จะมาชื่นชมดอกกุหลาบที่เปียกปอน `
+`"ยังไงก็เถอะ ฉันชักจะเป็นห่วงมาเรียขึ้นมาแล้วสิ `
+`.........คงไม่ได้กำลังดื้อดึงตามหากุหลาบดอกนั้นอยู่คนเดียวหรอกนะ?" `
+`"...ไม่รู้สิ `
+`คงไม่ทำแบบนั้นกลางสายฝนขนาดนี้หรอกมั้ง... `
+`อย่างน้อยพี่ก็อยากจะเชื่อแบบนั้นอยู่หรอก แต่บางทีมาเรียจังก็ดื้อรั้นแล้วก็เถรตรงแบบสุดโต่งเลยนี่นา" `
+`พวกเราไม่ได้เป็นห่วงเท่าไรนัก เพราะคิดว่าน้าโรซ่าพาเธอกลับไปที่คฤหาสน์แล้ว `
+`...ทว่า พอคาน่อนคุงจากคฤหาสน์มาตามพวกเรา และนึกว่ามาเรียอยู่ที่นี่ พวกเราก็เริ่มกังวลขึ้นมา `
+`".........ผมไม่เห็นคุณหนูอยู่ที่คฤหาสน์ ก็เลยนึกว่าอยู่ที่นี่แน่ๆ ครับ `
+`เพราะคุณโรซ่าเองก็นอนกลางวันอยู่ด้วย..." `
+`"ตอนนายเดินมาที่นี่ไม่เห็นเลยเหรอ?" `
+`".........ต้องขออภัยด้วยครับ `
+`ผมกางร่มแล้วรีบวิ่งมาให้เร็วที่สุด ก็เลยไม่ได้สังเกตให้ดีครับ" `
+`ถ้าเขาตัดผ่านสวนกุหลาบตามเส้นทางที่สั้นที่สุดระหว่างคฤหาสน์กับเกสต์เฮาส์ ก็คงจะคลาดกับจุดที่มาเรียกำลังตามหากุหลาบไปเพียงนิดเดียวเท่านั้น `
+`แถมฝนยังตกหนักขนาดนี้อีกด้วย `
+`จึงเป็นไปได้แน่นอนที่คาน่อนคุงจะไม่ทันสังเกตเห็นเธอ `
+`"มัวแต่เถียงกันอยู่ตรงนี้ ไปดูให้เห็นกับตาน่าจะเร็วกว่านะ `
+`......พี่ วิ่งแข่งกันไปดูหน่อยเป็นไง?" `
+`"โอ้ โตขึ้นตั้งหกปีแล้ว คิดว่าจะชนะพี่ได้เหรอ? `
+`ได้สิ มาตัดสินกันเลย `
+`............ไปเลย!!" `
+`ผมกับพี่จอร์จพุ่งตัวออกไปท่ามกลางสายฝน `
+`โดยมีเจสสิก้ากับคาน่อนคุงวิ่งตามหลังมา `
+`"มาเรีย!! `
+`ถ้าอยู่ตรงนั้นก็ตอบหน่อยสิ!! `
+`มาเรีย!!" `
+`"น้าโรซ่านี่นา `
+`น้าโรซ่าครับ!!" `
+`พอพี่จอร์จตะโกนเรียก น้าโรซ่าก็พุ่งเข้ามาคว้าตัวเขาไว้ `
+`"มาเรียอยู่ไหน?! `
+`ไม่ได้อยู่กับพวกเธอเหรอ?!" `
+`"เปล่าครับ หลังจากนั้นพวกเราก็ไม่ได้เจอมาเรียจังเลย" `
+`"............มาเรีย~~~~~!!!" `
+`............เมื่อหกปีก่อน มาเรียเพิ่งจะสามขวบ `
+`เธอเป็นเด็กน่ารักและไร้เดียงสา ที่ยอมเชื่อฟังทุกสิ่งที่ใครก็ตามบอก `
+`...แต่นี่เวลาก็ผ่านมาตั้งหกปีแล้วนะ! `
+`ตอนนี้เธออายุตั้งเก้าขวบแล้ว การได้ผ่านร้อนผ่านหนาวในชีวิตก็น่าจะสอนอะไรเธอบ้างสิ `
+`......แต่มาเรีย อย่าบอกนะว่าเธอยังคงไร้เดียงสาและใสซื่อเหมือนเมื่อก่อนอยู่อีกน่ะ...?! `
+`"มาเรีย~~~~~~~~~~~~!!!" `
+`ขณะที่ผมวิ่งอ้อมแปลงกุหลาบ จู่ๆ สิ่งหนึ่งที่เป็นสีขาวก็หันขวับมาทางผม `
+`......มันคือร่มสีขาว `
+`มาเรียกำลังนั่งยองๆ ถือร่มสีขาวคันนั้น และยังคงก้มหน้าก้มตาหากุหลาบดอกนั้นอยู่... `
+`"............อู-" `
+`ใบหน้าที่แดงก่ำเพราะร้องไห้อย่างหนักจนน้ำตาแทบเป็นสายเลือดของเธอ เปรอะเปื้อนไปด้วยน้ำและโคลน ช่างเป็นภาพที่น่าเวทนายิ่งนัก `
+`"มาเรีย `
+`......ยังหาอยู่อีกเหรอ?!" `
+`"......อู-...... `
+`หาไม่เจอ... `
+`หาไม่เจอ... `
+`...กุหลาบของมาเรีย...... `
+`...อู-......" `
+`มาเรียคงอยู่ที่นี่มาตลอดตั้งแต่ตอนที่ฝนเริ่มเทกระหน่ำลงมา `
+`ไหล่ของเธอเย็นเฉียบ `
+`เธอดูเหนื่อยล้าไปถึงกระดูก แต่ก็ยังโชคดีที่เธอกางร่มอยู่ จึงไม่ได้เปียกโชกไปทั้งตัว `
+`...ร่มคันนั้นคงหยิบออกมาจากกระเป๋าถือที่มาเรียพกติดตัวอยู่ตลอดเวลาสินะ `
+`......โล่งอกไปที `
+`โล่งอกจริงๆ ให้ตายสิ `
+`"แบทเลอร์คุง! `
+`โล่งอกไปที เจอตัวแล้วสินะ!" `
+`"มาเรีย~~~~~!! `
+`ขอโทษนะ หม่าม๊าขอโทษจริงๆ...!!" `
+`น้าโรซ่าโยนร่มทิ้งไปด้านข้างแล้วเข้าสวมกอดมาเรีย `
+`"......อู-......... `
+`ไม่มีอยู่ตรงนี้ `
+`...กุหลาบของมาเรียไม่มีอยู่ตรงนี้... `
+`......อู-......" `
+`"เดี๋ยวหม่าม๊าจะช่วยหาทีหลังนะ... `
+`นะลูกนะ? `
+`เพราะฉะนั้นวันนี้พอแค่นี้ก่อนเถอะนะ `
+`...นะจ๊ะ?" `
+`".........อู-... `
+`วันนี้พอแค่นี้ก่อน......" `
+`ดูเหมือนมาเรียจะยังทำใจยอมรับไม่ได้ แต่เธอก็หมดเรี่ยวแรงที่จะขัดขืนแล้ว `
+`เจสสิก้ากับคาน่อนคุงตามพวกเรามาทัน `
+`"......ผมจะรีบไปเตรียมผ้าเช็ดตัวไว้ที่คฤหาสน์ทันทีครับ" `
+`"มาเรีย `
+`...อยู่ที่นี่มาตลอดเลยเหรอ......?" `
+`"ขอโทษนะ...... `
+`หม่าม๊าขอโทษที่เป็นแม่ที่แย่ขนาดนี้........." `
+`"......น้าโรซ่าครับ พวกเรากลับไปที่คฤหาสน์กันก่อนดีกว่าไหมครับ? `
+`ขืนอยู่ตรงนี้ต่อไป เดี๋ยวมาเรียจะเป็นหวัดเอานะครับ" `
+`".........นั่นสินะ `
+`มาเรีย ไปกันเถอะ `
+`ถ้าไม่รีบไปทำความสะอาดเนื้อตัว เดี๋ยวท่านปู่จะโกรธเอานะ" `
+`"อู-... `
+`หิวข้าวแล้ว" `
+`"ได้เวลาอาหารแล้วพอดี `
+`อดทนได้เก่งมากเลย มาเรีย `
+`พออากาศดีขึ้นแล้ว พวกเราทุกคนจะมาช่วยกันหาแน่นอน" `
+`พวกเราจะยืนตากฝนอยู่แบบนี้ตลอดไปไม่ได้ `
+`พวกเราพามาเรียมุ่งหน้ากลับไปยังคฤหาสน์ `
+`ดูเหมือนมาเรียจะไม่ได้เหนื่อยล้าอย่างที่ผมคิด `
+`พอนึกขึ้นได้ว่ามื้อเย็นเป็นสเต๊กเนื้อลูกวัว เธอก็เริ่มร้องเพลง "หิวแล้ว หิวแล้ว อู-อู-!" แล้วกลับมาร่าเริงเหมือนตามเคย `
+`......น้าโรซ่าไม่ได้ดุเรื่องที่มาเรียส่งเสียง "อู-อู-" เลยสักนิด `
+`"อย่างนี้นี่เอง `
+`ที่แท้ก็มีร่มติดตัวอยู่นี่เอง `
+`มาเรียนี่เตรียมของเก่งชะมัด" `
+`"......อู- `
+`มาเรียไม่ได้เอาร่มมานะ `
+`อู-" `
+`"หา? แล้วร่มสีขาวที่ถืออยู่นั่นไปเอามาจากไหนกันล่ะ?" `
+`"อู-! `
+`ยืมเขามา!" `
+`คงมีใครบางคนที่ใจดีเอาร่มมาให้เธอแน่ๆ `
+`ถ้าเป็นเด็กทั่วไป พอฝนเริ่มตกก็คงไปหาที่หลบฝนแล้ว แต่มาเรียดื้อรั้นเกินกว่าจะยอมแพ้ง่ายๆ `
+`...คนใจดีคนนั้นก็เลยอาจจะถอดใจที่จะบอกให้มาเรียไปหลบฝน แล้วตัดสินใจว่าอย่างน้อยก็ให้ร่มไว้คันหนึ่ง `
+`"งั้นเหรอจ๊ะ `
+`คงต้องไปขอบคุณคนคนนั้นแล้วล่ะ `
+`ใครเป็นคนให้มาเหรอจ๊ะ?" `
+`"อู-! `
+`{f:5:เบียทริเช่}!" `
+`ชื่อที่มาเรียเอ่ยออกมาอย่างร่าเริง...คือชื่อของแม่มดแห่งเกาะนี้ `
+`โรซ่าสูดหายใจลึกแล้วถามซ้ำอีกครั้ง โดยพยายามไม่ทำลายอารมณ์ดีๆ ของมาเรีย `
+`"จริงเหรอจ๊ะ? วิเศษไปเลยนะ `
+`แล้ว คนคนนั้นคือใครเหรอจ๊ะ? `
+`ใครเอาร่มคันนั้นมาให้หนูเหรอ?" `
+`"อู- `
+`{f:5:เบียท}- `
+`{f:5:ริ-เช่}-! `
+`อู-อู-!" `
+`มาเรียรู้ตัวทันทีว่าหม่าม๊าไม่เชื่อเธอ จึงเริ่มร้องโวยวายอย่างไม่พอใจขึ้นมาอีก `
+`โรซ่าจึงเลิกซักไซ้เรื่องนั้น `
+`ระหว่างมื้อค่ำไปถามคนที่ให้ยืมร่มแก่มาเรียคงจะเร็วกว่ามานั่งถามจากตัวมาเรียเอง... `
+`"ท่านพ่อ `
+`อย่างน้อยก็ช่วยมาร่วมโต๊ะอาหารค่ำด้วยเถอะครับ `
+`ไม่อย่างนั้นมันคงไม่ใช่การประชุมเครือญาติหรอกนะครับ" `
+`เสียงวิงวอนของเคราส์ดังขึ้นพร้อมกับเสียงเคาะประตูดังตึงๆ `
+`ทว่า น้ำเสียงนั้นดูเหมือนจะถอดใจอยู่แล้วว่าไม่ว่าจะพูดอะไรไป อีกฝ่ายก็คงไม่รับฟัง `
+`".........คุณคินโซ `
+`อย่างน้อยก็ออกมาร่วมมื้อค่ำหน่อยไม่ดีกว่าหรือครับ? `
+`ลูกๆ ทุกคนต่างมารวมตัวกันที่นี่เพื่อจะได้พบหน้าคุณไม่ใช่หรือครับ?" `
+`"เงียบไป นันโจ `
+`............งั้นเหรอ ใช้บิชอปไม่ได้ผลสินะ `
+`...............ยังขาดไปอีกตาเดียว......" `
+`ดูเหมือนว่าคินโซจะจดจ่ออยู่กับการศึกช่วงสุดท้ายในเกมหมากรุกที่ยืดเยื้อมาเนิ่นนานกับนันโจอย่างเต็มที่ `
+`คิ้วของคินโซขมวดมุ่นขณะจ้องเขม็งไปยังกระดานเกมผ่านแว่นตา เสียงของเคราส์ไม่เข้าหูเขาเลยแม้แต่น้อย `
+`".........คุณคินโซ `
+`ผมเองก็เริ่มหิวแล้วเหมือนกันครับ `
+`พวกเราลงไปทานข้าวกันหน่อยไม่ดีหรือครับ?" `
+`"อยากไปก็ไปคนเดียวสิ `
+`ขอข้าคิดตาเดินถัดไปนี้อีกสักหน่อย `
+`...คืนนี้เราต้องตัดสินให้จบ `
+`............ไม่อย่างนั้น คงน่าสงสัยว่าจะจบลงได้ก่อนโลกสิ้นสุดลงหรือไม่" `
+`นันโจลุกขึ้นจากเก้าอี้ด้วยหวังว่าจะช่วยกระตุ้นให้คินโซทำตามบ้าง แต่สายตาของคินโซไม่ละไปจากกระดานหมากรุกเลย `
+`เขารู้ดีว่าเวลาเล่นหมากรุก คินโซมักจะมีสมาธิหมกมุ่นไม่ลืมหูลืมตาอยู่เสมอ `
+`แต่ก็ไม่เคยเห็นคินโซมีสมาธิจดจ่อรุนแรงขนาดนี้มาก่อนเลย `
+`...ราวกับว่าสิ่งที่คินโซพูดเป็นความจริง และหากคืนนี้เล่นไม่จบ ก็จะไม่มีโอกาสได้ประลองกันต่ออีกแล้ว... `
+`ดูเหมือนว่าไม่ว่าเขาจะดึงดันส่งเสียงเรียกคินโซแค่ไหน ก็คงส่งไปไม่ถึงใจของอีกฝ่าย `
+`นันโจยอมแพ้แล้วเดินตรงไปยังประตูที่เคราส์ยังคงเคาะอยู่... `
+`ประตูห้องหนังสือเปิดออก `
+`เคราส์ชะงักไป นึกว่าคินโซยอมออกมาจริงๆ เสียแล้ว `
+`ทว่า คนที่ปรากฏตัวกลับเป็นนันโจ เคราส์จึงลอบถอนหายใจออกมา `
+`"......หมอนันโจครับ `
+`ท่านพ่อ..." `
+`"......ต้องขออภัยด้วยครับที่ช่วยอะไรไม่ได้เลย... `
+`...ตอนนี้ ห้องนี้คือโลกทั้งใบของคุณคินโซแล้วล่ะครับ" `
+`นันโจส่ายศีรษะด้วยสีหน้ายอมจำนนอย่างสิ้นเชิง `
+`เคราส์ยกกำปั้นขึ้นอีกครั้งแล้วทุบประตู พลางตะโกน `
+`"......ท่านพ่อ ได้ยินผมไหมครับ?! `
+`พวกเราจะลงไปกันแล้ว แต่ถ้าท่านพ่อเกิดอยากทานขึ้นมาเมื่อไหร่ ก็ขอเชิญมาร่วมโต๊ะได้ตลอดเวลานะครับ `
+`ลูกๆ ทุกคนกำลังรอท่านพ่ออยู่นะครับ...!" `
+`เสียงของเขาดังมาก แถมยังทุบประตูดังลั่นอึกทึก `
+`ไม่มีทางที่จะไม่เข้าหูคินโซเลย `
+`............ก็นะ มันเข้าหูเขาแน่ๆ อยู่แล้ว `
+`แต่ถึงอย่างนั้น เขาก็ยังคงเมินเฉย `
+`ทว่าไม่เหมือนตอนที่ถูกเรียกไปกินมื้อเที่ยง คราวนี้เขาไม่ได้บันดาลโทสะออกมา `
+`......ในยามนี้ จิตใจของคินโซสงบนิ่ง ...ราวกับทำใจยอมรับและปล่อยตัวให้เป็นไปตามโชคชะตา `
+`"ทั้งอาหารค่ำและหน้าตาของพวกลูกๆ ไม่ได้ทำให้ข้าสนใจแม้แต่น้อย `
+`......ข้าจะออกไปจากที่นี่ ก็ต่อเมื่อ{f:5:เบียทริเช่}ฟื้นคืนชีพ หรือไม่ก็ตอนที่ข้าถูกเลือกเป็นเครื่องสังเวยเพื่อกุญแจเท่านั้น `
+`รูเล็ตต์ของเหล่าปีศาจเริ่มหมุนแล้ว `
+`มาถึงขั้นนี้แล้ว อาหารค่ำจะยังมีความหมายอะไรอีก......?" `
+`ราวกับเสียงทุบประตูดังแสบแก้วหูนั้นไม่ได้เข้าสู่โสตประสาทของเขาเลยแม้แต่น้อย... `
+`...คินโซครุ่นคิดถึงหมากตาต่อไปอย่างเงียบเชียบ ยังคงอยู่ในภวังค์อันสงบนิ่งเช่นนั้น... `
+`และก็เหมือนเช่นเคย ไร้ซึ่งวี่แววของคินโซในห้องอาหาร `
+`เคราส์ซึ่งมีรอยยิ้มเจื่อนๆ บนใบหน้า เดินกลับมาพร้อมกับนันโจ `
+`"ท่านพ่อบอกว่ายังรู้สึกไม่ค่อยสบายอยู่น่ะ `
+`ท่านรู้สึกเสียดายจริงๆ ที่ต้องพลาดโอกาสร่วมโต๊ะพร้อมหน้าพร้อมตากับครอบครัวที่มีเพียงปีละครั้งเช่นนี้" `
+`เอวากับรูดอล์ฟพากันหัวเราะหึๆ `
+`ด้วยนิสัยอย่างคินโซ ไม่มีทางที่จะแสดงความรู้สึกเสียดายออกมาหรอก `
+`...และก็ไม่มีญาติคนไหนรู้สึกเสียดายที่เขาไม่มาเช่นกัน `
+`"งั้นพวกเราเริ่มมื้อค่ำกันเลยดีไหม `
+`โกดะ เริ่มได้" `
+`"รับทราบครับผม `
+`ถ้าเช่นนั้น ขออนุญาตเลยนะครับผม..." `
+`เมื่อได้รับคำสั่งให้เริ่มมื้อค่ำของการประชุมเครือญาติ อันเป็นช่วงเวลาเฉิดฉายที่สุดในรอบปีของตน โกดะก็พยักหน้ารับพร้อมรอยยิ้มกว้าง `
+`"......เอ่อ ขอถามหน่อยได้ไหมคะว่าใครให้มาเรียยืมร่มเหรอ?" `
+`เมื่อโรซ่าเอ่ยแทรกความเงียบในห้องอาหารขึ้นมาอย่างเกรงใจ ทุกคนก็หันมาสนใจ `
+`"...ร่มเหรอ `
+`เรื่องอะไรกันจ๊ะ?" `
+`"คือว่า `
+`...เมื่อครู่นี้ ตอนฝนเริ่มตก มาเรียอยู่ที่สวนกุหลาบน่ะค่ะ `
+`แล้วดูเหมือนจะมีคนให้เธอยืมร่มสีขาวมา ฉันก็เลยอยากจะขอบคุณเขาน่ะค่ะ..." `
+`"ไม่ใช่พวกเราแน่ๆ ล่ะ `
+`พอน้องออกไป พวกเราก็ย้ายไปอีกห้องแล้วคุยกันอย่าง "เป็นมิตร" ตลอดเวลาเลยว่ะ" `
+`"ฮ่าๆ ...นั่นสินะ `
+`หลังจากนั้นพี่น้องก็คุยกันอย่างเป็นมิตรสุดๆ ไปเลยล่ะนะ" `
+`คำว่า "เป็นมิตร" หลุดออกมาจากปากของฮิเดโยชิอย่างกระอักกระอ่วน `
+`จนแม้แต่คนที่ไม่ได้อยู่ในเหตุการณ์ก็ยังดูออกว่าการสนทนานั้นไม่ได้น่าอภิรมย์เอาเสียเลย `
+`"อย่างน้อยที่สุด ก็ไม่ใช่ทั้งฉัน เอวา รูดอล์ฟ คุณฮิเดโยชิ หรือคุณคิริเอะแน่นอน" `
+`"พวกเราอยู่ด้วยกันตลอดเวลาเลยค่ะ แม้กระทั่งหลังจากที่พี่นัตสึฮิกับคุณโรซ่าออกไปแล้ว `
+`อยู่กันตลอดจนกระทั่งเริ่มมื้ออาหารเลยล่ะค่ะ" `
+`"พี่เคราส์ขึ้นไปที่ห้องหนังสือพร้อมกับคุณเก็นจิเพื่อไปตามท่านพ่อ `
+`ตอนนั้น พวกเราที่เหลือก็ตรงมาที่ห้องอาหารเลย `
+`เพราะงั้นไม่ใช่พวกเราแน่นอนจ้ะ `
+`...ไม่ใช่คนรับใช้คนไหนใจดีเอาร่มไปให้ยืมหรอกเหรอ?" `
+`"งั้น เป็นคุณเหรอคะ คุณโกดะ?" `
+`"...กระผมอยู่ในครัวเตรียมอาหารมาโดยตลอดเลยครับผม `
+`ต้องกราบขออภัยด้วยจริงๆ ครับผม..." `
+`โกดะดูผิดหวังเล็กน้อยที่พลาดโอกาสทำคะแนนไป `
+`ในตอนนั้นเอง ชาน่อนกับคุมาซาวะก็ปรากฏตัวขึ้นพร้อมกับเข็นรถเข็นอาหารที่เต็มไปด้วยออร์เดิร์ฟเข้ามา `
+`"ถ้าอย่างนั้น คุณคุมาซาวะหรือชาน่อนจังล่ะคะ?" `
+`"...คะ? `
+`ม-มีอะไรผิดพลาดหรือเปล่าคะ...?" `
+`เนื่องจากชาน่อนเพิ่งเข้ามากลางคัน เธอจึงสะดุ้งตัวลีบด้วยเข้าใจผิดคิดว่าทุกคนกำลังตามหาตัวคนทำเรื่องผิดพลาดอยู่ `
+`"ไม่ใช่แบบนั้นหรอกครับ `
+`พอดีตอนที่ฝนเริ่มตก มาเรียจังอยู่คนเดียวที่สวนกุหลาบ `
+`แล้วหลังจากนั้นก็มีคนให้เธอยืมร่มมาน่ะครับ `
+`น้าโรซ่าก็เลยอยากจะขอบคุณคนคนนั้นน่ะครับ" `
+`"......อู- `
+`......{f:5:เบียทริเช่}..." `
+`มาเรียที่เม้มปากเป็นเส้นตรง เอ่ยนามของแม่มดออกมาด้วยเสียงแผ่วเบา `
+`น้าโรซ่าอธิบายสถานการณ์อีกครั้งหนึ่ง `
+`เมื่อได้ยินเช่นนั้น คุณคุมาซาวะก็หัวเราะออกมา `
+`"โฮ่ะโฮ่ะโฮ่ะ `
+`ไม่ใช่พวกดิฉันหรอกค่ะ `
+`ดิฉันกับคุณชาน่อนช่วยกันเตรียมห้องอยู่ด้วยกัน ก็เลยไม่ได้ออกไปข้างนอกเลยค่ะ" `
+`"...ใช่ค่ะ `
+`......ต้องขอโทษด้วยนะคะที่ไม่สามารถช่วยอะไรได้เลย......" `
+`"เตรียมห้องงั้นเหรอ `
+`...หมายความว่ายังไงกัน?" `
+`"...............เพราะฝนตกน่ะค่ะ `
+`ดิฉันคิดว่าคงลำบากถ้าแขกทุกคนต้องกลับไปที่เกสต์เฮาส์ `
+`ก็เลยสั่งให้พวกคนรับใช้ไปเตรียมห้องรับรองภายในคฤหาสน์ไว้ค่ะ" `
+`"...แหม ช่างรอบคอบจังเลยนะ `
+`นั่นสิ การจะไล่พวกเราออกไปข้างนอกท่ามกลางสายฝนแบบนี้มันก็คงจะเสียมารยาทเกินไปหน่อยล่ะนะ" `
+`"พอเถอะน่า..." `
+`"ค่ะ `
+`หลังจากได้รับคำสั่งจากคุณผู้หญิง ...ดิฉัน คุณคุมาซาวะ แล้วก็คาน่อนคุงก็เริ่มเตรียมห้องกันค่ะ `
+`...จากนั้นพอใกล้ถึงเวลาอาหารค่ำ `
+`คุณเก็นจิก็เลยสั่งให้คาน่อนคุงไปตามพวกเด็กๆ ที่เกสต์เฮาส์ค่ะ" `
+`"ใช่แล้วค่ะ `
+`แล้วคาน่อนคุงได้เจอคุณมาเรียระหว่างทางไปเกสต์เฮาส์แล้วส่งร่มให้หรือเปล่าล่ะคะ?" `
+`"......อู- `
+`ไม่ช่าาาาย!!" `
+`ผู้ที่ได้รับร่มมาตัวจริงเป็นฝ่ายปฏิเสธเสียงแข็ง `
+`โรซ่ารู้สึกจนปัญญา `
+`เธอเพียงแค่อยากจะกล่าวขอบคุณคนที่ให้ยืมร่มสักคำ ทว่ากลับหาตัวคนคนนั้นไม่พบ `
+`ทั้งที่เธอคิดว่าถ้าถามตอนที่ทุกคนมารวมตัวกันพร้อมหน้าในมื้อค่ำแบบนี้ ก็น่าจะรู้ตัวได้ในทันทีแท้ๆ... `
+`"...ถ้าอย่างนั้น เป็นพี่นัตสึฮิเหรอคะ?" `
+`"ขอโทษด้วยนะคะ `
+`หลังจากการสนทนาอัน "เป็นมิตร" ของทุกคน ดิฉันก็ปวดหัวมากจนต้องนอนพักอยู่ในห้องมาตลอดน่ะค่ะ `
+`ดังนั้น ดิฉันจึงไม่ได้ออกไปข้างนอกเลยค่ะ" `
+`".........ถ้าอย่างนั้นแล้วเป็นใครกันล่ะ `
+`จอร์จคุงกับพวกเด็กๆ เหรอ? `
+`......ไม่น่าจะใช่หรอกมั้ง" `
+`"ไม่ใช่พวกเราหรอกครับ `
+`พวกเราดูโทรทัศน์อยู่ที่เกสต์เฮาส์ตลอดเวลาเลยครับ" `
+`"อันที่จริง พวกฉันคิดว่ามาเรียกลับมาที่คฤหาสน์พร้อมกับน้าแล้วซะอีกนะ..." `
+`"แล้วคาน่อนคุงก็มา แล้วถามว่ามาเรียอยู่กับพวกเราหรือเปล่า ตอนนั้นแหละพวกเราถึงเพิ่งรู้ว่าเธอไม่ได้อยู่ที่คฤหาสน์ `
+`คือถ้าเป็นฉันนะ ฉันคงคว้ามือแล้วลากเข้าใต้ชายคาก่อนจะเอาร่มให้อยู่แล้วล่ะ" `
+`โรซ่ามืดแปดด้านไปหมด `
+`ทั้งเหล่าเครือญาติและพวกคนรับใช้ ต่างปฏิเสธกันไปทีละคนว่าตนไม่ได้เป็นคนทำ `
+`...ทั้งๆ ที่ความจริงแล้ว มันไม่ใช่เรื่องที่จำเป็นต้องปิดบังอะไรกันเลยสักนิดเดียว `
+`ดังนั้น เมื่อตัดคนที่ไม่ใช่ออกไปแล้ว ตัวเลือกที่เหลืออยู่จึงมีไม่มากนัก `
+`"แน่นอนว่าไม่ใช่ผมครับ `
+`พอฝนเริ่มตก ผมก็ไปที่ห้องของคุณคินโซ แล้วก็นั่งเล่นหมากรุกกับท่านมาจนถึงเมื่อกี้นี้เอง" `
+`"......ซึ่งก็แปลว่า ไม่ใช่ท่านปู่เหมือนกันสินะคะ" `
+`"เดี๋ยวก่อนสิ... `
+`นี่มันชักจะแปลกๆ แล้วไม่ใช่เหรอ `
+`ยังเหลือใครอีกล่ะเนี่ย" `
+`"ถ้าอย่างนั้น ...แล้วเป็นใครกันล่ะคะ `
+`...คุณเก็นจิเหรอคะ `
+`เอ๊ะ `
+`เอ่อ เดี๋ยวก่อนนะคะ อย่าเพิ่งเข้าใจผิดนะ `
+`ไม่ใช่ว่าฉันกำลังจะตามหาตัวคนร้ายหรืออะไรทำนองนั้นหรอกค่ะ `
+`ในฐานะคนเป็นแม่ ฉันแค่อยากจะขอบคุณคนที่เอาร่มให้มาเรียท่ามกลางสายฝนก็เท่านั้นเอง......!" `
+`...การเอาร่มไปให้เด็กหญิงที่เดินเตร็ดเตร่อยู่กลางสายฝนนั้น เป็นเรื่องที่สมควรได้รับการชื่นชม ไม่ใช่เรื่องที่ต้องปิดบัง `
+`...ถึงกระนั้น ก็ไม่มีใครยกมือขึ้นเลย `
+`......ทำไมกันล่ะ `
+`ทุกคนเริ่มกระซิบกระซาบกันว่าเรื่องนี้ชักจะแปลกประหลาดขึ้นทุกที... `
+`"......ใจเย็นก่อนน่า โรซ่า `
+`ทำไมไม่ลองถามคนที่ได้ร่มมาดูล่ะ" `
+`นั่นคือสิ่งที่ทุกคนคิดมาตั้งแต่แรกแล้ว `
+`ทุกคนต่างก็ฉงนใจว่าทำไมเธอถึงไม่ยอมถามมาเรียซึ่งเป็นคนที่ได้ร่มไปตรงๆ `
+`ทว่า โรซ่ากลับกัดริมฝีปากล่าง `
+`เพราะเธอรู้อยู่แก่ใจแล้วว่า หากถามไป มาเรียจะตอบว่าอย่างไร `
+`"นั่นสินะ! `
+`รูดอล์ฟคุงพูดถูกแล้วล่ะ `
+`มาเรียจัง บอกลุงหน่อยสิ! `
+`ใครเป็นคนให้ยืมร่มเหรอ" `
+`"{f:5:เบียทริเช่}!" `
+`ห้องอาหารตกอยู่ในความเงียบงันชั่วพริบตา ทว่าไม่ช้าก็ถูกขัดจังหวะด้วยเสียงระเบิดหัวเราะ `
+`"ฮะฮะฮะฮะ `
+`งั้นรึ ที่แท้{f:5:เบียทริเช่} แม่มดแห่งพงไพรก็เกิดสงสาร เลยเอาร่มมาให้ยืมสินะ `
+`ช่างเป็นเรื่องที่น่ารักเสียนี่กระไร `
+`โรซ่า ก็ตามนั้นแหละนะ" `
+`"......อึก `
+`............อึ้กกก" `
+`โรซ่าไม่อยากจะเชื่อเลย `
+`...ทั้งที่เธอแค่อยากจะกล่าวขอบคุณเรื่องร่มแท้ๆ ทำไมทุกอย่างถึงได้ดูคลุมเครือจับต้นชนปลายไม่ถูกแบบนี้กันนะ...? `
+`"อู-! `
+`อย่างที่ลุงเคราส์บอกเลย `
+`{f:5:เบียทริเช่}ให้ยืมมาจริงๆ นะ! `
+`อู-อู-!" `
+`"ฮะฮะฮะฮะฮะ... `
+`วิเศษไปเลยไม่ใช่รึ `
+`พวกเราทุกคนควรจะอิจฉาความไร้เดียงสาแบบนี้นะ `
+`ทุกคนคิดว่ายังไงล่ะ `
+`ฮะฮะฮะฮะ..." `
+`เคราส์หัวเราะด้วยสีหน้าที่เยาะเย้ยอย่างเห็นได้ชัด `
+`ทว่ามาเรียกลับดีใจยกใหญ่ ดูท่าจะปักใจเชื่อว่ามีคนยอมเชื่อคำพูดของตนแล้ว `
+`"......มันยังไงกันแน่เนี่ย `
+`แปลว่ามีแม่มดโผล่มาเอาร่มให้ยืมจริงๆ เรอะ" `
+`เจสสิก้าถามผมด้วยเสียงเบา เพื่อไม่ให้ลอยไปเข้าหูมาเรียซึ่งนั่งอยู่ตรงข้ามผม `
+`"ปกติมาเรียเป็นพวกชอบเล่นมุกด้วยเรอะ" `
+`ถ้าได้ยินเรื่องพรรค์นั้นหลุดออกมาจากปากตาแก่นั่น พวกเราก็คงคิดว่าเป็นแค่เรื่องล้อเล่นอีกเรื่องหนึ่ง `
+`......แต่พอเป็นคำพูดของมาเรีย มันกลับยากที่จะปัดให้เป็นเรื่องตลกแบบนั้น ชักจะชวนให้ขนลุกขึ้นมาแล้วสิ... `
+`"ไม่มีทางอ่ะ `
+`ยัยนั่นเป็นคนซื่อแล้วก็จริงจังมาตลอด `
+`เป็นพวกที่เชื่อเรื่องตลกทุกเรื่อง แม้แต่เรื่องโกหกที่คนปกติฟังปุ๊บก็รู้ปั๊บด้วยซ้ำ `
+`ฉันไม่เคยได้ยินยัยนั่นเล่นมุกแม้แต่ครั้งเดียวเลยนะ" `
+`น้าโรซ่าเองก็คงรู้เรื่องนั้นดีกว่าใครเพื่อน `
+`ดูเหมือนว่าสถานการณ์พิลึกกึกกือนี้ จะทำให้เธอสับสนจนไม่รู้ว่าอะไรเป็นอะไรไปแล้ว `
+`"งั้นถ้ามาเรียบอกว่ายืมร่มมาจาก{f:5:เบียทริเช่} ก็แปลว่าเป็น{f:5:เบียทริเช่}จริงๆ งั้นเหรอ" `
+`".........ก็เพราะเป็นมาเรียน่ะสิ ฉันถึงคิดไม่ออกเลยว่ามันจะเป็นคำเปรียบเปรยหรือมุกล้อเล่นยังไง `
+`...รับฟังคำพูดของยัยนั่นตามตรงน่าจะดีที่สุด" `
+`"แล้วมันยังไงกันแน่วะเนี่ย `
+`เธอจะบอกว่าคุณเก็นจิหรือใครสักคนใส่ชุดหรูหราแบบในภาพวาดนั่น แล้วเอาร่มไปให้มาเรียหรือไง" `
+`"...เรื่องนั้นฉันก็ไม่รู้หรอกนะ... `
+`เอาจริงๆ ฉันเองก็อยากรู้เหมือนกันนั่นแหละ" `
+`เจสสิก้ายักไหล่ติดตลก แต่สีหน้ากลับดูขัดกับท่าทางอย่างสิ้นเชิง `
+`เมื่ออาหารเรียกน้ำย่อยถูกนำมาเสิร์ฟและโกดะได้อวดคลังความรู้กว้างขวางของตนแล้ว มื้ออาหารก็เริ่มต้นขึ้น `
+`มีบทสนทนาเรื่อยเปื่อยดังขึ้นประปรายตรงโน้นตรงนี้ ทว่ากลับดูเหินห่างชอบกล และมื้ออาหารก็ดำเนินไปอย่างเงียบงันจนมิอาจมองข้ามเสียงสายฝนที่เล็ดลอดเข้ามาในห้องอาหารได้เลย `
+`คุมาซาวะกับชาน่อนที่กำลังเข็นรถเข็นเสิร์ฟอาหาร สวนทางกับเก็นจิและคาน่อนระหว่างทางไปห้องครัว `
+`"...อ้าว คุณเก็นจินี่เอง ได้เอาร่มไปให้คุณมาเรียยืมหรือเปล่าคะ" `
+`".........ร่มหรือขอรับ `
+`กำลังพูดถึงเรื่องอะไรกันหรือ" `
+`"คือว่า `
+`......ได้ยินมาว่าตอนที่ฝนเริ่มตก คุณมาเรียอยู่ตามลำพังที่สวนกุหลาบน่ะค่ะ `
+`...ดูเหมือนว่าเธอจะยืมร่มมาจากใครบางคนที่นั่น `
+`แต่ไม่มีใครรู้เลยค่ะว่าเป็นใคร" `
+`"ไม่ใช่ผมครับ `
+`เพราะผมคิดว่าคุณมาเรียอยู่ที่เกสต์เฮาส์มาตลอดด้วยซ้ำ `
+`ตอนที่คุณแบทเลอร์ไปพบเข้า เธอก็กางร่มสีขาวอยู่แล้วครับ" `
+`"ต้องขออภัยด้วย แต่กระผมก็ไม่ใช่เช่นกันขอรับ..." `
+`".........ถ้าอย่างนั้น จะเป็นไปได้ไหมคะว่า... `
+`...จะเป็นท่านเจ้าบ้าน?" `
+`ทั้งในห้องอาหารและตรงนี้ ทุกคนต่างบอกเป็นเสียงเดียวกันว่าตนไม่ได้ทำ `
+`...เช่นนั้นก็เหลือเพียงคินโซ แต่ว่า... `
+`"ท่านอาจจะออกมาเดินเล่นตรงระเบียงทางเดินด้วยเหตุผลบางอย่าง... `
+`แล้วบังเอิญเห็นคุณมาเรียอยู่ที่สวนกุหลาบโดยไม่มีแม้แต่ร่มเข้าก็ได้นะคะ..." `
+`"............ท่านเจ้าบ้าน... `
+`ไม่ได้โปรดปรานคุณมาเรียเป็นพิเศษขอรับ" `
+`"ผมก็คิดเช่นนั้นครับ `
+`............ผมนึกภาพไม่ออกเลยว่า ท่านจะยอมลำบากถือร่มเดินลงบันไดมาเพื่อคุณมาเรีย" `
+`"แหม ......ลำบากใจจังเลยนะคะ `
+`ถ้างั้นคนที่เอาร่มให้คุณมาเรียยืม ก็คือท่าน{f:5:เบียทริเช่}จริงๆ หรือนี่ `
+`โฮ่ะโฮ่ะโฮ่ะโฮ่ะ..." `
+`คุมาซาวะหัวเราะ เช่นเดียวกับพวกญาติๆ ในห้องอาหารที่หัวเราะกลบเกลื่อนไป `
+`......เธอเองก็นึกวิธีอื่นที่จะฝ่าม่านหมอกที่บดบังสภาพการณ์ในตอนนี้ไม่ออกแล้วเช่นกัน `
+`ทันใดนั้น เสียงปรบมือสองครั้งอย่างฉะฉานก็ดังก้องไปทั่วทางเดิน `
+`ทุกคนหันขวับไปมองพร้อมกัน และเห็นโกดะกำลังเดินออกมาจากห้องอาหาร `
+`"เอาล่ะ ทุกคนครับ `
+`การเสิร์ฟอาหารมื้อค่ำ จังหวะเวลาในการจัดโต๊ะถือเป็นหัวใจสำคัญนะครับ `
+`กรุณารีบไปจัดเตรียมยกซุปออกมาเดี๋ยวนี้เลยครับผม `
+`คุณเก็นจิครับ พวกผู้หญิงกำลังทำงานสำคัญกันอยู่ เพราะงั้นอย่าไปเกะกะเลยครับผม" `
 `"....................." `
-`Kanon glared at Gohda for being rude to Genji, a person Kanon respected. `
-`Genji, realizing this, patted Kanon once on the shoulder as a warning. `
-`Kanon reluctantly turned away and returned his expression to normal. `
-`"......Obey Gohda's instructions. `
-`Hurry and prepare the dinner table." `
-`"Come now, there's no time. `
-`Don't dawdle! `
-`Hurry...!" `
-`Gohda grabbed the serving cart from Shannon and steadily pushed it towards the kitchen. `
-`"...Then please allow us to return to the kitchen. `
-`...After all, Gohda-san's temper is very short, ...hohohoh." `
-`"P-Please excuse me as well..." `
-`Kumasawa and Shannon left. `
-`Only Genji and Kanon remained. `
-`Through the window, the darkness of the rainy night could be seen, along with the occasional thunderbolt. `
-`"............Genji-sama, `
-`did {f:5:Beatrice}-sama... `
-`...really return?" `
-`".........I don't know." `
-`"...Shall I inform the Master?" `
-`"That is not necessary. `
-`.........If she truly has returned, she will eventually appear before the Master of her own accord. `
-`.........Furthermore, she is a fickle person. `
-`It would be pointless to report to the Master only to find that she does not appear..." `
-`"...............I wonder if this means the Master's ceremony has already begun." `
-`"...Probably. `
-`However, that has nothing to do with furniture like us. `
-`......We must continue to return the favor we received from the Master...until our final moments." `
-`"......Yes. `
-`...That is furniture's... `
-`...duty." `
-`The thunder crashed once more. `
-`Except for those instants when lightning lit up the sky, nothing could be seen out the window but the darkness of night. `
-`Just as humans rule when the sun is up, those that are not human rule when the sun is down. `
-`The darkness of night that now surrounded Rokkenjima was ruled by another Master, not the Ushiromiya family. `
-`Did this Master take pity on Maria when she was alone and being pummeled by the rain in the rose garden, lending her an umbrella...? `
-`Kanon looked at the rose garden's lights, dimly visible beyond the window. `
-`The dim lights weren't enough to illuminate the surrounding area. `
-`Looking at those lights felt like making eye contact with the witch, and Kanon forced himself to avert his gaze. `
-`...If he didn't, it felt like his eyes would be absorbed by that light...... `
-`Can the weather change how people act? `
-`You often hear stories about how things like atmospheric pressure can influence people's moods and physical health. `
-`For some time now, everyone had been struggling to clear the gloomy atmosphere, `
-`but any conversation was quickly cut off, and in the end, the dining hall was simply filled by the sound of the rain. `
-`Dessert was some kind of chocolate cake accompanied by pear sherbet. `
-`Gohda-san enthusiastically explained the recipe as soon as this final dish was presented, but I quickly forgot the details. `
-`The guest of honor, Grandfather, was absent, the weather was horrible, and the identity of the one who'd lent Maria an umbrella remained a mystery. `
-`When dinner ended, no one felt even one bit refreshed. `
-`...It was too late now, but I realized painfully that taste wasn't the only important part of a meal. The whole atmosphere was also critical. `
-`Gohda-san, the supposed conductor of this musical piece called dinner, did his best to enliven the place, `
-`dropping little jokes left and right, but apparently not one of them succeeded. `
-`After taking orders for after-dinner coffee, tea, and orange juice, he left for the kitchen. `
-`As soon as he disappeared, Uncle Krauss spoke. `
-`"......My, my. `
-`What a waste that the dinner Gohda worked so hard to create has met with such a gloomy atmosphere." `
-`".........Yes, absolutely. `
-`It just feels like nothing would taste good today." `
-`"Hoh. `
-`I'd like to know why you feel that way. `
-`Later on, I'll do all I can as your older brother to help cheer you up." `
-`Aunt Eva grimaced slightly. `
-`...I'd already heard she wasn't on good terms with Uncle Krauss, but it was pretty clear now. `
-`When I looked around, I noticed that my father and Aunt Rosa were also grimacing. `
-`Apparently, there was something besides the weather troubling all of them... `
-`"......Both Aunt Eva and my Dad... `
-`aren't looking too happy." `
-`"Really? `
-`I don't think so." `
-`I asked Aunt Natsuhi, who was sitting on my right, ...but she seemed to be in a bad mood as well. `
-`She snapped back as if to say she was absolutely not interested. `
-`"Well, our adult conversation got a little complicated. `
-`It isn't somethin' kids like you need to worry about, Battler-kun. `
-`Hahahahaha, `
-`isn't that right, Natsuhi-san, Kyrie-san?" `
-`Uncle Hideyoshi laughed as he spoke, but without his usual brightness, `
-`so I could vaguely imagine just how complicated their adult conversation had become. `
-`On top of that, even Aunt Natsuhi and Kyrie-san, the people he had directed his comment to, ignored him as though they hadn't heard anything. `
-`...I didn't know what kind of conversation they'd been having while us kids were away, `
-`but it reminded me of how Dad said he had stomach cramps when we arrived at the mansion. `
-`The family conference might've been a playful reunion to us kids, but it was definitely different for the adults... `
-`After Uncle Hideyoshi's comment was ignored by the other adults and an awkward silence fell over the room, Kyrie-san spoke up. `
-`"......We were talking about how the kids' careers would turn out. `
-`Such as what lies in your future, Battler-kun. `
-`Will you just drift on to college? `
-`Wouldn't that be a little disheartening as a starting line for the long race of life?" `
-`"Hey! Wait a sec... `
-`Kyrie-san, if you start talking about something like that in the middle of a meal, it won't digest well and we'll all end up getting constipated." `
-`"Wahahaha...! `
-`That's right, that's right! We were talking about Battler-kun's and Jessica-chan's careers! `
-`You've gotta think seriously about the future! `
-`Wahahaha..." `
-`Hideyoshi heartily agreed as if they really had been talking about that, but that was probably wrong. `
-`Kyrie-san had been obviously trying to change the subject. `
-`However, if Kyrie-san had determined that this was the best course of action for now, then she was probably right. `
-`Taking this into account, I cast aside my suspicions as to the cause behind Aunt Eva and Dad's bad moods... `
-`At long last, the serving cart returned, filled with coffee and tea. `
-`Kumasawa-san and Shannon-chan served it to everyone. `
-`Gohda-san then explained that this concluded tonight's meal. `
-`If only the mood had been a bit more cheery, it might've been the best dinner in my life. `
-`It was a shame this best of dinners couldn't have been had under the best conditions. `
-`"Uu-! `
-`George onii-chan, is dinner over now? `
-`Over?" `
-`"Yes. `
-`With this, dinner is finished." `
-`"Don't be rude. `
-`Stay in your seat, and calmly drink up." `
-`"...Uu-." `
-`Maria looked like she was really excited by the occasionally crashing thunder. `
-`Maybe she wanted to quickly finish eating and run over to the window. `
-`She had been fidgeting for a while, waiting for the meal to end. `
-`......Some people are afraid of thunder, while others find it interesting, and Maria was apparently one of the latter sort. `
-`Therefore, when she heard from George-aniki that dinner was over, a huge smile broke across her face. `
-`She then rose from her seat, took out her handbag—which she'd set under her seat, never having left it even while she was eating—and began fishing around inside of it. `
-`No one seemed particularly concerned by this behavior... `
-`".........What's... `
-`that? `
-`Where did you get it?" `
-`George was the first to notice it. `
-`As he spoke, Battler noticed too. `
-`They saw that Maria was now holding a beautiful, Western-style envelope. `
-`On the front of the envelope, the Ushiromiya family crest—the One-Winged Eagle—was done in gold leaf. `
-`Furthermore, the fact that it was sealed with dark-red wax made it clear that this wasn't something Maria could have brought as a prank. `
-`"......Maria-chan, what is that?" `
-`It seemed that Natsuhi had also noticed the strangeness of the envelope Maria was holding. `
-`Her voice sounded too serious for someone admonishing a small child, so the relatives around us finally noticed too. `
-`"What happened, Natsuhi nee-san?" `
-`".........What... `
-`is that?" `
-`"Maria, `
-`...where did you pick that up...?" `
-`"That envelope has... `
-`Kinzo-san's......" `
-`When Nanjo muttered that, even us kids could understand why everyone seemed to be frozen solid. `
-`The envelope that Maria held was one of the Ushiromiya Family Head's custom-made envelopes for private use. `
-`......In other words, it could only mean one thing. `
-`This envelope contained a message from Kinzo. `
-`"Hoh...... `
-`...What is an envelope like that doing here...?" `
-`"......N-Now that's an interesting thing to come jumping out at us." `
-`"......J-Just let me have a peek...!" `
-`"Uu-!! `
-`No way, I'll read it! `
-`I was told to read it to everyone!!" `
-`Uncle Hideyoshi tried to snatch the envelope out from Maria's hands, but she protected it as though hugging it and didn't let go. `
-`"Hideyoshi-san, you can't use force against a child. `
-`.........Maria-chan, where did you get this envelope?" `
-`"Uu-! `
-`I got it from {f:5:Beatrice} when she gave me the umbrella. `
-`She told me to read it to everyone after the meal was over! `
-`'I'm the witch's <mes- `
-`Me- `
-`Messenger>! `
-`Uu!" `
-`"<Messenger>...? `
-`Ihihihi, the almighty witch of the island sure likes to mess around." `
-`Battler tried to joke about it, but no one laughed. `
-`"...............I-I wonder what's written inside of it. Maria-chan...?" `
-`"Uu-. `
-`Gonna read it! `
-`Uu-!" `
-`Maria casually opened the envelope. `
-`...It was sealed only with wax, so she just had to remove the sealing wax to open it. `
-`...That sealing wax fell onto the desk. `
-`Hideyoshi hastily picked it up and stared fixedly at it. `
-`He then set it in the center of the table, where Natsuhi, Kyrie, and Nanjo stared at it. `
-`Imprinted in the sealing wax...was the One-Winged Eagle, which was the Ushiromiya family crest and also Kinzo's personal crest. `
-`"......This...is the Family Head's personal crest..." `
-`"......I know it from the letters I have received from Kinzo-san before. `
-`Without a doubt, this is his wax seal." `
-`"But aren't there several things in this mansion bearing that crest? `
-`For example, if there was some kind of stamp for wax seals, couldn't someone other than Kinzo-san have used it?" `
-`"No, Kinzo-san would always use a ring on his finger, his Proof of the Ushiromiya Family Headship, when he sealed the wax. `
-`This shape and complex design is definitely Kinzo-san's seal..." `
-`"That is not necessarily so. `
-`Anyone in the family must have received a letter from Father at least once. `
-`We can't eliminate the possibility that someone used that wax as a model to create a fake seal and pass themselves off as Father." `
-`"I agree with Aniki. `
-`No matter how much the seal resembles Dad's, we can't prove that it's the real thing. `
-`So it doesn't prove this envelope came from him." `
-`"I absolutely agree. `
-`I cannot approve of arbitrarily deciding that this letter came from Father...based solely on the wax seal. `
-`Doctor Nanjo, couldn't you use a bit more discretion with your vague words...?!" `
-`"............I apologize... `
-`It was not my place to speak..." `
-`One after another, all of the siblings from Krauss on downwards rejected Nanjo's statement, saying that the envelope Maria held wasn't necessarily from Kinzo. `
-`They were afraid. `
-`They feared from the bottom of their hearts... `
-`that Kinzo's intentions were written in there...and that it might be some announcement regarding the inheritance that would be decidedly unfavorable to them. `
-`"...Maria, `
-`...the person who gave you that envelope was the same person who lent you that umbrella, right...?" `
-`"Uu-!" `
-`"I don't know what "uu-" means! `
-`Is it true?!" `
-`"Uu-... `
-`......Yes. `
-`Uu-." `
-`"So, in other words, `
-`...the witch, `
-`{f:5:Beatrice}, gave Maria-chan that envelope along with the umbrella...?" `
-`"Uu-!" `
-`Maria nodded forcefully. `
-`"...I-I agree with my husband. `
-`It's a dubious letter handed over by some suspicious person. `
-`It isn't even worth reading." `
-`"There's nothing wrong with just reading it, right?" `
-`Battler said it to Jessica in a small voice, trying to act tough, but Natsuhi heard him clearly and glared at him with threatening eyes. `
-`"A-And then, `
-`err, `
-`...{f:5:Beatrice} told you to read it after the meal was over, right, Maria?" `
-`"Uu-!" `
-`".........It's okay, everyone. `
-`This envelope didn't come from Grandfather, but from {f:5:Beatrice}. `
-`Regardless of who actually wrote it, why can't we just hear what's inside before we decide?" `
-`"Th-That's right. `
-`Even if Father didn't necessarily write it, I'd still like to know what's written inside. `
-`......Maria-chan, I'm sorry I tried to take it from you by force earlier! `
-`I apologize, so will you read it aloud in front of everyone?" `
-`"............Maria, `
-`read it." `
-`"Uu-." `
-`As all the relatives stared fiercely at Maria, she spread the letter open with a rustle... `
-`"......Do you think it really did come from Dad?" `
-`"Impossible. `
-`Whenever Father has announced something to us in the past, he would always send Genji if he didn't do it directly, correct? `
-`...I cannot believe that he would use such a joke-like approach." `
-`"That's right. `
-`Maria, a <Messenger>? `
-`That definitely doesn't suit Father's tastes... `
-`Rosa, could this be Maria-chan trying to surprise us by putting on some kind of show...?" `
-`".........M-Maria isn't really a kid who'd be capable of something so thoughtful." `
-`"Gonna read it. `
-`Uu-." `
-`The words came out of Maria's mouth, but for some reason, her voice seemed different than usual. `
-`Everyone went suddenly silent... `
-`"Welcome to Rokkenjima, members of the Ushiromiya family. `
-`I am {f:5:Beatrice}, the alchemist for this family employed by Kinzo-sama himself." `
-`".........Hah, that's crazy...!" `
-`"Quiet!" `
-`"I have served him for many years in accordance with our contract, but on this day, Kinzo-sama has announced the final suspension of that contract. `
-`Therefore, I ask that you acknowledge my resignation from the position of family alchemist from this day forth." `
-`"......How foolish... What nonsense...!" `
-`"I-I can't stand to listen to it...!" `
-`"And now, there is one part of the contract that must be explained to all present. `
-`I, {f:5:Beatrice}, lent Kinzo-sama a vast quantity of gold under certain terms. `
-`One of these terms specifies that all the gold is to be returned to me upon the termination of the contract. `
-`Furthermore, I am to receive everything of the Ushiromiya family as interest." `
-`"R-Ridiculous!!" `
-`"...I-It's been ridiculous from the very beginning..." `
-`"So it's basically one of those things, right? `
-`Doesn't it sound just like one of those contracts with the devil? `
-`The contract has expired, so they've come to collect the interest. `
-`Is she trying to grab some retirement money for her old age or something? `
-`What a cheeky witch." `
-`"Battler-kun, now isn't the time to joke around..." `
-`Battler made a face as if to ask, "If I can't make fun of this, what can I make fun of?" `
-`Some of the adults' faces were pale, while others looked dazed. `
-`"After hearing this, you may feel as though Kinzo-sama has been savagely ruthless. `
-`However, Kinzo-sama did append a special clause to the contract so that you would have a chance to preserve your wealth and honor. `
-`If and only if that special clause is fulfilled, I will lose my rights to the gold and the interest for all eternity." `
-`"......A special clause...?" `
-`"Wh-What is it...?!" `
-`{e:070:Special clause. `
-`{f:5:Beatrice} retains the right to collect the gold and accumulated interest upon the termination of the contract. `
-`However, if someone is able to discover the hidden gold of this contract, `
-`{f:5:Beatrice} must abandon these rights for all time.} `
-`{e:070:......The collection of the interest will proceed shortly, but if any one of you fulfills the terms of this special clause, `
-`I shall return everything, including the portion that has already been collected. `
-`Furthermore, as the first step in this collection of Kinzo-sama's debt, I have taken possession of the Ushiromiya family "Head's Ring", which signifies the passage of the Ushiromiya Family Headship from one individual to another. `
-`I ask that you confirm this for yourselves by examining the imprint on the wax seal.} `
-`".........Are they trying to claim that {i:that's} the meaning behind this seal...?! `
-`That Father would relinquish his ring is unthinkable...!" `
-`Krauss stared at the sealing wax as if trying to burn a hole through it. `
-`Eva and Rudolf were doing the same over his shoulder! `
-`"C-Come to think of it, when we were playing chess, I did have a strange feeling that something was missing from Kinzo-san's finger........." `
-`"Doctor Nanjo! `
-`Don't say something so careless just because of a vague memory!" `
-`"We can't prove its authenticity here. `
-`Only by asking Father directly...can we determine whether he really handed over his ring and whether this letter tells the truth." `
-`"Th-That's right. `
-`It's just as Kyrie-san says..." `
-`".........Do you really think... `
-`...Kinzo-san will tell you...? `
-`After all, that person's thoughts sometimes surpass the bounds of common sense..." `
-`"No matter what happens, it's still nonsense...! `
-`In the first place, the illusion of gold itself is one of Father's tricks. `
-`I've already heard enough talk of that gold from the rest of you!" `
-`"But this is the witch speaking, right? `
-`About how the inheritance and all of the assets will be handed over to the one who finds the gold, right? `
-`So, maybe {f:5:Beatrice}-sama is Father's legal advisor or in charge of his funds..." `
-`"W-We can't possibly trust some strange person who entrusts such a suspicious paper to a child!" `
-`"Aniki, ...we need you to be frank with us. `
-`Is it possible Dad's assets are being managed by someone you don't know?!" `
-`"N-No, that's impossible! `
-`As the Family Head's representative, I control all of Father's assets! `
-`It should be impossible for anyone to do as they please with them without me knowing it!" `
-`"So, this must mean there are some assets you don't control, right, Krauss nii-san?" `
-`"How foolish! Such assets could not possibly exist!" `
-`"...............Oh, but there is such a thing. `
-`An asset of Father's that you don't control." `
-`"There is no way such a thing could exist!!" `
-`"No, it does. `
-`............It's Father's...no, {f:5:Beatrice}'s hidden gold!!" `
-`"Let's keep it simple. `
-`In short, Dad had some trusted confidante that Aniki doesn't even know about. `
-`Furthermore, this person has always been in charge of watching and managing the gold. `
-`Or, it could be some eccentric, rich person who offered him a loan with rules like a devil's contract." `
-`"......Could it be that this confidante called {f:5:Beatrice}...is trying to test which of Kinzo's children is most worthy to be financed by her gold?" `
-`Kyrie's question was one that all the siblings wanted answered. `
-`Upon reflection, they realized that Kinzo's strange epitaph had hung in the hall beneath the witch's portrait for quite some time, `
-`and while it had long been whispered that whoever solved the puzzle would receive everything, ......no one had ever clearly stated it. `
-`It was just something that everyone had hoped might be true. `
-`And right here, right now, the thing they'd hoped for had been clearly stated in {f:5:Beatrice}'s letter! `
-`It clearly specified that everything of the Ushiromiya family would be given to the one who found the gold. `
-`"Kinzo-sama has already publicly displayed the location of the hidden gold within the epitaph under my portrait. `
-`The rules apply equally to all who can read the epitaph. `
-`If you discover the gold, I shall return everything to you. `
-`Tonight, I ask that you enjoy your battle of wits with Kinzo-sama to the fullest. `
-`I sincerely pray that this night will be both intellectual and elegant. `
-`—{f:5:Beatrice} the Golden." `
-`"......Father, I know you can hear me! `
-`Please respond!" `
-`The door to Kinzo's study was being violently, harshly beaten against over and over again like a percussion instrument. `
-`The yells coming from the other side belonged to Krauss, Rudolf, and sometimes Eva. `
-`It was the siblings, who were trying to intrude upon Kinzo's study to question him about the truth behind that mysterious letter. `
-`Kinzo was eating. `
-`An elegant tablecloth was set over the desk, and the fabulous dinner that had adorned the table down in the dining hall was reproduced here. `
-`Kinzo continued his meal in silence. `
-`...Shannon, taking away an empty plate, looked uncomfortably between the door being pounded on and Kinzo's face. `
-`"............Everyone is calling for you, `
-`...but what should I do...?" `
-`"...Leave them. `
-`God and my meals both hold silence as a virtue." `
-`"Should I silence them?" `
-`"There's no need. `
-`It does not even reach my ears." `
-`Kinzo enjoyed his food, apparently indifferent. `
-`Genji quietly lowered his head and took a single step back. `
-`...As he did, Kanon, who stood in reserve like a shadow behind and to the side of Genji, opened his mouth. `
-`".........Maria-sama apparently received a letter from {f:5:Beatrice}-sama, so I imagine they want to test its authenticity." `
-`"...Hahahaha... `
-`.........Has she started already then? `
-`............Come, {f:5:Beatrice}. `
-`I have no shortage of coins to be wagered. `
-`Shall we enjoy this night to the fullest? `
-`......I don't think I'll lose. `
-`Your smile will be mine for all eternity. `
-`If I could see it one more time, I wouldn't regret losing my wealth, my honor, or even my life." `
-`"......Well then, the roulette has begun to spin. `
-`Which pocket will the ball fall into? `
-`Noir? Rouge? `
-`Or house takes all? `
-`Come, you may begin, {f:5:Beatrice}. `
-`I'll show you the power of miracles once more...!" `
+`คาน่อนจ้องโกดะเขม็งที่ทำตัวเสียมารยาทใส่เก็นจิซึ่งตนเคารพ `
+`เก็นจิที่สังเกตเห็นจึงตบบ่าคาน่อนเบาๆ หนึ่งทีเป็นการปราม `
+`คาน่อนจำต้องเบือนหน้าหนีและปรับสีหน้ากลับเป็นปกติ `
+`"......ทำตามคำสั่งของโกดะ `
+`รีบไปเตรียมโต๊ะอาหารค่ำเถอะ" `
+`"เอ้า ไม่มีเวลาแล้วนะขอรับ `
+`อย่ามัวโอ้เอ้! `
+`เร็วเข้า...!" `
+`โกดะแย่งรถเข็นเสิร์ฟอาหารมาจากชาน่อน แล้วเข็นมุ่งหน้าไปยังห้องครัวอย่างกระฉับกระเฉง `
+`"...ถ้างั้น ดิฉันขอตัวกลับไปที่ห้องครัวก่อนนะคะ `
+`...เพราะคุณโกดะน่ะใจร้อนเป็นที่สุดเลย ...โฮ่ะโฮ่ะโฮ่ะ" `
+`"ด-ดิฉันก็ขอตัวด้วยเหมือนกันค่ะ..." `
+`คุมาซาวะกับชาน่อนเดินจากไป `
+`เหลือเพียงเก็นจิกับคาน่อนสองคน `
+`มองผ่านหน้าต่างออกไปเห็นเพียงความมืดมิดของค่ำคืนท่ามกลางสายฝน พร้อมกับฟ้าผ่าที่แลบขึ้นมาเป็นระยะ `
+`"............คุณเก็นจิครับ `
+`ท่าน{f:5:เบียทริเช่}... `
+`...กลับมาแล้วจริงๆ หรือครับ?" `
+`".........ไม่รู้สิ" `
+`"...จะให้ผมไปเรียนท่านเจ้าบ้านไหมครับ?" `
+`"ไม่จำเป็นหรอก `
+`.........หากท่านกลับมาแล้วจริงๆ ในที่สุดก็จะปรากฏตัวต่อหน้าท่านเจ้าบ้านเอง `
+`.........อีกประการหนึ่ง ท่านเป็นคนเอาแน่เอานอนไม่ได้ `
+`หากไปรายงานท่านเจ้าบ้านแล้วท่านกลับไม่ปรากฏตัว ก็คงไร้ความหมาย..." `
+`"...............หรือว่านี่จะหมายความว่า พิธีของท่านเจ้าบ้านได้เริ่มขึ้นแล้ว" `
+`"...คงจะเป็นเช่นนั้น `
+`ทว่า นั่นไม่ใช่เรื่องที่เครื่องเรือนอย่างพวกเราจะต้องใส่ใจ `
+`......พวกเรามีแต่ต้องตอบแทนบุญคุณที่ได้รับมาจากท่านเจ้าบ้าน...จนกระทั่งวาระสุดท้ายเท่านั้น" `
+`"......ครับ `
+`...นั่นคือหน้าที่... `
+`...ของเครื่องเรือน" `
+`เสียงฟ้าร้องกึกก้องขึ้นอีกครั้ง `
+`นอกจากชั่วพริบตาที่สายฟ้าสว่างวาบขึ้นมาบนท้องฟ้า นอกหน้าต่างก็มองไม่เห็นสิ่งใดนอกจากความมืดมิดแห่งราตรี `
+`เช่นเดียวกับที่มนุษย์ครอบครองยามอาทิตย์ส่องแสง สิ่งที่ไม่ใช่มนุษย์ย่อมครอบครองยามอาทิตย์ลับตา `
+`ความมืดมิดแห่งราตรีที่โอบล้อมเกาะร็อกเค็นจิมะอยู่ ณ ตอนนี้ ถูกครอบครองโดยท่านเจ้าบ้านอีกคนหนึ่งที่ไม่ใช่ตระกูลอุชิโรมิยะ `
+`ท่านเจ้าบ้านผู้นี้เวทนามาเรียที่อยู่เพียงลำพังท่ามกลางสายฝนกระหน่ำในสวนกุหลาบ จึงให้ยืมร่มกระนั้นหรือ...? `
+`คาน่อนมองไปยังแสงไฟของสวนกุหลาบที่ส่องสว่างรำไรอยู่นอกหน้าต่าง `
+`แสงสลัวๆ นั้นไม่เพียงพอจะส่องให้รอบบริเวณสว่างขึ้นมาได้เลย `
+`การจ้องมองแสงไฟนั้นให้ความรู้สึกราวกับกำลังสบตากับแม่มด คาน่อนจึงฝืนเบือนสายตาหนี `
+`...เพราะถ้ายืนมองต่อไป รู้สึกราวกับว่าดวงตาจะถูกแสงนั้นดูดกลืนเข้าไป...... `
+`สภาพอากาศสามารถเปลี่ยนพฤติกรรมของคนเราได้หรือเปล่านะ? `
+`มักจะได้ยินเรื่องเล่าบ่อยๆ ว่าสิ่งอย่างความกดอากาศสามารถส่งผลต่ออารมณ์และสุขภาพร่างกายของคนเราได้ `
+`ทุกคนพยายามทำลายบรรยากาศอึมครึมนี้มาได้สักพักแล้ว `
+`แต่บทสนทนาใดๆ ก็ถูกตัดบทลงอย่างรวดเร็ว และในที่สุด ห้องอาหารก็ถูกเติมเต็มด้วยเพียงเสียงสายฝน `
+`ของหวานเป็นเค้กช็อกโกแลตบางอย่างที่เสิร์ฟพร้อมกับเชอร์เบตลูกแพร์ `
+`ทันทีที่จานสุดท้ายนี้ถูกนำมาเสิร์ฟ คุณโกดะก็อธิบายสูตรอาหารอย่างกระตือรือร้น ทว่าผมกลับลืมรายละเอียดไปอย่างรวดเร็ว `
+`บุคคลสำคัญอย่างท่านปู่ไม่ได้มา สภาพอากาศก็เลวร้าย แถมตัวตนของคนที่ให้มาเรียยืมร่มก็ยังคงเป็นปริศนา `
+`เมื่อมื้อค่ำสิ้นสุดลง ไม่มีใครรู้สึกสดชื่นขึ้นแม้แต่น้อย `
+`...แม้จะสายไปแล้ว แต่ผมก็ตระหนักได้อย่างเจ็บปวดว่า รสชาติไม่ใช่องค์ประกอบสำคัญเพียงอย่างเดียวของมื้ออาหาร บรรยากาศโดยรอบก็สำคัญยิ่งยวดไม่แพ้กัน `
+`คุณโกดะซึ่งเปรียบเสมือนวาทยกรของบทเพลงที่เรียกว่ามื้อค่ำนี้ พยายามอย่างเต็มที่เพื่อทำให้บรรยากาศคึกคัก `
+`เขายิงมุกตลกเล็กๆ น้อยๆ ออกมาไม่ขาดสาย แต่ดูเหมือนจะไม่ประสบผลสำเร็จเลยสักมุก `
+`หลังจากรับออร์เดอร์กาแฟ ชา และน้ำส้มหลังอาหารแล้ว เขาก็กลับเข้าไปในครัว `
+`ทันทีที่เขาพ้นสายตาไป ลุงเคราส์ก็เอ่ยขึ้น `
+`"......ให้ตายสิ `
+`ช่างน่าเสียดายที่อาหารค่ำซึ่งโกดะอุตส่าห์ตั้งใจรังสรรค์ขึ้นมา ต้องมาเจอกับบรรยากาศอึมครึมเช่นนี้" `
+`".........นั่นสิคะ จริงแท้แน่นอนเชียว `
+`วันนี้กินอะไรก็รู้สึกไม่อร่อยไปหมดเลยล่ะค่ะ" `
+`"โฮ่ `
+`ฉันอยากรู้จริงว่าทำไมเธอถึงรู้สึกแบบนั้น `
+`ไว้หลังจากนี้ ในฐานะพี่ชาย ฉันจะช่วยทำให้เธอร่าเริงขึ้นสุดความสามารถเลยแล้วกัน" `
+`ป้าเอวาทำหน้าบูดเบี้ยวเล็กน้อย `
+`...ผมเคยได้ยินมาแล้วว่าเธอไม่ค่อยลงรอยกับลุงเคราส์เท่าไหร่ แต่ตอนนี้เห็นได้ชัดเจนทีเดียว `
+`พอมองไปรอบๆ ผมก็สังเกตเห็นว่าพ่อกับน้าโรซ่าก็ทำหน้าบึ้งตึงเหมือนกัน `
+`ดูเหมือนจะมีบางอย่างนอกเหนือจากสภาพอากาศที่ทำให้พวกเขาทุกคนไม่สบอารมณ์... `
+`"......ทั้งป้าเอวา ทั้งพ่อ... `
+`สีหน้าดูไม่ค่อยดีเลยแฮะ" `
+`"อย่างนั้นหรือคะ? `
+`ดิฉันไม่คิดเช่นนั้นหรอกค่ะ" `
+`ผมลองถามป้านัตสึฮิที่นั่งอยู่ทางขวาดู ...แต่ดูเหมือนเธอก็อารมณ์ไม่ดีเหมือนกัน `
+`เธอตอบกลับมาอย่างห้วนสั้นราวกับจะบอกว่าไม่ได้สนใจแม้แต่น้อย `
+`"เอาน่า บทสนทนาของผู้ใหญ่มันซับซ้อนไปหน่อยน่ะ `
+`ไม่ใช่เรื่องที่เด็กๆ อย่างพวกเธอต้องไปกังวลหรอกนะ แบทเลอร์คุง `
+`ฮะฮะฮะฮะฮ่า `
+`จริงไหมล่ะ คุณนัตสึฮิ คุณคิริเอะ?" `
+`ลุงฮิเดโยชิหัวเราะพลางพูด แต่กลับปราศจากความร่าเริงสดใสตามปกติ `
+`ผมจึงพอจะจินตนาการได้ลางๆ ว่าบทสนทนาของผู้ใหญ่นั้นซับซ้อนยุ่งเหยิงขนาดไหน `
+`ยิ่งไปกว่านั้น แม้แต่ป้านัตสึฮิกับคุณคิริเอะที่เขาเอ่ยถาม ก็ยังทำเป็นเมินราวกับไม่ได้ยินอะไรเลย `
+`...ผมไม่รู้หรอกว่าพวกเขาคุยอะไรกันระหว่างที่พวกผมไม่อยู่ `
+`แต่มันทำให้ผมนึกถึงตอนที่พ่อบ่นว่าปวดท้องตอนเรามาถึงคฤหาสน์ขึ้นมาเลย `
+`การประชุมเครือญาติอาจจะเป็นแค่การกลับมารวมตัวกันเล่นสนุกสำหรับพวกเด็กๆ แต่สำหรับพวกผู้ใหญ่แล้ว มันคงต่างออกไปโดยสิ้นเชิง... `
+`หลังจากคำพูดของลุงฮิเดโยชิถูกพวกผู้ใหญ่คนอื่นเมินจนความเงียบอันน่าอึดอัดปกคลุมไปทั่วห้อง คุณคิริเอะก็เปิดปากพูดขึ้น `
+`"......พวกเรากำลังคุยกันเรื่องอนาคตของพวกเด็กๆ อยู่น่ะค่ะ `
+`อย่างเช่น เรื่องในอนาคตของเธอไง แบทเลอร์คุง `
+`จะปล่อยให้ชีวิตล่องลอยเข้ามหาวิทยาลัยไปเฉยๆ งั้นเหรอ? `
+`ถ้าเป็นจุดเริ่มต้นของการวิ่งแข่งบนเส้นทางชีวิตอันยาวไกล มันจะไม่ดูน่าหดหู่ไปหน่อยเหรอจ๊ะ?" `
+`"เฮ้ย! เดี๋ยวสิครับ... `
+`คุณคิริเอะครับ ถ้ามาชวนคุยเรื่องพรรค์นั้นกลางโต๊ะอาหาร เดี๋ยวอาหารก็ไม่ย่อยจนพาลท้องผูกกันหมดหรอกครับ" `
+`"ว่าฮ่าฮ่าฮ่า...! `
+`ใช่แล้ว ใช่แล้ว! พวกเรากำลังคุยเรื่องอนาคตของแบทเลอร์คุงกับเจสสิก้าจังกันอยู่นี่แหละ! `
+`ต้องคิดเรื่องอนาคตให้จริงจังหน่อยนะ! `
+`ว่าฮ่าฮ่าฮ่า..." `
+`ฮิเดโยชิเออออรับคำอย่างกระตือรือร้นราวกับว่าพวกเขาคุยเรื่องนั้นกันอยู่จริงๆ ทว่านั่นคงไม่ใช่หรอก `
+`เห็นได้ชัดว่าคุณคิริเอะแค่พยายามเปลี่ยนเรื่องคุย `
+`แต่ถ้าคุณคิริเอะตัดสินใจว่านี่คือทางเลือกที่ดีที่สุดในตอนนี้ มันก็คงจะถูกต้องแล้วล่ะ `
+`เมื่อคิดได้ดังนั้น ผมจึงปัดความสงสัยเรื่องสาเหตุที่ทำให้ป้าเอวากับพ่ออารมณ์เสียทิ้งไป... `
+`ในที่สุด รถเข็นเสิร์ฟอาหารก็ถูกเข็นกลับมา พร้อมกับกาแฟและชาจนเต็มคัน `
+`คุณคุมาซาวะกับชาน่อนจังช่วยกันเสิร์ฟให้ทุกคน `
+`จากนั้นคุณโกดะก็อธิบายว่านี่คือจุดสิ้นสุดของมื้อค่ำในค่ำคืนนี้ `
+`ถ้าบรรยากาศครึกครื้นกว่านี้สักนิด มันอาจจะเป็นอาหารค่ำที่ดีที่สุดในชีวิตของผมเลยก็ได้ `
+`ช่างน่าเสียดายที่อาหารค่ำอันยอดเยี่ยมที่สุดนี้ ไม่อาจดื่มด่ำได้ภายใต้สภาวะที่ดีที่สุด `
+`"อู-! `
+`พี่จอร์จ มื้อเย็นจบหรือยัง? `
+`จบแล้วเหรอ?" `
+`"ใช่แล้วครับ `
+`เท่านี้มื้อเย็นก็จบลงแล้วล่ะ" `
+`"อย่าเสียมารยาทสิจ๊ะ `
+`นั่งอยู่กับที่ แล้วค่อยๆ ดื่มให้หมดสิ" `
+`"...อู-" `
+`ดูเหมือนมาเรียจะตื่นเต้นกับเสียงฟ้าร้องที่ดังกัมปนาทขึ้นเป็นระยะเหลือเกิน `
+`เธอคงอยากจะรีบกินให้เสร็จแล้ววิ่งไปที่หน้าต่างกระมัง `
+`ถึงได้นั่งกระสับกระส่ายรอให้มื้ออาหารจบลงอยู่นานสองนาน `
+`......คนเรามีทั้งพวกที่กลัวฟ้าร้องและพวกที่เห็นเป็นเรื่องน่าสนใจ และดูเหมือนมาเรียจะเป็นอย่างหลัง `
+`เพราะฉะนั้น พอได้ยินจากพี่จอร์จว่ามื้อเย็นจบแล้ว รอยยิ้มกว้างจึงผุดขึ้นเต็มใบหน้า `
+`จากนั้นเธอก็ลุกขึ้นจากเก้าอี้ หยิบกระเป๋าถือที่วางไว้ใต้ที่นั่งและไม่ยอมปล่อยห่างตัวแม้แต่ตอนกินข้าวขึ้นมา แล้วเริ่มล้วงหาของข้างใน `
+`ไม่มีใครสนใจท่าทีนั้นเป็นพิเศษนัก... `
+`".........นั่น... `
+`อะไรน่ะ? `
+`ไปเอามาจากไหนเหรอ?" `
+`จอร์จเป็นคนแรกที่สังเกตเห็น `
+`พอเขาเอ่ยทัก แบทเลอร์ก็สังเกตเห็นเช่นกัน `
+`พวกเขาเห็นว่าในมือของมาเรียตอนนี้มีซองจดหมายสไตล์ตะวันตกอันงดงามอยู่ `
+`บนด้านหน้าของซองจดหมาย ตราประจำตระกูลอุชิโรมิยะ—นกอินทรีปีกเดียว—ถูกประดับไว้ด้วยทองคำเปลว `
+`ยิ่งไปกว่านั้น การที่มันถูกปิดผนึกด้วยครั่งสีแดงเข้ม ก็ยิ่งแสดงชัดว่านี่ไม่ใช่ของที่มาเรียจะเอามาเล่นแกล้งคนได้เลย `
+`"......มาเรียจัง นั่นอะไรน่ะคะ?" `
+`ดูเหมือนนัตสึฮิก็สังเกตเห็นความผิดปกติของซองจดหมายที่มาเรียถืออยู่เช่นกัน `
+`น้ำเสียงของเธอดูจริงจังเกินกว่าจะเป็นการตักเตือนเด็กเล็กๆ ญาติคนอื่นๆ รอบตัวพวกเราจึงพลอยสังเกตเห็นในที่สุด `
+`"เกิดอะไรขึ้นเหรอครับ พี่นัตสึฮิ?" `
+`".........นั่นมัน... `
+`อะไรกันน่ะ?" `
+`"มาเรีย `
+`...ไปเก็บของแบบนั้นมาจากไหนน่ะ...?" `
+`"ซองจดหมายนั่นมันมี... `
+`ของคุณคินโซ......" `
+`พอหมอนันโจพึมพำเช่นนั้น แม้แต่พวกเราที่เป็นเด็กก็เข้าใจได้ทันทีว่าทำไมทุกคนถึงได้แข็งทื่อไปแบบนั้น `
+`ซองจดหมายที่มาเรียถืออยู่ คือหนึ่งในซองจดหมายส่วนตัวที่สั่งทำขึ้นเป็นพิเศษของประมุขตระกูลอุชิโรมิยะ `
+`......หรือก็คือ มันมีความหมายได้อย่างเดียวเท่านั้น `
+`ภายในซองจดหมายนี้ มีข้อความจากคินโซอยู่ `
+`"โฮ่...... `
+`...ซองจดหมายแบบนั้นมาอยู่ที่นี่ได้ยังไงกัน...?" `
+`"......ม-มีของน่าสนใจโผล่พรวดออกมาซะแล้วสิ" `
+`"......ข-ขอดูหน่อยสิ...!" `
+`"อู-!! `
+`ไม่ให้ มาเรียจะอ่านเอง! `
+`เขาบอกให้มาเรียอ่านให้ทุกคนฟังนะ!!" `
+`ลุงฮิเดโยชิตั้งท่าจะแย่งซองจดหมายไปจากมือมาเรีย แต่เธอกลับกอดมันไว้แน่นแล้วไม่ยอมปล่อย `
+`"คุณฮิเดโยชิคะ ใช้กำลังกับเด็กไม่ได้นะคะ `
+`.........มาเรียจัง ซองจดหมายนี้น่ะ ได้มาจากไหนเหรอจ๊ะ?" `
+`"อู-! `
+`ได้มาจาก{f:5:เบียทริเช่}ตอนที่ให้ร่มมาน่ะ `
+`เธอบอกว่าพอกินข้าวเสร็จ ให้อ่านให้ทุกคนฟัง! `
+`'มาเรียเป็น<ผู้- `
+`ผะ- `
+`ผู้ส่งสาร>ของแม่มดยังไงล่ะ! `
+`อู-!" `
+`"<ผู้ส่งสาร>...? `
+`อิฮิฮิ แม่มดผู้ทรงฤทธิ์ของเกาะนี้ชอบเล่นอะไรแผลงๆ จังแฮะ" `
+`แบทเลอร์พยายามพูดติดตลก แต่ไม่มีใครหัวเราะเลย `
+`"...............ข-ข้างในนั้นเขียนอะไรไว้เหรอจ๊ะ มาเรียจัง...?" `
+`"อู- `
+`จะอ่านล่ะนะ! `
+`อู-!" `
+`มาเรียแกะซองจดหมายอย่างไม่คิดอะไร `
+`...มันปิดผนึกไว้ด้วยครั่งเท่านั้น แค่แกะครั่งประทับตราออกก็เปิดได้แล้ว `
+`...ครั่งประทับตรานั้นตกลงบนโต๊ะ `
+`ฮิเดโยชิรีบหยิบมันขึ้นมาจ้องเขม็ง `
+`จากนั้นเขาก็วางมันลงกลางโต๊ะ โดยมีนัตสึฮิ คิริเอะ และนันโจจ้องมองตาม `
+`รอยประทับบนครั่งนั้น...คือนกอินทรีปีกเดียว ซึ่งเป็นทั้งตราประจำตระกูลอุชิโรมิยะและตราประจำตัวของคินโซ `
+`"......นี่มัน...ตราประจำตัวของท่านประมุขตระกูล..." `
+`"......ผมจำได้จากจดหมายที่เคยได้รับจากคุณคินโซมาก่อนครับ `
+`นี่คือครั่งประทับตราของเขาไม่ผิดแน่" `
+`"แต่ของที่มีตรานั่นในคฤหาสน์หลังนี้ก็มีตั้งหลายอย่างไม่ใช่เหรอคะ? `
+`อย่างเช่นถ้ามีตราปั๊มสำหรับประทับครั่ง คนอื่นนอกจากคุณคินโซก็เอามาใช้ได้ไม่ใช่เหรอ?" `
+`"ไม่หรอกครับ เวลาประทับครั่ง คุณคินโซจะใช้แหวนที่สวมไว้บนนิ้ว ซึ่งเป็นหลักฐานแห่งตำแหน่งประมุขตระกูลอุชิโรมิยะเสมอ `
+`รูปร่างกับลวดลายอันซับซ้อนนี้ เป็นตราประทับของคุณคินโซแน่นอนครับ..." `
+`"ไม่แน่เสมอไปหรอก `
+`คนในตระกูลนี้ทุกคนต้องเคยได้รับจดหมายจากท่านพ่ออย่างน้อยก็ครั้งหนึ่ง `
+`จะตัดความเป็นไปได้ที่ว่า มีใครเอาครั่งนั้นเป็นแบบไปทำตราปลอมขึ้นมาเพื่อแอบอ้างเป็นท่านพ่อออกไปไม่ได้หรอกนะ" `
+`"ฉันเห็นด้วยกับพี่เคราส์ว่ะ `
+`ตราประทับนั่นจะเหมือนของพ่อแค่ไหน แต่ก็พิสูจน์ไม่ได้ว่าเป็นของจริงนี่หว่า `
+`เพราะงั้นมันเลยพิสูจน์ไม่ได้ว่าซองจดหมายนี่มาจากพ่อน่ะสิ" `
+`"ฉันเห็นด้วยอย่างยิ่งเลยล่ะ `
+`จะมาด่วนสรุปเอาเองว่าจดหมายนี้มาจากท่านพ่อ...เพียงเพราะครั่งประทับตราชิ้นเดียว ฉันยอมรับไม่ได้หรอกนะ `
+`คุณหมอนันโจคะ ช่วยระมัดระวังคำพูดคลุมเครือแบบนั้นหน่อยไม่ได้หรือไงคะ?!" `
+`"............ต้องขออภัยด้วยครับ... `
+`ผมพูดแทรกเกินหน้าที่ไปเอง..." `
+`เหล่าพี่น้องตั้งแต่เคราส์ลงไปต่างพากันปฏิเสธคำพูดของนันโจเป็นพัลวัน โดยอ้างว่าซองจดหมายที่มาเรียถืออยู่อาจไม่ได้มาจากคินโซเสมอไป `
+`พวกเขากำลังหวาดกลัว `
+`พวกเขากลัวจากก้นบึ้งของหัวใจ... `
+`ว่าสิ่งที่เขียนอยู่ข้างในนั้นคือเจตนาของคินโซ...และอาจเป็นการประกาศเรื่องมรดกที่เป็นผลเสียต่อพวกเขาอย่างร้ายแรง `
+`"...มาเรีย `
+`...คนที่ให้ซองจดหมายนั้นกับลูก เป็นคนเดียวกับที่ให้ยืมร่มคันนั้นใช่ไหม...?" `
+`"อู-!" `
+`"หม่าม๊าไม่เข้าใจคำว่า "อู-" หรอกนะ! `
+`เรื่องจริงใช่ไหม?!" `
+`"อู-... `
+`......ใช่ `
+`อู-" `
+`"ถ้าอย่างนั้น ก็หมายความว่า `
+`...แม่มด `
+`{f:5:เบียทริเช่}เป็นคนให้ซองจดหมายนั้นกับมาเรียจังพร้อมกับร่มงั้นเหรอ...?" `
+`"อู-!" `
+`มาเรียพยักหน้าอย่างหนักแน่น `
+`"...ด-ดิฉันเห็นด้วยกับสามีค่ะ `
+`จดหมายน่าสงสัยที่คนพิลึกพิลั่นส่งมาแบบนี้ `
+`ไม่มีค่าพอให้เปิดอ่านด้วยซ้ำ" `
+`"แค่อ่านดูเฉยๆ ก็ไม่เห็นจะเสียหายอะไรนี่?" `
+`แบทเลอร์พูดกับเจสสิก้าด้วยเสียงเบาพลางทำเป็นใจดีสู้เสือ แต่นัตสึฮิได้ยินเข้าเต็มสองหูจึงตวัดสายตาดุดันจ้องเขม็งมาที่เขา `
+`"ล-แล้วก็ `
+`เอ่อ `
+`...{f:5:เบียทริเช่}บอกให้อ่านหลังกินข้าวเสร็จใช่ไหมล่ะ มาเรีย?" `
+`"อู-!" `
+`".........ไม่เป็นไรหรอกค่ะทุกคน `
+`ซองนี้ไม่ได้มาจากคุณพ่อ แต่มาจาก{f:5:เบียทริเช่} `
+`ไม่ว่าใครจะเป็นคนเขียนจริงๆ ลองฟังเนื้อหาข้างในดูก่อนค่อยตัดสินใจก็ยังไม่สายไม่ใช่เหรอคะ?" `
+`"ถ-ถูกต้องแล้วล่ะ `
+`ถึงจะไม่ใช่ท่านพ่อเป็นคนเขียนแน่ๆ แต่ฉันก็อยากรู้อยู่ดีว่าข้างในเขียนอะไรไว้ `
+`......มาเรียจัง ลุงขอโทษนะที่เมื่อกี้พยายามจะแย่งมาด้วยกำลังน่ะ! `
+`ลุงขอโทษแล้ว ช่วยอ่านออกเสียงให้ทุกคนฟังหน่อยได้ไหม?" `
+`"............มาเรีย `
+`อ่านสิ" `
+`"อู-" `
+`ท่ามกลางสายตาของเหล่าญาติที่จ้องเขม็งมา มาเรียก็คลี่จดหมายออกจนเกิดเสียงสาก... `
+`"......คิดว่ามาจากพ่อจริงๆ รึเปล่าว่ะ?" `
+`"เป็นไปไม่ได้ `
+`ที่ผ่านมาเวลาท่านพ่อจะประกาศอะไรกับพวกเรา ถ้าไม่มาบอกด้วยตัวเอง ท่านก็ส่งเก็นจิมาเสมอไม่ใช่รึไง? `
+`...ฉันไม่เชื่อหรอกว่าท่านจะใช้วิธีเหมือนเล่นตลกแบบนี้" `
+`"นั่นสิคะ `
+`ให้มาเรียเป็น <ผู้ส่งสาร> เนี่ยนะ? `
+`ไม่เข้ากับรสนิยมของท่านพ่อเอาเสียเลย... `
+`โรซ่า หรือว่ามาเรียจังจะจัดฉากอะไรบางอย่างเพื่อแกล้งเซอร์ไพรส์พวกเรางั้นเหรอ...?" `
+`".........ม-มาเรียไม่ใช่เด็กที่จะคิดอ่านอะไรละเอียดรอบคอบแบบนั้นได้หรอกค่ะ" `
+`"จะอ่านแล้วนะ `
+`อู-" `
+`ถ้อยคำเหล่านั้นเอื้อนเอ่ยออกมาจากปากของมาเรีย ทว่าด้วยเหตุผลกลใดไม่ทราบ น้ำเสียงของเธอกลับฟังดูแปลกไปจากปกติ `
+`ทุกคนพลันเงียบกริบลงในทันที... `
+`"ยินดีต้อนรับสู่เกาะร็อกเค็นจิมะ สมาชิกตระกูลอุชิโรมิยะทุกท่าน `
+`ข้าคือ{f:5:เบียทริเช่} นักเล่นแร่แปรธาตุประจำตระกูลนี้ ซึ่งได้รับการว่าจ้างโดยท่านคินโซด้วยตนเอง" `
+`".........ฮะ บ้าไปแล้ว...!" `
+`"เงียบก่อน!" `
+`"ข้าได้รับใช้ท่านมาเป็นเวลาหลายปีตามพันธสัญญา ทว่าในวันนี้ ท่านคินโซได้ประกาศยุติพันธสัญญานั้นลงในท้ายที่สุด `
+`ดังนั้น ข้าจึงขอให้พวกท่านรับทราบการพ้นจากตำแหน่งนักเล่นแร่แปรธาตุประจำตระกูลของข้าตั้งแต่วันนี้เป็นต้นไป" `
+`"......ไร้สาระสิ้นดี... เพ้อเจ้ออะไรกัน...!" `
+`"ด-ดิฉันทนฟังไม่ได้แล้วค่ะ...!" `
+`"และบัดนี้ มีส่วนหนึ่งของพันธสัญญาที่ต้องชี้แจงให้แก่ทุกท่านที่อยู่ที่นี่ได้รับทราบ `
+`ตัวข้า {f:5:เบียทริเช่} ได้ให้ท่านคินโซยืมทองคำมหาศาลภายใต้เงื่อนไขบางประการ `
+`เงื่อนไขข้อหนึ่งระบุไว้ว่า ทองคำทั้งหมดจะต้องถูกส่งคืนแก่ข้าเมื่อพันธสัญญาสิ้นสุดลง `
+`ยิ่งไปกว่านั้น ข้าจะได้รับทุกสิ่งทุกอย่างของตระกูลอุชิโรมิยะเป็นดอกเบี้ย" `
+`"บ-บ้าไปแล้ว!!" `
+`"...ม-มันบ้าบอมาตั้งแต่แรกแล้วเว้ย..." `
+`"ก็คือเรื่องพรรค์นั้นใช่ไหมล่ะ? `
+`ฟังดูเหมือนพวกสัญญาปีศาจเปี๊ยบเลยไม่ใช่รึไง? `
+`พอหมดสัญญาก็เลยมาทวงดอกเบี้ย `
+`กะจะไถเงินไว้ใช้ตอนแก่หรือไงกันฟะ? `
+`เป็นแม่มดที่หน้าด้านชะมัด" `
+`"แบทเลอร์คุง ตอนนี้ไม่ใช่เวลามาล้อเล่นนะ..." `
+`แบทเลอร์ทำหน้าเหมือนจะบอกว่า "ถ้าไม่ให้ล้อเรื่องนี้ แล้วจะให้ไปล้อเรื่องไหนได้อีกล่ะ?" `
+`ผู้ใหญ่บางคนถึงกับหน้าซีดเผือด ขณะที่บางคนก็ยืนอึ้งตะลึงงัน `
+`"เมื่อได้ฟังเช่นนี้ พวกท่านอาจจะรู้สึกว่าท่านคินโซช่างใจร้ายใจดำอย่างป่าเถื่อน `
+`ทว่า ท่านคินโซได้แนบเงื่อนไขพิเศษไว้ในพันธสัญญา เพื่อให้พวกท่านยังมีโอกาสรักษาทรัพย์สมบัติและเกียรติยศเอาไว้ได้ `
+`ก็ต่อเมื่อเงื่อนไขพิเศษนั้นสัมฤทธิผลเท่านั้น ข้าจึงจะสูญเสียสิทธิ์ในทองคำและดอกเบี้ยไปชั่วกัปชั่วกัลป์" `
+`"......เงื่อนไขพิเศษ...งั้นเหรอ?" `
+`"ม-มันคืออะไรกัน...?!" `
+`{e:070:เงื่อนไขพิเศษ `
+`{f:5:เบียทริเช่} ยังคงมีสิทธิ์ในการเรียกเก็บทองคำและดอกเบี้ยสะสมเมื่อพันธสัญญาสิ้นสุดลง `
+`ทว่า หากมีผู้ใดสามารถค้นพบทองคำลับแห่งพันธสัญญานี้ได้ `
+`{f:5:เบียทริเช่} จะต้องสละสิทธิ์เหล่านี้ไปตลอดกาล} `
+`{e:070:......การเรียกเก็บดอกเบี้ยจะเริ่มขึ้นในไม่ช้า แต่หากมีผู้ใดในหมู่พวกท่านทำตามเงื่อนไขพิเศษนี้ได้สำเร็จ `
+`ข้าจะคืนทุกสิ่งทุกอย่าง รวมถึงส่วนที่ได้เรียกเก็บไปแล้วด้วย `
+`นอกจากนี้ ในฐานะขั้นตอนแรกของการทวงหนี้ของท่านคินโซ ข้าได้ครอบครอง "แหวนประมุข" ของตระกูลอุชิโรมิยะ ซึ่งเป็นสิ่งบ่งบอกถึงการสืบทอดตำแหน่งประมุขตระกูลอุชิโรมิยะจากบุคคลหนึ่งสู่อีกบุคคลหนึ่งแล้ว `
+`ขอให้พวกท่านตรวจสอบด้วยตาตนเองจากรอยประทับบนครั่งนี้เถิด} `
+`".........จะบอกว่าตราประทับนี้น่ะ {i:มีความหมายแบบนั้น}งั้นเรอะ...?! `
+`การที่ท่านพ่อจะยอมสละแหวนของตัวเองน่ะ มันเป็นเรื่องที่คิดไม่ถึงเลยสักนิด...!" `
+`เคราส์จ้องครั่งประทับราวกับจะแผดเผาให้เป็นรู `
+`เอวากับรูดอล์ฟก็ชะโงกข้ามไหล่เขามาทำแบบเดียวกัน! `
+`"พ-พอนึกดูแล้ว ตอนที่เล่นหมากรุกกัน ผมก็รู้สึกแปลกๆ เหมือนมีบางอย่างหายไปจากนิ้วของคุณคินโซอยู่เหมือนกันนะครับ........." `
+`"หมอนันโจคะ! `
+`อย่าพูดอะไรสะเพร่าเพียงเพราะความทรงจำเลือนรางแบบนั้นสิคะ!" `
+`"พวกเราพิสูจน์ความจริงตรงนี้ไม่ได้หรอกค่ะ `
+`มีแต่ต้องไปถามคุณพ่อโดยตรงเท่านั้น...ถึงจะรู้ได้ว่าท่านมอบแหวนให้ไปจริงๆ หรือไม่ และจดหมายฉบับนี้พูดความจริงหรือเปล่า" `
+`"จ-จริงด้วยสิคะ `
+`เป็นอย่างที่คุณคิริเอะว่าจริงๆ..." `
+`".........คิดจริงๆ หรือครับ... `
+`...ว่าคุณคินโซจะยอมบอกน่ะ...? `
+`ก็ความคิดของคนคนนั้น บางทีก็เกินขอบเขตของสามัญสำนึกไปไกลนี่ครับ..." `
+`"ไม่ว่าจะเกิดอะไรขึ้น มันก็ยังเป็นเรื่องไร้สาระอยู่ดี...! `
+`ตั้งแต่แรกแล้ว ภาพลวงตาเรื่องทองคำนั่นก็เป็นแค่กลลวงของท่านพ่อ `
+`ฉันฟังเรื่องทองคำจากพวกเธอมามากพอแล้วนะ!" `
+`"แต่นี่แม่มดเป็นคนพูดไม่ใช่เหรอคะ? `
+`ที่บอกว่ามรดกและทรัพย์สินทั้งหมดจะถูกยกให้คนที่หาทองคำเจอน่ะค่ะ? `
+`ถ้าอย่างนั้น ท่าน{f:5:เบียทริเช่}อาจจะเป็นที่ปรึกษากฎหมายหรือคนดูแลกองทุนของท่านพ่อก็ได้นี่คะ..." `
+`"พ-พวกเราจะไปเชื่อคนแปลกหน้าที่ฝากกระดาษน่าสงสัยพรรค์นี้ไว้กับเด็กได้ยังไงกันคะ!" `
+`"พี่เคราส์... พวกเราอยากให้พี่พูดตรงๆ ว่ะ `
+`เป็นไปได้ไหมว่าทรัพย์สินของพ่อกำลังถูกจัดการโดยคนที่พี่ไม่รู้จักน่ะ?!" `
+`"ม-ไม่มีทาง เป็นไปไม่ได้หรอก! `
+`ในฐานะตัวแทนของประมุขตระกูล ฉันเป็นคนควบคุมทรัพย์สินทั้งหมดของท่านพ่อนะ! `
+`ไม่มีทางที่ใครจะเอาไปทำตามใจชอบโดยที่ฉันไม่รู้เรื่องได้หรอก!" `
+`"ถ้าอย่างนั้น ก็แสดงว่าต้องมีทรัพย์สินบางส่วนที่พี่ไม่ได้เป็นคนควบคุมอยู่ใช่ไหมคะ พี่เคราส์?" `
+`"งี่เง่าสิ้นดี! ทรัพย์สินพรรค์นั้นมันจะมีอยู่ได้ยังไงกัน!" `
+`"...............แหม แต่ของแบบนั้นมีอยู่จริงนี่คะ `
+`ทรัพย์สินของท่านพ่อที่พี่ไม่ได้เป็นคนควบคุมน่ะ" `
+`"ของแบบนั้นไม่มีทางมีอยู่จริงหรอกค่ะ!!" `
+`"เปล่าหรอก มีอยู่จริงๆ `
+`............ทองคำลับของท่านพ่อ...ไม่สิ ของ{f:5:เบียทริเช่}ไงล่ะ!!" `
+`"มองให้ง่ายเข้าไว้ดีกว่า `
+`สรุปก็คือ พ่อมีคนสนิทที่ไว้ใจได้ซึ่งแม้แต่พี่เคราส์ก็ยังไม่รู้เรื่อง `
+`แถมคนคนนี้ก็คอยเฝ้าและจัดการเรื่องทองคำมาโดยตลอด `
+`หรือไม่อย่างนั้น ก็อาจจะเป็นคนรวยนิสัยพิลึกที่เสนอเงินกู้ให้พร้อมกฎเกณฑ์อย่างกับสัญญาปีศาจ" `
+`"......หรือว่าคนสนิทที่ชื่อ{f:5:เบียทริเช่}คนนี้...กำลังพยายามจะทดสอบว่าลูกๆ คนไหนของคินโซเหมาะสมที่สุดที่จะได้รับการสนับสนุนด้วยทองคำของเธอกันแน่นะคะ?" `
+`คำถามของคิริเอะเป็นสิ่งที่พี่น้องทุกคนต่างก็ต้องการคำตอบ `
+`เมื่อลองคิดดูแล้ว พวกเขาก็ตระหนักได้ว่าจารึกประหลาดของคินโซนั้นแขวนอยู่ใต้ภาพเหมือนของแม่มดในห้องโถงมานานพอควรแล้ว `
+`และแม้จะมีเสียงกระซิบกระซาบกันมานานว่าใครก็ตามที่ไขปริศนาได้จะได้รับทุกสิ่งไป ......แต่ก็ไม่เคยมีใครระบุไว้อย่างชัดเจนเลยสักคน `
+`มันเป็นเพียงสิ่งที่ทุกคนต่างแอบหวังว่าอาจจะเป็นจริงเท่านั้น `
+`และ ณ ที่ตรงนี้ ในเวลานี้ สิ่งที่พวกเขาหวังไว้ก็ได้ถูกระบุไว้อย่างชัดเจนในจดหมายของ{f:5:เบียทริเช่}! `
+`มันระบุไว้อย่างชัดแจ้งว่า ทุกสิ่งทุกอย่างของตระกูลอุชิโรมิยะจะตกเป็นของผู้ที่ค้นพบทองคำ `
+`"ท่านคินโซได้เปิดเผยตำแหน่งของทองคำลับไว้ในจารึกใต้ภาพเหมือนของข้าต่อหน้าธารกำนัลแล้ว `
+`กฎเกณฑ์นั้นมีผลเท่าเทียมกันต่อทุกคนที่สามารถอ่านจารึกได้ `
+`หากพวกเจ้าค้นพบทองคำ ข้าจะคืนทุกสิ่งทุกอย่างให้แก่พวกเจ้า `
+`ค่ำคืนนี้ ขอให้พวกเจ้าเพลิดเพลินกับการประลองปัญญากับท่านคินโซให้เต็มที่ `
+`ข้าขอภาวนาจากใจจริงให้ค่ำคืนนี้เปี่ยมด้วยสติปัญญาและความสง่างาม `
+`—{f:5:เบียทริเช่}สีทองคำ" `
+`"......ท่านพ่อ ผมรู้ว่าท่านได้ยิน! `
+`ช่วยตอบด้วยครับ!" `
+`ประตูห้องทำงานของคินโซถูกทุบตีอย่างรุนแรงและเกรี้ยวกราดซ้ำแล้วซ้ำเล่าราวกับเครื่องดนตรีเคาะจังหวะ `
+`เสียงตะโกนที่ดังมาจากอีกฟากหนึ่งเป็นของเคราส์ รูดอล์ฟ และบางครั้งก็เป็นเอวา `
+`เหล่าพี่น้องพยายามบุกรุกเข้าไปในห้องทำงานของคินโซเพื่อเค้นถามความจริงเบื้องหลังจดหมายปริศนาฉบับนั้น `
+`คินโซกำลังรับประทานอาหารอยู่ `
+`ผ้าปูโต๊ะอันหรูหราถูกปูลงบนโต๊ะทำงาน และอาหารค่ำเลิศรสที่เคยประดับอยู่บนโต๊ะในห้องอาหารด้านล่างก็ถูกนำมาจัดวางไว้ที่นี่อีกครั้ง `
+`คินโซยังคงรับประทานอาหารต่อไปเงียบๆ `
+`...ชาน่อนซึ่งกำลังยกจานเปล่าออกไป มองสลับระหว่างประตูที่ถูกทุบกับใบหน้าของคินโซอย่างกระอักกระอ่วน `
+`"............ทุกคนกำลังเรียกหาท่านอยู่ `
+`...แต่ดิฉันควรทำอย่างไรดีคะ...?" `
+`"...ปล่อยพวกมันไป `
+`ทั้งพระเจ้าและมื้ออาหารของข้า ต่างถือว่าความเงียบสงบคือคุณธรรม" `
+`"จะให้กระผมไปทำให้เงียบลงหรือไม่ขอรับ" `
+`"ไม่จำเป็น `
+`มันไม่ได้เข้าหูข้าแม้แต่น้อย" `
+`คินโซเพลิดเพลินกับอาหารของตนต่อไปโดยไม่แยแสสิ่งใด `
+`เก็นจิก้มศีรษะลงอย่างเงียบเชียบแล้วถอยหลังไปก้าวหนึ่ง `
+`...ในตอนนั้นเอง คาน่อนที่ยืนรออยู่เยื้องไปทางด้านหลังของเก็นจิดั่งเงาร่าง ก็เอ่ยปากขึ้น `
+`".........ดูเหมือนคุณมาเรียจะได้รับจดหมายจากท่าน{f:5:เบียทริเช่}มา ผมคิดว่าพวกเขาคงอยากจะมาพิสูจน์ว่าเป็นของจริงหรือไม่ครับ" `
+`"...ฮ่าๆๆๆ... `
+`.........นางเริ่มลงมือแล้วงั้นรึ? `
+`............มาสิ {f:5:เบียทริเช่} `
+`ข้ามีเหรียญที่จะใช้วางเดิมพันอย่างเหลือเฟือ `
+`เรามาเพลิดเพลินกับค่ำคืนนี้ให้เต็มที่กันเถิด? `
+`......ข้าไม่คิดว่าข้าจะแพ้หรอก `
+`รอยยิ้มของเจ้าจะต้องเป็นของข้าชั่วกัลปาวสาน `
+`หากข้าได้เห็นมันอีกสักครา ต่อให้ต้องสูญเสียทรัพย์สมบัติ เกียรติยศ หรือแม้กระทั่งชีวิต ข้าก็ไม่นึกเสียดายเลยสักนิด" `
+`"......เอาละ รูเล็ตต์เริ่มหมุนแล้ว `
+`ลูกเหล็กจะตกลงไปในช่องใดกันเล่า? `
+`ดำ? แดง? `
+`หรือว่าเจ้ามือจะกวาดเรียบ? `
+`มาสิ เจ้าเริ่มได้เลย {f:5:เบียทริเช่} `
+`ข้าจะแสดงให้เจ้าได้เห็นถึงพลังแห่งปาฏิหาริย์อีกครา...!" `
