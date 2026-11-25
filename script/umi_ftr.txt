@@ -4046,7 +4046,7 @@ return
 
 		border_pad_pop
 		
-		lsp r_info_lsp,$ts_session,35,840
+		lsp r_info_lsp,$ts_session,35,780
 		return
 
 		;%r_display values:
